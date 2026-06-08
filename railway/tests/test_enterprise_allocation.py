@@ -98,3 +98,79 @@ def test_frontier_budget_utilized_within_declared_budget():
     for _, r in fr.iterrows():
         if r["Budget_Label"] != "Unlimited":
             assert r["Budget_Utilized"] <= float(r["Budget_Rupees"]) + 1e-6
+
+
+# ---------------------------------------------------------------------------
+# STEP35-OPT Cluster 2: enterprise_allocation orchestration module
+# ---------------------------------------------------------------------------
+from railway.governance import enterprise_allocation as ea
+from railway.governance import division_summary as ds  # (used in a later cluster; import-safe)
+
+
+def test_build_risk_reduction_frontier_from_live_outputs():
+    fr = ea.build_risk_reduction_frontier(write=False)
+    assert not fr.empty
+    assert fr["Risk_Reduction_Pct"].iloc[-1] >= fr["Risk_Reduction_Pct"].iloc[0]
+    assert fr["Budget_Label"].iloc[-1] == "Unlimited"
+
+
+def test_budget_efficiency_knee_within_range():
+    eff = ea.build_budget_efficiency_analysis(write=False)
+    assert {"Budget_Label", "Risk_Reduction_Pct", "Marginal_SRRS_Per_Rupee",
+            "Is_Knee_Point", "Is_Diminishing_Returns", "Region"}.issubset(eff.columns)
+    assert int(eff["Is_Knee_Point"].sum()) == 1
+    knee_idx = eff.index[eff["Is_Knee_Point"]].tolist()[0]
+    assert knee_idx not in (0, len(eff[eff["Budget_Label"] != "Unlimited"]) - 1)
+
+
+def test_build_enterprise_budget_allocation_has_headline_and_sweep():
+    alloc = ea.build_enterprise_budget_allocation(write=False)
+    assert "Budget_Label" in alloc.columns and "Division" in alloc.columns
+    assert "Rs 100 Cr" in set(alloc["Budget_Label"])
+    fin = alloc[alloc["Budget_Label"] != "Unlimited"]
+    for lbl, grp in fin.groupby("Budget_Label"):
+        cap = dict(cfg.FRONTIER_BUDGETS)[lbl]
+        assert grp["Allocated_Budget"].sum() <= cap + 1.0
+
+
+def test_allocation_readiness_classifies_divisions():
+    rd = ea.build_enterprise_allocation_readiness(write=False)
+    assert {"Division", "Status", "Procurement_Required_PLs", "Total_SRRS",
+            "Total_Investment_Required", "Reason"}.issubset(rd.columns)
+    assert sorted(rd["Division"]) == sorted(ea.live_divisions())
+    assert set(rd["Status"]) <= {"REPORTABLE", "DATA_UNAVAILABLE"}
+    for _, r in rd.iterrows():
+        if r["Procurement_Required_PLs"] > 0:
+            assert r["Status"] == "REPORTABLE"
+        else:
+            assert r["Status"] == "DATA_UNAVAILABLE"
+
+
+def test_build_procurement_roadmap_from_live_outputs():
+    rm = ea.build_procurement_roadmap(write=False)
+    assert list(rm["Year"]) == cfg.ROADMAP_YEARS
+    assert rm["Remaining_Exposure"].iloc[-1] <= rm["Remaining_Exposure"].iloc[0] + 1e-6
+
+
+def test_executive_budget_scenarios_columns_and_levels():
+    sc = ea.build_executive_budget_scenarios(write=False)
+    assert list(sc["Scenario"]) == ["Rs 25 Cr", "Rs 50 Cr", "Rs 100 Cr", "Rs 200 Cr", "Unlimited"]
+    for col in ["Scenario", "PLs_Funded", "SRRS_Removed", "SRRS_Remaining",
+                "Risk_Reduction_Pct", "S1_Funded", "S2_Funded", "S3_Funded", "S4_Funded",
+                "Capital_Utilized", "Capital_Efficiency"]:
+        assert col in sc.columns
+
+
+def test_baseline_validation_documents_unchanged_optimizer():
+    bv = ea.build_optimization_baseline_validation(write=False)
+    assert {"Aspect", "Value", "Status"}.issubset(bv.columns)
+    aspects = set(bv["Aspect"])
+    assert {"Decision_Variables", "Objective_Function", "Budget_Constraint",
+            "Affordability_Filter", "Safety_Reserve", "Explainability_Outputs"} <= aspects
+    assert (bv["Status"] == "UNCHANGED").all()
+
+
+def test_master_run_writes_all_outputs():
+    summary = ea.run(write=False)
+    assert {"baseline", "frontier", "efficiency", "allocation", "readiness",
+            "roadmap", "scenarios"} <= set(summary)
