@@ -21,6 +21,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install pytest
+          # railway/ runtime imports openpyxl at module level (railway_data_preparation.py);
+          # it lives in pyproject's [notebooks] extra, so requirements.txt alone omits it.
+          # Install it to match the local validation environment.
+          pip install openpyxl==3.1.5
       - name: Manifest integrity (EOL/content guard)
         run: python -c "import sys; sys.path.insert(0,'railway/tests/regression'); import manifest_tools as m; m.check()"
       - name: Regression suite (537 pinned outputs)
