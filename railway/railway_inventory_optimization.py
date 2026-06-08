@@ -26,6 +26,8 @@ Output: railway/outputs/railway_inventory_policy.csv (+ matrix + procurement pla
 
 from __future__ import annotations
 
+import math
+
 import numpy as np
 import pandas as pd
 from scipy import stats
@@ -380,7 +382,6 @@ def solve_budget_frontier(opt: pd.DataFrame, budgets=None, write: bool = True):
     """For each budget level solve the existing Safety-Reserve knapsack and report
     funded PLs, SRRS mitigated/remaining, risk-reduction %, capital used and the
     marginal SRRS per rupee vs the previous level. Returns a DataFrame."""
-    import math
     if budgets is None:
         budgets = cfg.FRONTIER_BUDGETS
     cand = opt[opt["Inventory_Status"] == "Procurement Required"].copy().reset_index(drop=True)
@@ -439,7 +440,6 @@ def enterprise_capital_allocation(division_frames: dict, budget: float,
     pool = pd.concat(pooled, ignore_index=True)
     total_by_div = pool.groupby("Division")["Service_Risk_Reduction_Score"].sum()
 
-    import math
     eff = budget
     if math.isinf(budget):                       # never feed inf to PuLP
         eff = float(pool["Inventory_Investment_Required"].sum()) + 1.0

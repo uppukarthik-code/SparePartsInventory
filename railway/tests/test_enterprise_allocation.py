@@ -84,3 +84,17 @@ def test_roadmap_three_years_cumulative_nondecreasing():
     for col in ["Year", "Items_Funded", "Capital_Required",
                 "Cumulative_Risk_Reduction_Pct", "Remaining_Exposure"]:
         assert col in rm.columns
+
+
+def test_enterprise_allocation_empty_input_returns_schema():
+    alloc = opt.enterprise_capital_allocation({}, budget=1_00_00_000.0, write=False)
+    assert alloc.empty
+    assert list(alloc.columns) == ["Division", "Allocated_Budget", "PLs_Funded",
+                                   "SRRS_Mitigated", "Risk_Reduction_Pct", "Capital_Efficiency"]
+
+
+def test_frontier_budget_utilized_within_declared_budget():
+    fr = opt.solve_budget_frontier(_toy_opt(), budgets=cfg.FRONTIER_BUDGETS, write=False)
+    for _, r in fr.iterrows():
+        if r["Budget_Label"] != "Unlimited":
+            assert r["Budget_Utilized"] <= float(r["Budget_Rupees"]) + 1e-6
