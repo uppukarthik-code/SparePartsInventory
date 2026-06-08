@@ -24,11 +24,11 @@ jobs:
       - name: Manifest integrity (EOL/content guard)
         run: python -c "import sys; sys.path.insert(0,'railway/tests/regression'); import manifest_tools as m; m.check()"
       - name: Regression suite (537 pinned outputs)
-        run: pytest railway/tests/regression/ -q
+        run: python -m pytest railway/tests/regression/ -q
       - name: Formula-invariant tests (SS / ROP / SRRS)
-        run: pytest railway/tests/inventory/ -q
+        run: python -m pytest railway/tests/inventory/ -q
       - name: Reporting validation (single KPI source of truth)
         run: |
           python -c "import railway.railway_executive_summary as es, railway.railway_management_reports as mr; from railway.governance import division_summary as ds; assert es.kpis()==mr.modern_kpis()==ds.compute_kpis(); print('reporting consistent: SoT == executive == management')"
       - name: Full test suite (fixtures + governance)
-        run: pytest railway/tests -q
+        run: python -m pytest railway/tests -q
