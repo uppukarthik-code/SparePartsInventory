@@ -1,0 +1,8 @@
+fixture,test_file,repair_type,before,after,verified_correct_by
+test_depot_routing_mechanism,test_business_unit_runner.py,expectation_update,TPJ,PGT,"config line 74 STEP19 comment"
+test_mas_operational_rows,test_business_unit_runner.py,invariant_replacement,==907,==len(canonical page4),"MAS run reproduces canonical"
+test_mas_enterprise_rollup_registry,test_business_unit_runner.py,invariant_replacement,==959,non-empty + has PL_Code,"registry populated invariant"
+test_dataless_bu_skeleton,test_business_unit_runner.py,target_repoint,TPJ,STTC_PTJ,"TPJ onboarded; STTC_PTJ data-less"
+test_row_counts_unchanged[page4],test_production_hardening.py,count_update,907,15913,"current committed canonical (manifest-pinned)"
+test_row_counts_unchanged[page5],test_production_hardening.py,count_update,959,5351,"current committed canonical (manifest-pinned)"
+test_schema_validation_passes,test_production_hardening.py,rule_scope_fix,PL_Code unique on operational,removed (operational depot/line-level),"PL+Depot non-unique; uniqueness kept on master/policy"
