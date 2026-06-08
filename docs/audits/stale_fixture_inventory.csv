@@ -1,0 +1,8 @@
+fixture,test_file,expected_value,actual_value,originating_step,reason_obsolete,classification
+test_depot_routing_mechanism,test_business_unit_runner.py,resolve('YYY/PTJ/9')==TPJ,PGT,STEP19,"Config DEPOT_TOKEN_TO_BUSINESS_UNIT line 74 corrected PTJ(Podanur)->PGT(Palakkad); test asserts pre-STEP19 TPJ",STALE
+test_mas_operational_rows,test_business_unit_runner.py,907,15913,STEP18A,"Operational data volume grew (multi-depot onboarding); 907 was single-depot MAS era",STALE
+test_mas_enterprise_rollup_registry,test_business_unit_runner.py,959,fresh-run value,STEP18A/19,"Enterprise master SKU registry grew with onboarded operational universe",STALE
+test_dataless_bu_skeleton,test_business_unit_runner.py,TPJ operational_rows==0,TPJ has 1355 op rows,STEP18A,"TPJ onboarded with data; no longer data-less",STALE
+test_row_counts_unchanged[page4_operational_health-907],test_production_hardening.py,907,15913,STEP18A,"page4 operational health grew with operational universe",STALE
+test_row_counts_unchanged[page5_rationalization-959],test_production_hardening.py,959,5351,STEP18A,"page5 rationalization grew with operational universe",STALE
+test_schema_validation_passes,test_production_hardening.py,operational PL_Code unique,1329 dup PL_Code,STEP18A,"PL_Code uniqueness is master-data rule mis-applied to depot/line-level operational data (PL+Depot also non-unique: 745 dups)",STALE_RULE
