@@ -1,0 +1,15 @@
+Test_File,Collected,Passed,Failed,Skipped,Failure_Class,Notes
+railway/tests/inventory/test_formula_invariants.py,3,3,0,0,NONE,SS/ROP/SRRS formula invariants all pass — analytics intact
+railway/tests/regression/test_golden_outputs.py,538,1,537,0,LINE_ENDING,"537 parametrized hash checks fail: committed CSVs are LF, manifest pinned CRLF hashes; content identical (LF->CRLF reproduces manifest). test_no_unexpected_new_outputs passes."
+railway/tests/test_anylogistix_exports.py,13,13,0,0,NONE,
+railway/tests/test_business_unit_runner.py,9,5,4,0,STALE_FIXTURE,"4 fail: test_depot_routing_mechanism (STEP19 corrected PTJ->PGT; test expects old TPJ), test_mas_operational_rows (907 vs 15913), test_mas_enterprise_rollup_registry (959 vs fresh), test_dataless_bu_skeleton (TPJ now onboarded w/ data). KPI + strategic-row tests PASS -> analytics unchanged."
+railway/tests/test_classification.py,5,5,0,0,NONE,
+railway/tests/test_data_preparation.py,3,3,0,0,NONE,
+railway/tests/test_enterprise_allocation.py,15,15,0,0,NONE,STEP35-OPT enterprise optimization tests
+railway/tests/test_forecasting.py,6,6,0,0,NONE,
+railway/tests/test_inventory_optimization.py,5,5,0,0,NONE,
+railway/tests/test_operational_analysis.py,5,5,0,0,NONE,
+railway/tests/test_powerbi_exports.py,15,15,0,0,NONE,
+railway/tests/test_production_hardening.py,28,24,3,1,STALE_FIXTURE+STALE_SCHEMA,"3 fail: test_row_counts_unchanged[page4_operational_health-907] (actual 15913), test_row_counts_unchanged[page5_rationalization-959] (actual 5351), test_schema_validation_passes (operational PL_Code uniqueness rule mis-applied to depot-level data: 1329 legit cross-depot duplicates). 1 skip: test_golden_manifest_if_present (no STEP17 baseline). Strategic counts (59), SRRS identity, ranking, totals PASS."
+railway/tests/test_rationalization.py,3,3,0,0,NONE,
+TOTAL,648,103,544,1,,
