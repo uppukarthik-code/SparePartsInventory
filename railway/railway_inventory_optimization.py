@@ -469,6 +469,50 @@ def enterprise_capital_allocation(division_frames: dict, budget: float,
 
 
 # ----------------------------------------------------------------------
+# STEP35-OPT (Phase E): multi-year procurement roadmap. Each year runs the
+# EXISTING Safety-Reserve knapsack on the still-unfunded procurement-required
+# items under that year's budget; unfunded items carry to the next year.
+# ----------------------------------------------------------------------
+def procurement_roadmap(opt: pd.DataFrame, annual_budget=None, years=None,
+                        write: bool = True):
+    """annual_budget None => total procurement requirement / len(years) (equal thirds)."""
+    if years is None:
+        years = cfg.ROADMAP_YEARS
+    cand = opt[opt["Inventory_Status"] == "Procurement Required"].copy().reset_index(drop=True)
+    total_srrs = float(cand["Service_Risk_Reduction_Score"].sum())
+    total_req = float(cand["Inventory_Investment_Required"].sum())
+    if annual_budget is None:
+        annual_budget = total_req / len(years) if years else 0.0
+
+    remaining = cand.copy()
+    cum_srrs = 0.0
+    cum_cap = 0.0
+    rows = []
+    for yr in years:
+        rem = remaining.reset_index(drop=True)
+        sel = sorted(allocate_with_reserve(
+            rem, annual_budget, "Service_Risk_Reduction_Score", "Inventory_Investment_Required"))
+        funded = rem.loc[sel]
+        cap = float(funded["Inventory_Investment_Required"].sum())
+        cum_cap += cap
+        cum_srrs += float(funded["Service_Risk_Reduction_Score"].sum())
+        rows.append({
+            "Year": yr,
+            "Annual_Budget": round(annual_budget, 2),
+            "Items_Funded": int(len(funded)),
+            "Capital_Required": round(cap, 2),
+            "Cumulative_Risk_Reduction_Pct": round((cum_srrs / total_srrs * 100.0) if total_srrs > 0 else 0.0, 4),
+            "Remaining_Exposure": round(total_req - cum_cap, 2),
+        })
+        remaining = remaining[~remaining["PL_Code"].isin(set(funded["PL_Code"]))]
+    rm = pd.DataFrame(rows)
+    if write:
+        cfg.ensure_output_dirs()
+        rm.to_csv(cfg.OUTPUT_DIR / "procurement_roadmap.csv", index=False)
+    return rm
+
+
+# ----------------------------------------------------------------------
 # Validation / reporting
 # ----------------------------------------------------------------------
 def run():

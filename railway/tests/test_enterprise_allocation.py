@@ -72,3 +72,15 @@ def test_enterprise_pooled_allocation_respects_budget_and_aggregates():
     for col in ["Division", "Allocated_Budget", "PLs_Funded", "SRRS_Mitigated",
                 "Risk_Reduction_Pct", "Capital_Efficiency"]:
         assert col in alloc.columns
+
+
+def test_roadmap_three_years_cumulative_nondecreasing():
+    rm = opt.procurement_roadmap(_toy_opt(), annual_budget=60_00_000.0,
+                                 years=["FY2026-27", "FY2027-28", "FY2028-29"], write=False)
+    assert list(rm["Year"]) == ["FY2026-27", "FY2027-28", "FY2028-29"]
+    cum = rm["Cumulative_Risk_Reduction_Pct"].tolist()
+    assert all(b >= a - 1e-9 for a, b in zip(cum, cum[1:]))
+    assert rm["Items_Funded"].sum() <= 4
+    for col in ["Year", "Items_Funded", "Capital_Required",
+                "Cumulative_Risk_Reduction_Pct", "Remaining_Exposure"]:
+        assert col in rm.columns
