@@ -420,6 +420,55 @@ def solve_budget_frontier(opt: pd.DataFrame, budgets=None, write: bool = True):
 
 
 # ----------------------------------------------------------------------
+# STEP35-OPT (Phase D): enterprise capital allocation -- pool every
+# division's procurement-required candidates into ONE frame and solve the
+# EXISTING Safety-Reserve knapsack once at the enterprise budget.
+# ----------------------------------------------------------------------
+def enterprise_capital_allocation(division_frames: dict, budget: float,
+                                  write: bool = True):
+    """division_frames: {division: DataFrame of procurement-required candidates}.
+    Returns a per-division allocation DataFrame for the given enterprise budget."""
+    pooled = []
+    for div, df in division_frames.items():
+        d = df[df["Inventory_Status"] == "Procurement Required"].copy()
+        d["Division"] = div
+        pooled.append(d)
+    if not pooled:
+        return pd.DataFrame(columns=["Division", "Allocated_Budget", "PLs_Funded",
+                                     "SRRS_Mitigated", "Risk_Reduction_Pct", "Capital_Efficiency"])
+    pool = pd.concat(pooled, ignore_index=True)
+    total_by_div = pool.groupby("Division")["Service_Risk_Reduction_Score"].sum()
+
+    import math
+    eff = budget
+    if math.isinf(budget):                       # never feed inf to PuLP
+        eff = float(pool["Inventory_Investment_Required"].sum()) + 1.0
+    sel = sorted(allocate_with_reserve(
+        pool, eff, "Service_Risk_Reduction_Score", "Inventory_Investment_Required"))
+    funded = pool.loc[sel]
+
+    rows = []
+    for div in sorted(division_frames):
+        f = funded[funded["Division"] == div]
+        spent = float(f["Inventory_Investment_Required"].sum())
+        srrs = float(f["Service_Risk_Reduction_Score"].sum())
+        tot = float(total_by_div.get(div, 0.0))
+        rows.append({
+            "Division": div,
+            "Allocated_Budget": round(spent, 2),
+            "PLs_Funded": int(len(f)),
+            "SRRS_Mitigated": round(srrs, 4),
+            "Risk_Reduction_Pct": round((srrs / tot * 100.0) if tot > 0 else 0.0, 4),
+            "Capital_Efficiency": round((srrs / spent) if spent > 1e-9 else 0.0, 8),
+        })
+    alloc = pd.DataFrame(rows)
+    if write:
+        cfg.ensure_output_dirs()
+        alloc.to_csv(cfg.OUTPUT_DIR / "enterprise_budget_allocation.csv", index=False)
+    return alloc
+
+
+# ----------------------------------------------------------------------
 # Validation / reporting
 # ----------------------------------------------------------------------
 def run():

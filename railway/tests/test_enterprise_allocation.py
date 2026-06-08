@@ -49,3 +49,26 @@ def test_frontier_monotonic_and_unlimited_funds_all():
                 "SRRS_Mitigated", "SRRS_Remaining", "Risk_Reduction_Pct",
                 "Budget_Utilized", "Marginal_SRRS_Per_Rupee"]:
         assert col in fr.columns
+
+
+def test_enterprise_pooled_allocation_respects_budget_and_aggregates():
+    frames = {
+        "MAS": pd.DataFrame({
+            "PL_Code": ["M1", "M2"], "Description": ["m1", "m2"],
+            "ABC_Class": ["A", "B1"], "Criticality": ["S1", "S3"],
+            "Inventory_Status": ["Procurement Required"] * 2,
+            "Service_Risk_Reduction_Score": [90.0, 20.0],
+            "Inventory_Investment_Required": [60_00_000.0, 30_00_000.0]}),
+        "SA": pd.DataFrame({
+            "PL_Code": ["S1x"], "Description": ["s1"],
+            "ABC_Class": ["A"], "Criticality": ["S2"],
+            "Inventory_Status": ["Procurement Required"],
+            "Service_Risk_Reduction_Score": [70.0],
+            "Inventory_Investment_Required": [50_00_000.0]}),
+    }
+    alloc = opt.enterprise_capital_allocation(frames, budget=1_00_00_000.0, write=False)
+    assert set(alloc["Division"]) <= {"MAS", "SA"}
+    assert alloc["Allocated_Budget"].sum() <= 1_00_00_000.0 + 1e-6
+    for col in ["Division", "Allocated_Budget", "PLs_Funded", "SRRS_Mitigated",
+                "Risk_Reduction_Pct", "Capital_Efficiency"]:
+        assert col in alloc.columns
