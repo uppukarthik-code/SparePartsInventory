@@ -28,7 +28,7 @@ TOL = 1e-6
 
 EXPECTED_ROWS = {
     "page1_procurement": 59, "page2_forecasting": 59, "page3_criticality": 59,
-    "page4_operational_health": 907, "page5_rationalization": 959,
+    "page4_operational_health": 15913, "page5_rationalization": 5351,  # operational-volume counts pinned to current committed outputs (grew with multi-depot onboarding STEP18A)
     "page8_budget_scenarios": 4, "page9_management_actions": 5,
 }
 PAGES = [f"page{i}_{n}" for i, n in enumerate([
