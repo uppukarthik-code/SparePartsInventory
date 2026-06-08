@@ -1,0 +1,14 @@
+metric,before,after
+collected,648,648
+passed,103,647
+failed,544,0
+skipped,1,1
+line_ending_failures,537,0
+stale_fixture_failures,7,0
+real_regressions,0,0
+analytics_files_modified,0,0
+formula_files_modified,0,0
+output_csv_content_changes,0,0
+baseline_537_outputs_changed,0,0
+step35opt_outputs_eol_normalized_to_lf,0,8
+manifest_integrity_gate,fail(537 EOL mismatch),pass

@@ -26,6 +26,8 @@ Output: railway/outputs/railway_inventory_policy.csv (+ matrix + procurement pla
 
 from __future__ import annotations
 
+import math
+
 import numpy as np
 import pandas as pd
 from scipy import stats
@@ -369,6 +371,145 @@ def allocate_procurement_budget(opt: pd.DataFrame, budget: float = PROCUREMENT_B
         cfg.ensure_output_dirs()
         plan.to_csv(cfg.OUTPUT_DIR / "railway_procurement_plan.csv", index=False)
     return plan, float(plan["Inventory_Investment_Required"].sum()) if not plan.empty else 0.0
+
+
+# ----------------------------------------------------------------------
+# STEP35-OPT (Phase B): budget frontier -- solve the EXISTING knapsack
+# repeatedly across budget levels. Reuses allocate_with_reserve; no new
+# optimization logic, no change to objective/constraints/reserve.
+# ----------------------------------------------------------------------
+def solve_budget_frontier(opt: pd.DataFrame, budgets=None, write: bool = True):
+    """For each budget level solve the existing Safety-Reserve knapsack and report
+    funded PLs, SRRS mitigated/remaining, risk-reduction %, capital used and the
+    marginal SRRS per rupee vs the previous level. Returns a DataFrame."""
+    if budgets is None:
+        budgets = cfg.FRONTIER_BUDGETS
+    cand = opt[opt["Inventory_Status"] == "Procurement Required"].copy().reset_index(drop=True)
+    total_srrs = float(cand["Service_Risk_Reduction_Score"].sum())
+    all_in = float(cand["Inventory_Investment_Required"].sum()) + 1.0  # finite cap for "Unlimited"
+    rows = []
+    prev_srrs = 0.0
+    prev_spent = 0.0
+    for label, rupees in budgets:
+        eff = all_in if math.isinf(rupees) else rupees   # never feed inf to PuLP
+        sel = sorted(allocate_with_reserve(
+            cand, eff, "Service_Risk_Reduction_Score", "Inventory_Investment_Required"))
+        funded = cand.loc[sel]
+        srrs = float(funded["Service_Risk_Reduction_Score"].sum())
+        spent = float(funded["Inventory_Investment_Required"].sum())
+        crit_funded = int(funded["Criticality"].isin(cfg.SAFETY_RESERVE_CRITICALITIES).sum())
+        d_srrs = srrs - prev_srrs
+        d_spent = spent - prev_spent
+        marginal = (d_srrs / d_spent) if d_spent > 1e-9 else 0.0
+        rows.append({
+            "Budget_Label": label,
+            "Budget_Rupees": (None if math.isinf(rupees) else round(rupees, 2)),
+            "PLs_Funded": int(len(funded)),
+            "Critical_PLs_Funded": crit_funded,
+            "SRRS_Mitigated": round(srrs, 4),
+            "SRRS_Remaining": round(total_srrs - srrs, 4),
+            "Risk_Reduction_Pct": round((srrs / total_srrs * 100.0) if total_srrs > 0 else 0.0, 4),
+            "Budget_Utilized": round(spent, 2),
+            "Marginal_SRRS_Per_Rupee": round(marginal, 8),
+        })
+        prev_srrs, prev_spent = srrs, spent
+    frame = pd.DataFrame(rows)
+    if write:
+        cfg.ensure_output_dirs()
+        frame.to_csv(cfg.OUTPUT_DIR / "risk_reduction_frontier.csv", index=False)
+    return frame
+
+
+# ----------------------------------------------------------------------
+# STEP35-OPT (Phase D): enterprise capital allocation -- pool every
+# division's procurement-required candidates into ONE frame and solve the
+# EXISTING Safety-Reserve knapsack once at the enterprise budget.
+# ----------------------------------------------------------------------
+def enterprise_capital_allocation(division_frames: dict, budget: float,
+                                  write: bool = True):
+    """division_frames: {division: DataFrame of procurement-required candidates}.
+    Returns a per-division allocation DataFrame for the given enterprise budget."""
+    pooled = []
+    for div, df in division_frames.items():
+        d = df[df["Inventory_Status"] == "Procurement Required"].copy()
+        d["Division"] = div
+        pooled.append(d)
+    if not pooled:
+        return pd.DataFrame(columns=["Division", "Allocated_Budget", "PLs_Funded",
+                                     "SRRS_Mitigated", "Risk_Reduction_Pct", "Capital_Efficiency"])
+    pool = pd.concat(pooled, ignore_index=True)
+    total_by_div = pool.groupby("Division")["Service_Risk_Reduction_Score"].sum()
+
+    eff = budget
+    if math.isinf(budget):                       # never feed inf to PuLP
+        eff = float(pool["Inventory_Investment_Required"].sum()) + 1.0
+    sel = sorted(allocate_with_reserve(
+        pool, eff, "Service_Risk_Reduction_Score", "Inventory_Investment_Required"))
+    funded = pool.loc[sel]
+
+    rows = []
+    for div in sorted(division_frames):
+        f = funded[funded["Division"] == div]
+        spent = float(f["Inventory_Investment_Required"].sum())
+        srrs = float(f["Service_Risk_Reduction_Score"].sum())
+        tot = float(total_by_div.get(div, 0.0))
+        rows.append({
+            "Division": div,
+            "Allocated_Budget": round(spent, 2),
+            "PLs_Funded": int(len(f)),
+            "SRRS_Mitigated": round(srrs, 4),
+            "Risk_Reduction_Pct": round((srrs / tot * 100.0) if tot > 0 else 0.0, 4),
+            "Capital_Efficiency": round((srrs / spent) if spent > 1e-9 else 0.0, 8),
+        })
+    alloc = pd.DataFrame(rows)
+    if write:
+        cfg.ensure_output_dirs()
+        alloc.to_csv(cfg.OUTPUT_DIR / "enterprise_budget_allocation.csv", index=False)
+    return alloc
+
+
+# ----------------------------------------------------------------------
+# STEP35-OPT (Phase E): multi-year procurement roadmap. Each year runs the
+# EXISTING Safety-Reserve knapsack on the still-unfunded procurement-required
+# items under that year's budget; unfunded items carry to the next year.
+# ----------------------------------------------------------------------
+def procurement_roadmap(opt: pd.DataFrame, annual_budget=None, years=None,
+                        write: bool = True):
+    """annual_budget None => total procurement requirement / len(years) (equal thirds)."""
+    if years is None:
+        years = cfg.ROADMAP_YEARS
+    cand = opt[opt["Inventory_Status"] == "Procurement Required"].copy().reset_index(drop=True)
+    total_srrs = float(cand["Service_Risk_Reduction_Score"].sum())
+    total_req = float(cand["Inventory_Investment_Required"].sum())
+    if annual_budget is None:
+        annual_budget = total_req / len(years) if years else 0.0
+
+    remaining = cand.copy()
+    cum_srrs = 0.0
+    cum_cap = 0.0
+    rows = []
+    for yr in years:
+        rem = remaining.reset_index(drop=True)
+        sel = sorted(allocate_with_reserve(
+            rem, annual_budget, "Service_Risk_Reduction_Score", "Inventory_Investment_Required"))
+        funded = rem.loc[sel]
+        cap = float(funded["Inventory_Investment_Required"].sum())
+        cum_cap += cap
+        cum_srrs += float(funded["Service_Risk_Reduction_Score"].sum())
+        rows.append({
+            "Year": yr,
+            "Annual_Budget": round(annual_budget, 2),
+            "Items_Funded": int(len(funded)),
+            "Capital_Required": round(cap, 2),
+            "Cumulative_Risk_Reduction_Pct": round((cum_srrs / total_srrs * 100.0) if total_srrs > 0 else 0.0, 4),
+            "Remaining_Exposure": round(total_req - cum_cap, 2),
+        })
+        remaining = remaining[~remaining["PL_Code"].isin(set(funded["PL_Code"]))]
+    rm = pd.DataFrame(rows)
+    if write:
+        cfg.ensure_output_dirs()
+        rm.to_csv(cfg.OUTPUT_DIR / "procurement_roadmap.csv", index=False)
+    return rm
 
 
 # ----------------------------------------------------------------------

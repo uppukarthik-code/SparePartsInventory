@@ -1,0 +1,10 @@
+Budget_Label,Budget_Rupees,Risk_Reduction_Pct,Marginal_SRRS_Per_Rupee,Is_Knee_Point,Is_Diminishing_Returns,Region
+Rs 1 Cr,10000000.0,20.6942,0.21976353,False,False,Efficient
+Rs 5 Cr,50000000.0,56.2441,0.09258261,False,False,Efficient
+Rs 10 Cr,100000000.0,72.692,0.03434952,False,True,Efficient
+Rs 25 Cr,250000000.0,93.438,0.0144414,False,False,Efficient
+Rs 50 Cr,500000000.0,97.8472,0.00212217,True,False,Diminishing_Returns
+Rs 100 Cr,1000000000.0,97.8472,0.0,False,False,Diminishing_Returns
+Rs 200 Cr,2000000000.0,98.5241,8.033e-05,False,False,Diminishing_Returns
+Rs 500 Cr,5000000000.0,98.5241,0.0,False,False,Diminishing_Returns
+Unlimited,,100.0,2.931e-05,False,False,Saturation

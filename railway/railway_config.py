@@ -302,3 +302,30 @@ VALID_CRITICALITY = {"S1", "S2", "S3", "S4"}
 VALID_DEMAND_CLASSES = {"Smooth", "Intermittent", "Erratic", "Lumpy", "Dead"}
 VALID_FORECAST_CONFIDENCE = {"High", "Medium", "Low", "Very Low"}
 VALID_INVENTORY_STATUS = {"Procurement Required", "Sufficient"}
+
+# ======================================================================
+# 18. STEP35-OPT — ENTERPRISE BUDGET OPTIMIZATION (additive; Indian numbering)
+# ======================================================================
+import math as _math
+FRONTIER_BUDGETS = [
+    ("Rs 1 Cr",   1_00_00_000.0),
+    ("Rs 5 Cr",   5_00_00_000.0),
+    ("Rs 10 Cr",  10_00_00_000.0),
+    ("Rs 25 Cr",  25_00_00_000.0),
+    ("Rs 50 Cr",  50_00_00_000.0),
+    ("Rs 100 Cr", 1_00_00_00_000.0),
+    ("Rs 200 Cr", 2_00_00_00_000.0),
+    ("Rs 500 Cr", 5_00_00_00_000.0),
+    ("Unlimited", _math.inf),
+]
+ENTERPRISE_BUDGET = 1_00_00_00_000.0          # Rs 100 Cr
+ANNUAL_PROCUREMENT_BUDGET = None
+ROADMAP_YEARS = ["FY2026-27", "FY2027-28", "FY2028-29"]
+EXECUTIVE_SCENARIO_BUDGETS = [
+    ("Rs 25 Cr",  25_00_00_000.0),
+    ("Rs 50 Cr",  50_00_00_000.0),
+    ("Rs 100 Cr", 1_00_00_00_000.0),
+    ("Rs 200 Cr", 2_00_00_00_000.0),
+    ("Unlimited", _math.inf),
+]
+RISK_REDUCTION_TARGETS = [0.50, 0.75, 0.90]

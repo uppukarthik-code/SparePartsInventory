@@ -1,0 +1,9 @@
+Aspect,Value,Status
+Decision_Variables,"binary x_i in {0,1} per procurement-required PL (pulp.LpVariable cat=Binary in _solve_knapsack)",UNCHANGED
+Objective_Function,maximize sum(Service_Risk_Reduction_Score * x_i),UNCHANGED
+Budget_Constraint,sum(Inventory_Investment_Required * x_i) <= budget,UNCHANGED
+Affordability_Filter,items with cost > budget excluded (_solve_knapsack),UNCHANGED
+Safety_Reserve,"enabled=True, pct=0.2, tiers=('S1', 'S2')",UNCHANGED
+Explainability_Outputs,"SRRS_Rank, SRRS_Per_Rupee, Funding_Driver, railway_funding_explainability.csv",UNCHANGED
+Default_Procurement_Budget,10000000.0,UNCHANGED
+Service_Factor_Model,"baseline_sl=0.9, slope=20.0",UNCHANGED

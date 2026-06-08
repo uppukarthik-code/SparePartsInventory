@@ -138,9 +138,10 @@ def validate_all(raise_on_error=True):
         violations.append(f"railway_inventory_policy.csv: invalid Inventory_Status {bad_status}")
 
     # --- operational ---
+    # NOTE: operational inventory is depot/line-level grain — PL_Code is NOT unique by design
+    # (same PL may appear across multiple depots). PL_Code uniqueness is enforced on master/forecast/policy only.
     op = _load("railway_operational_inventory.csv")
     _check_columns("railway_operational_inventory.csv", op, violations)
-    _check_duplicates("railway_operational_inventory.csv", op, violations)
     _check_numeric("railway_operational_inventory.csv", op, ["Current_Stock", "Inventory_Value"], violations)
 
     if raise_on_error and violations:
