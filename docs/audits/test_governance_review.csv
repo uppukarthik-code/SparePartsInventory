@@ -1,0 +1,9 @@
+test,category,issue,action
+test_golden_outputs.py,manifest_hash,byte-exact SHA pin fragile to EOL,KEPT + manifest rebuilt + .gitattributes eol=lf hardening
+test_mas_operational_rows,row_count,hardcoded 907 brittle to data volume,REPLACED with reproducibility invariant (== canonical)
+test_mas_enterprise_rollup_registry,row_count,hardcoded 959 brittle,REPLACED with populated-registry invariant (non-empty + PL_Code)
+test_row_counts_unchanged[page4/page5],row_count,operational counts brittle to onboarding,UPDATED to current committed values (operational volatile)
+test_row_counts_unchanged[page1/2/3/8/9],row_count,strategic counts 59/4/5 are stable invariants,KEPT as-is
+test_dataless_bu_skeleton,data_assumption,assumed TPJ data-less; TPJ onboarded,REPOINTED to STTC_PTJ (genuinely data-less)
+test_depot_routing_mechanism,business_rule,expected pre-STEP19 routing,UPDATED to STEP19 config-verified PGT
+test_schema_validation_passes,schema_rule,PL_Code uniqueness mis-applied to operational,RULE SCOPE FIXED (operational exempt; master/policy still enforced)

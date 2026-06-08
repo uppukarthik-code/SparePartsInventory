@@ -5,3 +5,9 @@
 *.pbix binary
 *.xlsx binary
 *.ipynb -text
+
+# STEP36: output CSVs + golden manifest are normalized to LF so the SHA-256 manifest
+# is reproducible across OS (CI is Linux/LF; pandas writes CRLF on Windows). git
+# normalizes these on add/checkout regardless of how they were written.
+railway/outputs/**/*.csv text eol=lf
+railway/tests/regression/golden_output_manifest.csv text eol=lf
