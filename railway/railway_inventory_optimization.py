@@ -372,6 +372,54 @@ def allocate_procurement_budget(opt: pd.DataFrame, budget: float = PROCUREMENT_B
 
 
 # ----------------------------------------------------------------------
+# STEP35-OPT (Phase B): budget frontier -- solve the EXISTING knapsack
+# repeatedly across budget levels. Reuses allocate_with_reserve; no new
+# optimization logic, no change to objective/constraints/reserve.
+# ----------------------------------------------------------------------
+def solve_budget_frontier(opt: pd.DataFrame, budgets=None, write: bool = True):
+    """For each budget level solve the existing Safety-Reserve knapsack and report
+    funded PLs, SRRS mitigated/remaining, risk-reduction %, capital used and the
+    marginal SRRS per rupee vs the previous level. Returns a DataFrame."""
+    import math
+    if budgets is None:
+        budgets = cfg.FRONTIER_BUDGETS
+    cand = opt[opt["Inventory_Status"] == "Procurement Required"].copy().reset_index(drop=True)
+    total_srrs = float(cand["Service_Risk_Reduction_Score"].sum())
+    all_in = float(cand["Inventory_Investment_Required"].sum()) + 1.0  # finite cap for "Unlimited"
+    rows = []
+    prev_srrs = 0.0
+    prev_spent = 0.0
+    for label, rupees in budgets:
+        eff = all_in if math.isinf(rupees) else rupees   # never feed inf to PuLP
+        sel = sorted(allocate_with_reserve(
+            cand, eff, "Service_Risk_Reduction_Score", "Inventory_Investment_Required"))
+        funded = cand.loc[sel]
+        srrs = float(funded["Service_Risk_Reduction_Score"].sum())
+        spent = float(funded["Inventory_Investment_Required"].sum())
+        crit_funded = int(funded["Criticality"].isin(cfg.SAFETY_RESERVE_CRITICALITIES).sum())
+        d_srrs = srrs - prev_srrs
+        d_spent = spent - prev_spent
+        marginal = (d_srrs / d_spent) if d_spent > 1e-9 else 0.0
+        rows.append({
+            "Budget_Label": label,
+            "Budget_Rupees": (None if math.isinf(rupees) else round(rupees, 2)),
+            "PLs_Funded": int(len(funded)),
+            "Critical_PLs_Funded": crit_funded,
+            "SRRS_Mitigated": round(srrs, 4),
+            "SRRS_Remaining": round(total_srrs - srrs, 4),
+            "Risk_Reduction_Pct": round((srrs / total_srrs * 100.0) if total_srrs > 0 else 0.0, 4),
+            "Budget_Utilized": round(spent, 2),
+            "Marginal_SRRS_Per_Rupee": round(marginal, 8),
+        })
+        prev_srrs, prev_spent = srrs, spent
+    frame = pd.DataFrame(rows)
+    if write:
+        cfg.ensure_output_dirs()
+        frame.to_csv(cfg.OUTPUT_DIR / "risk_reduction_frontier.csv", index=False)
+    return frame
+
+
+# ----------------------------------------------------------------------
 # Validation / reporting
 # ----------------------------------------------------------------------
 def run():
