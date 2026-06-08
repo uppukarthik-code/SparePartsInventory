@@ -1,0 +1,6 @@
+Check,Status,Evidence,Risk,Recommendation
+Gap Value=Gap*Unit Rate,GREEN,"Average Rate 100% coverage, internally consistent (Value=Stock*Rate 99.3%)",correct,none
+Unit-cost validity,GREEN,SUMMARY col11; 820 distinct; range Rs0.95-6.83M,real source,none
+Adds decision quality vs SRRS?,GREEN,"Spearman(SRRS,Value)=0.746; Top20 overlap only 6 -> distinct dimension",not duplicative; complementary,keep as separate axis
+Concentration / outliers,AMBER,Top10=74.1% value; few extreme unit-cost items (Rs6.83M) dominate,ranking skewed by outliers,"present with SRRS, not alone; winsorise display"
+Exposure != savings,GREEN(framing),"reported as exposure Rs3.37B, not savings",no fabricated savings,maintain framing

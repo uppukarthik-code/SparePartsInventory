@@ -1,0 +1,2 @@
+Zone,Inventory_Domain,Business_Units_Configured,Business_Units_Populated,Strategic_Inventory_Value,Operational_Inventory_Value,Dead_Stock_Value,Inventory_Turn_Risk,Digital_Twin_Readiness,Snapshot_Date,Pipeline_Version
+Southern Railway,Railway_Operations,6,6,85663635.52,601477777.62,23173055.1,16.08,75.0,2026-03-31,12.5.0

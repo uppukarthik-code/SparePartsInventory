@@ -1,0 +1,6 @@
+Inventory_Value_Band,Count,Inventory_Value,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+"< Rs 10,000",395,463328.89,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+"Rs 10,000 - 1 Lakh",208,9001619.45,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Rs 1 Lakh - 10 Lakh,201,67308807.62,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Rs 10 Lakh - 1 Crore,37,105296446.93,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+>= Rs 1 Crore,1,12616195.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

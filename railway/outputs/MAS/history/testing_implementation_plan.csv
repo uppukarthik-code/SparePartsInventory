@@ -1,0 +1,9 @@
+Suite,Type,What_to_test,Priority
+tests/regression/,golden-file,SHA-256 of ALL current STEP1-28 outputs; assert unchanged (BUILD FIRST - unblocks refactor),P0
+tests/ingestion/,unit,"xlsx reader, DMTR parser, PL normalize on fixtures (malformed incl)",P1
+tests/demand/,unit,"reconstruction: issue classification, gap-fill, conservation; SBC class cutoffs",P1
+tests/forecasting/,unit,Croston/SBA/TSB/Holt point estimates; flat-profile; backtest,P1
+tests/inventory/,unit,SS=z*sigma*sqrt(LT) numeric; ROP=DDLT+SS; lead-time median/winsor; no-negative,P0
+tests/prioritization/,unit,SRRS=weight*SF*gap; rank; value lens; sensitivity invariants,P1
+tests/validation/,integration,"funnel counts, dependency-subset integrity, end-to-end smoke",P1
+tests/ (legacy fixtures),re-baseline,"5 legacy runner tests fail vs FROZEN canonical KPI/registry fixtures that STEP18A(BU activation)+STEP19(de-inflation)+stock-summary-rebuild intentionally diverged from; re-pin with sign-off (encodes intended business change, NOT a regression)",P1

@@ -1,0 +1,5 @@
+Module,Role,STEP20_30_Coverage,Duplicated,Disposition
+railway.governance.division_summary,MODERN engine (SoT),FULL (L1/L2/L3 from STEP20-28),none,SOURCE OF TRUTH
+railway_executive_summary,legacy STEP1-19 exec KPIs,NONE (railway_forecast/policy only),vs division_summary,WRAP (delegate + deprecate; outputs frozen)
+railway_management_reports,legacy mgmt pack (1548 LOC),NONE (page0/digital_twin only),vs division_summary,WRAP (delegate + deprecate; outputs frozen)
+rebuilt notebooks (3),presentation,FULL (uses division_summary),none,ALIGNED to SoT

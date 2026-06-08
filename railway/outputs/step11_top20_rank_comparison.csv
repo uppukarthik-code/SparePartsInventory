@@ -1,0 +1,21 @@
+PL_Code,Description,Rank_Before,Rank_After,Delta_Rank,Original_Value,Normalized_Value,Flag_>10
+56119033,Cable 19 C x 1.5 sq.mm,1,14,-13,52592877381.08,52592890.33,True
+56987122/56110029,Cable 3 C x 10 sq.mm,2,20,-18,8800798456.1,8800795.65,True
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,3,1,2,464269550.41,464269547.2,False
+56509960,Cable 2 C x 25 sq.mm,4,2,2,458603740.75,458603694.82,False
+56501018,Cable 30 C x 1.5 Sq.mm,5,3,2,339684638.27,339684654.4,False
+56509959,Cable 12 C x 1.5 Sq.mm,6,4,2,311663698.85,311663709.75,False
+56468039,LED Red aspect with accessories,7,5,2,309396702.08,309396571.12,False
+56468052,LED Yellow aspect with accessories,8,6,2,278996169.22,278996044.68,False
+56468040,LED Green Aspect with accessories,9,7,2,256356767.55,256356862.51,False
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,10,8,2,250359667.69,250359721.92,False
+56501006,Cable 24 C x 1.5 Sq.mm,11,9,2,239196656.11,239196656.23,False
+50232356/50232319,Magneto telephone,12,10,2,157563948.33,157564027.4,False
+56468027,Route LED Signal lightning unit 100 V AC,13,11,2,134913628.57,134913618.24,False
+56462050,AC Shunt Signal LED with in built current regulator,14,12,2,98647455.88,98647273.12,False
+56119537,Cable 2 C x 2.5 sq.mm,15,13,2,66548074.86,66548076.05,False
+56468064,Calling on LED Signal lightning unit 100 V AC,16,15,1,45812068.85,45811733.3,False
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,17,16,1,31283760.56,31283708.29,False
+56451027,Relay AC  Immune Plug in  type style-QBCA1,18,17,1,21896391.2,21896364.92,False
+56450217,Relay AC Immune Plug in type style-QSPA1,19,18,1,19312237.02,19312203.7,False
+52156576/56500452,Battery charger 230V AC 110V DC 30A,20,19,1,14686257.87,14685955.5,False

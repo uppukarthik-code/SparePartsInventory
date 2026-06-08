@@ -1,0 +1,10 @@
+Source,Destination,Result
+notebooks/01_data_preparation.ipynb,archive/walmart/notebooks/01_data_preparation.ipynb,MOVED
+notebooks/02_data_preparation.ipynb,archive/walmart/notebooks/02_data_preparation.ipynb,MOVED
+notebooks/03_exploratory_data_analysis.ipynb,archive/walmart/notebooks/03_exploratory_data_analysis.ipynb,MOVED
+notebooks/04_demand_forecasting.ipynb,archive/walmart/notebooks/04_demand_forecasting.ipynb,MOVED
+notebooks/05_inventory_optimization.ipynb,archive/walmart/notebooks/05_inventory_optimization.ipynb,MOVED
+notebooks/06_anylogistix_simuation_tables.ipynb,archive/walmart/notebooks/06_anylogistix_simuation_tables.ipynb,MOVED
+notebooks/07_railway_inventory_analysis.ipynb,archive/historical/07_railway_inventory_analysis.ipynb,MOVED
+Optimization_models_CPLEX,archive/walmart/Optimization_models_CPLEX,MOVED
+All plots,archive/walmart/All plots,MOVED

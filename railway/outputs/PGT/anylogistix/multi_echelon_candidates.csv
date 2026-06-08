@@ -1,0 +1,60 @@
+PL_Code,Description,ABC_Class,Criticality,Forecast_2026_27,Target_Service_Level,Inventory_Status,Multi_Echelon_Candidate
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,A,S2,7197.9,0.98,Procurement Required,YES
+56501018,Cable 30 C x 1.5 Sq.mm,A,S1,28364.23,0.99,Procurement Required,YES
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,A,S2,4135.36,0.98,Procurement Required,YES
+56509959,Cable 12 C x 1.5 Sq.mm,A,S1,66258.84,0.99,Procurement Required,YES
+56468039,LED Red aspect with accessories,A,S1,1556.04,0.99,Procurement Required,YES
+56468052,LED Yellow aspect with accessories,A,S1,1500.82,0.99,Procurement Required,YES
+56468040,LED Green Aspect with accessories,A,S1,1287.44,0.99,Procurement Required,YES
+50232356/50232319,Magneto telephone,A,S2,1769.51,0.98,Procurement Required,YES
+56501006,Cable 24 C x 1.5 Sq.mm,A,S1,38250.32,0.99,Procurement Required,YES
+56119537,Cable 2 C x 2.5 sq.mm,B1,S1,59866.54,0.97,Procurement Required,YES
+56450217,Relay AC Immune Plug in type style-QSPA1,B1,S3,1138.35,0.9,Procurement Required,NO
+56468027,Route LED Signal lightning unit 100 V AC,B1,S1,1477.05,0.97,Procurement Required,YES
+56462050,AC Shunt Signal LED with in built current regulator,B1,S1,1271.87,0.97,Procurement Required,YES
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,B2,S2,970.46,0.95,Procurement Required,NO
+56450229,Relay AC Immune Plug in type style-QTA2,B2,S3,1581.69,0.9,Procurement Required,NO
+52156576/56500452,Battery charger 230V AC 110V DC 30A,B2,S2,45.37,0.95,Procurement Required,NO
+56468064,Calling on LED Signal lightning unit 100 V AC,B2,S1,594.46,0.9,Procurement Required,NO
+50370080,4 Wire DTMP Way Station Equipment,B2,S3,632.39,0.9,Procurement Required,NO
+56451027,Relay AC  Immune Plug in  type style-QBCA1,B2,S3,2090.62,0.9,Procurement Required,NO
+50360693/50370110,4 wire way station control telephone RDSO/SPN IRS.TC.38/97 with latest amendment,C,S4,748.1,0.9,Procurement Required,NO
+50231832/50231881,Telephone Electronic Push Button,C,S3,1084.0,0.9,Sufficient,NO
+56163034,Voltage stabilizer 3 KVA-230V.,C,S3,12.47,0.9,Sufficient,NO
+56509376,A.R.A Terminal Block 25mm PBT small,C,S2,14956.92,0.9,Sufficient,NO
+50210014,Emergency Socket Box,C,S3,175.63,0.9,Procurement Required,NO
+56987122/56110029,Cable 3 C x 10 sq.mm,C,S1,2277.56,0.9,Procurement Required,NO
+50353603,Portable 4 wire Emergency Control Telephone with six pin flat type socket,C,S3,338.87,0.9,Sufficient,NO
+72081181/72207413,Drill Twist 7.2 mm,C,S3,6878.08,0.9,Procurement Required,NO
+56502540,Fuse ND type  RDSO spn 78/92 6 Amps,C,S2,6283.91,0.9,Sufficient,NO
+56507641,Channel Bond Pin,C,S3,272191.42,0.9,Procurement Required,NO
+56509388,A.R.A Terminal Block 60mm PBT,C,S2,5315.06,0.9,Sufficient,NO
+56502576,Fuse ND type RDSO spn 78/92 16 Amps,C,S2,4379.46,0.9,Sufficient,NO
+56502606,Fuse ND type RDSO spn 78/92 10 Amps,C,S2,4053.4,0.9,Procurement Required,NO
+47200054/47200250,Transformer 230/110V  - 1 KVA,C,S3,52.73,0.9,Procurement Required,NO
+91150401,SOLDER CORE RESIN FILLED (Kgs.),C,S4,80.15,0.9,Sufficient,NO
+50231959,Telephone Electronic Push Button   main - Extn .1+1,C,S3,91.6,0.9,Sufficient,NO
+54253561,Hand Plungerlock with key,C,S3,17.71,0.9,Procurement Required,NO
+45174404/45174416,Hydro meter complete set,C,S3,1352.95,0.9,Procurement Required,NO
+56509960,Cable 2 C x 25 sq.mm,C,S1,21631.94,0.9,Procurement Required,NO
+67900203,Auto Battery  12V X130 AH 19 plate,C,S3,10.5,0.9,Procurement Required,NO
+56500350,Battery charger 110V AC 24V DC 30A,C,S4,28.72,0.9,Procurement Required,NO
+52156618/56509935,Battery charger 230V  AC/24V DC-20A,C,S2,8.1,0.9,Procurement Required,NO
+50901126,Lead Acid Batteries  - 4V/12 AH,C,S2,114.0,0.9,Procurement Required,NO
+40981381,Wire coil PVC 16/0.2 mm,C,S3,25899.0,0.9,Procurement Required,NO
+56160100,Battery Charger 230V/24V 40 AMPS,C,S2,8.15,0.9,Procurement Required,NO
+56119033,Cable 19 C x 1.5 sq.mm,C,S1,10214.28,0.9,Procurement Required,NO
+56511516,Railjoint Insulation 60Kg.,C,S2,88.5,0.9,Procurement Required,NO
+50132453,Telephone card 3 Way 1.5m long,C,S3,7.5,0.9,Procurement Required,NO
+54252222,E-TYPE LOCK,C,S4,321.0,0.9,Procurement Required,NO
+56505959,RKT single various wards,C,S4,276.0,0.9,Procurement Required,NO
+67900185,Auto Battery 12V/75AH,C,S4,43.92,0.9,Procurement Required,NO
+56509686,Transformer 230/110V  -  3 KVA,C,S4,11.4,0.9,Procurement Required,NO
+56301704,Ground Connection for IRS Point Machine,C,S4,149.52,0.9,Procurement Required,NO
+56986210,FS CABLE,C,S4,135.0,0.9,Procurement Required,NO
+56160112,BATTERY CHARGER 230V/24V/50AMPS,C,S4,6.3,0.9,Procurement Required,NO
+56060002,RAIL JOINT INSULATION 52kg. nylon comp.,C,S4,216.0,0.9,Procurement Required,NO
+50132600,Telephone card 3 Way 1.5m long,C,S4,15.0,0.9,Procurement Required,NO
+41095066,PVC Insulation TAPE (Mtrs),C,S4,261761.4,0.9,Procurement Required,NO
+40070359,Wire coil 3/0 75 mm,C,S4,3000.0,0.9,Procurement Required,NO
+56985526,Fuse ND Type RDSO Spn 78/92 4A Maps,C,S4,900.0,0.9,Procurement Required,NO

@@ -1,0 +1,10 @@
+Dimension,Current,Target,Evidence,Path
+Architecture,45,75,flat/leaky/god-module,layered+shared/io
+Testing,25,75,0 tests new pipeline,regression+unit
+Maintainability,45,75,"hardcoded, manual orchestration",config+orchestrator+docs
+Configuration,40,75,constants bypass cfg,centralize
+Reliability,55,80,reproducible; silent failures,validation+logging
+Documentation,50,80,reports not code-docs,8 docs (this program)
+Scalability,45,75,single-division ext,parametrize+DAG
+Production Readiness,40,75,no pkg/tests/CI,pyproject+tests+CI
+Multi-Division Readiness,50,80,core ready / ext hardcoded,config-driven ext + data

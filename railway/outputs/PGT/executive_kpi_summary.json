@@ -1,0 +1,66 @@
+{
+  "Section1_Strategic_Inventory_Overview": {
+    "Total_SKUs": 59,
+    "Total_Inventory_Value": 662075255.38,
+    "Strategic_Inventory_Value_Normalized": 85663635.52,
+    "Total_Annual_Issue_Value": 161374751.65,
+    "Total_Forecast_2026_27": 865125.51,
+    "Total_Current_Stock": 313198.06,
+    "Average_Inventory_Coverage": 0.632
+  },
+  "Section2_Criticality_Exposure": {
+    "S1_Item_Count": 13,
+    "S2_Item_Count": 14,
+    "S3_Item_Count": 17,
+    "S4_Item_Count": 15,
+    "Safety_Item_Count": 13,
+    "Vital_Item_Count": 14,
+    "Inventory_Value_S1": 625929043.19,
+    "Inventory_Value_S2": 28783355.95,
+    "Inventory_Value_S3": 6253234.94,
+    "Inventory_Value_S4": 1109621.3
+  },
+  "Section3_Procurement_Exposure": {
+    "Procurement_Required_Items": 50,
+    "Sufficient_Items": 9,
+    "Total_Investment_Required": 6606343723.14,
+    "Total_Normalized_Investment_Required": 473115370.05,
+    "Average_Inventory_Gap": 13941.03,
+    "Maximum_Inventory_Gap": 270940.54
+  },
+  "Section4_Forecasting": {
+    "Smooth_Items": 30,
+    "Intermittent_Items": 7,
+    "Erratic_Items": 7,
+    "Lumpy_Items": 1,
+    "Dead_Items": 14,
+    "High_Confidence_Forecasts": 22,
+    "Medium_Confidence_Forecasts": 15,
+    "Low_Confidence_Forecasts": 8,
+    "Very_Low_Confidence_Forecasts": 14
+  },
+  "Section5_Data_Quality": {
+    "Flagged_SKUs": 2,
+    "Original_Investment_Required": 6606343723.14,
+    "Normalized_Investment_Required": 473115370.05,
+    "Data_Quality_Impact": 6133228353.09,
+    "Original_Concentration_Index": 96.97,
+    "Normalized_Concentration_Index": 82.42
+  },
+  "Section_Management_Insights": {
+    "Management_Insight_1": "50 of 59 strategic signalling items require procurement.",
+    "Management_Insight_2": "S1 (track-safety) items account for 55.0% of normalized procurement exposure.",
+    "Management_Insight_3": "Only 2 data-quality anomalies inflated investment estimates by Rs 613 Cr.",
+    "Management_Insight_4": "Top 10 SKUs account for 82% of (unit-normalized) inventory value."
+  },
+  "Section8_Budget_Scenario": {
+    "Budget": 10000000.0,
+    "Items_Funded": 27,
+    "Budget_Utilization_%": 98.35,
+    "Total_Risk_Reduction_Score": 76399099.58,
+    "Criticality_Mix_S1": 1,
+    "Criticality_Mix_S2": 5,
+    "Criticality_Mix_S3": 9,
+    "Criticality_Mix_S4": 12
+  }
+}

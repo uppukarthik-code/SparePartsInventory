@@ -1,0 +1,7 @@
+Dimension,Status,Evidence
+Code readiness,READY,gcfg division registry + --division CLI
+Reporting readiness,READY,division_summary division-aware (STEP31)
+Notebook readiness,READY,notebooks parametrize via division_summary
+Documentation readiness,READY,DIVISION_ONBOARDING_GUIDE
+Data readiness,BLOCKED,TPJ DMTR + SUMMARY absent
+Architecture change needed,NO,config + data only

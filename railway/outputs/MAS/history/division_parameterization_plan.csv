@@ -1,0 +1,7 @@
+Capability,Status,Mechanism
+--division MAS,WORKING,division_summary.main(--division)
+--division TPJ/SA/TVC/PGT/MDU,READY (data-blocked),governance/config registry + has_data() guard
+division-aware metadata,WORKING,division_summary.metadata(division)
+division-aware paths,WORKING,gcfg.DIVISION_OUTPUT_DIR/HISTORY_DIR
+no hardcoded MAS,WORKING (reporting),gcfg.DIVISION everywhere in summary
+data-blocked divisions,GUARDED,"has_data() -> warn, no fabrication"

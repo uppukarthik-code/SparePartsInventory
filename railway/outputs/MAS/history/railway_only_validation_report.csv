@@ -1,0 +1,9 @@
+Workflow,Result,Evidence
+Regression suite (537 outputs),PASS,537/537 byte-identical
+Formula tests (SS/ROP/SRRS),PASS,3/3 green
+Reporting consistency,PASS,es.kpis()==mr.modern_kpis()==ds.compute_kpis()
+Notebook re-execution (3),PASS,0 errors after schema-robust S16 fix
+No analytical outputs changed,PASS,regression green; railway/ untouched
+Platform runs without Walmart assets,PASS,2.39GB quarantined out-of-repo; 541 green
+Dead-dep imports,PASS,0 sklearn/prophet/plotly imports in railway/
+Railway-only repo,ACHIEVED,notebooks/=3 railway; archive separated; docs/ structured

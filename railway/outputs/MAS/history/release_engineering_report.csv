@@ -1,0 +1,10 @@
+Artifact,Action,Detail
+.github/workflows/ci.yml,CREATED,GitHub Actions CI (PYTHONHASHSEED=0)
+CI: regression validation,ADDED,pytest railway/tests/regression/ (537 outputs)
+CI: test execution,ADDED,pytest railway/tests/inventory/ (formula tests)
+CI: reporting validation,ADDED,assert es.kpis()==mr.modern_kpis()==ds.compute_kpis()
+requirements.txt,PINNED,5 runtime deps
+pyproject.toml,CREATED,packaging + extras + console script railway-summary
+requirements-notebooks.txt,CREATED,notebook/dev extras
+.gitignore,CREATED,block junk + Walmart data dumps
+Triggers,SET,"push (main, repository-purification) + PR to main"

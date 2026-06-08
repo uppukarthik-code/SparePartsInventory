@@ -1,0 +1,60 @@
+PL_Code,Description,Demand_Class,AAC_Forecast,EAR_Forecast,MA_Forecast,CAGR_Forecast,Forecast_2026_27,Croston_Forecast,SBA_Forecast,TSB_Forecast,Holt_Forecast,Recommended_Model,Recommended_Forecast,Forecast_Confidence,Forecast_to_Stock_Ratio,Forecast_to_Stock_Class,MAE,MAPE,Bias
+56509376,A.R.A Terminal Block 25mm PBT small,Smooth,13500.0,21500.0,10269.0,10531.22,14956.92,10878.25,10334.33,10878.25,10812.0,Weighted Blend,14956.92,High,1.4664,Monitor,4433.869,41.54,4433.869
+56509388,A.R.A Terminal Block 60mm PBT,Smooth,4550.0,7980.0,3685.2,3640.17,5315.06,3708.76,3523.32,3708.76,3802.8,Weighted Blend,5315.06,High,1.8982,Monitor,1647.321,45.06,1647.321
+67900203,Auto Battery  12V X130 AH 19 plate,Dead,0.0,35.0,0.0,0.0,10.5,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56500350,Battery charger 110V AC 24V DC 30A,Intermittent,43.0,35.0,3.4,3.4,28.72,3.4,3.23,17.0,13.6,Croston,3.4,Medium,1.3676,Monitor,17.0,100.0,-17.0
+52156576/56500452,Battery charger 230V AC 110V DC 30A,Intermittent,36.0,85.0,8.8,37.08,45.37,4.05,3.85,4.03,11.5,Croston,4.05,Medium,6.4811,Procurement Risk,14.6,81.11,-14.6
+52156618/56509935,Battery charger 230V  AC/24V DC-20A,Intermittent,0.0,26.0,1.0,1.0,8.1,5.0,4.75,3.28,0.0,Croston,5.0,Medium,inf,Procurement Risk,5.0,,5.0
+56509959,Cable 12 C x 1.5 Sq.mm,Erratic,61300.0,88400.0,20429.8,111328.76,66258.84,10578.56,10049.64,10578.56,49711.23,SBA,10049.64,Low,1.7098,Monitor,45435.972,88.75,-45435.972
+56501006,Cable 24 C x 1.5 Sq.mm,Smooth,17350.0,88700.0,16267.0,14469.23,38250.32,17211.97,16351.37,17211.97,14678.79,Weighted Blend,38250.32,High,5.51,Procurement Risk,23603.359,156.26,23603.359
+56119537,Cable 2 C x 2.5 sq.mm,Erratic,53800.0,90800.0,19257.0,72551.37,59866.54,12362.59,11744.46,12362.59,58373.99,SBA,11744.46,Low,1.375,Monitor,35843.792,81.05,-35843.792
+56501018,Cable 30 C x 1.5 Sq.mm,Smooth,28800.0,36000.0,16788.8,26864.68,28364.23,13799.7,13109.71,13799.7,24786.56,Weighted Blend,28364.23,Medium,2.0043,Procurement Risk,7392.3,32.84,7392.3
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,Smooth,6086.0,11800.0,3676.2,4882.58,7197.9,2527.95,2401.55,2527.95,5745.0,Weighted Blend,7197.9,High,1.6724,Monitor,3453.603,88.01,3453.603
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,Smooth,575.0,1955.0,553.4,432.79,970.46,339.93,322.94,339.93,515.9,Weighted Blend,970.46,High,2.7414,Procurement Risk,642.296,174.06,642.296
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,Smooth,2600.0,7620.0,2763.2,2567.22,4135.36,1469.61,1396.13,1469.61,696.0,Weighted Blend,4135.36,Medium,2.6993,Procurement Risk,2585.893,137.33,2585.893
+50901126,Lead Acid Batteries  - 4V/12 AH,Dead,0.0,380.0,0.0,0.0,114.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56507641,Channel Bond Pin,Smooth,230000.0,407500.0,167439.0,244536.22,272191.42,207919.45,197523.48,207919.45,218326.62,Weighted Blend,272191.42,Medium,2.0347,Procurement Risk,22925.575,9.47,22925.575
+72081181/72207413,Drill Twist 7.2 mm,Smooth,6570.0,10030.0,3751.8,4907.24,6878.08,4786.09,4546.78,4794.27,2434.58,Weighted Blend,6878.08,High,2.7208,Procurement Risk,1481.372,29.48,1481.372
+56502540,Fuse ND type  RDSO spn 78/92 6 Amps,Smooth,5450.0,9250.0,4699.8,3889.47,6283.91,4773.05,4534.4,4773.05,4175.11,Weighted Blend,6283.91,High,1.6915,Monitor,2383.166,58.63,2383.166
+56502606,Fuse ND type RDSO spn 78/92 10 Amps,Smooth,4050.0,5550.0,2328.6,3026.79,4053.4,1768.59,1680.16,1768.59,3823.49,Weighted Blend,4053.4,High,1.2909,Monitor,1712.175,66.88,1712.175
+56502576,Fuse ND type RDSO spn 78/92 16 Amps,Smooth,4200.0,6150.0,2864.2,2816.2,4379.46,3044.34,2892.12,3044.34,3254.49,Weighted Blend,4379.46,High,1.1927,Monitor,1578.318,54.8,1578.318
+54253561,Hand Plungerlock with key,Erratic,25.0,21.0,6.8,0.53,17.71,10.22,9.71,10.22,0.0,SBA,9.71,Low,8.8563,Procurement Risk,9.681,968.08,9.681
+45174404/45174416,Hydro meter complete set,Smooth,1500.0,1400.0,727.2,1875.09,1352.95,440.0,418.0,440.76,1035.9,Weighted Blend,1352.95,Medium,1.135,Monitor,25.421,2.04,-25.421
+47200054/47200250,Transformer 230/110V  - 1 KVA,Erratic,42.0,112.0,10.8,1.68,52.73,6.83,6.49,6.83,13.2,SBA,6.49,Low,26.3641,Procurement Risk,4.996,249.79,4.996
+50360693/50370110,4 wire way station control telephone RDSO/SPN IRS.TC.38/97 with latest amendment,Smooth,800.0,865.0,495.4,695.25,748.1,518.97,493.02,519.86,530.5,Weighted Blend,748.1,High,1.2745,Monitor,69.212,10.49,69.212
+50353603,Portable 4 wire Emergency Control Telephone with six pin flat type socket,Smooth,370.0,400.0,194.4,319.91,338.87,163.68,155.49,163.68,303.6,Weighted Blend,338.87,High,1.0207,Monitor,65.125,24.12,65.125
+50231832/50231881,Telephone Electronic Push Button,Smooth,1600.0,894.0,715.4,327.17,1084.0,1175.17,1116.41,1177.18,48.5,Weighted Blend,1084.0,High,0.9584,Adequate,681.783,153.55,681.783
+50231959,Telephone Electronic Push Button   main - Extn .1+1,Erratic,83.0,135.0,79.0,20.98,91.6,148.8,141.36,148.8,0.0,SBA,141.36,Low,0.4603,Adequate,120.585,365.41,120.585
+50232356/50232319,Magneto telephone,Smooth,1921.0,1865.0,982.4,2451.29,1769.51,1001.29,951.23,1003.0,2309.25,Weighted Blend,1769.51,High,15.522,Procurement Risk,440.695,21.54,-440.695
+40981381,Wire coil PVC 16/0.2 mm,Dead,0.0,86330.0,0.0,0.0,25899.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56160100,Battery Charger 230V/24V 40 AMPS,Lumpy,0.0,25.0,3.0,0.52,8.15,9.77,9.28,9.6,0.0,TSB,9.6,Low,inf,Procurement Risk,9.206,920.6,9.206
+56468040,LED Green Aspect with accessories,Smooth,1000.0,1980.0,892.0,1150.44,1287.44,738.47,701.54,738.47,1251.1,Weighted Blend,1287.44,High,2.7276,Procurement Risk,289.817,28.55,289.817
+56468052,LED Yellow aspect with accessories,Smooth,1289.0,2250.0,921.8,1258.56,1500.82,692.87,658.23,692.87,1313.3,Weighted Blend,1500.82,High,2.3747,Procurement Risk,442.075,41.98,442.075
+56468039,LED Red aspect with accessories,Smooth,1500.0,2030.0,1016.8,1436.77,1556.04,763.37,725.2,763.37,1602.1,Weighted Blend,1556.04,High,1.6501,Monitor,411.53,34.58,411.53
+56451027,Relay AC  Immune Plug in  type style-QBCA1,Smooth,438.0,5780.0,499.0,816.18,2090.62,287.75,273.36,287.75,894.1,Weighted Blend,2090.62,High,45.4482,Procurement Risk,1589.404,284.33,1589.404
+56450217,Relay AC Immune Plug in type style-QSPA1,Smooth,900.0,1700.0,995.4,692.74,1138.35,1091.86,1037.27,1091.86,493.2,Weighted Blend,1138.35,High,3.8458,Procurement Risk,366.172,47.49,366.172
+56450229,Relay AC Immune Plug in type style-QTA2,Smooth,960.0,2235.0,1802.0,1667.94,1581.69,2237.22,2125.36,2237.22,1056.8,Weighted Blend,1581.69,High,10.1391,Procurement Risk,318.753,17.52,-318.753
+50370080,4 Wire DTMP Way Station Equipment,Smooth,675.0,865.0,189.6,649.72,632.39,104.76,99.52,104.76,455.4,Weighted Blend,632.39,Medium,2.9277,Procurement Risk,265.567,74.18,265.567
+50210014,Emergency Socket Box,Erratic,190.0,120.0,283.8,68.66,175.63,571.78,543.19,571.78,121.0,SBA,543.19,Low,0.8609,Adequate,479.724,428.32,479.724
+56462050,AC Shunt Signal LED with in built current regulator,Smooth,770.0,2570.0,696.8,535.11,1271.87,615.53,584.76,615.53,426.39,Weighted Blend,1271.87,High,2.9238,Procurement Risk,780.833,144.6,780.833
+56468064,Calling on LED Signal lightning unit 100 V AC,Smooth,290.0,1350.0,230.0,274.6,594.46,192.79,183.15,192.79,272.3,Weighted Blend,594.46,High,3.9631,Procurement Risk,348.511,140.53,348.511
+56509960,Cable 2 C x 25 sq.mm,Erratic,48.3,69000.0,4556.94,12.29,21631.94,2416.6,2295.77,2416.6,0.0,SBA,2295.77,Low,2388.4218,Procurement Risk,2518.032,8481.08,2518.032
+56119033,Cable 19 C x 1.5 sq.mm,Intermittent,0.0,33500.0,547.6,547.6,10214.28,684.5,650.27,2464.2,1369.0,Croston,684.5,Medium,43.2808,Procurement Risk,684.5,,684.5
+56511516,Railjoint Insulation 60Kg.,Dead,0.0,295.0,0.0,0.0,88.5,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56163034,Voltage stabilizer 3 KVA-230V.,Smooth,19.0,11.0,7.6,0.51,12.47,11.65,11.07,11.65,0.0,Weighted Blend,12.47,Medium,0.7336,Adequate,11.925,1192.54,11.925
+56468027,Route LED Signal lightning unit 100 V AC,Smooth,750.0,3300.0,678.0,514.53,1477.05,590.07,560.57,590.07,736.5,Weighted Blend,1477.05,High,4.6303,Procurement Risk,1029.196,199.07,1029.196
+56987122/56110029,Cable 3 C x 10 sq.mm,Smooth,5.0,5500.0,2085.2,2085.2,2277.56,1558.81,1480.87,1402.93,876.8,Weighted Blend,2277.56,Medium,0.5711,Adequate,2608.047,,2608.047
+50132453,Telephone card 3 Way 1.5m long,Dead,0.0,25.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+54252222,E-TYPE LOCK,Dead,0.0,1070.0,0.0,0.0,321.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56505959,RKT single various wards,Dead,0.0,920.0,0.0,0.0,276.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+67900185,Auto Battery 12V/75AH,Intermittent,0.0,143.0,3.4,3.4,43.92,3.42,3.25,5.27,1.6,Croston,3.42,Medium,inf,Procurement Risk,3.421,,3.421
+56509686,Transformer 230/110V  -  3 KVA,Dead,0.0,38.0,0.0,0.0,11.4,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56301704,Ground Connection for IRS Point Machine,Smooth,0.0,135.0,363.4,363.4,149.52,600.94,570.89,540.85,0.0,Weighted Blend,149.52,Medium,inf,Procurement Risk,133.712,,133.712
+56986210,FS CABLE,Dead,0.0,450.0,0.0,0.0,135.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56160112,BATTERY CHARGER 230V/24V/50AMPS,Dead,0.0,21.0,0.0,0.0,6.3,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+91150401,SOLDER CORE RESIN FILLED (Kgs.),Intermittent,116.0,60.0,52.5,52.5,80.15,27.16,25.8,71.16,133.65,Croston,27.16,Medium,0.6412,Adequate,47.661,65.29,-47.661
+56060002,RAIL JOINT INSULATION 52kg. nylon comp.,Dead,0.0,720.0,0.0,0.0,216.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+50132600,Telephone card 3 Way 1.5m long,Dead,0.0,50.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+41095066,PVC Insulation TAPE (Mtrs),Intermittent,595170.0,15000.0,63978.0,63978.0,261761.4,63978.0,60779.1,319890.0,168585.75,Croston,63978.0,Medium,8.189,Procurement Risk,319890.0,100.0,-319890.0
+40070359,Wire coil 3/0 75 mm,Dead,0.0,10000.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0
+56985526,Fuse ND Type RDSO Spn 78/92 4A Maps,Dead,0.0,3000.0,0.0,0.0,900.0,0.0,0.0,0.0,0.0,Zero Forecast,0.0,Very Low,inf,Procurement Risk,0.0,,0.0

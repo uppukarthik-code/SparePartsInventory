@@ -1,0 +1,8 @@
+Aspect,Design,Status
+Scope,MAS + TPJ + SA + TVC + PGT + MDU -> Southern Railway view,foundation
+Aggregation,build_all_divisions() over reportable divisions only,IMPLEMENTED (scaffold)
+Additive KPI roll-up,"sum: stock value, gap value, Total SRRS, Tier counts",IMPLEMENTED
+Non-additive KPIs,coverage/concentration kept per-division (NOT summed),BY DESIGN
+Missing divisions,listed as pending; never fabricated,GUARDED
+Dashboard,per-division tabs + enterprise tab,DESIGN
+Output,_enterprise_rollup/enterprise_reporting_rollup.json,IMPLEMENTED

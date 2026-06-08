@@ -1,0 +1,7 @@
+Element,Before,After,Mechanism
+KPI source of truth,3 divergent computations,division_summary (single),delegating accessors
+exec_summary modern API,build_kpis (STEP1-19),es.kpis()/es.summary() -> division_summary,thin wrapper added
+mgmt_reports modern API,collect_kpis (STEP1-19),mr.modern_kpis()/modern_summary(),thin wrapper added
+legacy run() outputs,pinned 60 outputs,UNCHANGED (byte-identical),frozen for backward compat
+duplicated modern KPI logic,n/a,none (defined once),strangler boundary
+legacy compute removal,present,deferred to repo purification,deprecation marker

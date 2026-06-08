@@ -1,0 +1,6 @@
+Phase,Theme,Actions,Effort,Risk
+Phase 1,Immediate cleanup,archive M5 data+notebooks; move reports to docs/; archive drivers; pin/split deps; add README,<1wk,Low
+Phase 2,Architecture cleanup,layered package; centralize I/O reader+PL norm+CSV loader+config; extract criticality module; split god-module,2-4wk,Med
+Phase 3,Testing framework,unit+golden-file+e2e tests (SS/ROP/SRRS/lead-time/demand first); pytest+CI,2-4wk,Med
+Phase 4,Production hardening,logging; schema validation; error handling; orchestrator/CLI; lock file,3-6wk,Med
+Phase 5,Enterprise-scale readiness,parametrize division (remove hardcoded depot); pipeline DAG; enterprise rollup; perf caching,6-12wk,Med-High

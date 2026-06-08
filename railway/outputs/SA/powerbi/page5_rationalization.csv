@@ -1,0 +1,568 @@
+PL_Code,Description,Inventory_Action,Normalized_Inventory_Value,Movement_Status,Source_Universe,Inventory_Value
+129801400020,INDICATION PANEL FOR BLOCK WORKING (Single/double line),Dispose,0.0,Dead Stock,Operational,0.0
+305609390040,LOCK ORDINARY,Dispose,60.0,Dead Stock,Operational,60.0
+40070359,Wire coil 3/0 75 mm,Monitor,0.0,,Strategic,0.0
+40981381,Wire coil PVC 16/0.2 mm,Retain,3775.95,Active,Operational,3775.95
+41095066,PVC Insulation TAPE (Mtrs),Retain,1360.5,Active,Operational,1360.5
+419000010723,Rail Joint Insulation 60 Kg (Nylon),Rationalize,116250.0,Slow Moving,Operational,116250.0
+420295636237,Supply of 4 Port KVM Switch,Dispose,0.0,Dead Stock,Operational,0.0
+420501980410,"VOLTAGE  STABILIZERS 5 KVA / 230 V SINGLE PHASE, SHELF MOUNTING, STATIC, FERRO RESONANT T....",Rationalize,0.0,Slow Moving,Operational,0.0
+430199720956,AC/DC DIGITAL CLAMP METER  (Meco3600+)/METRAVI 4673,Rationalize,0.0,Slow Moving,Operational,0.0
+430200027110,Digital Multi-meter MECO 171B+TRMS 10000KHz,Rationalize,0.0,Slow Moving,Operational,0.0
+430200027121,Digital Clamp meter MECO 1008 TRMS,Rationalize,0.0,Slow Moving,Operational,0.0
+430371710010,MULTI METER ( FLUKE),Rationalize,0.0,Slow Moving,Operational,0.0
+430500067070,100V ANALOG INSULATION  TESTER,Retain,0.0,Active,Operational,0.0
+430500088693,DIGITAL EARTH TESTER,Retain,16522.46,Active,Operational,16522.46
+430800081515,Handheld Digital Infrared Thermometer MECO (IRT600TC),Rationalize,17500.0,Slow Moving,Operational,17500.0
+432000371387,1 KVA on line UPS,Retain,8102.0,Active,Operational,8102.0
+432305060018,DISTILLED WATER  PLANT WITH TWO DETACHABLE HEATING ELEMENTS OF 1500 WATTS WITH FIBRE TANK ....,Dispose,0.0,Dead Stock,Operational,0.0
+43300339,"CELLS FOR HAND TORCH DRY BATTERIES 1.5 VOLTS,TYPE R:20 METAL/PAPER JACKET AS PER ISS:8144/....",Dispose,0.0,Dead Stock,Operational,0.0
+45174404,HYDROMETER ASSEMBLY COMPLETE AS PER SEL DRG 126 CONSISTING OF (1) HYDROMETER GRADUATED FR....,Dispose,0.0,Dead Stock,Operational,0.0
+45174404/45174416,Hydro meter complete set,Monitor,74690.72,,Strategic,74690.72
+45174416,HYDROMETER ASSEMBLY COMPLETE AS PER SEL DRG 126 CONSISTING OF (1) HYDROMETER GRADUATED FRO....,Retain,926.21,Active,Operational,926.21
+459065090063,"Supply of GPS receiver module with antenna of 5mts length with RS232 O/P-1 Nos, USB to ser....",Rationalize,0.0,Slow Moving,Operational,0.0
+459072080079,Transformer 230V/110V/3 KVA,Retain,0.0,Active,Operational,0.0
+469029821314,Cable Termination Box (FRB type),Retain,1603261.27,Active,Operational,1603261.27
+469039160010,COPPER CATENARY WIRE,Rationalize,465500.0,Slow Moving,Operational,465500.0
+469041530014,Measuring tape 15m long,Dispose,250.0,Dead Stock,Operational,250.0
+469043549610,Honda Generator/HONDA GENERATOR FORTABLE (1.4-1.6KVA),Dispose,8000.0,Dead Stock,Operational,8000.0
+469056800016,BLOCK INSTRUMENT FM TYPE,Rationalize,0.0,Slow Moving,Operational,0.0
+470500470058,INVERTER 1 KVA for AMARA RAJA IPS,Rationalize,0.0,Slow Moving,Operational,0.0
+47200054,TRANSFORMERS 230/110V 1 KVA TO RDSO SPECIFICATION NO.RDSO/SPECN.262/1981 AND TO DRG NO 262....,Dispose,0.0,Dead Stock,Operational,0.0
+47200054/47200250,Transformer 230/110V  - 1 KVA,Monitor,13095.64,,Strategic,13095.64
+47200250,TRANSFORMERS 230/110V 1 KVA TO RDSO SPECIFICATION NO.RDSO/SPECN.262/1981 AND TO DRG NO 262....,Retain,21831.88,Active,Operational,21831.88
+47200250,TRANSFORMERS 230/110V 1 KVA TO RDSO SPECIFICATION NO.RDSO/SPECN.262/1981 AND TO DRG NO 262....,Retain,0.0,Active,Operational,0.0
+500100160020,Supply of 24V E1 extender at the existing Data logger end,Dispose,87360.0,Dead Stock,Operational,87360.0
+500100170024,Supply of 48Volts E1 extender at the OFC end,Dispose,87360.0,Dead Stock,Operational,87360.0
+501000184190,SMF BATTERY (Sealed Maintenance Free)  12V 7AH,Retain,0.0,Active,Operational,0.0
+50132453,Telephone card 3 Way 1.5m long,Monitor,0.0,,Strategic,0.0
+50132600,Telephone card 3 Way 1.5m long,Monitor,0.0,,Strategic,0.0
+50210014,Emergency Socket Box,Monitor,740695.44,,Strategic,740695.44
+502301210035,SIGNAL POST TELEPHONE (SPT)SYSTEM WITH TALK BACK UP FACILITY WORKING VOLTAGE  24V DC,Retain,0.0,Active,Operational,0.0
+50231832/50231881,Telephone Electronic Push Button,Monitor,540504.9,,Strategic,540504.9
+50231959,Telephone Electronic Push Button   main - Extn .1+1,Monitor,646750.0,,Strategic,646750.0
+50232319,MAGNETIC TELEPHONE WITH ELECTRO DYNAMIC TRANDUCERS CONFIRMING TO RDSO SPECN.NO.IRS-TC-36/9....,Retain,0.0,Active,Operational,0.0
+50232356/50232319,Magneto telephone,Procure Immediately,598135.2,,Strategic,598135.2
+50353603,Portable 4 wire Emergency Control Telephone with six pin flat type socket,Monitor,470112.0,,Strategic,470112.0
+50360693/50370110,4 wire way station control telephone RDSO/SPN IRS.TC.38/97 with latest amendment,Monitor,817338.8,,Strategic,817338.8
+50370080,4 Wire DTMP Way Station Equipment,Monitor,624456.0,,Strategic,624456.0
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,Procure Immediately,267725.47,Active,Operational,267725.47
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,Procure Immediately,2574186.91,Active,Operational,2574186.91
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,Procure Immediately,2280080.58,Slow Moving,Operational,2280080.58
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,Procure Immediately,288631.92,Slow Moving,Operational,288631.92
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,Procure Immediately,0.0,Slow Moving,Operational,0.0
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,Procure Immediately,2460686.09,Active,Operational,2460686.09
+508500011007,"PVC warning tape colour orange, width 250 mm (10) by printing with black letters  Indian R....",Retain,0.0,Active,Operational,0.0
+509000341650,VRLA Battery FOR LC GATE MINI IPS 2V/ 200AH ( ONE SET CONSIST OF 60 Nos OF BATTERY WITH ....,Rationalize,0.0,Slow Moving,Operational,0.0
+509000547033,NI PANEL DOUBLE LINE  WITH RELAYS,Retain,0.0,Active,Operational,0.0
+50901126,Lead Acid Batteries  - 4V/12 AH,Procure Immediately,0.0,,Strategic,0.0
+509041001511,Solar Panel 12V/35Watts,Retain,0.0,Active,Operational,0.0
+520800070014,Thermo Shrinkable Joint Kit for Jointing Under Ground Quad Cable,Dispose,0.0,Dead Stock,Operational,0.0
+521100810024,E1 Converter (V.21 to E1-Converter) with necessary connected equipment,Dispose,118448.4,Dead Stock,Operational,118448.4
+52156576/56500452,Battery charger 230V AC 110V DC 30A,Procure Immediately,417130.0,,Strategic,417130.0
+52156618/56509935,Battery charger 230V  AC/24V DC-20A,Procure Immediately,0.0,,Strategic,0.0
+522001270040,Thumb Switch 3 Position,Rationalize,0.0,Slow Moving,Operational,0.0
+527900251898,Supply of Network status monitoring software,Rationalize,0.0,Slow Moving,Operational,0.0
+529003330031,Supply of 24 Port Unmanaged LAN switch of D Link make,Dispose,0.0,Dead Stock,Operational,0.0
+539800431207,GI LOCK,Dispose,55.0,Dead Stock,Operational,55.0
+539801820013,Point CT Box ( Iron ),Dispose,0.0,Dead Stock,Operational,0.0
+539802674181,Supply of 42 U Rack,Dispose,0.0,Dead Stock,Operational,0.0
+539802997309,Digital Insulation Tester(Megger),Retain,19010.93,Active,Operational,19010.93
+539803844690,SGE (B/I)BLOCK BELL EQUIPMENT 24V DC,Dispose,73018.4,Dead Stock,Operational,73018.4
+539804489642,Supply of L2-24 Port managed LAN switch of D Link make,Dispose,0.0,Dead Stock,Operational,0.0
+539807240018,TIMER RELAY 30 SECOND,Dispose,53650.0,Dead Stock,Operational,53650.0
+539807250012,RELAY QBCA1 2F(HD)/4B,Dispose,0.0,Dead Stock,Operational,0.0
+539807260017,Relay QNA1K 6F-6B (1000 Ohms),Dispose,0.0,Dead Stock,Operational,0.0
+539807270011,Relay AC LED ECR QECX61 ( 4F/4B ),Retain,0.0,Active,Operational,0.0
+539807340013,"Track Feed Resistance ( 0-30 Ohms)Tapping at 2,4,8,16 Ohms",Rationalize,0.0,Slow Moving,Operational,0.0
+539807350018,Track Feed Battery Charger 110V/10AMPS,Dispose,0.0,Dead Stock,Operational,0.0
+539807370017,Road Warning LED RED ( RWS ),Retain,0.0,Active,Operational,0.0
+539807380011,Road Warning LED Yellow ( RWS ),Retain,0.0,Active,Operational,0.0
+539807450013,Transmitter Insert,Dispose,700.0,Dead Stock,Operational,700.0
+539807460018,Dot Matrix printer,Dispose,24303.0,Dead Stock,Operational,24303.0
+539807470012,IRS POINT MACHINE 143MM IP-67/400V ACI.,Retain,0.0,Active,Operational,0.0
+539807480017,Train Shunt Meter,Retain,18711.0,Active,Operational,18711.0
+539807490011,Measuring Tape 5 Mts Long,Rationalize,0.0,Slow Moving,Operational,0.0
+539807500016,Hacksaw Frame 300MM,Rationalize,0.0,Slow Moving,Operational,0.0
+539807510010,Long Nose Plier 6 inch,Rationalize,0.0,Slow Moving,Operational,0.0
+539807520015,Cutting Plier 8 Inch,Rationalize,0.0,Slow Moving,Operational,0.0
+539807530010,Infrared Handheld Thermo Meter ( FLUKE ),Rationalize,0.0,Slow Moving,Operational,0.0
+539807540014,Megger MC 941 ( analog Insulation Tester ),Rationalize,0.0,Slow Moving,Operational,0.0
+539807550019,Digital Multi Meter Rish-15S,Dispose,0.0,Dead Stock,Operational,0.0
+539807560013,SPT ( Signal Post Telephone 24VDC ),Rationalize,0.0,Slow Moving,Operational,0.0
+539807570018,Insulation test Megger (Yokins) Handle Type,Retain,0.0,Active,Operational,0.0
+539810450016,Point Test Gauge,Rationalize,0.0,Slow Moving,Operational,0.0
+539810460010,CLS Unit 2 Aspect,Retain,179666.58,Active,Operational,179666.58
+539810470015,CLS Unit 3 Aspect,Retain,489211.63,Active,Operational,489211.63
+539810480010,GI Pipe 50 MM Dia,Rationalize,4161.96,Slow Moving,Operational,4161.96
+539810490014,D Bracket Insulation set,Rationalize,0.0,Slow Moving,Operational,0.0
+539810500019,L Bracket Insulation Set,Rationalize,0.0,Slow Moving,Operational,0.0
+539810510013,Stretcher Bar Insulation Set,Rationalize,0.0,Slow Moving,Operational,0.0
+539810520018,SPD Data for HASSDAC/SSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+539810530012,SPD 24V DC for HASSDAC/SSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+539810540017,SPD 48V DC for HASSDAC/SSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+539810550011,SCC-1 Card (710P),Rationalize,0.0,Slow Moving,Operational,0.0
+539810560016,SCC-2 Card (710P),Rationalize,0.0,Slow Moving,Operational,0.0
+539810570010,MLB-1 ( CEL Make ),Dispose,654900.0,Dead Stock,Operational,654900.0
+539810580015,MLB-2 ( CEL Make ),Dispose,654900.0,Dead Stock,Operational,654900.0
+539810660011,RTU 64 Dig/16 Analog Inputs,Retain,543184.0,Active,Operational,543184.0
+539810670016,Power Supply Arrangement for RTU and Battery 12V/42AH( 2Nos) with 10Amps (1 Nos)Charger,Dispose,0.0,Dead Stock,Operational,0.0
+539810680010,GSM/GPRS Modem,Rationalize,0.0,Slow Moving,Operational,0.0
+539810690015,Event Logger Card (CEL Make),Dispose,184080.0,Dead Stock,Operational,184080.0
+539810700010,Modem Card ( CEL Make ),Rationalize,0.0,Slow Moving,Operational,0.0
+539810710014,Dc-Dc Converter Card ( CEL Make ),Dispose,302080.0,Dead Stock,Operational,302080.0
+539810770011,External Leased Line Modem,Rationalize,42480.0,Slow Moving,Operational,42480.0
+539810780016,DWC Pipe 103.5MM dia ( 6 Mts Long ),Retain,209548.35,Active,Operational,209548.35
+539810790010,Multi meter 18S/FLUKE,Retain,0.0,Active,Operational,0.0
+539810800015,CPVC PIPE 25MM DIA ( 3 Mts LONG ),Rationalize,29678.73,Slow Moving,Operational,29678.73
+539810810010,FIRE ALARM CIRCUIT INTEGRITY CABLE 2CX1.5Sq.MM (UN ARMOURED ),Rationalize,118859.64,Slow Moving,Operational,118859.64
+539810820014,FIRE ALARM CIRCUIT INTEGRITY CABLE 2CX1.5Sq.MM ( ARMOURED),Dispose,338000.0,Dead Stock,Operational,338000.0
+539812050017,APP Case RTU BOX,Retain,724556.69,Active,Operational,724556.69
+539812600017,MAINTAINER HEAD LAMP,Retain,21608.0,Active,Operational,21608.0
+539814601542,SMR Module 110V/20 Amps for STATCON MAKE IPS,Rationalize,0.0,Slow Moving,Operational,0.0
+539814601645,SMR Module 110V/20 Amps for HBL make IPS,Rationalize,0.0,Slow Moving,Operational,0.0
+539815021200,LED 5MM ASSEMBLY FOR PANEL (Various colours ),Rationalize,27250.0,Slow Moving,Operational,27250.0
+539819581193,Surge Protective Device(SPD) Life Tester,Retain,0.0,Active,Operational,0.0
+539820480017,T Joints 1 1/4'' Dia,Rationalize,0.0,Slow Moving,Operational,0.0
+539820490011,SPD  Class 'D' 110V AC/DC With Enclosure  Box,Retain,136800.0,Active,Operational,136800.0
+539820960015,Annunciator 8 Way,Rationalize,0.0,Slow Moving,Operational,0.0
+539820980014,NYLON RAIN COAT,Retain,3199.0,Active,Operational,3199.0
+539829590257,INVERTER 2KVA for HBL make IPS,Rationalize,0.0,Slow Moving,Operational,0.0
+539829680155,SMR Module 110V/20 Amps for AMARA RAJA IPS,Retain,499917.96,Active,Operational,499917.96
+539832391197,DC-DC Converter 12-28V  5Amps for STATCON ENERGIAA make IPS,Dispose,0.0,Dead Stock,Operational,0.0
+539832391203,DC-DC Converter 40-100V 1Amps for STATCON ENERGIAA make IPS,Dispose,0.0,Dead Stock,Operational,0.0
+539832391215,DC-DC Converter 24-32V 5Amps for STATCON ENERGIAA make IPS,Dispose,0.0,Dead Stock,Operational,0.0
+539838630104,KLCR Box for 4 Way,Retain,2311478.4,Active,Operational,2311478.4
+539850660060,INVERTER 1.5 KVA for STATCON IPS,Retain,0.0,Active,Operational,0.0
+539851510020,Fit & Forget Bond wire 2mtr long,Retain,0.0,Active,Operational,0.0
+539851560035,Fit & Forget Bond Wire 1.5 mtr long(4mm Dia),Retain,0.0,Active,Operational,0.0
+539857910123,HEAVY DUTY DRILLING MACHINE(OJASVI MAKE-MODEL-MG50-O),Rationalize,0.0,Slow Moving,Operational,0.0
+539863180044,Annunciator 12 Way,Rationalize,0.0,Slow Moving,Operational,0.0
+539868610077,Fit and Forget Lead wire 4.5 mtr 4 MM DIA,Retain,0.0,Active,Operational,0.0
+539872310044,FIT AND FORGET BOND WIRE 3 METER LONG 4MM DIA,Retain,0.0,Active,Operational,0.0
+539883630791,I/O CARD PIO3C (PIO2-LOG) FOR EI KYOSON,Retain,0.0,Active,Operational,0.0
+539883712023,Hardware items in connection with Alteration of Electronic interlocking (1) E-P5 SUBRACKWI....,Retain,0.0,Active,Operational,0.0
+539885200027,B TYPE CHOKE AS PER RDSO APEC.NO. IRS.S.65-83 WITH LATEST AMENDMENT-3,Retain,8719.79,Active,Operational,8719.79
+539895630018,TLD BOX ( FRP TYPE ),Dispose,0.0,Dead Stock,Operational,0.0
+539896330109,Insulation for 220mm Point Machine Ground Connections. and One set consists of :- 1. Insul....,Retain,303325.1,Active,Operational,303325.1
+539896330146,Insulation for 220mm Point Machine Ground Connections. and One set consists of :- 1. Insul....,Retain,128480.0,Active,Operational,128480.0
+539896770973,Integrated Electronic Cable Route Locator,Rationalize,0.0,Slow Moving,Operational,0.0
+539896830301,"ND Fuse Cylindeical Various ratting(2A,4A,6A,10A,16A,20A)",Rationalize,0.0,Slow Moving,Operational,0.0
+539897026696,Eearthing (Ring type) for EI/IPS equipments and other equipments which consists of the fol....,Retain,0.0,Active,Operational,0.0
+539897080010,Relay QNA1K 6F/6B,Retain,761105.0,Active,Operational,761105.0
+539897650320,Track Feed Resistance (0-30 Ohms),Retain,0.0,Active,Operational,0.0
+540100550027,"Microprocessor Based SSBPAC(D) for S/L including relay rack, without relays(1set=2nos)",Retain,1311875.0,Active,Operational,1311875.0
+541000020015,Solid Joint 1 1/4,Retain,67200.0,Active,Operational,67200.0
+541000030010,Single Ground Frame,Retain,46000.0,Active,Operational,46000.0
+541000040014,' A ' TYPE FOUNDATION FOR LC GATE,Retain,1452918.6,Active,Operational,1452918.6
+541500010187,Supply of Signal status monitoring Software,Rationalize,0.0,Slow Moving,Operational,0.0
+542100010031,Adjustable Crank,Retain,102500.0,Active,Operational,102500.0
+542218842111,EOLB with Boom Assembly (9.76 octagonal),Retain,465000.0,Active,Operational,465000.0
+542218842263,Control Panel for EOLB,Rationalize,0.0,Slow Moving,Operational,0.0
+54252222,E-TYPE LOCK,Rationalize,0.0,Slow Moving,Operational,0.0
+54253561,Hand Plungerlock with key,Retain,0.0,Active,Operational,0.0
+54253561,Hand Plungerlock with key,Monitor,0.0,Slow Moving,Operational,0.0
+543100060010,Surface Base,Retain,268109.35,Active,Operational,268109.35
+543600011679,OFFSET BRACKET CLS 140 mm Dia  & Calling on UNIT 90mm Dia,Retain,912.0,Active,Operational,912.0
+54360031,LAMP 110V-75W-2PIN TYPE BC TO IS 418/1963,Dispose,0.0,Dead Stock,Operational,0.0
+545401070025,FIT & FORGET LEAD WIRE ( 3 METER LONG ),Retain,0.0,Active,Operational,0.0
+545401070062,Fit & Forget Lead wire 2mtr long(4mm dia),Retain,0.0,Active,Operational,0.0
+545401070074,Fit & Forgot Lead wire 1.5 mtr long(4mm dia),Retain,0.0,Active,Operational,0.0
+549005641763,EOLB SPARE BOOM ASSEMBLY 9.76MTRS(OCTAGONAL) (FOR L.C. GATE),Rationalize,244391.82,Slow Moving,Operational,244391.82
+549005860011,Block Collars,Retain,1200.0,Active,Operational,1200.0
+549006900016,EWS Lock,Rationalize,8656.96,Slow Moving,Operational,8656.96
+549006910010,Goods Warning Board,Rationalize,107800.0,Slow Moving,Operational,107800.0
+549006920015,Straight Arm Crank,Retain,150000.0,Active,Operational,150000.0
+549006930010,Single End Screw Coupling Butt,Retain,2400.0,Active,Operational,2400.0
+549006940014,Normal Crank / Ordinary Crank,Retain,16500.0,Active,Operational,16500.0
+549006960013,Software CD for RTU,Rationalize,0.0,Slow Moving,Operational,0.0
+549006970018,Isolation Transformer 470:470 Ohms,Dispose,0.0,Dead Stock,Operational,0.0
+549006980012,Power Supply Arrangement for RTU and Battery 12V/40AH( 2Nos) with 7Amps (1 Nos)Charger,Dispose,0.0,Dead Stock,Operational,0.0
+549007201195,CLS LADDER  WITH PLATFORM ( GALVANIZED) and shoes 4.6 MTS.,Retain,56980.0,Active,Operational,56980.0
+549007500010,Fit & Forget Bond Wire 1.5 Mts Long Continuity bond wire.,Dispose,0.0,Dead Stock,Operational,0.0
+549007510015,Fit & Forget Lead Wire 2 Mts Long.,Retain,0.0,Active,Operational,0.0
+549009220016,Rodding 1 1/4 ( 6 Mts Long ),Retain,1976000.0,Active,Operational,1976000.0
+551200010017,"E Type Lock with key (RDSO Drg no.SA-3377/M,RDSO specno.IRS:S-30/64).",Retain,13147.69,Active,Operational,13147.69
+551200060010,Tumbler Spring,Rationalize,5000.0,Slow Moving,Operational,5000.0
+553000080010,Configuration Plate For IRS Point Machine.,Retain,11024.0,Active,Operational,11024.0
+553000090015,Galvanized Ground Connection For IRS Point Machine 143MM,Retain,0.0,Active,Operational,0.0
+553000160017,L Bracket Insulation Set,Rationalize,6892.83,Slow Moving,Operational,6892.83
+555400090016,CLS Unit 3 Aspect,Rationalize,0.0,Slow Moving,Operational,0.0
+555400130026,CLS Unit 4 Aspect,Rationalize,0.0,Slow Moving,Operational,0.0
+556200010012,TRESTLES 2/4 WAY,Retain,114460.0,Active,Operational,114460.0
+556200060015,Segments,Retain,56400.0,Active,Operational,56400.0
+556300060025,Fit & Forget Lead Wire 3 mtr long(4mm Dia),Retain,0.0,Active,Operational,0.0
+56010011,SGE BLOCK INSTRUMENT (DOUBLE LINE),Rationalize,0.0,Slow Moving,Operational,0.0
+560101750036,Bell Relay 960 Ohms for Block Instrument,Rationalize,0.0,Slow Moving,Operational,0.0
+560400131772,SVPD  FOR HASSDAC   (CEL MAKE),Rationalize,0.0,Slow Moving,Operational,0.0
+560401070031,Input/Output Board-IO Exb for FRAUSCHER make MSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560401080036,Power Supply Board(PSC) for FRAUSCHER make MSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560401830037,Rx Coil 21/25KHZ-15mts cable length for G.G.TRONICS make HASSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560402822826,HASSDAC Coil(Tx&Rx)(21/25KHZ)G.G.Tronics,Retain,0.0,Active,Operational,0.0
+560402831839,TX Coil 21/25KHZ-25 Mtrs cable length for G.G.TRONICS make HASSDAC,Dispose,0.0,Dead Stock,Operational,0.0
+560402940010,SCC-1 Card (710A) Digital Axle Counter spares,Dispose,153400.0,Dead Stock,Operational,153400.0
+560402950014,SCC-2 Card (710A) Digital Axle Counter spares,Dispose,153400.0,Dead Stock,Operational,153400.0
+560402960019,Relay Drive Card ( CEL Make ) Digital Axle Counter spares,Dispose,184080.0,Dead Stock,Operational,184080.0
+560402970013,Reset Box ( CEL Make ),Dispose,0.0,Dead Stock,Operational,0.0
+560403031454,Rx Coil 21/25KHZ-25 Mtrs cable length for G.G.TRONICS make HASSDAC,Dispose,0.0,Dead Stock,Operational,0.0
+560403031466,Rx Coil 21/25KHZ-15 Mtrs cable length for G.G.TRONICS make HASSDAC,Dispose,0.0,Dead Stock,Operational,0.0
+560403031624,Tx Coil 21/25KHZ-15mts cable length for G.G.TRONICS make HASSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560403210014,HASSDAC (GG Tronics Make ) Complete Set,Dispose,0.0,Dead Stock,Operational,0.0
+560403220019,CEL MAKE HASSDAC COMPLETE SETS[HASSDAC].Make;-CEL ( One Set consist of 1) field equipment ....,Rationalize,0.0,Slow Moving,Operational,0.0
+560404060050,Communication Board COM-Adc for FRAUSCHER make MSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560404462394,Tx Coil 21/25KHZ-15 Mtrs cable length for G.G.TRONICS make HASSDAC,Dispose,0.0,Dead Stock,Operational,0.0
+560405910015,RELAY QN1K ( 1000 Ohms ) 6F/6B,Dispose,0.0,Dead Stock,Operational,0.0
+560408510024,Axle Counter Evaluation Board-AEB for FRAUSCHER make MSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560408560015,HASSDAC TRACK MARKING JIG & DUMMY WHEEL,Dispose,0.0,Dead Stock,Operational,0.0
+560408570010,TRAIN SIMULATOR FOR HASSDAC( GG TRONICS ),Dispose,44000.0,Dead Stock,Operational,44000.0
+560409690034,Wheel Sensor with Protection Tube for FRAUSCHER make MSDAC,Rationalize,0.0,Slow Moving,Operational,0.0
+560411770025,Auto Change over Card (one voice modem circuit & one EI converter),Rationalize,105000.0,Slow Moving,Operational,105000.0
+56060002,RAIL JOINT INSULATION 52kg. nylon comp.,Retain,57200.0,Active,Operational,57200.0
+560600080516,VDU 55 inch monitor (SAMSUNG MAKE - MODEL - 55QM5C),Rationalize,687159.0,Slow Moving,Operational,687159.0
+560601907418,DC DC Converter Card 40-100V/ 1 Amps (Amara raja make IPS),Rationalize,0.0,Slow Moving,Operational,0.0
+560601990012,ISOLATION TRANSFORMER 110V/110V/50VA,Dispose,0.0,Dead Stock,Operational,0.0
+560604186167,Emergency Sliding Boom complete set,Rationalize,0.0,Slow Moving,Operational,0.0
+560604290013,Earth leakage detector with frame,Dispose,0.0,Dead Stock,Operational,0.0
+560604460253,"Tool kit for HASSDAC, suitable for HASSDAC make - G.G.Tronics i) DUMMY WHEEL ii)Digital m....",Rationalize,0.0,Slow Moving,Operational,0.0
+560608500014,Choke B Type,Rationalize,0.0,Slow Moving,Operational,0.0
+560609510052,MOTORIZED BOOM MEETING POST FOR EOLB ( LC GATE ),Rationalize,0.0,Slow Moving,Operational,0.0
+560610760019,ELECTROLYTIC CONDENSER 5000 MFD 50 V DC,Rationalize,54480.6,Slow Moving,Operational,54480.6
+560613640013,ISOLATION TRANSFORMER 110V AC/50HZ/40VA,Rationalize,0.0,Slow Moving,Operational,0.0
+560614200173,SPD Data for SSBPAC,Rationalize,75412.5,Slow Moving,Operational,75412.5
+560614200185,SPD 24V DC(Class-D) for SSBPAC,Rationalize,94650.0,Slow Moving,Operational,94650.0
+560629510021,IRS POINT MACHINE 143mm IP67 (160V AC Immunized),Retain,0.0,Active,Operational,0.0
+560633350028,IRS POINT MACHINE 220mm STROKE  IP 67 (400V AC ),Retain,2862008.26,Active,Operational,2862008.26
+560633360034,CABLE CLAMP ASSEMBLY FOR SLEEPER (GALVANIZED) 60KG(PTJ),Retain,0.0,Active,Operational,0.0
+560800130874,High availability Single Section Digital Axle counter [HASSDAC].Make;-GG  tronics( One Set....,Rationalize,0.0,Slow Moving,Operational,0.0
+56110029,POWER CABLE 3C X 10SQ.MM  PVC INSULATED ARMOURED UNSCREENED UNDERGROUND CABLE.,Rationalize,0.0,Slow Moving,Operational,0.0
+56110029,POWER CABLE 3C X 10SQ.MM PVC INSULATED ARMOURED UNSCREENED UNDERGROUND CABLE.,Rationalize,0.0,Slow Moving,Operational,0.0
+561183522775,Wire Coil 16/0.2mm (PVC multi strand ATC) (1 no = 100meters),Retain,58965.0,Active,Operational,58965.0
+56119033,Cable 19 C x 1.5 sq.mm,Procure Immediately,0.0,Slow Moving,Operational,0.0
+56119033,Cable 19 C x 1.5 sq.mm,Procure Immediately,0.0,Slow Moving,Operational,0.0
+56119537,Cable 2 C x 2.5 sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56119537,Cable 2 C x 2.5 sq.mm,Procure Immediately,0.0,Slow Moving,Operational,0.0
+561195700010,Arrow Plate for Signal,Dispose,2210.0,Dead Stock,Operational,2210.0
+561199050070,PVC WIRE COIL 3/0.75MM MULTI STRAND.,Retain,0.0,Active,Operational,0.0
+561300880010,S/L Token less B/I Transmitter (TX-1800HZ ),Rationalize,0.0,Slow Moving,Operational,0.0
+561300890015,S/L Token less B/I Transmitter (TX-2700HZ ),Dispose,0.0,Dead Stock,Operational,0.0
+561300900010,S/L Token less B/I Receiver (RX-1800HZ ),Rationalize,0.0,Slow Moving,Operational,0.0
+561300910014,S/L Token less B/I Receiver (RX-2700HZ ),Dispose,0.0,Dead Stock,Operational,0.0
+561300920019,UFSBI Block Instruments,Dispose,0.0,Dead Stock,Operational,0.0
+561301001009,Filter Unit for Block Instrument,Dispose,0.0,Dead Stock,Operational,0.0
+561301161499,SGE D/L Block Instrument,Rationalize,0.0,Slow Moving,Operational,0.0
+561548480593,VRLA Battery for IPS 110V/120AH (One set consist of 2V/120AH-60Nos(55+5),Rationalize,0.0,Slow Moving,Operational,0.0
+56160010,Battery Charger 230V/24V/30 Amps. As per RDSO Specn. No. IRS.S.86/2000 (Amndt.-4) or lates....,Rationalize,0.0,Slow Moving,Operational,0.0
+56160010,Battery Charger 230V/24V 30 amps. As per RDSO Specn. No. IRS.S.86/2000 (Amndt.-4) or lates....,Rationalize,0.0,Slow Moving,Operational,0.0
+56160100,Battery Charger 230V/24V 40 AMPS,Procure Immediately,0.0,Slow Moving,Operational,0.0
+56160112,BATTERY CHARGER 230V/24V/50AMPS,Dispose,0.0,Dead Stock,Operational,0.0
+56163034,Voltage stabilizer 3 KVA-230V.,Monitor,103710.54,Slow Moving,Operational,103710.54
+561800840050,JUNCTION TYPE ROUTE INDICATOR - 1 Way,Retain,0.0,Active,Operational,0.0
+561800850067,JUNCTION TYPE ROUTE INDICATOR - 2 Way,Rationalize,0.0,Slow Moving,Operational,0.0
+562100250017,SM's Slide 2 Way,Retain,0.0,Active,Operational,0.0
+56220509,ELECTRONIC TIME DELAY DEVICE 120 Second,Dispose,0.0,Dead Stock,Operational,0.0
+56220509,ELECTRONIC TIME DELAY  120 SECOND,Retain,11065.0,Active,Operational,11065.0
+563000014566,IRS Electrical point machine 143mm( IP-65 ) 400V ACI,Retain,0.0,Active,Operational,0.0
+56300013,COVER ASSEMBLY FOR IRS POINT MACHINE 143mm(Top cover),Rationalize,0.0,Slow Moving,Operational,0.0
+56300177,SLIDE COVERS FOR IRS POINT MACHINE 143MM (complete set-4nos),Rationalize,0.0,Slow Moving,Operational,0.0
+563002480040,LOCK SLIDES FOR TWS(220MM) POINT MACHINE 75MM,Rationalize,0.0,Slow Moving,Operational,0.0
+563003040011,Point machine 143mm-400V ACI,Rationalize,0.0,Slow Moving,Operational,0.0
+563003040035,Point machine 143mm-IP67- 400V ACI,Retain,2770324.23,Active,Operational,2770324.23
+563003040102,IRS Point Machine 220mm Stroke 400V ACI,Rationalize,0.0,Slow Moving,Operational,0.0
+563003510039,PROTECTION COVER FOR SWITCH EXTENSION BRACKET WITH FASTENERS.,Retain,13548.0,Active,Operational,13548.0
+56301571,ROTARY TYPE  IRS  POINT MACHINE110V 143MM,Dispose,0.0,Dead Stock,Operational,0.0
+56301571,ROTARY TYPE  POINT MACHINE110V 143MM stroke,Rationalize,0.0,Slow Moving,Operational,0.0
+56301704,Ground Connection for IRS Point Machine,Dispose,0.0,Dead Stock,Operational,0.0
+56301704,Ground Connection for IRS Point Machine,Rationalize,90944.78,Slow Moving,Operational,90944.78
+563045820018,"D Bracket Insulation Set for IRS Point machine ( 1 RH Plate, 1 LH Plate, Bush-S-23199-04 n....",Rationalize,167413.01,Slow Moving,Operational,167413.01
+563045830012,"Stretcher Bar Insulation Set for IRS Point machine ( Plate-T 10367, 01 no, Bush-T-10368-02....",Retain,649.0,Active,Operational,649.0
+563045840080,"Gauge Tie Plate Insulation Complete Set ( Plate-T--10371= 1 no, Bush-T-10368=03 Nos and Wa....",Retain,117705.0,Active,Operational,117705.0
+563045890010,Tool Kit For IRS Point Machine,Dispose,0.0,Dead Stock,Operational,0.0
+563045900014,Point CT Box ( Iron ),Retain,30586.0,Active,Operational,30586.0
+563046530036,Point machine Cover 143mm(Top cover),Rationalize,0.0,Slow Moving,Operational,0.0
+563047080014,POINT MACHINE For Thick Web Switch (TWS) 220MM,Dispose,0.0,Dead Stock,Operational,0.0
+563047080014,POINT MACHINE For Thick Web Switch (TWS) 220MM,Rationalize,0.0,Slow Moving,Operational,0.0
+563047090019,Ground Connection For IRS Point Machine TWS 220 MM ( Complete set ),Dispose,0.0,Dead Stock,Operational,0.0
+563047090019,Ground Connection For IRS Point Machine TWS 220 MM ( Complete set ),Rationalize,0.0,Slow Moving,Operational,0.0
+563047190014,Tool Kit For IRS Point Machine 143MM (or) 220MM,Rationalize,0.0,Slow Moving,Operational,0.0
+564201500049,CLS POLE 4.6/3.6MTS (GALVANIZED),Retain,58410.0,Active,Operational,58410.0
+56450217,Relay AC Immune Plug in type style-QSPA1,Retain,291499.08,Active,Operational,291499.08
+56450217,Relay AC Immune Plug in type style-QSPA1,Retain,204093.0,Active,Operational,204093.0
+56450229,Relay AC Immune Plug in type style-QTA2,Retain,639450.0,Active,Operational,639450.0
+56450229,Relay AC Immune Plug in type style-QTA2,Retain,0.0,Active,Operational,0.0
+56451027,Relay AC  Immune Plug in  type style-QBCA1,Retain,0.0,Active,Operational,0.0
+56451027,Relay AC  Immune Plug in  type style-QBCA1,Retain,0.0,Active,Operational,0.0
+56452032,RELAY QN1 12F/4B PLUG IN TYPE,Dispose,0.0,Dead Stock,Operational,0.0
+564520370017,Relay AC LED ECR QECX61,Retain,0.0,Active,Operational,0.0
+564600010017,MULTI LAMP ROUTE INDICATOR (LED MATRIX TYPE ),Dispose,0.0,Dead Stock,Operational,0.0
+564600010017,MULTI LAMP ROUTE INDICATOR (LED MATRIX TYPE ),Rationalize,0.0,Slow Moving,Operational,0.0
+56462050,AC Shunt Signal LED with in built current regulator,Procure Immediately,0.0,Active,Operational,0.0
+56462050,AC Shunt Signal LED with in built current regulator,Procure Immediately,320113.83,Active,Operational,320113.83
+56468027,Route LED Signal lightning unit 100 V AC,Procure Immediately,0.0,Active,Operational,0.0
+56468027,Route LED Signal lightning unit 100 V AC,Procure Immediately,1205796.1,Active,Operational,1205796.1
+56468039,LED Red aspect with accessories,Procure Immediately,2341985.42,Active,Operational,2341985.42
+56468039,LED Red aspect with accessories,Procure Immediately,194596.55,Active,Operational,194596.55
+56468040,LED Green Aspect with accessories,Procure Immediately,2268487.12,Active,Operational,2268487.12
+56468040,LED Green Aspect with accessories,Procure Immediately,286635.06,Active,Operational,286635.06
+56468052,LED Yellow aspect with accessories,Procure Immediately,1320824.06,Active,Operational,1320824.06
+56468052,LED Yellow aspect with accessories,Procure Immediately,1296472.9,Active,Operational,1296472.9
+56468064,Calling on LED Signal lightning unit 100 V AC,Procure Immediately,0.0,Slow Moving,Operational,0.0
+56468064,Calling on LED Signal lightning unit 100 V AC,Procure Immediately,149707.92,Active,Operational,149707.92
+564680680045,CLS unit 3 Aspect ( MILD STEEL ),Dispose,0.0,Dead Stock,Operational,0.0
+564700020010,Calling On Aspect  Unit ( HOOD ASSEMBLY ),Dispose,0.0,Dead Stock,Operational,0.0
+564700020033,Calling On Aspect  Unit,Retain,0.0,Active,Operational,0.0
+564700040019,Shunt Signal Position Light,Retain,40356.4,Active,Operational,40356.4
+564700050013,Shunt Signal Position Light,Retain,7463.5,Active,Operational,7463.5
+565000042810,Top Roller,Retain,35530.0,Active,Operational,35530.0
+56500026,APPRATUS CASE GRS TYPE Full Box,Retain,486330.0,Active,Operational,486330.0
+56500026,APP CASE Full GRS Box (Released class-II),Rationalize,0.0,Slow Moving,Operational,0.0
+56500142,RELAY QNA1 ACI 8F/8B,Rationalize,0.0,Slow Moving,Operational,0.0
+56500142,RELAY QNA1 ACI 8F/8B,Retain,3814837.39,Active,Operational,3814837.39
+565002390048,Crank Handle for IRS Point machine 143mm,Retain,0.0,Active,Operational,0.0
+565002570026,Supply of Dual Card E1 to RS232 converter for Data logger,Dispose,0.0,Dead Stock,Operational,0.0
+56500350,Battery charger 110V AC 24V DC 30A,Monitor,0.0,,Strategic,0.0
+56500361,Battery Charger 230V/24V 50 amps. As per RDSO Specn. No. IRS.S.86/2000 (Amndt.-4) or lates....,Dispose,0.0,Dead Stock,Operational,0.0
+56500452,BATTERY CHARGER 230V / 110V / 30 AMPS SPECN.No.IRS-S-86/2000 WITH AMENDMENT - 4. OR LATEST....,Retain,0.0,Active,Operational,0.0
+56500452,BATTERY CHARGER 230V AC/110V DC/30 Amps.,Rationalize,0.0,Slow Moving,Operational,0.0
+56500464,APPARATUS CASE HALF GRS TYPE,Retain,1995357.4,Active,Operational,1995357.4
+56500488,JELLY FILLED 6 QUAD CABLE 0.9MM DIA AS PER IRS SPECIFICATION No IRS:TC:30/2005 [VER 1] WIT....,Retain,0.0,Active,Operational,0.0
+565010000010,PBT Fuse Block 60 mm,Rationalize,8284.12,Slow Moving,Operational,8284.12
+565010000010,Rail Joint Insulation 60 KG (RJ ),Retain,45878.4,Active,Operational,45878.4
+565010000010,Electric Key Transmitter (EKT),Retain,22692.0,Active,Operational,22692.0
+565010000010,CLS Pole 3.6 Mts Long,Dispose,0.0,Dead Stock,Operational,0.0
+565010000010,Bottom Roller for LC gate,Retain,27265.0,Active,Operational,27265.0
+56501006,Cable 24 C x 1.5 Sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56501006,Cable 24 C x 1.5 Sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56501018,Cable 30 C x 1.5 Sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56501018,Cable 30 C x 1.5 Sq.mm,Procure Immediately,0.0,Slow Moving,Operational,0.0
+56502540,Fuse ND type  RDSO spn 78/92 6 Amps,Retain,21074.7,Active,Operational,21074.7
+56502540,Fuse ND type  RDSO spn 78/92 6 Amps,Retain,0.0,Dead Stock,Operational,0.0
+56502576,Fuse ND type RDSO spn 78/92 16 Amps,Retain,26822.95,Active,Operational,26822.95
+56502606,Fuse ND type RDSO spn 78/92 10 Amps,Procure Immediately,7586.2,Active,Operational,7586.2
+56505959,RKT single various wards,Monitor,0.0,,Strategic,0.0
+56507641,Channel Bond Pin,Retain,94696.0,Active,Operational,94696.0
+56507641,Channel Bond Pin,Monitor,0.0,Slow Moving,Operational,0.0
+56508116,RELAY QN1 8F/8B PLUG IN TYPE,Retain,1140102.0,Active,Operational,1140102.0
+56508116,RELAY QN1 8F/8B PLUG IN TYPE,Retain,0.0,Active,Operational,0.0
+56509376,A.R.A Terminal Block 25mm PBT small,Retain,106150.0,Active,Operational,106150.0
+56509376,A.R.A Terminal Block 25mm PBT small,Retain,959868.78,Active,Operational,959868.78
+56509388,A.R.A Terminal Block 60mm PBT,Retain,121917.95,Slow Moving,Operational,121917.95
+56509388,A.R.A Terminal Block 60mm PBT,Retain,1075957.28,Active,Operational,1075957.28
+56509388,A.R.A Terminal Block 60mm PBT,Retain,0.0,Dead Stock,Operational,0.0
+56509686,Transformer 230/110V  -  3 KVA,Monitor,0.0,,Strategic,0.0
+56509935,BATTERY CHARGER 230V AC / 24V DC 20 AMPS TO RDSO SPECN.IRS.S.86/2000 AMENDMENT NO.4 OR LAT....,Rationalize,111300.0,Slow Moving,Operational,111300.0
+56509959,Cable 12 C x 1.5 Sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56509959,Cable 12 C x 1.5 Sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56509960,Cable 2 C x 25 sq.mm,Procure Immediately,0.0,Active,Operational,0.0
+56509960,Cable 2 C x 25 sq.mm,Procure Immediately,0.0,Slow Moving,Operational,0.0
+565099930018,Rod Joint Insulation For LC Whether,Rationalize,2325.0,Slow Moving,Operational,2325.0
+565100010052,Isolation Transformer for LED Signal 110v/110v 50 VA,Dispose,0.0,Dead Stock,Operational,0.0
+565100510012,ELECTRIC TRACK DRILLING MACHINE 110V/50Hz WITH MOUNTING STAND,Dispose,0.0,Dead Stock,Operational,0.0
+56511516,Railjoint Insulation 60Kg.,Procure Immediately,0.0,,Strategic,0.0
+565172845520,Data Logger System with 1024D/32A (EFFTRONICS),Rationalize,0.0,Slow Moving,Operational,0.0
+565198330017,INVERTER 24VDC/110VAC/500VA,Dispose,0.0,Dead Stock,Operational,0.0
+565199140017,CLS Pole 4.6 Mts Long,Retain,178060.46,Active,Operational,178060.46
+565199150011,GI Pipe 100MM Dia/4.5MM thick( 6 Mts Long ),Retain,4302880.95,Active,Operational,4302880.95
+565199160016,ND Fuse 2 Amps,Rationalize,3947.9,Slow Moving,Operational,3947.9
+565199170010,ND Fuse 4 Amps,Dispose,0.0,Dead Stock,Operational,0.0
+565199402140,Supply of Multi Port Front end processor along with 1 no dual card E1 Modem as per RDSO Sp....,Dispose,0.0,Dead Stock,Operational,0.0
+565199840120,Supply of Central Monitoring Unit(CMU)as per RDSO Spec.IRS.S:99/2006,Dispose,0.0,Dead Stock,Operational,0.0
+565199840131,Client PC for interfacing to CMU and CRIS server.,Dispose,0.0,Dead Stock,Operational,0.0
+567900419426,"Relays for SSBPAC(D) S/L (1set=QNN1-4, QNA1-10, QL1-4, QN1-4nos)",Retain,216025.0,Active,Operational,216025.0
+567900419931,"Relay QNN1, 4F/4B 24v DC Twin Neutral Line Relay.",Rationalize,0.0,Slow Moving,Operational,0.0
+567900800018,SPD Class-'D' 24V Dc With Enclosure Box,Retain,137126.86,Active,Operational,137126.86
+567900830011,Solar Panel 12V/35Watts,Retain,0.0,Active,Operational,0.0
+567900840016,Road Warning Amplifier ( Digital Voice Annunciating System ),Dispose,0.0,Dead Stock,Operational,0.0
+567900850010,Driver Unit With Horn  (ONE SET CONSIST OF DRIVER UNIT 2 NOS  & HORN 2 NOS),Rationalize,2240.0,Slow Moving,Operational,2240.0
+567900870010,Panel Knob for Control Panel,Rationalize,85117.41,Slow Moving,Operational,85117.41
+567900880014,Thumb Switch 2 Position,Rationalize,15106.74,Slow Moving,Operational,15106.74
+567900890019,Push Switch For Panel,Retain,31771.43,Active,Operational,31771.43
+567900900013,PPTC Fuse 2 Amps,Rationalize,9550.0,Slow Moving,Operational,9550.0
+567900910018,PPTC Fuse 4 Amps,Dispose,0.0,Dead Stock,Operational,0.0
+567900920012,PPTC Fuse 6 Amps,Dispose,0.0,Dead Stock,Operational,0.0
+567900930017,ND Fuse 2 Amps,Retain,59413.0,Active,Operational,59413.0
+567900940011,ND Fuse 4 Amps,Retain,26596.02,Active,Operational,26596.02
+567900950016,FRB Hood 3 Aspect.,Retain,0.0,Active,Operational,0.0
+567900960010,Adjustable Wrench 8 Inch,Rationalize,0.0,Slow Moving,Operational,0.0
+567900980070,INVERTER 2 KVA for AMARARAJA IPS,Retain,0.0,Active,Operational,0.0
+567901370019,MAIN LED SIGNAL (ONE SET CONSIST OF ONE RED & ONE YELLOW),Dispose,0.0,Dead Stock,Operational,0.0
+567904080016,"SPECIAL EARTH COMPLETE SET ( EARTH ELECTRODE 3MTRS. -1 No, earth enhancing compound -3No,M....",Retain,208835.71,Active,Operational,208835.71
+567904450087,Name Plate for Thumb Switch Normal/Reverse,Rationalize,360.0,Slow Moving,Operational,360.0
+567906680011,Ladder With Plat Form & Shoe  3.6 Mts,Retain,90804.0,Active,Operational,90804.0
+567906690016,Ladder With Plat Form 4.6 Mts,Rationalize,260083.6,Slow Moving,Operational,260083.6
+567906700010,Ladder Shoe,Rationalize,1050.0,Slow Moving,Operational,1050.0
+567906720010,Ladder With Platform and Shoe(3.6 Mts ),Retain,99465.8,Active,Operational,99465.8
+567906730014,Ladder With Platform and Shoe(4.6 Mts ),Retain,163479.99,Active,Operational,163479.99
+567906740019,Relay Rack (56 Relay Hold Capacity ),Retain,202498.86,Active,Operational,202498.86
+567906750013,Class A Lightening Protection.,Dispose,0.0,Dead Stock,Operational,0.0
+567906760018,Relay Index Board,Rationalize,20000.0,Slow Moving,Operational,20000.0
+567906770012,Track Feed Battery Charger 110V/10AMPS,Retain,0.0,Active,Operational,0.0
+567906780017,Transformer Rectifier (TJ) 110VAc/24VDc/2A,Retain,0.0,Active,Operational,0.0
+567906790011,PBT FUSE BLOCK 60MM,Retain,778966.38,Active,Operational,778966.38
+567906800016,Earth Electrode GI,Retain,286406.72,Active,Operational,286406.72
+567906810010,WEB Detector 710P ( CEL ),Dispose,0.0,Dead Stock,Operational,0.0
+567906890017,RTU 32 Dig/16 Analog Inputs,Retain,0.0,Active,Operational,0.0
+567906900011,"SPD B&C with Enclosure Box (OBO, PHOENIX Make)",Retain,1593118.28,Active,Operational,1593118.28
+567906930015,Inverter 24V DC/110V AC/0.5KVA,Rationalize,0.0,Slow Moving,Operational,0.0
+567906990012,SMPS Based IPS for LC Gate W/o. VRLA Battery,Rationalize,0.0,Slow Moving,Operational,0.0
+567907000019,DC- DC CONVERTER 110VDC/24VDC/5AMPS,Dispose,96000.0,Dead Stock,Operational,96000.0
+567908487081,DC DC Converter 24-40V/10Amps for Amara Raja make IPS,Retain,2029010.54,Active,Operational,2029010.54
+567908487100,DC-DC CONVERTER CARD 24-40V/10Amps (STATCON make),Rationalize,22656.0,Slow Moving,Operational,22656.0
+567908487111,DC-DC CONVERTER CARD 60-100V/1Amps (STATCON make),Rationalize,42952.0,Slow Moving,Operational,42952.0
+567909270014,SMPS BASED IPS FOR STATION     ( 4 Rd ),Dispose,0.0,Dead Stock,Operational,0.0
+567910050014,ANNOUNCIATOR 10 WAY,Rationalize,0.0,Slow Moving,Operational,0.0
+567910060019,Electrical Signalling equipments  ANNOUNCIATOR 6 WAY,Rationalize,0.0,Slow Moving,Operational,0.0
+567911850026,SMPS based IPS for 6 road Station with  all accessories,Rationalize,0.0,Slow Moving,Operational,0.0
+567912650010,RCC CABLE MARKERS AS PER DRAWING No.CSTE/CN/OFC/1,Rationalize,26918.1,Slow Moving,Operational,26918.1
+567912690018,SMPS BASED IPS FOR LC GATE WITH ALL ACCESSORIES  & VRLA BATTERIES ( 55+5 NOS),Rationalize,0.0,Slow Moving,Operational,0.0
+567912780019,DC-DC CONVERTER CARD 24V-32V/10AMPS FOR HBL MAKE IPS,Retain,0.0,Active,Operational,0.0
+567913080017,DC-DC CONVERTER CARD 24V-32V/5AMPS (MAKE; AMARARAJA  IPS ),Rationalize,262448.28,Slow Moving,Operational,262448.28
+567913090011,DC-DC CONVERTER CARD 100-150V/1AMPS (MAKE; AMARARAJA  IPS ),Rationalize,49560.0,Slow Moving,Operational,49560.0
+567913100016,DC- DC CONVERTER CARD 24-32V/5AMPS. (STATCON MAKE IPS),Rationalize,35399.21,Slow Moving,Operational,35399.21
+567913110010,DC- DC CONVERTER CARD 24-32V/10 AMPS. (STATCON MAKE IPS),Rationalize,0.0,Slow Moving,Operational,0.0
+567913120015,DC- DC CONVERTER CARD 100-150V/1 AMPS. (STATCON MAKE IPS),Retain,0.0,Active,Operational,0.0
+567913210016,DC- DC CONVERTER CARD 24-32V/5 AMPS. (SUKHILA MAKE IPS),Rationalize,0.0,Slow Moving,Operational,0.0
+567913220010,DC- DC CONVERTER CARD 24-32V/10 AMPS. (SUKHILA MAKE IPS),Rationalize,0.0,Slow Moving,Operational,0.0
+567913390018,DC- DC CONVERTER CARD 24V-40V/10AMPS. (HBL MAKE IPS),Rationalize,0.0,Slow Moving,Operational,0.0
+567913410017,"MAIN LED SIGNAL 3 ASPECT (ONE SET CONSIST  OF ONE RED, ONE GREEN & ONE YELLOW )",Dispose,0.0,Dead Stock,Operational,0.0
+567913460010,0145.FIRE ALARM ADDRESSABLE FIRE ALARM  PANEL WITH ALL ACCESSORIES as per RDSO/SPN /217 /2....,Dispose,0.0,Dead Stock,Operational,0.0
+567913470014,FIRE ALARM SOUNDER CUM STROBE 24V as per RDSO/SPN /217 /2018 ver-2 or latest.,Dispose,0.0,Dead Stock,Operational,0.0
+567914510019,ELECTRIC KEY TRANSMITTER(EKT) Rotary type,Retain,78964.21,Active,Operational,78964.21
+567914940040,DC-DC converter cabinet with 4 nos 24-32v/10A converters and ultimate capacity to accommo....,Rationalize,334896.0,Slow Moving,Operational,334896.0
+567914940348,DC-DP cabinet  with 6 nos of  24-40v/10A capacity converters,Retain,4020000.0,Active,Operational,4020000.0
+567915180015,DC- DC CONVERTER CARD 24-32V/10AMPS. (AMARARAJA MAKE IPS),Retain,692507.85,Active,Operational,692507.85
+567915730064,EOLB Operating Panel with Relays(QNA1 &QBCA1),Rationalize,0.0,Slow Moving,Operational,0.0
+567916000021,"Digital Voice Annunciation Unit (complete set) 1set consist of: Amp-1, driver unit-2 &Horn....",Retain,0.0,Active,Operational,0.0
+567919830041,AVR(CVT) 2KVA for HBL make IPS,Rationalize,0.0,Slow Moving,Operational,0.0
+567919860033,DC DC CONVERTER CARD 24-32V/5Amps for HBL make IPS,Rationalize,154228.98,Slow Moving,Operational,154228.98
+567922040021,Galvanized Ground Connections for IRS Point Machine 143mm,Retain,99040.0,Active,Operational,99040.0
+567925230027,Electrically Operated Lifting Barrier 24 V DC Set ( One Set consist of Pedestal driving an....,Retain,2883514.8,Active,Operational,2883514.8
+567925330034,Galvanized Ground connection 220mm 1 in 12 (With Hot dip Galvanizing),Retain,1767565.76,Active,Operational,1767565.76
+567925340039,Galvanized Ground connection 220mm 1 in 8.5 (With Hot dip Galvanizing),Retain,0.0,Active,Operational,0.0
+567925340076,Ground connection for 220mm 1 in 8.5 (Non-Galvanized),Retain,0.0,Active,Operational,0.0
+567925360026,Insulating Components for Ground connection 143 mm,Retain,0.0,Active,Operational,0.0
+567927530026,POINT SWITCH DETECTION (PSD) DEVICE,Rationalize,0.0,Slow Moving,Operational,0.0
+567927570024,TWS (220MM) 3 Point Safety Nut (SS-304) Ver.4,Retain,0.0,Active,Operational,0.0
+569001120010,Earth Electrode Copper 3M Long 17MM Dia For (197 Special Earth),Rationalize,128000.0,Slow Moving,Operational,128000.0
+569001130014,Copper Strip 150X25/6MM( SEEB ),Rationalize,8775.0,Slow Moving,Operational,8775.0
+569001140019,COPPER STRIP 200X25X6MM ( SEEB),Rationalize,0.0,Slow Moving,Operational,0.0
+569001150013,Copper Stripe 300X25X6MM ( MEEB ),Rationalize,8000.0,Slow Moving,Operational,8000.0
+569001160018,EARTH ENHANCING COMPOUND (10KG BAG ) ONE NUMBER= 10KG Bags,Retain,0.0,Active,Operational,0.0
+569001170012,CURRENT REGULATOR (CR),Dispose,0.0,Dead Stock,Operational,0.0
+569002491020,DC-DC CONVERTER  24-40V/5A(MAKE-STATCON),Retain,0.0,Active,Operational,0.0
+569005400012,SUPPLY OF 1:1 VF ISOLATION TRANSFORMERS (470:600),Dispose,0.0,Dead Stock,Operational,0.0
+569008180011,TRACK LEAD JUNCTION BOX FRP TYPE,Retain,797732.01,Active,Operational,797732.01
+569009550016,FIRE ALARM HEAT AND SMOKE MULTI SENSOR as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,105350.0,Slow Moving,Operational,105350.0
+569009560010,FIRE ALARM PROBE TYPE BI-METALIC FIXED TEMPERATURE HEAT DETECTOR as per RDSO/SPN /217 /201....,Rationalize,9535.2,Slow Moving,Operational,9535.2
+569009570015,FIRE ALARM ASPERATING(AIR SAMPLING) TYPE SMOKE DETECTOR as per RDSO/SPN /217 /2018 ver-2 o....,Rationalize,0.0,Slow Moving,Operational,0.0
+569009580010,FIRE ALARM POWER SUPPLY BOARD as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,22159.0,Slow Moving,Operational,22159.0
+569009590014,FIRE ALARM MANUAL CALL POINT as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,6235.0,Slow Moving,Operational,6235.0
+569009600019,FIRE ALARM ZONE MODULE as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,6235.0,Slow Moving,Operational,6235.0
+569009610013,FIRE ALARM POWER DISTRIBUTION PANEL 5A/2AMPS as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,36318.0,Slow Moving,Operational,36318.0
+569009620018,FIRE ALARM CONTROL MODULE as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,39726.2,Slow Moving,Operational,39726.2
+569009630012,FIRE ALARM GSM INTERFACE MODULE FOR INTERFACING WITH CONTROL PANEL as per RDSO/SPN /217 /2....,Dispose,0.0,Dead Stock,Operational,0.0
+569009640017,FIRE ALARM CONDUIT PVC PIPE(25MM 3 MTS LONG),Dispose,0.0,Dead Stock,Operational,0.0
+569009650011,FIRE ALARM UV/IR FLAME DETECTOR as per RDSO/SPN /217 /2018 ver-2 or latest.,Rationalize,150947.8,Slow Moving,Operational,150947.8
+569009660016,FIRE ALARM RESETTABLE TYPE ANALOGUE LHS CABLE as per RDSO/SPN /217 /2018 ver-2 or latest.,Rationalize,0.0,Slow Moving,Operational,0.0
+569009670010,FIRE ALARM ADDRESSABLE/MONITOR MODULE as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,6236.0,Slow Moving,Operational,6236.0
+569009680015,FIRE ALARM MOTHER BOARD  as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,62088.67,Slow Moving,Operational,62088.67
+569009690010,FIRE ALARM RELAY MODULE WITH BACK BOX as per RDSO/SPN /217 /2018 ver-2 or latest.,Dispose,0.0,Dead Stock,Operational,0.0
+569009700014,0144-FIRE ALARM FAULT ISOLATOR WITH BACK BOX as per RDSO/SPN /217 /2018 ver-2 or latest.,Dispose,0.0,Dead Stock,Operational,0.0
+569011960019,FIRE ALARM MULTI SENSOR DETECTOR DUAL OPTICAL/THERMAL WITH ROTARIES AND BACK BOXES INCLUDI....,Dispose,0.0,Dead Stock,Operational,0.0
+569012500016,FIRE ALARM LOOP CARD as per RDSO/SPN /217 /2021 ver-3 or latest.,Rationalize,376398.0,Slow Moving,Operational,376398.0
+569029430028,Supply of Firewall as per Spec.A5,Dispose,0.0,Dead Stock,Operational,0.0
+569035370022,SPLIT DWC PIPE,Retain,2448340.0,Active,Operational,2448340.0
+569036190027,Fit & Forget Bond Wire 2 mtr long(4mm Dia),Retain,0.0,Active,Operational,0.0
+569062700037,DIGITAL CLAMP EARTH RESISTANCE TESTER,Retain,0.0,Active,Operational,0.0
+56985526,Fuse ND Type RDSO Spn 78/92 4A Maps,Monitor,0.0,,Strategic,0.0
+56985800,Timer relay 60 Second,Dispose,0.0,Dead Stock,Operational,0.0
+56985800,ELECTRONIC TIME DELAY  60 SECOND,Retain,22130.0,Active,Operational,22130.0
+56986130,RELAY STYLE QBAT DC TRACK RELAY 2F/2B,Retain,0.0,Active,Operational,0.0
+56986130,RELAY STYLE QBAT 2F/2B DC TRACK,Rationalize,0.0,Slow Moving,Operational,0.0
+56986210,FS CABLE,Monitor,0.0,,Strategic,0.0
+56987122/56110029,Cable 3 C x 10 sq.mm,Procure Immediately,496466.12,,Strategic,496466.12
+569894410011,SSDAC FIELD EQUIPMENTS With 8 Cards,Dispose,0.0,Dead Stock,Operational,0.0
+570100421483,Station Master Block Panel for Single line SSBPAC(D) with block phone(1set=2nos),Retain,191675.0,Active,Operational,191675.0
+570100421550,"SSBPAC(D) Complete set (SM panel, BI with wired relay rack& Block Telephone)",Rationalize,1190000.0,Slow Moving,Operational,1190000.0
+570100593063,COMPUTER WITH CPU and  accessories,Retain,126978.38,Active,Operational,126978.38
+570100720012,EPSON-LX-310 DOT MATRIX PRINTER,Rationalize,0.0,Slow Moving,Operational,0.0
+570100725162,HP COLOUR LESER JET PRINTER,Rationalize,35240.0,Slow Moving,Operational,35240.0
+570100744843,Printers,Dispose,100.0,Dead Stock,Operational,100.0
+570102929615,DESKTOP,Rationalize,0.0,Slow Moving,Operational,0.0
+570104320016,Printer cum Xerox Machine,Rationalize,38307.33,Slow Moving,Operational,38307.33
+570104320041,Printer cum Xerox Machine,Rationalize,0.0,Slow Moving,Operational,0.0
+570104320053,Printer cum Xerox Machine(defective),Rationalize,0.0,Slow Moving,Operational,0.0
+570106540147,LAPTOP LENOVO Make IDEA CENTER YOGA AIO 27ACH6 F0G7002UIN,Rationalize,0.0,Slow Moving,Operational,0.0
+570123700017,"FAULT ANALYZER ( EQUIPMENT  LAPTOP )WITH ALL ACCESSORIES, MAKE-HP",Dispose,0.0,Dead Stock,Operational,0.0
+570157950122,A4 LASER COLOUR PRINTER,Rationalize,0.0,Slow Moving,Operational,0.0
+657900305215,DRILLING MACHINE BOSCH-13RE,Rationalize,0.0,Slow Moving,Operational,0.0
+67900185,Auto Battery 12V/75AH,Monitor,0.0,,Strategic,0.0
+67900203,Auto Battery  12V X130 AH 19 plate,Monitor,0.0,,Strategic,0.0
+71010336,"BRUSHES, PAINTS & VARNISHES, FLAT, SIZE 25mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS....",Retain,667.17,Active,Operational,667.17
+71010348,"BRUSHES, PAINTS & VARNISHES, FLAT SIZE 38mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS:....",Retain,889.08,Active,Operational,889.08
+71010350,"BRUSHES, PAINTS & VARNISHES, FLAT SIZE 50mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS:....",Retain,1656.72,Active,Operational,1656.72
+71080326,BROOMS COCOA WELL CLEANED & DRIED FROM THE STEMS OF COCONUT LEAVES 20cms CIRCUMFERENCE AT ....,Retain,237.52,Active,Operational,237.52
+720599922195,ALMERAH STEEL,Rationalize,11500.0,Slow Moving,Operational,11500.0
+72081181/72207413,Drill Twist 7.2 mm,Monitor,178097.6,,Strategic,178097.6
+720816080016,Megger 500V  Model MC941 analog,Rationalize,0.0,Slow Moving,Operational,0.0
+721434780012,TORQUE WRENCH (TW100R),Dispose,3500.0,Dead Stock,Operational,3500.0
+721434790017,DOUBLE END SPANNER ( SPANNER RING & OPEN END SIZE-24X26) & 32SOCKET WITH HANDLE ( EACH ONE....,Dispose,2000.0,Dead Stock,Operational,2000.0
+721434800011,DOUBLE END SPANNER ( SPANNER RING & OPEN END SIZE-18X19) EACH ONE NUMBER,Dispose,1400.0,Dead Stock,Operational,1400.0
+721804330019,SCREW DRIVER (TAPARIA) different types and sizes insulated or otherwise.,Dispose,300.0,Dead Stock,Operational,300.0
+72207413,"DRILL TWIST H.S.S. STRAIGHT SHANK JOBBERS"" 7.2 MM TO IS: 5101/1969, 5099/1983.",Retain,92766.6,Active,Operational,92766.6
+72207413,"DRILL TWIST H.S.S. STRAIGHT SHANK JOBBERS"" 7.2 MM TO IS: 5101/1969, 5099/1983.",Dispose,0.0,Dead Stock,Operational,0.0
+727924850024,Spring Adjusting Tool for DLBI/DIADO Block Instrument,Rationalize,0.0,Slow Moving,Operational,0.0
+729026570012,Maintenance Tool Kit (Stanley Telecommunication Tools) Model No-STHT89883-8(89-883),Dispose,0.0,Dead Stock,Operational,0.0
+729026630010,Portable Cable Fault Locator (Stanlay) Model No-ST 25.,Rationalize,0.0,Slow Moving,Operational,0.0
+729807300029,"Canon A3, A4 and Legal Colour Inkjet Computer Printer",Rationalize,0.0,Slow Moving,Operational,0.0
+75207977,LEATHER SAFETY GLOVES FOR WELDERS TO ICF/SAFETY/SPECN/NO.15B  DT.17/06/2017 REV. STATUS 02....,Rationalize,0.0,Slow Moving,Operational,0.0
+759098204735,"High Density Polyethylene (HDPE) Pipe 6mtr long, 110mm Dia, Thickness 5.5mm, grade PE63",Retain,1916.63,Active,Operational,1916.63
+77032500,"ENAMEL, SYNTHETIC, EXTERIOR, FINISHING 'GOLDEN YELLOW' TO ISC-356 OF IS:5/2007.  SPECIFICA....",Dispose,0.0,Dead Stock,Operational,0.0
+77034454,"ENAMEL, SYNTHETIC, EXTERIOR, FINISHING, 'BLACK'. SPECIFICATION: IS:8662\04 & ICF\MD\SPEC-0....",Rationalize,0.0,Slow Moving,Operational,0.0
+77091310,"PAINT READY MIXED RED OXIDE (ISC 446) BRUSHING, FINISHING, GLOSSY FOR GENERAL PURPOSES TO ....",Rationalize,0.0,Slow Moving,Operational,0.0
+77093306,PAINT ALUMINIUM FOR GENERAL PURPOSE IN DUAL CONTAINER TO IS:2339/1963 (reaffirmed 2009) Am....,Retain,0.0,Active,Operational,0.0
+77110304,"READY MIXED PAINT, BRUSHING BITUMINOUS BLACK LEAD FREE , ACID, ALKALI, WATER AND CHLORINE ....",Rationalize,0.0,Slow Moving,Operational,0.0
+78010512,"GLASS TUMBLER 260 ML CAPACITY WITH IR"" TOTEM OF RDSO SKETCH 68060 ALT.2.",Retain,0.0,Active,Operational,0.0
+781007070142,Chair With Arm ( Wire Type ),Dispose,3000.0,Dead Stock,Operational,3000.0
+781071290017,EXECUTIVE TABLE WITH PEDISTAL,Retain,22444.0,Active,Operational,22444.0
+783000296045,WRITING TABLE,Dispose,1900.0,Dead Stock,Operational,1900.0
+783000495480,OFFICERS TABLE BIG SIZE,Dispose,12000.0,Dead Stock,Operational,12000.0
+783000510018,COMPUTER TABLE,Dispose,2000.0,Dead Stock,Operational,2000.0
+783100272269,Steel table,Dispose,2500.0,Dead Stock,Operational,2500.0
+783100680013,PLASTIC CHAIR,Dispose,800.0,Dead Stock,Operational,800.0
+783110450132,MID BACK CHAIR WITH FIXED ARMREST WITH CUSHION,Retain,11788.0,Active,Operational,11788.0
+787900281169,S Type Cushion Chair /Cushion Chair with Arm( Red Colour),Dispose,1200.0,Dead Stock,Operational,1200.0
+79010805,"DUNGRI CLOTH, COTTON KHADI, BLUE 91 CM WIDE TO SPEC.NO.IS:3778 / 1993 WITH AMENDMENT No.1,....",Retain,0.0,Active,Operational,0.0
+790905650010,REFLECTIVE JOCKET LUMINUS,Retain,700.0,Active,Operational,700.0
+79333485,DUSTERS  COTTON KHADI  61 cms  x 61cms  SPECN: DUSTERS CLOTH COTTON KHADI BLEACHED  TO IS.....,Retain,0.0,Active,Operational,0.0
+79511740,WASTE COTTON COLOURED TO IS 5485/80 OR LATEST.,Retain,0.0,Active,Operational,0.0
+795900190129,JUNGLE FLOPPY HAT,Rationalize,0.0,Slow Moving,Operational,0.0
+799049080013,SAFETY FOOT WEAR,Retain,7674.65,Active,Operational,7674.65
+80010295,"INTERNAL COMBUSTION ENGINE CRANK CASE OILS - Gr. SAE-40 TO IS: 13656/2002, TYPE EDL-2 (API....",Rationalize,0.0,Slow Moving,Operational,0.0
+80010714,AXLE OIL MEDIUM TO IS:1628/1986.,Dispose,0.0,Dead Stock,Operational,0.0
+80090400,"Superior Kerosene Oil (SKO)- Non-PDS, IS: 1459: 2016  3rd  Revision.",Rationalize,0.0,Slow Moving,Operational,0.0
+81032213,GRAPHITE POWDER GRADE-II 20% ASH CONTENT FOR USE AS FOUNDRY FACING MATERIAL TO SPECN. NO.I....,Rationalize,0.0,Slow Moving,Operational,0.0
+81033515,NAPTHALENE WHITE BALLS PACKED IN POLYTHENE BAGS TO CONTAIN 250 GRAMS TO SPECN.539/1965 OR ....,Retain,627.28,Active,Operational,627.28
+81050264,DETERGENT BAR 250 GMS TO BRAND  RIN/HENKO/TIDE  AS IN ORIGINAL PACKING,Retain,0.0,Active,Operational,0.0
+81050525,LIQUID HAND WASH OF BRAND MEDIMIX(OR) HOMOCOL (OR) DETTOL (OR) LIFEBUOY WITH A PERFUME OF ....,Retain,0.0,Active,Operational,0.0
+81050999,TOILET SOAP-TO BE SUPPLIED IN THE FORM OF SMOOTH CAKES OF MINIMUM 100 GRAMS EACH SECURELY ....,Retain,0.0,Active,Operational,0.0
+81070317,LIQUID ANTISEPTIC DETTOL IN PHIALS OF 60 ML.,Retain,69.31,Active,Operational,69.31
+812000050010,Alcohal based sanitizer,Dispose,0.0,Dead Stock,Operational,0.0
+83042428,"PAPER DUPLICATING WHITE A 4 SEMI-ABSORBENT 21cm x 29.7cm 75 GSM ,4.677 KGS.PER 1000 SHEETS....",Rationalize,0.0,Slow Moving,Operational,0.0
+83049400,PLAIN COPIER PAPER GSM 80+/-4% IN SIZE OF 210 X 297 MM (A4 SIZE) CONFORMING TO IS:14490/19....,Rationalize,0.0,Slow Moving,Operational,0.0
+83049502,PLAIN COPIER PAPER GSM 80+/-4% IN SIZE OF 420 X 297 MM (A3 SIZE) CONFORMING TO IS:14490/19....,Rationalize,1644.26,Slow Moving,Operational,1644.26
+83049540,A4 SIZE XEROX  PAPER ( WHITE ) (297 X 210 MM) 80 GSM.,Retain,1609.6,Active,Operational,1609.6
+83049540,A4 SIZE XEROX  PAPER (TNPL)  ( WHITE ) (297 X 210 MM) 80 GSM.,Dispose,0.0,Dead Stock,Operational,0.0
+83054110,Envelope Cover Brown (26X11)cm,Rationalize,0.0,Slow Moving,Operational,0.0
+83057213,File Cover Thick Yellow(25X37)cm,Retain,0.0,Active,Operational,0.0
+83904839,TAG COTTON WHITE 30 CMS LONG IN BUNDLES OF 100 NOS. EACH (SHOE LACE PATTERN) CSO/M.077).,Dispose,0.0,Dead Stock,Operational,0.0
+839096164620,STOP BOARD FOR EOLB  FRP TYPE FOR LC GATE & RETRO REFLECTIVE TYPE,Rationalize,38000.0,Slow Moving,Operational,38000.0
+86010050,PORTABLE STORED PRESSURE ABC TYPE DRY CHEMICAL POWDER FIRE EXTINGUISHER OF 6 Kg. CAPACITY ....,Dispose,0.0,Dead Stock,Operational,0.0
+860130660010,FIRE EXTINGUISHER CO2  ( CAPACITY 4.5 KG ),Dispose,0.0,Dead Stock,Operational,0.0
+901100171214,Fencing for Apparatus Case(Location box),Retain,0.0,Active,Operational,0.0
+902500310010,Revolving Chair,Retain,5748.57,Active,Operational,5748.57
+90701136,GI BOND WIRE 8SWG (4mm dia),Retain,0.0,Active,Operational,0.0
+90701136,GI BOND WIRE 8SWG(4mm dia),Retain,54242.83,Active,Operational,54242.83
+91110191,LEAD TABLETS MANUFACTURED FROM ANY ONE OF THE GRADES TO IS - 27/65 ( PIG LEAD ) OR IS 3717....,Rationalize,310.67,Slow Moving,Operational,310.67
+91150401,SOLDER CORE RESIN FILLED (Kgs.),Retain,0.0,Active,Operational,0.0
+92111002,"HIGH SPEED DIESEL (HSD): IS:1460-2005 (5th Revision or latest) Amendment No.3, Sept, 12",Dispose,0.0,Dead Stock,Operational,0.0
+929000640050,GRAPHITED GREASE GRADE-III (IS:508-2022),Rationalize,0.0,Slow Moving,Operational,0.0

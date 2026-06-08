@@ -1,0 +1,14 @@
+Layer,Component,Necessity,Role
+RAW,DMTR_*.xlsx (monthly transactions),MANDATORY,demand history source
+RAW,SUMMARY OF STOCK HELD (depot stock+Type+Rate),MANDATORY,"current stock, criticality proxy, unit cost"
+RAW,NS_DM_CONS (procurement/PO),OPTIONAL,"lead-time corroboration, future PO netting"
+RAW,engineer-led VED/criticality master,FUTURE-MANDATORY,replace stores-proxy criticality
+PROCESSING,demand reconstruction -> classification (SBC),MANDATORY,monthly demand + demand class
+PROCESSING,lead-time derivation (PO/Reqn->Receipt),MANDATORY,Lead_Time_Days
+PROCESSING,PL master reconciliation,MANDATORY,canonical PL key
+PLANNING,forecast (Croston/SBA/TSB/SES) + MASE metric,MANDATORY (add MASE),per-PL forecast
+PLANNING,safety stock (intermittent-aware for full prod),MANDATORY (upgrade method),SS
+PLANNING,ROP + reorder gap (net open POs),MANDATORY (add netting),"ROP, Net_Gap"
+PRIORITIZATION,SRRS (risk-weighted gap) + value lens,MANDATORY,priority + exposure
+PROCUREMENT,tiered portfolio + dashboard,MANDATORY (build dashboard),action worklist
+ENHANCEMENT,"S1-S4 criticality, seasonality, bootstrap SS, enterprise rollout, test suite",FUTURE,hardening

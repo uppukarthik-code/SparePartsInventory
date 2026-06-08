@@ -1,0 +1,8 @@
+Check,Status,Evidence,Risk,Recommendation
+'Safety Item' = safety-critical?,AMBER,stores 'PL-Code/Type/Usage' tag; validated recall 0.95 / precision 0.74 vs 32 S-coded items,"proxy, NOT a consequence-based RAMS/VED assessment; 26% of Safety Items are S3/S4",engineer-led VED review for top items
+'Vital Item' = operational criticality?,AMBER,stores category; only 121 PLs; 1 validated overlap,weak independent validation for Vital,confirm with maintenance/ops
+Binary justified?,AMBER,collapses Safety/Vital/NA to Critical/Non-Critical,loses V/E/D granularity literature recommends,retain 3-way (Safety/Vital/NA) in SRRS already; expose as criticality tiers
+S1-S4 inference?,GREEN(by-omission),"NOT inferred; only binary asserted (evidence-gated, STEP23.8)",correctly avoided unsupported S-codes,extend master for true S1-S4
+False positives,AMBER,precision 0.74 -> ~26% over-classified Critical,conservative (over-protect) not under,acceptable for pilot
+False negatives,GREEN,recall 0.95 -> few true-critical missed,low miss rate,monitor
+Validation base size,RED-flag(weak-evidence),only 32 common PLs (criticality master = 59 strategic),conclusion rests on tiny sample,expand validated criticality set before full production

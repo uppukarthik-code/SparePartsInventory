@@ -1,0 +1,5 @@
+Asset,Evidence,Risk,Size
+notebooks/*.csv Walmart dumps,0 railway refs (FORECAST_BI/Forecast/final_*),LOW (verify SparideartsInventory*.csv),~1.9G
+raw_data M5 CSVs,0 railway imports (verify 3 string refs),LOW,431M
+data/Sales_merged.csv,0 refs,LOW,72M
+**/.ipynb_checkpoints/,editor junk,NONE,~470M

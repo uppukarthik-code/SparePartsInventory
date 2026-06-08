@@ -1,0 +1,17 @@
+Num,Section,Recommended_Visualization,Required_Datasets,Expected_Output
+1,Railway Platform Overview,platform scope banner; STEP1-28 timeline,(narrative),context + lineage
+2,Platform Architecture,layer diagram (ingestion/governance/extension),active_dependency_map.csv,architecture map
+3,Data Foundation,source inventory table; depot universe,"monthly_demand_history, enterprise_pl_master",data provenance
+4,Demand Reconstruction,54-month demand line; issue-type split,monthly_demand_history.csv,history reconstruction
+5,Forecasting,method-mix bar (SBA/TSB/Croston); coverage %,"forecast_results, forecast_summary","88.7% coverage, method mix"
+6,Lead-Time Analytics,LT distribution hist; PO vs Reqn source,lead_time_master.csv,97.8% coverage
+7,Criticality Analytics,SBC quadrant; Safety/Vital/NA split,"demand_classification, criticality_*",class + criticality mix
+8,Safety Stock,SS by criticality boxplot,safety_stock_results.csv,SS distribution
+9,Reorder Point,stock-status donut (465 critical),rop_results.csv,shortage profile
+10,SRRS Prioritization,Pareto/Lorenz (top-10=84.5%),srss_results.csv,risk ranking
+11,Capital Exposure,stock value vs gap value bars,srss_results.csv,Rs 914M stock / Rs 3.37B gap
+12,Procurement Portfolio,5-tier treemap; SRRS contribution,procurement_portfolio.csv,tier segmentation
+13,Division Readiness,6-division readiness matrix,multi_division_readiness.csv,core 6-div ready
+14,Platform Modernization,scorecard radar; A/B before-after,"platform_scorecard, *_migration_report",hardening results
+15,Executive Dashboard,L1/L2/L3 KPI cards,executive_kpi_framework.csv,executive summary
+16,TPJ Readiness,readiness gauge; blockers,tpj_onboarding_readiness.csv,GO/NO-GO + blockers

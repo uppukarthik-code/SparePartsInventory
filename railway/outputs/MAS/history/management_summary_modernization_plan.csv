@@ -1,0 +1,13 @@
+Field_or_Requirement,Type,Current_State,Target,Source
+Platform Version,metadata,absent,semantic version in header,config/version
+Division,metadata,implicit MAS,explicit gcfg.DIVISION,governance/config
+Data Date,metadata,absent,SUMMARY snapshot date,gcfg summary_filename
+Git Commit,metadata,absent,short SHA at generation,git rev-parse
+Generation Date,metadata,absent,UTC timestamp,runtime
+Pipeline Version,metadata,absent,STEP1-28 pipeline tag,config
+Readiness Score,metadata,absent,platform_scorecard mean,platform_scorecard.csv
+Version controlled,requirement,partial (snapshots),header block + run index,management_reports
+Division aware,requirement,no (MAS hardcoded in summary),gcfg.DIVISION-driven,governance/config
+Platform aware,requirement,no (STEP1-19 only),consume STEP20-28 outputs,history/*.csv
+Executive focused,requirement,partial,L1/L2/L3 KPI hierarchy,executive_kpi_framework.csv
+Multi-division ready,requirement,no,per-division summary + rollup,governance/config registry

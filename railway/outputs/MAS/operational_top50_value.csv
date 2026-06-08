@@ -1,0 +1,51 @@
+PL_Code,Description,Current_Stock,Inventory_Value,Days_Since_Movement,Inventory_Aging_Class,Depot
+570110870468,Sch-A-04 eTSR SOFTWARE FOR EACH STATIONS for by Automated Train signal register (e-TSR) So....,197.0,52823383.0,94.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+570101228630,SCH B-24 UPS 15KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time ....,9.0,24751638.18,158.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+520502281606,SCH B-15 VMS-Video Management server/VAS-Video Analytics Server/FRS-Video Face Recognition....,30.0,13906824.0,15.0,Active,SSET/SRM/PER027029-S AND T-SR
+570149350083,Video Face Recognition Software (VFRS)(per camera basis) for Video FRS server as per RDSO ....,110.0,12980000.0,379.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+565199410379,Sch-A-06 eTSR SOFTWARE AT CENTRAL PLACE UP TO 20 STATIONS for by Automated Train signal re....,12.0,12351732.0,94.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+570149350046,VIDEO FACE RECOGNITION SOFTWARE FOR VIDEO FRS SERVER FOR VSS REACH2 WORK,68.0,10630644.0,776.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+539804450166,FULL HD FIXED BULLET TYPE IP COLOUR CAMERA,475.0,10499238.98,653.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+539804978914,TV 55 LED UHD smart  SAMSUNG  QH55C,105.0,9685217.64,93.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+570153210454,TV 55 LED UHD smart SONY FW-55BZ40L,68.0,9180000.0,682.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+502200630160,True color Indoor Video Display (IVD) with its mechanical structure of Pixel Resolution (W....,4.0,8800000.0,796.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+539812211300,Double Faced Coach Guidance Display Boards (CGDB),192.0,8448000.0,32.0,Active,SSET/SRM/PER027029-S AND T-SR
+520508600072,All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82,98.0,7840000.0,411.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+520508600175,"All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82 FOR SS RAIL WORK AT PER,....",104.0,6795202.96,424.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+527905800227,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,2.0,6700000.0,796.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+570104060134,"TV 55 LED UHD smart Samsung FOR SS RAIL WORK AT PER,ABU,TRL STN",53.0,6625000.0,655.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+527900510739,Platform Display Boards (PDB) (Double Line) (Single Face) (Colour of LED: White),29.0,6532917.09,149.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+521566390272,VMS-Video Management server/VAS-Video Analytics Server/FRS-Video Face Recognition Server i....,15.0,6323400.0,177.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+539812211311,"Double Faced Coach Guidance Display Boards (CGDB) FOR SS RAIL WORK AT PER,ABU,TRL STN",166.0,6299289.98,775.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+565172848313,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",17.0,6290816.0,73.0,Active,SSET/SRM/PER027029-S AND T-SR
+539800493572,"MS sheet box of 3mm thick to accommodate 55 inch LED TV, 12F FMS, 5/15A power socket termi....",263.0,6238514.64,198.0,Slow Moving,SSET/SRM/PER027029-S AND T-SR
+539812211293,Double Faced Coach Guidance Display Boards as per RDSO Specification No. RDSO/SPN/TC/108/2....,156.0,6084000.0,815.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+539812211323,Double Faced Coach Guidance Display Boards (CGDB) FOR SS RAIL WORK AT JTJ STN,143.0,5426496.79,774.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+509048210051,FULL HD PTZ TYPE IP COLOUR CAMERA,70.0,5366351.34,653.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+539811950460,Central Data Controller Unit (CDC) along with CDS conforming to system requirement as per....,12.0,5214630.23,207.0,Slow Moving,SSET/SRM/PER027029-S AND T-SR
+527900510740,Single line Double face Train Arrival/Departure display board (TADDB),14.0,5040000.0,411.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+570121440132,SCH B-09 PC Workstation for VSS 5 STN WORK BY KS SMART SOLUTIONS PRIVATE LIMITED-CHENNAI,20.0,4920656.0,15.0,Active,SSET/SRM/PER027029-S AND T-SR
+527905800320,"True color Outdoor Video Display (OVD) FOR SS RAIL WORK AT PER,ABU,TRL STN",2.0,4861466.66,682.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+539801396203,TV 55 LED UHD smart SONY FW-55BZ40L,35.0,4725000.0,163.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+501000014155,True color Indoor Video Display (IVD) with its mechanical structure of Pixel Resolution (W....,2.0,4600000.0,42.0,Active,SSET/SRM/PER027029-S AND T-SR
+539817170141,SCH B-19 External Storage System (CP-PLUS CP-UVS-G24R-J) for 30 days recording at station/....,920.0,4554000.0,204.0,Slow Moving,SSET/SRM/PER027029-S AND T-SR
+570100899334,SCH B-23 UPS 10KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time ....,8.0,4000000.0,33.0,Active,SSET/SRM/PER027029-S AND T-SR
+539811950379,Central Data Controller Unit (CDC) along with CDS conforming to system requirement,5.0,3750000.0,796.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+520508600102,All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82 FOR SURYA ELECTRONICS IP....,56.0,3658955.44,545.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+539817170062,External Storage System for 30 days recording at station/RPF/GRP Thana/Post along with all....,640.0,3473920.0,173.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+527905800240,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,1.0,3400000.0,793.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+539811990201,At a Glance Display Board Double faced (AGDB) with all accessories,10.0,3250000.0,42.0,Active,SSET/SRM/PER027029-S AND T-SR
+509042120039,FULL HD FIXED BULLET TYPE IP COLOUR CAMERA WITH 128 GB MEMORY CARD,194.0,3230363.45,1.0,Active,SSET/SRM/PER027029-S AND T-SR
+570106480059,TV 55 LED UHD smart Samsung FOR SS RAIL WORK AT JTJ STN,25.0,3125000.0,649.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+539801396525,TV 55 Inch (24x7) Industrial grade Commercial Large format display Samsung LH55QHCEGCXXL F....,24.0,3000000.0,437.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+529012890025,Full HD P/T/Z type IP colour camera along with all accessories as per. RDSO/SPN/TC/65/2021....,51.0,2970369.59,1.0,Active,SSET/SRM/PER027029-S AND T-SR
+527900510752,Single line Double face Train Arrival/Departure display board (TADDB),8.0,2880000.0,163.0,Monitor,SSET/SRM/PER027029-S AND T-SR
+509000355909,"Power cable 3 core, 2.5 sq mm, multistrand",33859.0,2878015.0,0.0,Active,SSET/SRM/PER027029-S AND T-SR
+527900045289,"Four Channel Digital Power Amplifier, 1200W@ 4 Ohms  Crown#NCDI4X12BL-U-EU",11.0,2860000.0,411.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+527900313326,SCH B-03 Full HD Bullet (CP-PLUS CP-UNCTE21ZL6C-VMDS-Q)Type IP Colour Camera for VSS 5 STN....,227.0,2817056.38,37.0,Active,SSET/SRM/PER027029-S AND T-SR
+527900510788,Single line Double face Train Arrival/Departure display board (TADDB) FOR SS RAIL WORK AT ....,13.0,2758688.4,775.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+539802259141,4K UHD bullet type IP colour camera (TYPE A),74.0,2719366.0,856.0,Dead Stock,SSET/SRM/PER027029-S AND T-SR
+527905800380,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,1.0,2430733.33,597.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+527905800355,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,1.0,2430733.33,649.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR
+529001880441,SCH B-30 150mm width x 60mm depth x 1.6mm thick size perforated Hot dipped Galvanized cabl....,4904.0,2427480.0,19.0,Active,SSET/SRM/PER027029-S AND T-SR
+501027960102,Video Management System  (VMS )and Video Recording software (per camera basis) for the ser....,1128.0,2422944.0,379.0,Very Slow Moving,SSET/SRM/PER027029-S AND T-SR

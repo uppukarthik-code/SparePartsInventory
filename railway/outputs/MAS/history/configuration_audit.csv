@@ -1,0 +1,9 @@
+Item,Location,Issue,Recommendation
+DAYS_PER_MONTH=30.4375,"safety_stock.py, rop.py (and not in config)",Magic constant duplicated,-> cfg
+"SERVICE_LEVEL {Critical:0.95,Non-Critical:0.85}","safety_stock.py, srrs_mas.py (hardcoded)",Hardcoded; diverges from cfg.SERVICE_LEVEL_TABLE,"-> cfg, single source"
+Stock-status thresholds 0.5x/2.0x ROP,rop.py,Magic numbers,-> cfg
+"Criticality weights {Safety:10,Vital:5,NA:1}",srrs_mas.py TYPE_WEIGHT,Hardcoded; differs from cfg.CRITICALITY_STOCKOUT_WEIGHT,-> cfg
+Depot code '027534',srrs/rop/safety_stock + audits,Hardcoded division identifier,-> per-division config/param
+Filename 'SUMMARY OF STOCK HELD (as on 08-06-2026) _08-06-2026.xlsx',multiple modules,Hardcoded dated filename,-> config/glob pattern
+HORIZON Jul_2026..Jun_2027,forecast_generation.py,Hardcoded 12-month labels,-> derive from snapshot date
+ADI/CV2 cutoffs 1.32/0.49,demand_classification (reads cfg),OK - in config,keep

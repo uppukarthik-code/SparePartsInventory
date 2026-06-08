@@ -1,0 +1,15 @@
+Module,Layer,Railway_Imports,External_Libs,Fan_In,Notes
+railway_config,SHARED_INFRA,(none),"stdlib,re",31,universal config; route all constants here
+railway_inventory_optimization,CORE,cfg,"numpy,pandas,scipy",6,shared SRRS/SS/ROP engine; reused by srrs_mas(ext)
+railway_data_preparation,CORE,cfg,"numpy,pandas,openpyxl,zipfile/xml",6,strategic+operational loaders; has _xlsx_rows_via_xml reader
+railway_demand_reconstruction,MAS_EXT,cfg,"numpy,pandas,zipfile/xml",4,DMTR reader; its private _sheet_rows is imported by 4 planning modules (LEAK)
+railway_business_unit_config,CORE,(none),re,4,6-division BU resolver (MAS/SA/TPJ/MDU/PGT/TVC) - multi-div ready
+railway_domain_config,CORE,business_unit_config,-,3,domain dimension
+railway_forecasting,CORE,"classification,cfg,data_preparation","numpy,pandas,statsmodels",2,Croston/SBA/TSB/Holt engine; reused by forecast_generation(ext)
+railway_context,CORE,cfg,importlib,2,per-BU output path context (multi-div)
+railway_classification,CORE,"cfg,data_preparation","numpy,pandas",2,SBC/ABC/criticality (strategic)
+railway_strategic_allocation,CORE(STEP19),"business_unit_config,cfg,data_preparation",pandas,1,strategic stock allocation
+railway_safety_stock(ext),MAS_EXT,"cfg,demand_reconstruction","numpy,pandas,scipy",0,SS=z*sigma*sqrt(LT)
+railway_rop(ext),MAS_EXT,"cfg,demand_reconstruction",pandas,0,ROP+gap
+railway_srrs_mas(ext),MAS_EXT,"cfg,demand_reconstruction,inventory_optimization",pandas,0,SRRS (reuses optimizer.service_factor)
+railway_lead_time_derivation(ext),MAS_EXT,"cfg,demand_reconstruction","numpy,pandas,re,datetime",0,PO/Reqn->Receipt lead times

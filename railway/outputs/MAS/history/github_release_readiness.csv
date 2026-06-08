@@ -1,0 +1,10 @@
+Dimension,Status,Evidence
+Architecture,READY,layered ingestion/governance; hardened A/B
+Tests,READY,541 green; reproducible baseline
+Notebooks,READY (after rename),3 executed railway notebooks
+Reporting,READY,division_summary SoT; STEP31 cut-over
+Documentation,READY (after docs/ move),README + ARCHITECTURE + guides + reports
+Governance,READY,reporting governance + metadata standard
+Onboarding,READY,DIVISION_ONBOARDING_GUIDE + division registry
+Size/cleanliness,BLOCKED,2.4G Walmart data must be removed first
+Packaging,GAP,no pyproject.toml/CI yet

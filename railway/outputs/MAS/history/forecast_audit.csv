@@ -1,0 +1,9 @@
+Check,Status,Evidence,Risk,Recommendation
+SBC method assignment,GREEN,"Erratic->Croston, Intermittent->SBA match Syntetos-Boylan 2005; Smooth->SES, Lumpy->TSB defensible",literature-aligned,note TSB-for-lumpy is post-SB2005 extension
+Cutoffs ADI 1.32 / CV2 0.49,GREEN,match Syntetos-Boylan 2005 verbatim,correct,none
+Engine reuse (Croston/SBA/TSB/Holt),GREEN,imported verbatim from railway_forecasting; deterministic,no new algorithm,none
+12-month profile,AMBER,100% flat (annual=12x monthly); Seasonality_Modeled=No for all,no seasonality; honest given sparse intermittent data,disclose; revisit if monthly patterns emerge
+Accuracy metric (MAPE/sMAPE),AMBER,Hyndman: sMAPE minimized by zero-forecast for intermittent; MAPE undefined on zeros,Forecastability acc=(1-sMAPE/200) unreliable for intermittent majority,add MASE as primary metric
+Backtest (rolling-origin),GREEN,"expanding window, 1-step, min24; 760/961 backtested",sound design,none
+Forecastability score,AMBER,fixed weights 0.35/0.25/0.15/0.15/0.10; accuracy term uses sMAPE,weights unvalidated; accuracy term weak,sensitivity test weights; MASE-based accuracy
+Method outperformance,AMBER,no cross-method bake-off per PL; assigned by class only,a different method could win per PL,optional per-PL backtest selection

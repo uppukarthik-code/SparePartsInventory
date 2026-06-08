@@ -1,0 +1,9 @@
+Field,Value
+Previous origin,https://github.com/vivasvana1/SparePartsInventory.git
+Target owner,https://github.com/uppukarthik-code/
+Target repo exists,YES (git ls-remote reachable)
+Action,origin->upstream; new origin=uppukarthik-code/SparePartsInventory.git
+New origin,https://github.com/uppukarthik-code/SparePartsInventory.git
+Old remote preserved as,upstream (provenance)
+Pushed,NO (push not authorized in STEP34)
+Verdict,MIGRATED (config only)

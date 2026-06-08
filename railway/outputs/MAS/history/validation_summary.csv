@@ -1,0 +1,16 @@
+Phase,Check,Detail,Result,Status
+Phase A,Reader equivalence,read_sheet_rows vs old on 54 DMTR + SUMMARY,55/55 byte-identical,PASS
+Phase A,Reader equivalence,iter_sheet_rows vs old on operational workbook,identical,PASS
+Phase A,Loader equivalence,load_operational_stock old-reader vs new-delegation,frame byte-identical (5335 rows),PASS
+Phase A,Normalizer equivalence,norm_pl_key + normalize_pl vs old (20 cases),0 mismatches,PASS
+Phase A,Leak removal,grep import railway_demand_reconstruction,0 imports remain,PASS
+Phase A,SHA-256 regression,MAS extension chain regenerated,byte-identical (excl pre-existing nondet pl_match),PASS
+Phase A,Formula validation,SS/ROP/SRRS invariants,3/3 green,PASS
+Phase B,Config equivalence,11 centralized constants vs module literals,ALL MATCH,PASS
+Phase B,SHA-256 regression,full MAS chain via gcfg,MAS extension + formula byte-identical,PASS
+Phase B,Formula validation,SS/ROP/SRRS invariants,3/3 green,PASS
+Cross-phase,Reproducibility,regen->pin->regen->regression,541 passed (reproducible baseline),PASS
+Cross-phase,Non-determinism,full pipeline run-twice diff (seed 0),0 non-deterministic outputs,PASS
+FINDING,Stale baseline,31 CORE STEP1-19 outputs (pre-STEP18A/19) stale on disk,refreshed to reproducible values; NOT caused by A/B (proven),RESOLVED
+FINDING,pl_match_candidates nondeterminism,set-order on tied sort keys (PYTHONHASHSEED),seed-pinned baseline; tiebreaker flagged,TRACKED
+Phase C,TPJ readiness,12-dimension assessment,6 READY / 4 MINOR / 2 MAJOR(data),COMPLETE

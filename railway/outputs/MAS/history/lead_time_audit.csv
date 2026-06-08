@@ -1,0 +1,9 @@
+Check,Status,Evidence,Risk,Recommendation
+Chronology / negative intervals,GREEN,"0 negative across 2821 obs (PO 1545, Reqn 1276)",clean,none
+PO vs Reqn semantics,AMBER,PO=vendor procurement(~131d median) vs Reqn=internal fulfilment(~81d); blended by hierarchy,two different lead-time definitions in one column,tag source (already in Lead_Time_Source); model separately if possible
+True replenishment LT?,AMBER,PO->Receipt is order-to-receipt (correct for procurement); Reqn->Receipt is internal,"for Reqn-sourced PLs, LT may understate vendor replenishment",prefer PO; flag Reqn-only PLs
+Winsorization P5/P95,GREEN,global per-source; tames multi-year outliers (max capped 668/618d),reasonable,none
+Empty-winsor edge,AMBER,np.median([]) would error if all intervals clipped out,latent crash (low likelihood),add empty-guard
+Median aggregation,GREEN,median robust to skew; justified for lead-time,standard,none
+Coverage,AMBER,702/1083 PL (96% vol); 35% PL tail (4% vol) no LT,tail unplanned,accrue more receipts / PO master
+Confidence (n<5=Low),AMBER,575 Low-confidence PLs (single-obs medians used),wide uncertainty on tail,buffer conservatively

@@ -1,0 +1,4 @@
+Method_or_Field,Source,Coverage,Reliability,Required_Fields,Status,Comment
+Net_Gap = ROP - Current_Stock - Open_PO_Qty,derived,-,-,"ROP(STEP25), Current_Stock(SUMMARY), Open_PO_Qty(NS_DM_CONS)",Feasible (mechanics),all three components exist; impact limited by Open_PO coverage below
+Open_PO_Qty = Item Qty - Qty Recd,NS_DM_CONS col42-col47,4.6% of 626 SRRS PLs,178/232 have PO No; 155/232 have Qty Recd,"PL/Item Code, PO No, Item Qty, Qty Recd, Status",Partial,NS covers 181 indent PLs; only 29 overlap SRRS; 1 open-PO overlap
+Open PO universe coverage,NS_DM_CONS,22 PLs open-PO total,"indent-stage data, special/new items",NS_DM_CONS extract,Gap,"NS_DM_CONS tracks special/new-item indents, NOT the high-volume cable demand driving SRRS"

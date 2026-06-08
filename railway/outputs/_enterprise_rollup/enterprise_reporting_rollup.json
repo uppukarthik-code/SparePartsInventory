@@ -1,0 +1,17 @@
+{
+  "enterprise": {
+    "view": "Southern Railway \u2014 Enterprise Roll-up",
+    "reportable_divisions": [
+      "MAS"
+    ],
+    "pending_divisions": [],
+    "rolled_up_L1": {
+      "Current Stock Value (Rs)": 913635687,
+      "Reorder Gap Value (Rs)": 3367367459,
+      "Total SRRS": 8217896.6,
+      "Tier 1 Count": 6,
+      "Tier 2 Count": 80
+    },
+    "note": "additive KPIs summed; coverage/concentration are NOT summed (per-division only)"
+  }
+}

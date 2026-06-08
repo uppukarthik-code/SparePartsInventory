@@ -1,0 +1,12 @@
+Category,Detail
+Files modified,requirements.txt; 3 notebooks (renamed+S16 patch); (STEP31 reporting modules already)
+Files deleted,"0 (DELETE_SAFE quarantined out-of-repo, reversible)"
+Files archived,"9 (notebooks 01-06, 07, CPLEX, All plots)"
+Files renamed,3 (notebook_railway / _executive / _technical)
+Files moved,118 docs -> docs/
+Files created,"pyproject.toml, .gitignore, requirements-notebooks.txt, ci.yml, 16 STEP33 deliverables"
+Repository size reduction,2.6GB -> 156MB (~94%)
+Test status,541 green
+Regression status,537/537 byte-identical
+Verdict,"READY_TO_COMMIT (local, repository-purification branch)"
+Push status,BLOCKED until remote migrated to uppukarthik-code (remote_migration_plan.md)

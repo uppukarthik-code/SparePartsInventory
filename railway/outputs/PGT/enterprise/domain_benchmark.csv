@@ -1,0 +1,8 @@
+Inventory_Domain,Business_Unit,Division,Status,Strategic_Inventory_Value,Operational_Inventory_Value,Dead_Stock_Value,Inventory_Turn_Risk,Digital_Twin_Readiness,Snapshot_Date,Pipeline_Version
+Railway_Operations,MAS,Chennai,Live,82879378.63,119999655.22,6325696.92,17.98,75.0,2026-03-31,12.5.0
+Railway_Operations,SA,Salem,Live,140460.87,119999655.22,6325696.92,17.98,75.0,2026-03-31,12.5.0
+Railway_Operations,TPJ,Tiruchirappalli,Live,986649.15,119999655.22,6325696.92,17.98,75.0,2026-03-31,12.5.0
+Railway_Operations,MDU,Madurai,Live,793711.41,119999655.22,6325696.92,17.98,75.0,2026-03-31,12.5.0
+Railway_Operations,PGT,Palakkad,Live,5683.17,119999655.22,6325696.92,17.98,75.0,2026-03-31,12.5.0
+Railway_Operations,TVC,Thiruvananthapuram,Live,857752.29,119999655.22,6325696.92,17.98,75.0,2026-03-31,12.5.0
+Training_Centre,STTC_PTJ,Tiruchirappalli,Configured,,,,,,2026-03-31,12.5.0

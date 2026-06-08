@@ -1,0 +1,7 @@
+Inventory_Aging_Class,Count,Inventory_Value,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+Active,128.0,44447261.05,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Monitor,84.0,25126302.26,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Slow Moving,132.0,5847844.59,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Very Slow Moving,72.0,3145407.7,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Dead Stock,126.0,3250954.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Unknown,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

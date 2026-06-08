@@ -1,0 +1,13 @@
+Location_ID,Location_Name,Location_Type,Division,Depot,Latitude,Longitude,Coordinate_Source
+DIV-MAS,MAS,Division,MAS,,,,Placeholder
+DIV-TPJ,TPJ,Division,TPJ,,,,Placeholder
+DIV-SA,SA,Division,SA,,,,Placeholder
+DIV-MDU,MDU,Division,MDU,,,,Placeholder
+DIV-PGT,PGT,Division,PGT,,,,Placeholder
+DIV-TVC,TVC,Division,TVC,,,,Placeholder
+DEP-GSD-PER,GSD/PER,Depot,,GSD/PER,,,Placeholder
+DEP-GSD-ED,GSD/ED,Depot,,GSD/ED,,,Placeholder
+DEP-LSD-MDU,LSD/MDU,Depot,,LSD/MDU,,,Placeholder
+DEP-DSD-QLN,DSD/QLN,Depot,,DSD/QLN,,,Placeholder
+DEP-GSD-GOC,GSD/GOC,Depot,,GSD/GOC,,,Placeholder
+DEP-SSD-PTJ,SSD/PTJ,Depot,,SSD/PTJ,,,Placeholder

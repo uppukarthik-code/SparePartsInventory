@@ -1,0 +1,11 @@
+KPI,Value,Universe,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+Strategic Inventory Value (Normalized),85663635.52,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Operational Inventory Value,512406406.47,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Annual Issue Value,161374751.65,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Procurement Required Value,473115370.05,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Dead Stock Value,76283547.78,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Slow Moving Value,164178536.31,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Inventory Turn Risk %,46.93,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Inventory Concentration Index,82.42,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+High Confidence Forecast %,37.29,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Data Quality Impact,6133228353.09,Meta,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

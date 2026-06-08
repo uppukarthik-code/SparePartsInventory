@@ -1,0 +1,10 @@
+Item,Type,Old_Location,New_Location,Modules_Affected,Behavior_Proof,Status
+read_sheet_rows,XLSX reader (list),railway_demand_reconstruction._sheet_rows,ingestion/excel_reader.read_sheet_rows,"demand_reconstruction(internal),lead_time,rop,safety_stock,srrs",55/55 input files byte-identical,CONSOLIDATED
+iter_sheet_rows,XLSX reader (generator),railway_data_preparation._xlsx_rows_via_xml,ingestion/excel_reader.iter_sheet_rows,data_preparation(operational loader),operational workbook identical,CONSOLIDATED
+read_pl_csv,CSV reader,"_rd x3 (safety_stock,rop,lead_time) verbatim dup",ingestion/csv_reader.read_pl_csv,"safety_stock,rop,lead_time","same pd.read_csv(dtype PL_Code,keep_default_na=False)",TRIPLICATE->1
+norm_pl_key,PL normalizer (key),railway_data_preparation._norm_pl,ingestion/pl_normalization.norm_pl_key,data_preparation,20/20 cases identical,CENTRALIZED
+normalize_pl,PL normalizer (audit),railway_pl_master.normalize_pl,ingestion/pl_normalization.normalize_pl,pl_master,20/20 cases identical,CENTRALIZED
+DMTR_DIR,raw-data path,railway_demand_reconstruction.DMTR_DIR + dr.DMTR_DIR(lead_time),ingestion/shared_io.DMTR_DIR,"demand_reconstruction,lead_time",single source (== prior value),CENTRALIZED
+SUMMARY_WORKBOOK,raw-data path,"literal triplicated (safety_stock,rop,srrs)",ingestion/shared_io.SUMMARY_WORKBOOK,(provided; modules wired in Phase B),value identical,PROVIDED (Phase B wires)
+data_validation,input validation,"none (schema_validation = output-side, untouched)",ingestion/data_validation,(additive; no rewire),n/a (additive),NEW HOME
+leaky import,cross-layer dependency,4 planning modules import railway_demand_reconstruction,railway.ingestion,"lead_time,rop,safety_stock,srrs",grep: 0 imports remain,LEAK ELIMINATED

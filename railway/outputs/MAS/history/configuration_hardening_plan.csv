@@ -1,0 +1,10 @@
+Hardcoded_Item,Location,Target
+DAYS_PER_MONTH 30.4375,"safety_stock,rop",-> cfg.DAYS_PER_MONTH
+Service levels 0.95/0.85,"safety_stock,srrs_mas",-> cfg.DIVISION_SERVICE_LEVELS
+Status thresholds 0.5x/2x ROP,rop,-> cfg.STOCK_STATUS_BANDS
+Criticality weights 10/5/1,srrs_mas,-> cfg.CRITICALITY_TYPE_WEIGHT (reconcile with STOCKOUT_WEIGHT)
+Depot '027534',"rop,srrs,safety_stock,reconstruction",-> per-division config (division registry)
+SUMMARY filename (dated),multiple,-> cfg glob pattern per division
+DMTR_DIR raw_data/.../MAS,"reconstruction,lead_time",-> cfg.division_paths(div)
+HORIZON Jul_2026..Jun_2027,forecast_generation,-> derive from cfg.SNAPSHOT_DATE
+cfg.SERVICE_LEVEL_TABLE/STOCKOUT_WEIGHT unused,config,reconcile/remove dead config

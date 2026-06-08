@@ -1,0 +1,6 @@
+Inventory_Value_Band,Count,Inventory_Value
+"< Rs 10,000",446,195468.04
+"Rs 10,000 - 1 Lakh",148,6655951.68
+Rs 1 Lakh - 10 Lakh,212,78256891.18
+Rs 10 Lakh - 1 Crore,94,289354635.41
+>= Rs 1 Crore,7,137943460.16

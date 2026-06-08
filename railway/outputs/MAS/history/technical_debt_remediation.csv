@@ -1,0 +1,26 @@
+ID,Finding,Impact,Effort,Risk,Remediation
+TD01,0 tests on STEP20-28 (9 modules),CRITICAL,Med,Low,build regression+unit suite FIRST
+TD02,Leaky dep: planning imports demand_reconstruction._sheet_rows,High,Low,Low,extract shared/io reader
+TD03,God-module management_reports 1548 LOC,High,Med,Med,split into reporting/
+TD04,"Flat 35-module package, no layering",High,Med,Med,layered package
+TD05,MAS extension hardcoded (blocks TPJ),High,Med,Med,config-driven division
+TD06,"17+ one-off drivers, no orchestrator",High,Med,Low,CLI/DAG over run() fns
+TD07,88 root .md + 430MB M5 clutter,Med,Low,Low,docs/ + delete M5
+TD08,3 dup XLSX readers + 2 PL normalizers,Med,Low,Low,centralize shared/
+TD09,Hardcoded constants bypass config,Med,Low,Low,centralize config
+TD10,Unpinned deps + 3 unused (sklearn/prophet/seaborn),Med,Low,Low,pin+split+remove
+TD11,No pyproject/setup (not installable/CI),Med,Low,Low,add pyproject.toml
+TD12,Bare except->0.0 silent failures,Med,Med,Low,explicit validation+log
+TD13,Fragile DMTR regex,Med,Med,Med,schema assertions
+TD14,np.median([]) latent crash,Low,Low,Low,empty guard
+TD15,Silent non-027534 depot drop,Low,Low,Low,assert/warn
+TD16,No logging framework,Med,Low,Low,add logging
+TD17,No CSV schema validation at boundaries,Med,Med,Low,schema-validate
+TD18,Criticality logic embedded (no module),Med,Low,Low,extract criticality module
+TD19,Repeated SUMMARY/DMTR re-reads,Low,Low,Low,cache shared parse
+TD20,No README/architecture/onboarding docs,High,Low,Low,add docs (this program)
+TD21,Closing_Stock derived/weakly reconciled,Low,Low,Low,label/exclude
+TD22,Knowledge in 88 reports not code/tests,High,Med,Low,docs+tests consolidate
+TD23,SHA-256 tree() reimplemented per driver,Low,Low,Low,shared util
+TD24,Output namespace mixes data+audit CSVs,Low,Low,Low,separate dirs
+TD25,No lock file (non-reproducible env),Med,Low,Low,pip-compile/lock

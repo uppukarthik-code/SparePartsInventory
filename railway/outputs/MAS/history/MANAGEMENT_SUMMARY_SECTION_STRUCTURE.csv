@@ -1,0 +1,9 @@
+Section,Purpose,KPI_Level,Source
+Metadata Header,provenance version/division/date/commit/score,meta,division_summary.metadata
+Executive Snapshot,L1 headline KPIs,L1,division_summary L1
+Operational Status,shortages/excess/exposure/service,L2,division_summary L2
+Technical Profile,method/class/criticality/LT mix,L3,division_summary L3
+Risk Concentration,SRRS top-10 + tiers,L1,srss/procurement_portfolio
+Capital Exposure,stock vs gap value,L1,srss_results
+Platform Readiness,scorecard + hardening,L1,platform_scorecard
+Division Comparison,MAS now; MAS-vs-TPJ when ready,L1,division registry

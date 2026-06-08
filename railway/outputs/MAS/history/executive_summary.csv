@@ -1,0 +1,17 @@
+Aspect,Assessment
+Initial state (STEP20),Zone-level planning only; no division-level demand/forecast/SS/ROP/SRRS; readiness ~48%
+Final state (STEP27),MAS full division planning stack live: demand->forecast->LT->SS->ROP->SRRS + portfolio + dashboard design; 96% forecast volume
+Blocker found 1,No multi-year per-division demand history (zone-only)
+Blocker found 2,Lead time 0% (no stored field)
+Blocker found 3,Demand vs inventory universe mismatch (depot 027534 vs 027029)
+Blocker found 4,Criticality 3% (59 strategic items only)
+Resolved 1,54-month demand reconstructed from DMTR (STEP21A)
+Resolved 2,"Lead time derived internally from PO/Reqn->Receipt (STEP23.6B, 96% vol)"
+Resolved 3,Depot-027534 stock snapshot found -> 99.6% stock coverage (STEP23.7-data)
+Resolved 4,"Criticality reconstructed (binary Safety/Vital/NA, 99.6%, STEP23.8)"
+Key outcome,626 PLs planned (96% volume); 6 dual-priority + 86 Tier1-2 = 87.6% of service risk
+Limitation 1,Lead-time tail: 35% of PLs (4% of volume) lack derived LT
+Limitation 2,Criticality binary only (S1-S4 granularity pending)
+Limitation 3,Issuing-depot context inflates absolute shortage counts (relative rank valid)
+Limitation 4,5 divisions data-blocked (no DMTR)
+Recommended action,Procure Tier1-2; stand up dashboard; acquire per-division DMTR+SUMMARY for rollout

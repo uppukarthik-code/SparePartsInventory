@@ -1,0 +1,9 @@
+Check,Status,Evidence,Risk,Recommendation
+DMTR parsing (raw OOXML),GREEN,"54 files, 19618 txns, 0 null PL/date, 0 qty-fail (STEP21A QA)",robust enough; fragile to format change,keep; add schema assertions
+Issue aggregation (demand),GREEN,"Issues=Issue-To User Depot+For End Use+To Contractor; conserved 2,727,684","correct, traceable",none
+Double-counting risk,GREEN,one transaction->one type bucket; no overlap,not observed,none
+Under-counting risk,AMBER,Issue-Book Transfer & Write-Back excluded from demand,internal moves rightly excluded; but 'Issue-Other'-type would be missed,whitelist review
+Depot mixing,GREEN,demand=depot 027534 (DMTR); stock=027534 (SUMMARY),consistent depot,none
+Closing_Stock reconstruction,AMBER,derived running balance; only 20/1083 reconcile vs stock_history(027029),NOT a verified absolute; could mislead if used downstream,label clearly; do not use for planning
+Gap-fill missing months,GREEN,first-seen->2026-06 zero-fill; avoids leading-zero bias,standard for intermittent,none
+PL mismatch / universe,AMBER,DMTR(027534) vs operational(027029) overlap 20; criticality 32,near-disjoint ledgers; resolved for stock via SUMMARY 027534,unified PL master needed for rollout

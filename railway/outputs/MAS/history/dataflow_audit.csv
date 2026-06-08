@@ -1,0 +1,11 @@
+Stage,Flow,Ownership/Traceability,Recommendation
+Raw->Demand,DMTR_*.xlsx -> demand_reconstruction -> monthly_demand_history,clear owner; reproducible,OK; cache parse
+Demand->Classification,-> demand_classification -> demand_classification.csv,clear,OK
+->Forecast,-> forecast_generation -> forecast_results,clear; reuses railway_forecasting fns,OK
+->Lead Time,DMTR -> lead_time_derivation -> lead_time_master,clear; re-parses DMTR,OK; share parse
+->Criticality,SUMMARY Type -> (in safety_stock/srrs inline),NO dedicated module; logic embedded,extract criticality module
+->Safety Stock,demand_class+lead_time+SUMMARY -> safety_stock_results,clear,OK
+->ROP,safety_stock+forecast+SUMMARY -> rop_results,clear,OK
+->SRRS,rop+SUMMARY -> srss_results,clear,OK
+->Reports,CSVs -> 80+ .md (manual),traceable but manual; no lineage manifest,add lineage manifest/orchestrator
+Reproducibility,"deterministic, byte-identical re-runs",strong,keep; add CI

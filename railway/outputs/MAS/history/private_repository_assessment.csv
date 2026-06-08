@@ -1,0 +1,8 @@
+Asset,Classification,Evidence
+railway/ source code,PUBLIC_SAFE,algorithms only; no secrets/credentials
+raw_data/Railway_Operations (DMTR),PRIVATE ONLY,real Southern Railway transaction registers
+SUMMARY OF STOCK HELD,PRIVATE ONLY,real depot stock + valuations
+Procurement / lead-time data,PRIVATE ONLY,vendor PO chronology
+Generated outputs (rop/srrs),PRIVATE ONLY,stock Rs 0.91B / gap Rs 3.37B (commercial)
+Notebooks + Power-BI,PRIVATE ONLY,embed operational/commercial figures
+OVERALL,PRIVATE ONLY,real operational+commercial railway data; keep private until governance clearance

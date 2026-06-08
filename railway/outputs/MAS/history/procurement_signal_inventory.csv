@@ -1,0 +1,11 @@
+Signal_Name,Source_Field,Coverage_Pct,Distinct_Values,Suitable_For_Lead_Time,Comments
+Receipt Date,DMTR col2 (dt.),100.0,-,No,Anchor date for all lead-time intervals; 100% of receipts
+Receipt Quantity,DMTR col9,100.0,-,No,Inflow qty; supports stock reconstruction not LT
+Vendor Receipt,DMTR col3 type,42.5,177,Indirect,Receipt-From Vendor flag; pairs with PO date for vendor LT
+PO / Contract Number,DMTR col8,42.8,293,Indirect,Procurement identifier; links receipt to order
+PO / Contract Date,DMTR col8 (PO ... dt.),42.4,-,YES,Order date -> vendor procurement lead time (PO->Receipt)
+Requisition (Demand/Indent) Number,DMTR col8 (Reqn No.),55.0,778,Indirect,Internal demand/indent identifier
+Requisition (Demand/Indent) Date,DMTR col8 (Reqn ... dt.),34.8,-,YES,Indent date -> internal fulfilment lead time (Reqn->Receipt)
+DBR Number,DMTR col11,95.9,1456,No,Receipt voucher id (Daily Balance Return)
+DBR Date,DMTR col11,72.1,-,No,"Approx equals receipt posting date -> ~0 interval, not a lead time"
+Challan Number,DMTR col8 (vide Challan No.),42.9,612,Indirect,Dispatch document; challan->receipt = transit time only

@@ -1,0 +1,19 @@
+Asset_Group,Type,Purpose,Ref_by_active_code,Ref_by_tests,Ref_by_notebooks,Req_by_reporting,Req_by_regression,Req_for_reproducibility
+railway/*.py (35 modules),code,core+extension platform,Y,Y,Y,Y,Y,Y
+"railway/ingestion/, governance/",code,I/O + config + reporting SoT,Y,Y,Y,Y,Y,Y
+railway/tests/,tests,regression + formula suite,Y,Y,N,N,Y,Y
+railway/outputs/<div>/,data,generated planning outputs (pinned),Y,Y,Y,Y,Y,Y
+raw_data/Railway_Operations/ (25M),data,DMTR + SUMMARY (railway source),Y,N,N,Y,Y,Y
+"raw_data/railways.xlsx, railway_stock_summary.xlsx",data,strategic/operational source,Y,N,N,Y,Y,Y
+notebooks/UPDATED_NOTEBOOK7 + EXEC + TECH,notebook,canonical railway notebooks (STEP30),N,N,Y,Y,N,N
+notebooks/07_railway_inventory_analysis,notebook,legacy railway NB (superseded),N,N,N,N,N,N
+notebooks/01-06 (Walmart),notebook,M5/Walmart provenance,N,N,N,N,N,N
+notebooks/*.csv dumps (~1.9G),data,Walmart-era output dumps,N,N,N,N,N,N
+raw_data/sales_train_*/sell_prices/calendar/sample_submission (431M),data,M5 competition data,N,N,N,N,N,N
+data/Sales_merged.csv (72M),data,Walmart merged sales,N,N,N,N,N,N
+"**/.ipynb_checkpoints/ (4 dirs, ~470M)",junk,editor checkpoints,N,N,N,N,N,N
+root *.md (113) + STEP reports,docs,platform documentation/audit trail,N,N,N,N,N,Partial
+Power-BI Dashboards/Railway.pbix (58M),binary,railway PowerBI dashboard,N,N,N,Y,N,N
+Anylogistix/ (15M),data,aLX sim results (railway),N,N,N,Partial,N,N
+requirements.txt,config,"deps (unpinned, 4 dead)",Y,Y,N,N,Y,Y
+"Optimization_models_CPLEX/, All plots/ (9M)",misc,Walmart-era artifacts,N,N,N,N,N,N

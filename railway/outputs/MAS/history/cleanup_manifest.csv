@@ -1,0 +1,9 @@
+Asset,Action,Evidence,Removal_Risk
+"raw_data/sales_train_*,sell_prices,calendar,sample_submission",DELETE (or archive/historical/m5_data),430MB; 0 railway imports; verified DEAD,NONE - not referenced by any railway module
+notebooks/01-06*.ipynb,archive/historical/walmart/,Walmart M5; cite 04/05 as forecasting/optimizer provenance,LOW - provenance retained
+notebooks/07_railway*.ipynb,archive/historical/ or docs/,superseded by modules,LOW
+root _step*/_*_audit.py (18 drivers),archive/experiments/,one-off; some reproduce outputs,LOW - keep for provenance/regression
+root *.md (88 reports),archive/reports/ or docs/reports/,human reports clutter root,NONE - pure docs move
+"sklearn,prophet,seaborn",remove from requirements (runtime),0 imports in railway/*.py (verified),NONE for runtime; keep in notebook extras if needed
+STEP1-19 modules,DO NOT ARCHIVE,ACTIVE_CORE_PLATFORM,CRITICAL - production code
+STEP20-28 modules,DO NOT ARCHIVE,ACTIVE_MAS_EXTENSION,HIGH - active

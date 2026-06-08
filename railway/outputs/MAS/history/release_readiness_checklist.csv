@@ -1,0 +1,13 @@
+Item,Status,Note
+Analytics complete,YES,STEP1-28 validated
+Tests green,YES,541 (537 regression + 3 formula + reporting)
+Reproducible baseline,YES,PYTHONHASHSEED=0 regen->pin->regen
+Railway-only tree,YES,2.39GB Walmart quarantined; notebooks=3
+Dependencies pinned,YES,5 runtime; 3 dead removed; pyproject.toml
+CI configured,YES,.github/workflows/ci.yml
+Docs structured,YES,"docs/{audits,modernization,hardening,reporting,onboarding,release}"
+Notebooks executable,YES,"3 re-executed, 0 errors"
+Release notes,YES,RELEASE_NOTES_v1.0.md
+Remote ownership,BLOCKED,origin=vivasvana1 != uppukarthik-code (remote_migration_plan.md)
+Committed,NO (by design),awaits STEP34
+Pushed/tagged,NO (by design),awaits STEP35/36

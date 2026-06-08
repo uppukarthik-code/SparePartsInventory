@@ -1,0 +1,8 @@
+Check,Status,Evidence,Risk,Recommendation
+ROP=DDLT+SS,GREEN,recompute matches to <=0.005; no negative ROP,correct,none
+DDLT units,GREEN,Forecast_Annual*(LT_days/30.4375)/12 = annual*LT_days/365.25,unit-consistent,none
+Double counting,GREEN,forecast(mean) + SS(variability) are distinct terms,none observed,none
+Stock linkage,GREEN,Current_Stock from SUMMARY 027534 only; SS reused verbatim from STEP24,traceable,none
+Issuing-depot distortion,RED(operational),465/626 Critical Shortage; depot 027534 holds ~0 of fast-movers,ROP-vs-stock overstates need for issuing depot; not a consignee buffer,net open POs; interpret as signal not absolute; confirm depot role
+Open-PO netting absent,AMBER,Net_Gap not computed; NS_DM_CONS covers 29/626,gaps not netted against pipeline,acquire full open-PO feed
+Stock-status thresholds,AMBER,0.5x/2x ROP hardcoded magic numbers,undocumented rationale,document/config

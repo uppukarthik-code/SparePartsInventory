@@ -1,0 +1,14 @@
+Artifact,Purpose,Status,Dependencies,Consumers,Maintainability_Risk
+railway/*.py (35 modules),analytics pipeline (STEP1-17 legacy + STEP18A-28 new),Active,"pandas,numpy,scipy,openpyxl,statsmodels,pulp","reports,CSVs","Medium-flat package, no layering"
+railway_management_reports.py,report archive/management pack (1548 LOC),Active(legacy),"cfg,outputs",reports,HIGH god-module
+railway_demand_reconstruction.._sheet_rows,raw-XLSX reader (private),Active,zipfile/xml,imported by 4 planning modules,HIGH leaky shared-util
+railway/tests/*.py (10),unit tests for STEP1-17 ONLY,Active(partial),pytest,-,HIGH coverage gap (new pipeline untested)
+root _step*_run.py / _*_audit.py (17),one-off drivers/orchestration,Dormant,modules,-,"HIGH no orchestrator, clutter"
+notebooks/01-06*.ipynb,Walmart/M5 exploratory,Dead/Dormant,M5 csvs,-,obsolete to railway
+notebooks/07_railway*.ipynb,railway narrative,Dormant,railway modules,-,superseded by modules
+root *.md (84),STEP/audit reports,Active(docs),-,humans,HIGH root clutter; belongs in docs/
+outputs/MAS/history/*.csv (56+),pipeline + audit artifacts,Active,modules,reports/dashboard,Medium mixes data+audit
+requirements.txt,deps (unpinned),Active,-,env,HIGH unpinned + notebook/unused libs
+"raw_data/sales_train_*,sell_prices,calendar,sample_submission",M5 raw data (430MB),Dead,-,Walmart notebooks only,HIGH 430MB unused
+"raw_data/railways.xlsx,railway_stock_summary.xlsx,Railway_Operations/*",railway sources,Active,-,pipeline,Medium untracked/fragile
+no pyproject.toml/setup.py,(missing) packaging,Missing,-,-,HIGH not installable/CI-ready

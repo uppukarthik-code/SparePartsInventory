@@ -1,0 +1,7 @@
+Division,Has_DMTR,Has_StockSummary,Has_Procurement_Feed,Has_StockHistory,STEP21A_Feasible,Missing_Data,Estimated_Effort,Expected_Coverage
+MAS,Y,Y,Y,Y,Done (live),-,-,96% fcst vol (live)
+SA,N,N,N,Y,Blocked (no DMTR),"DMTR registers, SUMMARY OF STOCK HELD, NS_DM_CONS","Low once data supplied (pipeline reusable, ~1-2 wk/div)",~90-96% if DMTR depth ~ MAS
+TPJ,N,N,N,Y,Blocked (no DMTR),"DMTR registers, SUMMARY OF STOCK HELD, NS_DM_CONS","Low once data supplied (pipeline reusable, ~1-2 wk/div)",~90-96% if DMTR depth ~ MAS
+MDU,N,N,N,Y,Blocked (no DMTR),"DMTR registers, SUMMARY OF STOCK HELD, NS_DM_CONS","Low once data supplied (pipeline reusable, ~1-2 wk/div)",~90-96% if DMTR depth ~ MAS
+PGT,N,N,N,Y,Blocked (no DMTR),"DMTR registers, SUMMARY OF STOCK HELD, NS_DM_CONS","Low once data supplied (pipeline reusable, ~1-2 wk/div)",~90-96% if DMTR depth ~ MAS
+TVC,N,N,N,Y,Blocked (no DMTR),"DMTR registers, SUMMARY OF STOCK HELD, NS_DM_CONS","Low once data supplied (pipeline reusable, ~1-2 wk/div)",~90-96% if DMTR depth ~ MAS

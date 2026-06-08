@@ -1,0 +1,14 @@
+Column,Col_Index,Datatype,Unique_Values,Null_Count,Coverage_Pct
+#,1,numeric,1260,0,100.0
+Consignee Depot,2,text,1,0,100.0
+Ledger No./Ledger Folio No.,3,text,1172,0,100.0
+PL-Code/Type/Usage,4,text,1215,0,100.0
+Stock or Non-Stock/Category,5,text,5,0,100.0
+Brief Description,6,text,1140,0,100.0
+Last Receipt / Issue Dt.,7,text,876,0,100.0
+Stock,8,numeric,147,0,100.0
+Unit,9,text,12,0,100.0
+Threshold Limit,10,numeric,1,0,100.0
+Average Rate (Rs.),11,numeric,949,0,100.0
+Value (Rs.),12,numeric,518,0,100.0
+Action,13,text,0,1260,0.0

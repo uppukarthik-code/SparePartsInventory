@@ -1,0 +1,60 @@
+PL_Code,Demand_Class,Forecast_Confidence,Recommended_Model,Forecast_2026_27,AAC_Forecast,EAR_Forecast,MA_Forecast,CAGR_Forecast,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+56509376,Smooth,High,Weighted Blend,14956.92,13500.0,21500.0,10269.0,10531.22,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,Smooth,High,Weighted Blend,5315.06,4550.0,7980.0,3685.2,3640.17,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900203,Dead,Very Low,Zero Forecast,10.5,0.0,35.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500350,Intermittent,Medium,Croston,28.72,43.0,35.0,3.4,3.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+52156576/56500452,Intermittent,Medium,Croston,45.37,36.0,85.0,8.8,37.08,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+52156618/56509935,Intermittent,Medium,Croston,8.1,0.0,26.0,1.0,1.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,Erratic,Low,SBA,66258.84,61300.0,88400.0,20429.8,111328.76,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,Smooth,High,Weighted Blend,38250.32,17350.0,88700.0,16267.0,14469.23,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,Erratic,Low,SBA,59866.54,53800.0,90800.0,19257.0,72551.37,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Smooth,Medium,Weighted Blend,28364.23,28800.0,36000.0,16788.8,26864.68,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50540324,Smooth,High,Weighted Blend,7197.9,6086.0,11800.0,3676.2,4882.58,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50541523,Smooth,High,Weighted Blend,970.46,575.0,1955.0,553.4,432.79,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50550081,Smooth,Medium,Weighted Blend,4135.36,2600.0,7620.0,2763.2,2567.22,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50901126,Dead,Very Low,Zero Forecast,114.0,0.0,380.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,Smooth,Medium,Weighted Blend,272191.42,230000.0,407500.0,167439.0,244536.22,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+72081181/72207413,Smooth,High,Weighted Blend,6878.08,6570.0,10030.0,3751.8,4907.24,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,Smooth,High,Weighted Blend,6283.91,5450.0,9250.0,4699.8,3889.47,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502606,Smooth,High,Weighted Blend,4053.4,4050.0,5550.0,2328.6,3026.79,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502576,Smooth,High,Weighted Blend,4379.46,4200.0,6150.0,2864.2,2816.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,Erratic,Low,SBA,17.71,25.0,21.0,6.8,0.53,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+45174404/45174416,Smooth,Medium,Weighted Blend,1352.95,1500.0,1400.0,727.2,1875.09,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+47200054/47200250,Erratic,Low,SBA,52.73,42.0,112.0,10.8,1.68,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50360693/50370110,Smooth,High,Weighted Blend,748.1,800.0,865.0,495.4,695.25,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50353603,Smooth,High,Weighted Blend,338.87,370.0,400.0,194.4,319.91,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231832/50231881,Smooth,High,Weighted Blend,1084.0,1600.0,894.0,715.4,327.17,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231959,Erratic,Low,SBA,91.6,83.0,135.0,79.0,20.98,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50232356/50232319,Smooth,High,Weighted Blend,1769.51,1921.0,1865.0,982.4,2451.29,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+40981381,Dead,Very Low,Zero Forecast,25899.0,0.0,86330.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160100,Lumpy,Low,TSB,8.15,0.0,25.0,3.0,0.52,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,Smooth,High,Weighted Blend,1287.44,1000.0,1980.0,892.0,1150.44,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,Smooth,High,Weighted Blend,1500.82,1289.0,2250.0,921.8,1258.56,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,Smooth,High,Weighted Blend,1556.04,1500.0,2030.0,1016.8,1436.77,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,Smooth,High,Weighted Blend,2090.62,438.0,5780.0,499.0,816.18,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,Smooth,High,Weighted Blend,1138.35,900.0,1700.0,995.4,692.74,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,Smooth,High,Weighted Blend,1581.69,960.0,2235.0,1802.0,1667.94,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50370080,Smooth,Medium,Weighted Blend,632.39,675.0,865.0,189.6,649.72,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50210014,Erratic,Low,SBA,175.63,190.0,120.0,283.8,68.66,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56462050,Smooth,High,Weighted Blend,1271.87,770.0,2570.0,696.8,535.11,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468064,Smooth,High,Weighted Blend,594.46,290.0,1350.0,230.0,274.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,Erratic,Low,SBA,21631.94,48.3,69000.0,4556.94,12.29,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,Intermittent,Medium,Croston,10214.28,0.0,33500.0,547.6,547.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56511516,Dead,Very Low,Zero Forecast,88.5,0.0,295.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56163034,Smooth,Medium,Weighted Blend,12.47,19.0,11.0,7.6,0.51,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468027,Smooth,High,Weighted Blend,1477.05,750.0,3300.0,678.0,514.53,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56987122/56110029,Smooth,Medium,Weighted Blend,2277.56,5.0,5500.0,2085.2,2085.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50132453,Dead,Very Low,Zero Forecast,7.5,0.0,25.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54252222,Dead,Very Low,Zero Forecast,321.0,0.0,1070.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56505959,Dead,Very Low,Zero Forecast,276.0,0.0,920.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900185,Intermittent,Medium,Croston,43.92,0.0,143.0,3.4,3.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509686,Dead,Very Low,Zero Forecast,11.4,0.0,38.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,Smooth,Medium,Weighted Blend,149.52,0.0,135.0,363.4,363.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56986210,Dead,Very Low,Zero Forecast,135.0,0.0,450.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160112,Dead,Very Low,Zero Forecast,6.3,0.0,21.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+91150401,Intermittent,Medium,Croston,80.15,116.0,60.0,52.5,52.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060002,Dead,Very Low,Zero Forecast,216.0,0.0,720.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50132600,Dead,Very Low,Zero Forecast,15.0,0.0,50.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+41095066,Intermittent,Medium,Croston,261761.4,595170.0,15000.0,63978.0,63978.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+40070359,Dead,Very Low,Zero Forecast,3000.0,0.0,10000.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985526,Dead,Very Low,Zero Forecast,900.0,0.0,3000.0,0.0,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

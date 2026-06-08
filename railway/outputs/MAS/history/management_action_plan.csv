@@ -1,0 +1,6 @@
+Tier,PL_Count,Recommended_Action,Owner_Illustrative,Review_Frequency,Escalation_Level
+Tier1_Dual_Priority,6,Procure immediately; net open POs; expedite,Sr.DMM / COS (illustrative),Weekly,Divisional / HQ Stores
+Tier2_HighRisk_HighValue,80,Procure next cycle; budget allocation,Depot Material Supt (illustrative),Fortnightly,Sr.DMM
+Tier3_HighRisk_Only,70,Service quick-wins (low-cost critical cables),Section Stores Officer (illustrative),Monthly,Depot Material Supt
+Tier4_HighValue_Only,70,Capital review; avoid bulk over-buy,Stores + Finance review (illustrative),Quarterly,Sr.DMM / Finance
+Tier5_Routine,400,Min/max policy; monitor,Depot routine (illustrative),Quarterly,Section Stores

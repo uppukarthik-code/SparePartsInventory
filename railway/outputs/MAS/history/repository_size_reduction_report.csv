@@ -1,0 +1,7 @@
+Metric,Value
+Before (excl .git),2.6 GB
+After (excl .git),~156 MB
+"Quarantined (reversible, out-of-repo)",2.39 GB
+Reduction,~94%
+GitHub footprint reduction,~94% working tree (.git 132MB unchanged until history rewrite)
+Maintenance reduction,notebooks 10->3; deps 13->5 runtime; docs root->docs/

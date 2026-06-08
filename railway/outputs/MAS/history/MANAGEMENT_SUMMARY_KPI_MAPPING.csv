@@ -1,0 +1,18 @@
+Level,KPI,Source_Output,Legacy_Consumed,STEP
+L1,Forecast Coverage %,forecast_results.csv,No,STEP23
+L1,Lead-Time Coverage %,lead_time_master.csv,No,STEP23.6B
+L1,Current Stock Value,srss_results.csv,No,STEP25.5
+L1,Reorder Gap Value,srss_results.csv,No,STEP25
+L1,Total SRRS,srss_results.csv,No,STEP26
+L1,Top-10 Concentration,srss_results.csv,No,STEP26
+L1,Tier 1/2 Count,procurement_portfolio.csv,No,STEP27
+L1,Platform Readiness,platform_scorecard.csv,No,Hardening
+L2,Critical Shortages,rop_results.csv,No,STEP25
+L2,Excess Inventory,rop_results.csv,No,STEP25
+L2,Open Procurement Exposure,procurement_portfolio.csv,No,STEP27
+L2,Service Levels,rop_results.csv,No,STEP24
+L3,Forecast Method Mix,forecast_results.csv,No,STEP22
+L3,Demand Class Mix,demand_classification.csv,No,STEP22
+L3,Criticality Distribution,rop_results.csv,No,STEP23.8
+L3,LT Source Mix,lead_time_master.csv,No,STEP23.6B
+meta,Platform/Division/DataDate/Commit/Score,division_summary.metadata,No,STEP30

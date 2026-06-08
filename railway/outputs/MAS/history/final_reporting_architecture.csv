@@ -1,0 +1,8 @@
+Layer,Current,Target,Status
+KPI engine,3 divergent (exec/mgmt/notebook),division_summary (single),DONE
+Executive reporting,legacy STEP1-19,delegates to SoT (+ frozen legacy outputs),DONE
+Management reporting,legacy STEP1-19 god-module,delegates to SoT (+ frozen legacy outputs),DONE
+Notebook Railway (3 variants),rebuilt STEP30,consume SoT,DONE
+Division parameterization,MAS hardcoded,--division CLI + registry,DONE
+Enterprise roll-up,none,build_all_divisions() foundation,FOUNDATION
+Legacy compute removal,present,repository purification phase,DEFERRED

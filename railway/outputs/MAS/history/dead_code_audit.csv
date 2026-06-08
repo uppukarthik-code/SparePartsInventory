@@ -1,0 +1,9 @@
+Item,Classification,Evidence,Recommendation
+M5 raw CSVs (430MB),Dead,not read by any railway module,DELETE/ARCHIVE (move out of repo)
+notebooks 01-06 (Walmart),Dormant/Obsolete,"M5 pipeline, not railway",ARCHIVE (archive/walmart/)
+notebook 07 (railway),Dormant,superseded by railway modules,ARCHIVE or convert to report
+17 root _step*/_*_audit drivers,Dormant,one-off; some reproduce outputs,ARCHIVE (scripts/legacy/) keep for provenance
+cfg.SERVICE_LEVEL_TABLE,Dormant,read by optimizer; UNUSED by STEP24-26,CONSOLIDATE or document as legacy
+cfg.CRITICALITY_STOCKOUT_WEIGHT,Dormant(partial),optimizer only; SRRS uses own TYPE_WEIGHT,CONSOLIDATE
+prophet / scikit-learn / seaborn (deps),Dead?(verify),not imported by railway/*.py,REMOVE from runtime deps after grep-confirm
+railway_performance_test.py / railway_regression.py,Dormant,standalone diagnostics,KEEP archived

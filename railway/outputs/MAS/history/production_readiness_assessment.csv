@@ -1,0 +1,12 @@
+Dimension,Score_0_100,Confidence,Evidence,Key_Risks
+Data Foundation,78,High,"demand reconstruction conserved, 0 nulls; closing-stock weak; near-disjoint universes resolved via SUMMARY","closing-stock, universe rollout"
+Forecasting,65,Medium,"SBC-aligned, reproducible; flat profile; sMAPE metric inappropriate for intermittent","metric (MASE), flat profile"
+Lead Time,70,Medium,"chronology-clean, 96% vol; mixed PO/Reqn semantics; 35% PL tail","semantics, tail"
+Criticality,58,Low-Med,"99.6% binary coverage, recall 0.95; stores-proxy not RAMS; 32-PL validation","weak validation base, binary"
+Safety Stock,55,Low-Med,arithmetic correct; normal-approx inappropriate for intermittent majority,method for intermittent
+ROP,62,Medium,mechanics correct; issuing-depot distortion; no PO netting,"depot artifact, netting"
+SRRS,60,Medium,"reused objective, stable, reproducible; volume-dominated; excess unhandled","volume dominance, labeling"
+Value Exposure,72,Medium-High,"100% unit-rate, complementary to SRRS; outlier-skewed",outliers
+Operationalization,55,Low-Med,"portfolio sound, dashboard designed not built; pilot-ready","build, adoption"
+Governance,50,Low-Med,"config drift, no tests, illustrative owners, provenance caveats","tests, config, ownership"
+Software Engineering,55,Low-Med,"modular/reproducible/backward-compatible; no tests, hardcoded, fragile parsing","tests, robustness, orchestration"

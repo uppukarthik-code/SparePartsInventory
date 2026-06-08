@@ -1,0 +1,30 @@
+name: Railway Platform CI
+
+on:
+  push:
+    branches: [main, repository-purification]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONHASHSEED: "0"   # reproducible baseline (set-order determinism)
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install runtime + dev deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest
+      - name: Regression suite (537 pinned outputs)
+        run: pytest railway/tests/regression/ -q
+      - name: Formula-invariant tests (SS / ROP / SRRS)
+        run: pytest railway/tests/inventory/ -q
+      - name: Reporting validation (single KPI source of truth)
+        run: |
+          python -c "import railway.railway_executive_summary as es, railway.railway_management_reports as mr; from railway.governance import division_summary as ds; assert es.kpis()==mr.modern_kpis()==ds.compute_kpis(); print('reporting consistent: SoT == executive == management')"

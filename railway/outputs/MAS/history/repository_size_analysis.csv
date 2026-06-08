@@ -1,0 +1,9 @@
+Bucket,Size,Pct_of_total,Note
+TOTAL (excl .git),2.6 GB,100%,working tree
+DELETE_SAFE,~2.4 GB,~92%,notebook CSV dumps 1.9G + M5 431M + Sales_merged 72M + checkpoints 470M (overlap)
+  notebooks/*.csv dumps,1.9 GB,73%,Walmart output dumps
+  raw_data M5 CSVs,431 MB,16%,M5 competition data
+  data/Sales_merged.csv,72 MB,3%,Walmart
+ARCHIVE_WALMART,~13 MB,<1%,notebooks 01-06 + CPLEX + plots
+RETAINED (railway v1.0),~150-200 MB,~7%,railway/ 43M + outputs + railway raw_data 25M + Railway.pbix 58M + docs
+Estimated reduction,~90-92%,-,2.6 GB -> ~0.2 GB

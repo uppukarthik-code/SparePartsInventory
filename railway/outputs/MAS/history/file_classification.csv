@@ -1,0 +1,16 @@
+Asset_Group,Classification,Rationale
+railway/ STEP1-19 modules,ACTIVE_RAILWAY_CORE,live core platform; imported + tested
+railway/ STEP20-28 modules,ACTIVE_RAILWAY_EXTENSION,live MAS planning; produces pinned outputs
+"railway/ingestion, governance, config, tests, outputs",ACTIVE_INFRASTRUCTURE,"I/O, config, reporting SoT, regression guard"
+"raw_data/Railway_Operations, railways.xlsx, railway_stock_summary.xlsx",ACTIVE_INFRASTRUCTURE,railway data sources (reproducibility)
+notebooks/UPDATED_NOTEBOOK7 + EXEC + TECH,ACTIVE_INFRASTRUCTURE,canonical railway notebooks
+Power-BI Dashboards/Railway.pbix,ACTIVE_INFRASTRUCTURE,railway dashboard binary
+root STEP*/RAILWAY*/PHASE* .md reports,REFERENCE_HISTORICAL,audit trail / platform documentation
+notebooks/07_railway_inventory_analysis,REFERENCE_HISTORICAL,legacy railway NB superseded by STEP30
+"notebooks/04_demand_forecasting, 05_inventory_optimization",METHODOLOGY_REFERENCE,forecasting/optimizer provenance for railway engine
+"notebooks/01-03, 06 (Walmart)",ARCHIVE_WALMART,M5 provenance; no railway dependency
+notebooks/*.csv dumps (~1.9G),DELETE_SAFE,Walmart output dumps; 0 railway refs
+raw_data M5 CSVs (431M),DELETE_SAFE,M5 data; 0 railway imports (verify 3 string refs)
+data/Sales_merged.csv (72M),DELETE_SAFE,Walmart merged sales; 0 refs
+**/.ipynb_checkpoints (~470M),DELETE_SAFE,editor junk
+"Optimization_models_CPLEX, All plots",ARCHIVE_WALMART,Walmart-era artifacts; not railway

@@ -1,0 +1,8 @@
+Check,Status,Evidence,Risk,Recommendation
+Funnel PL counts,GREEN,demand 1083 -> forecast 961 -> LT 702 -> SS 626 -> ROP 626 -> SRRS 626,"monotone, explained (Dead/LT-tail)",none
+Unique PLs each stage,GREEN,all stages PL-unique,no duplicates,none
+Subset integrity,GREEN,SS subset of forecast; ROP==SS set; SRRS==ROP set,dependency-consistent,none
+SS reused verbatim into ROP,GREEN,max|SS diff|=0 between STEP24 and STEP25 input,no recompute drift,none
+Volume conservation (demand),GREEN,"Issues 2,727,684 conserved (STEP21A); forecast annual=12*monthly",conserved,none
+Coverage consistency,GREEN,626 PLs = 96% forecast volume at SS/ROP/SRRS,consistent across layers,none
+Backward compatibility,GREEN,every STEP20-28 step SHA-256: 0 prior outputs changed,strict additivity verified,none

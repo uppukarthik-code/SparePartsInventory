@@ -1,0 +1,7 @@
+Item,Impact,Evidence,Recommendation
+SUMMARY OF STOCK HELD re-read,Medium,"parsed independently by safety_stock,rop,srrs + several audits each run","read once, cache/pass frame"
+DMTR 54-file re-parse,Medium,demand_reconstruction AND lead_time each parse all 54 workbooks,shared cached parse
+per-driver full-tree SHA-256,Low-Med,every _step*_run hashes entire outputs/ before+after,scope to changed dirs
+row-wise iterrows in builders,Low,safety_stock/rop/srrs loop iterrows (n<=1083),vectorize (minor; small data)
+repeated CSV reloads,Low,each module reloads upstream CSVs,acceptable for batch; pipeline-cache if scaled
+memory,Low,small frames (<40k rows); 430MB M5 only if notebooks run,drop M5 from repo

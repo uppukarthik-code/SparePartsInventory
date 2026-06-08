@@ -1,0 +1,4 @@
+Operational_ABC,Count,Inventory_Value,Value_Pct,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+A,26,57221112.06,69.94,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B,34,16232564.16,19.84,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+C,482,8364094.18,10.22,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

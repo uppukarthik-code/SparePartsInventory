@@ -1,0 +1,6 @@
+Action,Description,Count,Strategic_Inventory_Value,Operational_Inventory_Value,Priority
+Procure Immediately,Procure Immediately,38,1511731.32,17263516.13,1-Critical
+Retain,Retain,193,0.0,55000677.63,5-Steady
+Monitor,Monitor,22,4105741.1,103710.54,4-Low
+Rationalize,Rationalize,190,0.0,6198911.3,3-Medium
+Dispose,Dispose,124,0.0,3250954.8,2-High

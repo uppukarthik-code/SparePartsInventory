@@ -1,0 +1,6 @@
+Action,Description,Count,Strategic_Inventory_Value,Operational_Inventory_Value,Priority,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+Procure Immediately,Procure Immediately,38,1511731.32,17263516.13,1-Critical,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Retain,Retain,193,0.0,55000677.63,5-Steady,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Monitor,Monitor,22,4105741.1,103710.54,4-Low,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Rationalize,Rationalize,190,0.0,6198911.3,3-Medium,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Dispose,Dispose,124,0.0,3250954.8,2-High,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

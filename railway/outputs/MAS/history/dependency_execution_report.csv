@@ -1,0 +1,14 @@
+Package,Action,Reason,Pinned
+pandas,RETAIN (runtime),>0 imports,3.0.3
+numpy,RETAIN (runtime),>0 imports,2.4.6
+scipy,RETAIN (runtime),norm.ppf in SS,1.17.1
+statsmodels,RETAIN (runtime),Holt,0.14.6
+pulp,RETAIN (runtime),knapsack,3.3.2
+matplotlib,MOVE to notebooks extra,notebooks only,3.10.9
+seaborn,MOVE to notebooks extra,notebooks only,0.13.2
+jupyter/jupyterlab/ipywidgets,MOVE to notebooks extra,dev/notebooks,1.1.1/4.5.8/8.1.8
+scikit-learn,REMOVED,0 imports (Walmart-era),-
+prophet,REMOVED,0 imports (Walmart-era),-
+plotly,REMOVED,0 imports (Walmart-era),-
+pyproject.toml,CREATED,packaging + extras + console script,v1.0.0
+.gitignore,CREATED,block junk + data dumps,-

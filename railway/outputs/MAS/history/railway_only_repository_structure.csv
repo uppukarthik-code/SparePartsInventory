@@ -1,0 +1,11 @@
+Path,Current,Target_v1.0,Action
+railway/,flat 35 modules,layered (ingestion/governance/.. core),RETAIN (layer later)
+railway/tests/,regression+formula,same,RETAIN
+railway/outputs/,6-division outputs,same,RETAIN
+notebooks/,10 mixed,3 notebook_railway*.ipynb,RENAME 3 + ARCHIVE 7
+raw_data/,railway + 431M M5,railway sources only,DELETE M5
+data/,72M Walmart,(removed),DELETE
+docs/,absent (113 root .md),docs/ + docs/reports/,MOVE .md
+archive/,absent,"archive/walmart/, archive/historical/",CREATE + MOVE
+pyproject.toml,absent,present (pinned),ADD
+Power-BI Dashboards/,58M,retain Railway.pbix,RETAIN

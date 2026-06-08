@@ -1,0 +1,17 @@
+ABC_Class,Criticality,Count,Normalized_Inventory_Value,Inventory_Gap,Normalized_Investment_Required,Source_Universe,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+A,S1,6,39307761.0,252856.81,173529449.87,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+A,S2,3,25200989.6,35102.72,174438659.3,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+A,S3,0,0.0,0.0,0.0,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+A,S4,0,0.0,0.0,0.0,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B1,S1,3,8595082.37,72857.14,30010896.73,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B1,S2,0,0.0,0.0,0.0,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B1,S3,1,1552200.32,1841.39,9656101.85,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B1,S4,0,0.0,0.0,0.0,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B2,S1,1,1026954.0,669.14,4581173.33,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B2,S2,2,2009393.68,1440.32,9193932.76,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B2,S3,3,1146981.18,4619.56,14286319.16,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+B2,S4,0,0.0,0.0,0.0,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+C,S1,3,587625.96,61543.73,51999738.08,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+C,S2,9,1572972.67,115.9,1212923.92,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+C,S3,13,3554053.44,117575.82,1657299.47,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+C,S4,15,1109621.3,273898.14,2548875.58,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

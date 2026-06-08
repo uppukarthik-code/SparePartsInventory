@@ -1,0 +1,8 @@
+Narrative_Stage,Present_in_NB7,Coherent,Evidence,Gap
+Original Platform (Walmart/M5 lineage),Disclaimer only,Partial,"cell0 ""Walmart workflow untouched""",No transformation rationale shown
+Railway Transformation (STEP1-19),Yes,Yes,sections 2-10,Outputs stale; otherwise coherent
+Division Planning (STEP20-28),No,No,none,ENTIRE MAS extension absent: demand/forecast/LT/crit/SS/ROP/SRRS/procurement
+Operational Deployment + Hardening,No,No,none,"No hardening program, tests, reproducibility, scorecard"
+Audience: new engineer,Partial,-,core only,Cannot understand division planning or current architecture
+Audience: stores officer,No,-,no operational risk view,No critical-shortage / reorder-gap / SRRS priority list
+Audience: senior manager,Partial,-,stale core KPIs,"No capital exposure, no risk concentration, no readiness"

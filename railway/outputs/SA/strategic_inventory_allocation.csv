@@ -1,0 +1,6 @@
+PL_Code,Description,Business_Unit,Strategic_Stock,Allocation_Source,Source_Depot_Column
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,SA,31.0,Depot_Column_Allocation,GSD/ED
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,SA,100.0,Depot_Column_Allocation,GSD/ED
+50232356/50232319,Magneto telephone,SA,85.0,Depot_Column_Allocation,GSD/ED
+91150401,SOLDER CORE RESIN FILLED (Kgs.),SA,38.0,Depot_Column_Allocation,GSD/ED
+41095066,PVC Insulation TAPE (Mtrs),SA,8730.0,Depot_Column_Allocation,GSD/ED

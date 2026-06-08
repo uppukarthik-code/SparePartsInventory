@@ -1,0 +1,11 @@
+Notebook,Disposition,Reason
+01_data_preparation,ARCHIVE,Walmart; no railway dep
+02_data_preparation,ARCHIVE,Walmart
+03_exploratory_data_analysis,ARCHIVE,Walmart EDA (2.5M)
+04_demand_forecasting,ARCHIVE (methodology ref),forecasting provenance
+05_inventory_optimization,ARCHIVE (methodology ref),optimizer provenance
+06_anylogistix_simuation_tables,ARCHIVE,Walmart aLX
+07_railway_inventory_analysis,ARCHIVE (historical),"legacy railway, superseded by STEP30"
+UPDATED_NOTEBOOK7,RETAIN+RENAME,-> notebook_railway.ipynb (master)
+NOTEBOOK7_EXECUTIVE_VERSION,RETAIN+RENAME,-> notebook_railway_executive.ipynb
+NOTEBOOK7_TECHNICAL_VERSION,RETAIN+RENAME,-> notebook_railway_technical.ipynb

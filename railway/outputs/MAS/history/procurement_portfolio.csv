@@ -1,0 +1,6 @@
+Tier,PL_Count,Forecast_Volume,ROP_Value_Units,Gap_Units,Gap_Value_Rs,SRRS_Contribution_Pct
+Tier1_Dual_Priority,6,366789.0,254453.0,236837.0,2116822425.0,57.6
+Tier2_HighRisk_HighValue,80,226809.0,183905.0,173745.0,751479733.0,30.0
+Tier3_HighRisk_Only,70,95758.0,95223.0,82596.0,35701105.0,12.0
+Tier4_HighValue_Only,70,2048.0,1922.0,1797.0,385427619.0,0.1
+Tier5_Routine,400,154846.0,65979.0,7693.0,77936577.0,0.3

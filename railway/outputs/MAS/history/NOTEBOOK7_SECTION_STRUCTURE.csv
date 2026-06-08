@@ -1,0 +1,17 @@
+Num,Section,Primary_Datasets,Business_Question
+S1,Platform Overview,narrative,What is this platform?
+S2,Platform Architecture,active_dependency_map,How is it built?
+S3,Data Foundation,"monthly_demand_history,enterprise_pl_master",What data powers it?
+S4,Demand Reconstruction,monthly_demand_history,How does MAS consume inventory?
+S5,Forecasting,"forecast_results,demand_classification",How forecastable is the universe?
+S6,Lead-Time Analytics,lead_time_master,What drives replenishment delay?
+S7,Criticality,"demand_classification,criticality",How much is operationally critical?
+S8,Safety Stock,safety_stock_results,What drives buffers?
+S9,Reorder Point,rop_results,What should be reordered?
+S10,SRRS Prioritization,srss_results,Where is service risk concentrated?
+S11,Capital Exposure,srss_results,Where is capital at risk?
+S12,Procurement Portfolio,procurement_portfolio,What to procure first?
+S13,Business Case,"platform_scorecard,validation",What was achieved?
+S14,Platform Hardening,"platform_scorecard,migration",Can it be maintained?
+S15,Executive Dashboard,executive_kpi_framework,Executive decision support
+S16,TPJ Readiness,tpj_onboarding_readiness,What blocks TPJ?

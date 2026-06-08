@@ -1,0 +1,6 @@
+KPI,Value,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+Flagged SKUs,2.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Original Investment Required (Rs),6606343723.14,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Normalized Investment Required (Rs),473115370.05,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Original Concentration Index (%),96.97,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+Normalized Concentration Index (%),82.42,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

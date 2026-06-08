@@ -1,0 +1,11 @@
+Dependency,Status,Evidence,Recommendation
+"pandas,numpy,scipy",Used,core,pin versions
+statsmodels,Used,Holt (forecasting),pin
+pulp,Used,optimizer knapsack,pin
+openpyxl,Used(partial),strategic workbook; XML reader avoids it,pin
+scikit-learn,Suspect-unused,not imported by railway/*.py (verify),remove from runtime if unused
+prophet,Suspect-unused/heavy,not used by railway forecasting (uses statsmodels),remove from runtime
+"seaborn,plotly,ipywidgets,matplotlib",Notebook-only,"viz, not pipeline",move to requirements-notebooks.txt
+"jupyter,jupyterlab",Notebook-only,dev,move to dev/notebook extras
+requirements.txt unpinned,All,no version pins -> non-reproducible env,pin all; split runtime/dev/notebook
+no lock file,-,no pip-compile/poetry lock,add lock

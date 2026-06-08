@@ -1,0 +1,13 @@
+Report_Name,Version_Date,Generation_Timestamp,Source_Files,Rows_Analysed,Report_Path
+monthly_executive_report.md,2026-06-07,2026-06-07 22:10:07,page0_executive_dashboard.csv;page9_management_actions.csv;page8_budget_scenarios.csv;digital_twin_readiness.csv;service_risk.csv,83,reports/latest/monthly_executive_report.md
+procurement_review.md,2026-06-07,2026-06-07 22:10:07,page1_procurement.csv;service_risk.csv;page0_executive_dashboard.csv,128,reports/latest/procurement_review.md
+dead_stock_review.md,2026-06-07,2026-06-07 22:10:07,op_dead_stock.csv;op_inventory_aging.csv;page0_executive_dashboard.csv,206,reports/latest/dead_stock_review.md
+rationalization_review.md,2026-06-07,2026-06-07 22:10:07,page5_rationalization.csv;page9_management_actions.csv,964,reports/latest/rationalization_review.md
+budget_review.md,2026-06-07,2026-06-07 22:10:07,page8_budget_scenarios.csv;page0_executive_dashboard.csv,14,reports/latest/budget_review.md
+digital_twin_readiness_report.md,2026-06-07,2026-06-07 22:10:07,digital_twin_readiness.csv;multi_echelon_candidates.csv;service_risk.csv,123,reports/latest/digital_twin_readiness_report.md
+monthly_executive_report.md,2026-06-07,2026-06-07 22:10:23,page0_executive_dashboard.csv;page9_management_actions.csv;page8_budget_scenarios.csv;digital_twin_readiness.csv;service_risk.csv,83,reports/latest/monthly_executive_report.md
+procurement_review.md,2026-06-07,2026-06-07 22:10:23,page1_procurement.csv;service_risk.csv;page0_executive_dashboard.csv,128,reports/latest/procurement_review.md
+dead_stock_review.md,2026-06-07,2026-06-07 22:10:23,op_dead_stock.csv;op_inventory_aging.csv;page0_executive_dashboard.csv,206,reports/latest/dead_stock_review.md
+rationalization_review.md,2026-06-07,2026-06-07 22:10:23,page5_rationalization.csv;page9_management_actions.csv,964,reports/latest/rationalization_review.md
+budget_review.md,2026-06-07,2026-06-07 22:10:23,page8_budget_scenarios.csv;page0_executive_dashboard.csv,14,reports/latest/budget_review.md
+digital_twin_readiness_report.md,2026-06-07,2026-06-07 22:10:23,digital_twin_readiness.csv;multi_echelon_candidates.csv;service_risk.csv,123,reports/latest/digital_twin_readiness_report.md

@@ -1,0 +1,21 @@
+Legacy_Section,Disposition,Reason,Maps_To_New
+Title/Intro,REBUILD,reframe as STEP1-28 platform notebook,S1 Platform Overview
+Architecture Overview,REBUILD,add ingestion/governance/extension + hardening,S2 Architecture
+Strategic Pipeline,PRESERVE,still technically correct (STEP2),S3 Data Foundation
+Operational Pipeline,PRESERVE,correct (operational load),S3 Data Foundation
+Forecasting Results (STEP1-19),REBUILD,replace zone forecast with STEP22-23 division forecast,S5 Forecasting
+Inventory Optimization (STEP15),REBUILD,replace with STEP24-26 SS/ROP/SRRS,S8-S10
+Rationalization Results,PRESERVE,correct; relocate,S11 Capital Exposure (context)
+Executive Dashboard (stale),RETIRE,stale + STEP1-19 only,S15 Executive Dashboard (new)
+Power BI Outputs (stale),RETIRE,stale snapshot,re-rendered live in notebook
+AnyLogistix Outputs,PRESERVE,correct; low priority,appendix
+Production Readiness,REBUILD,replace with hardening results,S14 Platform Hardening
+Key Limitations,REBUILD,post-hardening caveats,S14/S16
+Recommended Next Steps,REBUILD,current roadmap,S16 TPJ Readiness
+(none),CREATE,demand reconstruction,S4
+(none),CREATE,lead-time analytics,S6
+(none),CREATE,criticality analytics,S7
+(none),CREATE,SRRS prioritization,S10
+(none),CREATE,procurement portfolio,S12
+(none),CREATE,business case,S13
+(none),CREATE,TPJ readiness,S16

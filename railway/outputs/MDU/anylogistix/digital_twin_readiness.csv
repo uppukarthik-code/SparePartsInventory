@@ -1,0 +1,6 @@
+Metric,Score_Pct,Band
+Network_Data_Completeness,50.0,Partial
+Inventory_Data_Completeness,100.0,Ready
+Demand_Data_Completeness,50.0,Partial
+Policy_Data_Completeness,100.0,Ready
+Overall_Digital_Twin_Readiness,75.0,Near Ready

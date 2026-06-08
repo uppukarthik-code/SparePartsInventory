@@ -1,0 +1,27 @@
+# Railway Platform v1.0 — .gitignore (STEP33)
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tooling / session
+.claude/
+
+# Walmart-era / large data dumps (must NEVER enter history)
+notebooks/*.csv
+notebooks/*.xlsx
+data/
+raw_data/sales_train_*.csv
+raw_data/sell_prices.csv
+raw_data/sample_submission.csv
+raw_data/calendar.csv
+
+# Local quarantine (out-of-repo by default; guard if ever placed inside)
+_railway_purge_quarantine/

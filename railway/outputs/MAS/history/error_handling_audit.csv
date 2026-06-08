@@ -1,0 +1,8 @@
+Issue,Location,Risk,Recommendation
+bare except -> 0.0 (qty/value parse),"demand_reconstruction,_audits",Silent failure,explicit parse + log + quarantine bad rows
+bare except -> None/0 (date parse),"lead_time, reconstruction",Silent drop,validate + count rejects
+np.median([]) on empty winsor set,lead_time_derivation,Latent crash (low likelihood),guard empty
+silent non-027534 depot drop,rop.py _current_stock,Hidden assumption,assert single depot or warn
+"fragile regex (PO/Reqn/date 'dt.','No.')","lead_time, reconstruction",Breaks on format change,schema/format assertions
+no logging framework,all modules (print only),No observability,add logging
+no input schema validation on CSVs,planning modules,Bad-contract risk,schema-validate at module boundary

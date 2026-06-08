@@ -1,0 +1,7 @@
+Check,Status,Evidence,Risk,Recommendation
+Formula SS=z*sigma*sqrt(LT),GREEN,recompute matches stored to <=0.005; z=norm.ppf(SL) correct,arithmetic correct,none
+Dimensional consistency,GREEN,sigma monthly * sqrt(LT_days/30.4375) = sqrt(months) -> qty,units consistent,none
+Normal approx for intermittent,RED(method),z*sigma*sqrt(LT) assumes normal LT-demand; 86% items intermittent/lumpy; lit (Syntetos/Babai) flags inadequate,SS likely biased (over for lumpy/under for some); service level not actually guaranteed,use intermittent-demand SS (Croston-variance / bootstrap / distributional) for full production
+sigma derivation (monthly incl zeros),AMBER,full-series std incl zero months; not size/interval decomposition,mis-estimates LT-demand variance for intermittent,compound/Poisson variance for intermittent classes
+Service level mapping,AMBER,Critical 0.95 / Non-Critical 0.85 hardcoded; cfg.SERVICE_LEVEL_TABLE unused,defensible defaults but not config-driven,centralise in config; sensitivity
+Binary criticality usage,AMBER,only 2 service tiers from binary criticality,coarse,tier by S1-S4 when available

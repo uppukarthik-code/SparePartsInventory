@@ -1,0 +1,12 @@
+Legacy_KPI,Status,New_KPI,Level,Lineage
+Operational Inventory Value,RETAINED (legacy output),Current Stock Value (Rs),L1,rop/srss stock x rate
+Dead/Slow Stock Value,RETAINED (legacy output),Excess Inventory / Capital Exposure,L2/L1,rop Stock_Status
+Forecast Accuracy (railway_forecast),DEPRECATED,Forecast Coverage % + Method Mix,L1/L3,forecast_results
+Procurement Top-10 (policy),RETAINED (legacy output),Procurement Portfolio (5-tier),L1,procurement_portfolio
+(none),NEW,Reorder Gap Value (Rs),L1,srss Reorder_Gap_Value_Rs
+(none),NEW,Total SRRS + Top-10 Concentration,L1,srss SRRS
+(none),NEW,Critical Shortages,L2,rop Stock_Status
+(none),NEW,Lead-Time Coverage % + Source Mix,L1/L3,lead_time_master
+(none),NEW,Criticality Distribution,L3,rop Criticality_Class
+(none),NEW,Tier 1/2 Count,L1,procurement_portfolio
+(none),NEW,Platform / TPJ Readiness,L1,platform_scorecard / tpj_onboarding_readiness

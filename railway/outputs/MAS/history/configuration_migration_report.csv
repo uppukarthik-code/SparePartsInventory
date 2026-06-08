@@ -1,0 +1,14 @@
+Constant,Category,Old_Location,New_Location,Equivalence,Status
+DAYS_PER_MONTH=30.4375,planning constant,"safety_stock,rop (local)",gcfg.DAYS_PER_MONTH,MATCH (exact),CENTRALIZED
+SERVICE_LEVEL Critical0.95/NonCrit0.85,service levels,"safety_stock,srrs (local dup)",gcfg.SERVICE_LEVEL,MATCH,CENTRALIZED
+TYPE_WEIGHT Safety10/Vital5/NA1,criticality weights,srrs (local),gcfg.TYPE_WEIGHT,MATCH,CENTRALIZED
+ROP status 0.5x / 2x,thresholds,rop._status (inline),gcfg.ROP_CRITICAL_FACTOR/ROP_EXCESS_FACTOR,MATCH,CENTRALIZED
+HORIZON Jul2026..Jun2027,planning horizon,forecast_generation (local),gcfg.HORIZON,MATCH,CENTRALIZED
+SUMMARY OF STOCK filename,file name,"safety_stock,rop,srrs (triplicated literal)",gcfg.SUMMARY_WORKBOOK,MATCH,CENTRALIZED
+DMTR_DIR path,directory path,"demand_reconstruction,lead_time",gcfg.DMTR_DIR (via shared_io),MATCH,CENTRALIZED
+output dir MAS/ + history/,directory path,"7 modules (cfg.OUTPUT_DIR/""MAS""/...)",gcfg.DIVISION_OUTPUT_DIR/HISTORY_DIR,MATCH,CENTRALIZED
+"division label ""MAS""",division identity,BUSINESS_UNIT consts + Business_Unit row labels + BU filters (7 modules),gcfg.DIVISION,MATCH,CENTRALIZED
+depot 027534,data scope,rop fn-name/comments only (NOT a code filter),gcfg.DEPOT (provenance),n/a,PROVENANCE (not a literal)
+SBC cutoffs 1.32/0.49,classification,railway_config.ADI_CUTOFF/CV2_CUTOFF,(already central),n/a,ALREADY CENTRAL
+srrs fallback SL 0.85,default,"srrs SERVICE_LEVEL.get(cls,0.85)",(remains as defensive default),n/a,REMAINS (minor)
+DMTR column indices,data schema,demand_reconstruction C_DMTR_DATE..,"(remains; format-level, division-agnostic)",n/a,REMAINS (schema)

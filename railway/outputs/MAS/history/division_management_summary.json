@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "Platform Version": "Railway Inventory Planning Platform v1.0 (STEP1-28 + Hardening A/B)",
+    "Division": "MAS",
+    "Data Date": "08-06-2026",
+    "Git Commit": "2bddf37",
+    "Generation Date": "(runtime)",
+    "Pipeline Version": "STEP1-19 core + STEP20-28 MAS extension",
+    "Readiness Score": "43.9 -> 76.7 (target)"
+  },
+  "kpis": {
+    "L1": [
+      {
+        "KPI": "Forecast Coverage %",
+        "Value": 88.7,
+        "Source": "forecast_results.csv"
+      },
+      {
+        "KPI": "Lead-Time Coverage %",
+        "Value": 97.8,
+        "Source": "lead_time_master.csv"
+      },
+      {
+        "KPI": "Criticality Coverage %",
+        "Value": 100.0,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "Safety-Stock Coverage %",
+        "Value": 100.0,
+        "Source": "safety_stock_results.csv"
+      },
+      {
+        "KPI": "ROP Coverage %",
+        "Value": 100.0,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "SRRS Coverage %",
+        "Value": 100.0,
+        "Source": "srss_results.csv"
+      },
+      {
+        "KPI": "Current Stock Value (Rs)",
+        "Value": 913635687,
+        "Source": "srss_results.csv"
+      },
+      {
+        "KPI": "Reorder Gap Value (Rs)",
+        "Value": 3367367459,
+        "Source": "srss_results.csv"
+      },
+      {
+        "KPI": "Total SRRS",
+        "Value": 8217896.6,
+        "Source": "srss_results.csv"
+      },
+      {
+        "KPI": "Top-10 Risk Concentration %",
+        "Value": 84.5,
+        "Source": "srss_results.csv"
+      },
+      {
+        "KPI": "Tier 1 Count",
+        "Value": 6,
+        "Source": "procurement_portfolio.csv"
+      },
+      {
+        "KPI": "Tier 2 Count",
+        "Value": 80,
+        "Source": "procurement_portfolio.csv"
+      },
+      {
+        "KPI": "Platform Readiness",
+        "Value": "43.9 -> 76.7 (target)",
+        "Source": "platform_scorecard.csv"
+      },
+      {
+        "KPI": "TPJ Readiness",
+        "Value": "NO-GO (data-blocked); config-ready",
+        "Source": "tpj_onboarding_readiness.csv"
+      }
+    ],
+    "L2": [
+      {
+        "KPI": "Critical Shortages",
+        "Value": 465,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "Shortages",
+        "Value": 45,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "Healthy",
+        "Value": 43,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "Excess Inventory",
+        "Value": 60,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "No Demand",
+        "Value": 13,
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "Open Procurement Exposure (Rs)",
+        "Value": 3367367459,
+        "Source": "procurement_portfolio.csv"
+      },
+      {
+        "KPI": "Service Level Split",
+        "Value": "Critical(0.95): 360 | Non-Critical(0.85): 266",
+        "Source": "rop_results.csv"
+      }
+    ],
+    "L3": [
+      {
+        "KPI": "Forecast Method Mix",
+        "Value": {
+          "SBA": 654,
+          "TSB": 276,
+          "Croston": 26,
+          "SES/Holt": 5
+        },
+        "Source": "forecast_results.csv"
+      },
+      {
+        "KPI": "Demand Class Mix",
+        "Value": {
+          "Intermittent": 654,
+          "Lumpy": 276,
+          "Dead": 122,
+          "Erratic": 26,
+          "Smooth": 5
+        },
+        "Source": "demand_classification.csv"
+      },
+      {
+        "KPI": "Criticality Distribution",
+        "Value": {
+          "Critical": 360,
+          "Non-Critical": 266
+        },
+        "Source": "rop_results.csv"
+      },
+      {
+        "KPI": "Lead-Time Source Mix",
+        "Value": {
+          "PO_Date": 518,
+          "Requisition_Date": 184
+        },
+        "Source": "lead_time_master.csv"
+      },
+      {
+        "KPI": "Planning Universe Funnel",
+        "Value": "1083 classified -> 961 forecast -> 702 lead-time -> 626 planned",
+        "Source": "STEP21A-26"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+Asset,Walmart_Only,Railway_Dependency,Recommendation
+"notebooks 01-03,06",Yes,None,ARCHIVE
+"notebooks 04,05",Yes (origin),Methodology (engine derived from these),ARCHIVE as methodology ref
+raw_data M5 CSVs (431M),Yes,None (verify 3 string refs),DELETE (or archive out-of-repo)
+notebooks/*.csv dumps (1.9G),Yes,None,DELETE
+data/Sales_merged.csv,Yes,None,DELETE
+"Optimization_models_CPLEX, All plots",Yes,None,ARCHIVE
+scikit-learn/prophet/seaborn/plotly deps,Yes (Walmart-era),0 imports in railway/,REMOVE from runtime requirements

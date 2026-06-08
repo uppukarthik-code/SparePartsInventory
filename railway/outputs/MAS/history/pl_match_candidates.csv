@@ -1,0 +1,145 @@
+PL_Code_A,PL_Code_B,Description_A,Description_B,Match_Score,Match_Type
+501400350020,570102815889,Scanner EPSON V39,Scanner Epson V39,1.0,Description-OP
+539805825807,539813610020,KRONE TOOL,KRONE TOOL,1.0,Description-OP
+539813440022,539813442079,CABLE FAULT LOCATOR,CABLE FAULT LOCATOR,1.0,Description-OP
+539831871011,509000506870,WiFi Router,WIFI ROUTER,1.0,Description-OP
+549005791499,549005791396,Solder soft A Grade,SOLDER SOFT  A-GRADE,1.0,Description-OP
+560604970097,539802996380,DIGITAL INSULATION TESTER,DIGITAL INSULATION TESTER,1.0,Description-OP
+560604970097,539802996457,DIGITAL INSULATION TESTER,DIGITAL INSULATION TESTER,1.0,Description-OP
+726001400205,560605006124,HANDHELD BRUSH CUTTER / LINE TRIMMER,HANDHELD BRUSH CUTTER / LINE TRIMMER,1.0,Description-OP
+789900328123,539894880234,Office executive table Size 150X90X67 cm Right side - 03 Drawers & Left side one drawer,Office executive table Size 150X90X67 cm Right side - 03 Drawers & Left side one drawer,1.0,Description-OP
+795900190130,569047300020,JUNGLE HAT,JUNGLE HAT,1.0,Description-OP
+551200010789,54252222,E -TYPE LOCK,E-TYPE LOCK,1.0,Description-SK
+549005791499,549005791396,Solder soft A Grade,SOLDER SOFT  A-GRADE,1.0,Prefix8-OP
+539813440022,539813442079,CABLE FAULT LOCATOR,CABLE FAULT LOCATOR,1.0,Prefix8-OP
+539812073467,539812073637,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,SCH B-04 UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard for CCTV cameras in all ....,0.636,Prefix8-OP
+539804752183,539804754143,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,Sch B-26 OFC cable 24 fibre armoured as per RDSO specification No.IRS:TC:55/2006 Rev.l fo....,0.625,Prefix8-OP
+539898330307,539898331038,OFC Joint closure conforming to TEC Spec.for Optic Fibre Cable (24 Fibres),SCH B5-60 Optical fibre Cable joint closure (24 fibres) conforming to TEC Spec No.TEC GR/....,0.526,Prefix8-OP
+501300041401,501300043185,"OFC patch cord 7 mtrs length (SC-LC,single mode, duplex)",SCH B-23 Single Mode duplex OFC Patch Cord (length-5m) (LC-SC/SC-SC/LC-LC) for CCTV Camer....,0.5,Prefix8-OP
+501300041401,501300041644,"OFC patch cord 7 mtrs length (SC-LC,single mode, duplex)",OFC PATCH CHORD LC-SC/SC-SC 5 MTRS LENGTH,0.462,Prefix8-OP
+539898330307,539898331040,OFC Joint closure conforming to TEC Spec.for Optic Fibre Cable (24 Fibres),SCH B5-61 Optical fibre Cable joint closure (48 fibres) conforming to TEC Spec No.TEC GR....,0.45,Prefix8-OP
+539813440710,539813442079,"Cable/Pipe Route, fault and marker locator",CABLE FAULT LOCATOR,0.429,Prefix8-OP
+539820980087,539820980129,Nylon Rain Coat shirt with cap and pant,NYLON RAIN COAT,0.375,Prefix8-OP
+501000263740,501000264214,GI Pipe 50mm Dia 3.65mm Thick,GI PIPE 50MM DIAMETER,0.375,Prefix8-OP
+539848730089,539848730107,IPS/Charger Failure SMS Alert System,SMS ALERT SYSTEMS IN FAILURE TIME,0.333,Prefix8-OP
+539863350028,539863350041,SPECIAL EARTHING AND BONDING SYSTEM AS PER RDSO SPEC. RDSO/SPN/197/2008 OR LATEST,SPECIAL EARTHING AND BONDING SYSTEM WITH ACCESSORIES,0.312,Prefix8-OP
+539802804167,539802804179,HDPE PIPE O.D 40MM I.D 33MM,HDPE PIPE,0.286,Prefix8-OP
+539802804118,539802804179,HDPE PIPE 110MM DIA 5.5 MM THICK,HDPE PIPE,0.286,Prefix8-OP
+539812073467,539812072098,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,STP CAT6 Cable with should be compliant with latest EIA/TIA-568-B. 2-1 standard or latest ....,0.25,Prefix8-OP
+569001120070,569001120124,Earthing arrangements for MSDAC Hut as per RDSO specifications RDSO/SPN/197/2016 and RDSO Lr .No STS....,Special earth and bonding system as per RDSO specification RDSO/SPN/197/2008 or latest.  ....,0.25,Prefix8-OP
+569001120070,569001120112,Earthing arrangements for MSDAC Hut as per RDSO specifications RDSO/SPN/197/2016 and RDSO Lr .No STS....,Special earth and bonding system as per RDSO specification RDSO/SPN/197/2008 or latest.,0.25,Prefix8-OP
+539802239713,539802239981,25 mm Conduit PVC Pipe as per RDSO /SPN/217/2018 ver - 2 -D1 With accessories,PVC CONDUIT PIPE 32 MM,0.235,Prefix8-OP
+502355361120,502355360990,"Fire Alarm Power supply for Aspiration (AIR Sampling) Type smoke detector Power supply  (24V DC, 5A)....",VOICE LOGGER POWER SUPPLY UNIT 24V DC,0.235,Prefix8-OP
+539898330307,539898330289,OFC Joint closure conforming to TEC Spec.for Optic Fibre Cable (24 Fibres),OFC joint closure for optic fiber cable 48 F for LUS work at 16 LC gates CGL-VM OF TRANSPR....,0.231,Prefix8-OP
+539813440022,539813440708,CABLE FAULT LOCATOR,Cable fault locator ANDIG 5379 FOR AQUINT INFRATELE INDIA AT MAS-GDR STN,0.231,Prefix8-OP
+539825241013,539825241189,GI pipe 100 mm dia 4.5mm thick,"GI pipe (50 mm dia 3.65 mm thick, IS 1239 part 1 grade) for FOB work by SRI SRINIVASA",0.227,Prefix8-OP
+570109490283,570109490714,Industrial Grade Embedded Fanless PC with all accessories,"Embedded PC ¿ECX-3100 Intel i5 industrial grade, dual monitors  22 inch TFT LED , 32 inch....",0.211,Prefix8-OP
+539820980099,539820980129,"Polyester Rain coat with Cap, Pant and Reflective tape",NYLON RAIN COAT,0.2,Prefix8-OP
+549005791499,549005791384,Solder soft A Grade,WIPING SOLDER,0.2,Prefix8-OP
+539898330307,539898330368,OFC Joint closure conforming to TEC Spec.for Optic Fibre Cable (24 Fibres),Optical fiber cable joint closure for 24 F FOR VSS REACH 3 WORK by I T I LIMITED-CHENNAI,0.2,Prefix8-OP
+501000263740,501000267963,GI Pipe 50mm Dia 3.65mm Thick,GI PIPE 40 MM DIAMETER,0.2,Prefix8-OP
+501000263740,501000264226,GI Pipe 50mm Dia 3.65mm Thick,GI PIPE 100 MM DIAMETER,0.2,Prefix8-OP
+539802804118,539802805135,HDPE PIPE 110MM DIA 5.5 MM THICK,"HDPE pipe for 24F/48F 33 mm inner dia, 40 mm outer dia for Utility shifting  work by SRI S....",0.2,Prefix8-OP
+539898330307,539898330277,OFC Joint closure conforming to TEC Spec.for Optic Fibre Cable (24 Fibres),joint enclosure for optic fiber cable 24 F for LUS work at 16 LC gates CGL-VM OF TRANSPRO,0.192,Prefix8-OP
+549006530948,549006531011,SURGE PROTECTION DEVICE AS PER RDSO SPEC. No.RDSO/SPN/165/2012(Ver.3) or LATEST CONSIST OF STAGE 1(C....,SURGE PROTECTION DEVICE CLASS B & C,0.182,Prefix8-OP
+539813440710,539813440708,"Cable/Pipe Route, fault and marker locator",Cable fault locator ANDIG 5379 FOR AQUINT INFRATELE INDIA AT MAS-GDR STN,0.176,Prefix8-OP
+570100421847,570100421616,Station mastersblock panel for Single line-SSBPAC(D)as per RDSO/SPN/175/2005 or latest along with su....,13 Segment Display Card with Awago LED with suitable connectors for GPS clock as per RDSO ....,0.172,Prefix8-OP
+539802616703,539802615050,19 inch 24U Rack,12 U RACK,0.167,Prefix8-OP
+539802616569,539802615050,19 inch 12U Rack,12 U RACK,0.167,Prefix8-OP
+539897071045,539897070703,"High Density Polyethylene Pipes (HDPE) of 110mm outer dia, 10mm wall thickness as per specification....",HDPE PIPE 33MM INNER & 40MM OUTER DIA,0.158,Prefix8-OP
+539805825807,539805826125,KRONE TOOL,Krone tool for AQUINT INFRATELE  with various Engineering Works in MAS-GDR Sections,0.154,Prefix8-OP
+539804752183,539804752225,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,CABLE OFC 6 FIBER ARMOURED OPTIC FIBRE CABLE SM FOR ANNAIE 69 STN,0.148,Prefix8-OP
+569001120070,569001120203,Earthing arrangements for MSDAC Hut as per RDSO specifications RDSO/SPN/197/2016 and RDSO Lr .No STS....,SCH B-18 Special earth (TRUE POWER LTD) and bonding system as per RDSO specification RDSO....,0.148,Prefix8-OP
+539804752183,539804753072,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,CABLE OFC 6 FIBER ARMOURED OPTIC FIBRE CABLE SM for FOB work by SRI SRINIVASA,0.138,Prefix8-OP
+539804752183,539804752201,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,CABLE OFC 12 CORE UNARMOURED OPTIC FIBRE CABLE,0.13,Prefix8-OP
+539804752183,539804751828,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,CABLE OFC 12 CORE UNARMOURED OPTIC FIBRE CABLE,0.13,Prefix8-OP
+569003010103,569003010693,FIRE ALARM MULTI SENSOR DETECTOR DUAL OPTICAL/THERMAL WITH ROTARIES AND BACK BOXES INCLUDING BASE,FAULT ISOLATOR DETECTOR BASE,0.118,Prefix8-OP
+539804752183,539804754222,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,SCH B-29 OFC 12 core single mode armoured optic fibre cable ITU-G 652D for CCTV Cameras a....,0.118,Prefix8-OP
+539804082797,539804082610,COVER MS FOR C.T.BOX,CT BOX 20 PAIR,0.111,Prefix8-OP
+570100421859,570100421616,Microprocessor based SSBPAC(D) for single line including wiring relay rack without Relays as per RDS....,13 Segment Display Card with Awago LED with suitable connectors for GPS clock as per RDSO ....,0.107,Prefix8-OP
+539804082797,539804082608,COVER MS FOR C.T.BOX,CT BOX 4 PAIR / 5 PAIR,0.1,Prefix8-OP
+560604545830,560604545763,Electrical Drilling Machine input 110V model WDH 13/23mm heavy duty drill 595 watts on full load wit....,DRILLING MACHINE 1323 MM B8D,0.095,Prefix8-OP
+539809943549,539809946186,Battery cable 16 Sq.mm Red Cable: 10Mtrs Length Cable with Lugs on both sides and 16 Sq.mm Black Cab....,SCH B-41 Cable 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for sp....,0.094,Prefix8-OP
+539809943549,539809946174,Battery cable 16 Sq.mm Red Cable: 10Mtrs Length Cable with Lugs on both sides and 16 Sq.mm Black Cab....,SCH B-40 Cable 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for sp....,0.094,Prefix8-OP
+539809943550,539809946186,Battery cable 25 Sq.mm Red Cable: 10Mtrs Length Cable with Lugs on both sides and 25 Sq.mm Black Cab....,SCH B-41 Cable 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for sp....,0.094,Prefix8-OP
+539809943550,539809946174,Battery cable 25 Sq.mm Red Cable: 10Mtrs Length Cable with Lugs on both sides and 25 Sq.mm Black Cab....,SCH B-40 Cable 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for sp....,0.094,Prefix8-OP
+539805021573,539805022450,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....","24 port loaded patch panel /jack panel with cable manager for 2nd and 4th floor of NGO,PRS....",0.091,Prefix8-OP
+539802804167,539802805135,HDPE PIPE O.D 40MM I.D 33MM,"HDPE pipe for 24F/48F 33 mm inner dia, 40 mm outer dia for Utility shifting  work by SRI S....",0.091,Prefix8-OP
+565172845385,565172848313,Power supply Card suitable for M/s Efftronics make Data logger as per Spec:IRS:S-99/2006 (Amdt-3) or....,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",0.088,Prefix8-OP
+539804752183,539804753989,OFC cable 24 fibre armoured as per RDSO specification no. IRS:TC:55/2006 Rev 1 with amendment no.3 ....,SCH B-47 OFC 12 core Unarmoured Optical fibre cable for indoor for VSS 5 STN WORK BY KS SM....,0.086,Prefix8-OP
+539813442018,539813440708,GNSS based cable route tracer kit with receiver with built in mount for GNSS receiver suitable for d....,Cable fault locator ANDIG 5379 FOR AQUINT INFRATELE INDIA AT MAS-GDR STN,0.08,Prefix8-OP
+569001120070,569001120136,Earthing arrangements for MSDAC Hut as per RDSO specifications RDSO/SPN/197/2016 and RDSO Lr .No STS....,Special earth and bonding system for SURYA ELECTRONICS IPIS WORK AT GI & CGL STN,0.071,Prefix8-OP
+570109490386,570109490714,Supply and installation of embedded PC with Dualmonitors - one of size 21.5 for SM to enter/acceptev....,"Embedded PC ¿ECX-3100 Intel i5 industrial grade, dual monitors  22 inch TFT LED , 32 inch....",0.067,Prefix8-OP
+565199410343,565199410379,Fault analysis terminal for analyzing IPS and ELD faults and generating reports by interfacing with ....,Sch-A-06 eTSR SOFTWARE AT CENTRAL PLACE UP TO 20 STATIONS for by Automated Train signal re....,0.067,Prefix8-OP
+539813442018,539813442079,GNSS based cable route tracer kit with receiver with built in mount for GNSS receiver suitable for d....,CABLE FAULT LOCATOR,0.062,Prefix8-OP
+539831871011,539831871187,WiFi Router,Gigabit WI-FI access router confined to 802.11ax (WI-FI.6) standard connectors  for 2nd a....,0.062,Prefix8-OP
+570104790136,570104790252,UPS 5KVA CAPACITY,UPS Online 2KVA NUMAX DOU2K Online WITH 60 MIN BATTERY BACKUPfor Tele-Consultancy work at ....,0.062,Prefix8-OP
+539809943549,539809946125,Battery cable 16 Sq.mm Red Cable: 10Mtrs Length Cable with Lugs on both sides and 16 Sq.mm Black Cab....,SCH B-40 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for speaker l....,0.061,Prefix8-OP
+565172845440,565172848313,Analog protection strip PCB card suitable for M/s Efftronics make Data logger as per Spec:IRS:S-99/....,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",0.061,Prefix8-OP
+539809943550,539809946125,Battery cable 25 Sq.mm Red Cable: 10Mtrs Length Cable with Lugs on both sides and 25 Sq.mm Black Cab....,SCH B-40 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for speaker l....,0.061,Prefix8-OP
+565172845439,565172848313,64 Digital input stack card suitable for M/s Efftronics make Data logger as per Spec: IRS:S-99/2006 ....,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",0.059,Prefix8-OP
+565172845397,565172848313,Dual Modem E1 Converter suitable for M/s Efftronics make Data logger as per Spec: IRS:S-99/2006 (Amd....,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",0.059,Prefix8-OP
+501000423936,501000424023,CAT 6 Cable consisting of each drum/box of 305 Meters,UTP CAT6 CABLE FOR IMPROVEMENT WORK TO NGO OFFICE COMPLEX,0.053,Prefix8-OP
+509000405457,509000404337,Joint closure conforming to TEC Spec. and splicing of Optic Fibre Cable 48 Fibres,OFC JOINTING ENCLOSURE KIT 24 FIBRE,0.053,Prefix8-OP
+560403680160,560403681989,Standard Tool Kit for Maintanance HASSDAC systems with accessories as per technical specification co....,CORAL TELECOM CPU CARD for PABX system,0.05,Prefix8-OP
+501000423936,501000425167,CAT 6 Cable consisting of each drum/box of 305 Meters,STP (Shielded Twisted Pair) CAT6 cable (4 pair) compliant with EIA/TIA568-B.2- 1 standard,0.042,Prefix8-OP
+560612520681,560612520073,Key Lock Checking Relay (KLCR) with one number K-50 Neutral Relay to work on 24V DC non AC immunized....,NAVATOL LOCKS 8 LEVERS WITH KEYS,0.042,Prefix8-OP
+539897071501,539897070703,"Half-cut DWC pipe 250/217 mm as per Drawing No. SK.9/11, IS Specification No. 14930 (Part II)",HDPE PIPE 33MM INNER & 40MM OUTER DIA,0.04,Prefix8-OP
+539805021573,539805022942,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",LIU 12 Port Rock Mounted Fibre Patch Panel,0.038,Prefix8-OP
+539812073467,539812072116,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,Single I/O box with SMBand connector with shutter facility and terminating theUTP cable fo....,0.037,Prefix8-OP
+570109490520,570109490714,Supply and Installation of e-TSR Central server (Rack Model) with Intel Xeon Silver 4309Y processor ....,"Embedded PC ¿ECX-3100 Intel i5 industrial grade, dual monitors  22 inch TFT LED , 32 inch....",0.033,Prefix8-OP
+570150950426,570150950256,"Intel Core I3 All in One PC with 23.8 Inch Display, Windows 11 Professional, DDR4 8GB RAM, 512 SSD, ....","8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU",0.033,Prefix8-OP
+570150950426,570150950270,"Intel Core I3 All in One PC with 23.8 Inch Display, Windows 11 Professional, DDR4 8GB RAM, 512 SSD, ....","8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU",0.033,Prefix8-OP
+539805021573,539805023351,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails for electr....,0.031,Prefix8-OP
+570150950426,570150950530,"Intel Core I3 All in One PC with 23.8 Inch Display, Windows 11 Professional, DDR4 8GB RAM, 512 SSD, ....","8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU FOR SURYA ELECTRON....",0.03,Prefix8-OP
+539805021573,539805022784,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",FMS Rack mounting type 19size for 12F with FC/SC-PC connector loaded with pigtails and ter....,0.029,Prefix8-OP
+539805021573,539805024100,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B-22 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails a....,0.029,Prefix8-OP
+539805021573,539805023648,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH A-11 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails ....,0.029,Prefix8-OP
+539805021573,539805022140,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",FMS Rack mounting type 19size for 12F with FC/SC-PC connector loaded with pigtails and ter....,0.029,Prefix8-OP
+539805021573,539805023673,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH NO 17 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails ....,0.029,Prefix8-OP
+539805021573,539805024136,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B-25 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails f....,0.029,Prefix8-OP
+539805021573,539805024719,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B5-31 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtail....,0.029,Prefix8-OP
+539805021573,539805024124,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B-56 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails a....,0.029,Prefix8-OP
+570150950426,570150950542,"Intel Core I3 All in One PC with 23.8 Inch Display, Windows 11 Professional, DDR4 8GB RAM, 512 SSD, ....","8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU for  R RAMA CHANDR....",0.029,Prefix8-OP
+539805021573,539805023971,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B-79 OFC cable 24 fibre armoured  as per RDSO specification NO.IRS:TC:55/2006 Rev.1for....,0.027,Prefix8-OP
+543600010201,543600011473,Offset Bracket Large,"Standard Rack 19 size width, 6U size for Utility shifting work by SRI SRINIVASA",0.0,Prefix8-OP
+565172845385,565172848234,Power supply Card suitable for M/s Efftronics make Data logger as per Spec:IRS:S-99/2006 (Amdt-3) or....,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",0.0,Prefix8-OP
+539805021573,539805021962,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SC TYPE RACK/WALL MOUNTABLE 24F FIBER MANAGEMENT SYSTEM-FMS,0.0,Prefix8-OP
+539805021573,539805024148,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B-26 SC TYPE Rack mountable 24F FMS suitable for splicing and front patching of 24F ca....,0.0,Prefix8-OP
+539805021573,539805024707,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B5-30 SC TYPE Rack/Wall mountable 24F Fibre management system (FMS) for TUNGSTEN-NAGPU....,0.0,Prefix8-OP
+539805021573,539805021391,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SC TYPE RACK/WALL MOUNTABLE 24F FIBER MANAGEMENT SYSTEM-FMS,0.0,Prefix8-OP
+539805021573,539805021810,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SC TYPE RACK/WALL MOUNTABLE 24F FIBER MANAGEMENT SYSTEM-FMS FOR VSS REACH2 WORK,0.0,Prefix8-OP
+539805021573,539805024112,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH B-55 SC TYPE Rack mountable 24F Fibre management system (FMS) suitable for splicing an....,0.0,Prefix8-OP
+539805021573,539805021974,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SC TYPE RACK/WALL MOUNTABLE 12F FIBER MANAGEMENT SYSTEM-FMS FOR VSS REACH2 WORK,0.0,Prefix8-OP
+539805021573,539805023685,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SCH NO 18 SC TYPE Rack/Wall mountable 24F Fibre management system (FMS)suitable for splici....,0.0,Prefix8-OP
+539805021573,539805022772,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SC TYPE rack/Wall mountable24F Fibre management system (FMS) for FOB work by SRI SRINIVASA,0.0,Prefix8-OP
+539805021573,539805024690,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....","SCH B5-29 Rack mountable 48 Fibre management system (FMS) for TUNGSTEN-NAGPUR at WJ,TKO,AJ....",0.0,Prefix8-OP
+539805021573,539805022309,"24 port Giga Bit layer 2switch, 24 x 10/100/1000 BASE-T PoE ports ? 4 x 1G (minimum) SFP+ ports with....",SC TYPE rack/Wall mountable24F Fibre management system (FMS) for Utility shifting work b....,0.0,Prefix8-OP
+569003011545,569003010693,Power Supply Card for Fire Alarm make Notofire,FAULT ISOLATOR DETECTOR BASE,0.0,Prefix8-OP
+565094815203,565094815835,Auto Change Over Arrangement,Single RJ 11 I/O with SMB connector with shutter facility for Utility shifting work by SRI....,0.0,Prefix8-OP
+539812073467,539812072232,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,"I/O box with RJ -45 socket dual information outlet with Surface Mount Box(SMB), and RJ45 s....",0.0,Prefix8-OP
+539812073467,539812072244,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,"Face Plate for 2nd and 4th floor of NGO,PRS at MMC building by FLY ENTERPRISES DIGISOL",0.0,Prefix8-OP
+539812073467,539812073005,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,"SCH A- 15 I/O box with RJ -45 socket dualinformation outlet with SurfaceMount Box (SMB), a....",0.0,Prefix8-OP
+539812073467,539812072578,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,"I/O box with RJ -45 socket dual information outlet with Surface Mount Box (SMB), and RJ45 ....",0.0,Prefix8-OP
+539812073467,539812072608,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard,"I/O box with RJ -45 socket dual information outlet with Surface Mount Box (SMB), and RJ45 ....",0.0,Prefix8-OP
+560403680160,560403681886,Standard Tool Kit for Maintanance HASSDAC systems with accessories as per technical specification co....,CORAL TELECOM DHVANI IP4LP IP Phone,0.0,Prefix8-OP
+539859090172,539859090070,Loop Card for Fire Alarm make Notofire,Heat and Smoke Sensor,0.0,Prefix8-OP
+565172845439,565172848234,64 Digital input stack card suitable for M/s Efftronics make Data logger as per Spec: IRS:S-99/2006 ....,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",0.0,Prefix8-OP
+569003010073,569003010693,FIRE ALARM ANALOGUE CONTROLLER FOR LHS CABLE AS PER RDSO/SPN/217/2018/ Ver - 2,FAULT ISOLATOR DETECTOR BASE,0.0,Prefix8-OP
+543600010754,543600011473,Offset Bracket Small 90MM,"Standard Rack 19 size width, 6U size for Utility shifting work by SRI SRINIVASA",0.0,Prefix8-OP
+543600010766,543600011473,Offset Bracket Small,"Standard Rack 19 size width, 6U size for Utility shifting work by SRI SRINIVASA",0.0,Prefix8-OP
+559006210073,559006210050,Polylitin cable Truff,PVC trough of 50 mmx50 mmx1 .5mm thickness with cover onwall/Roof/Partition etc as per IS ....,0.0,Prefix8-OP
+565172845440,565172848234,Analog protection strip PCB card suitable for M/s Efftronics make Data logger as per Spec:IRS:S-99/....,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",0.0,Prefix8-OP
+569003011284,569003010693,"Fire Alarm TCP/IP for Single loop addressable fire alarm control panel, Ethernet Module",FAULT ISOLATOR DETECTOR BASE,0.0,Prefix8-OP
+565172844319,565172848313,DATA LOGGER 512 DIGITAL INPUT/ 32 ANALOG INPUT RELEASED,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",0.0,Prefix8-OP
+565172844319,565172848234,DATA LOGGER 512 DIGITAL INPUT/ 32 ANALOG INPUT RELEASED,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",0.0,Prefix8-OP
+502355361120,502355360989,"Fire Alarm Power supply for Aspiration (AIR Sampling) Type smoke detector Power supply  (24V DC, 5A)....",VOICE LOGGER SLAVE TELEPHONE,0.0,Prefix8-OP
+543500020713,543500021456,CLS LADDER 4.6 Mtrs with clamp,"Covered 19(42U) Racks of size 2200mm x 600mm x 600mm for 2nd and 4th floor of NGO,PRS at M....",0.0,Prefix8-OP
+565172843959,565172848313,Leased Line Modem for RTU,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",0.0,Prefix8-OP
+565172843959,565172848234,Leased Line Modem for RTU,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",0.0,Prefix8-OP
+509000405457,509000404404,Joint closure conforming to TEC Spec. and splicing of Optic Fibre Cable 48 Fibres,OFC Jointing Kit,0.0,Prefix8-OP
+565172845397,565172848234,Dual Modem E1 Converter suitable for M/s Efftronics make Data logger as per Spec: IRS:S-99/2006 (Amd....,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",0.0,Prefix8-OP
+561300672279,561300672991,Event Logger For SSDAC (G.G.Tronics Make),"Standard rack 19size, 6U size height wall mounting type front glass door with lock and ke....",0.0,Prefix8-OP
+569003010085,569003010693,FIRE ALARM NETWORKABLE SINGLE LOOP ADDRESSABLE FIRE ALARM CONTROL PANEL AS PER RDSO/SPN/217/2018-VER....,FAULT ISOLATOR DETECTOR BASE,0.0,Prefix8-OP
+565199410343,565199410203,Fault analysis terminal for analyzing IPS and ELD faults and generating reports by interfacing with ....,VIDEO ANALYTIC SERVER  SOFTWARE,0.0,Prefix8-OP
+539810410675,539810410420,"Diagnostic Tool Kit - 1Leakage clamp meter of reputed make,1 Multimeter of reputed make,1 Android ta....",PLASTIC CHAIR,0.0,Prefix8-OP

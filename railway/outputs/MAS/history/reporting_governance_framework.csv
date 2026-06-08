@@ -1,0 +1,8 @@
+Element,Definition,Owner
+Source of Truth,railway.governance.division_summary,governance layer
+KPI ownership,L1/L2/L3 defined once in compute_kpis(),division_summary
+KPI lineage,each KPI -> named STEP20-28 output (kpi_migration_map),division_summary
+Generation flow,outputs -> division_summary -> notebooks/exec/mgmt,one-way
+Metadata standard,Platform Version/Division/Data Date/Git Commit/Gen Date/Pipeline/Readiness,division_summary.metadata()
+Legacy boundary,"build_kpis/collect_kpis DEPRECATED, frozen for compat",strangler
+Division registry,governance/config DIVISIONS,governance/config

@@ -1,0 +1,5 @@
+Forecast_Method,PL_Count,Forecast_Volume,Mean_MAE,Mean_Bias,Forecastability_Distribution
+SBA,654,171157.08,10.306,2.1546,High:0;Medium:3;Low:30;Very Low:621
+TSB,276,382352.96,116.3567,3.0899,High:0;Medium:14;Low:54;Very Low:208
+Croston,26,275115.01,845.0536,0.1554,High:1;Medium:21;Low:4;Very Low:0
+SES/Holt,5,53126.64,854.829,0.0862,High:1;Medium:2;Low:2;Very Low:0

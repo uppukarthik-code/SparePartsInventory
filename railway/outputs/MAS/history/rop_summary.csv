@@ -1,0 +1,2 @@
+PL_Count_ROP,Forecast_Volume_Coverage_Pct,Critical_PLs,NonCritical_PLs,Total_ROP_Units,Total_Positive_Reorder_Gap_Units,Critical_Shortage_PLs,Shortage_PLs,Healthy_PLs,Excess_PLs,No_Demand_PLs,No_Stock_Data_PLs
+626,96.0,360,266,601481.4,502667.9,465,45,43,60,13,0

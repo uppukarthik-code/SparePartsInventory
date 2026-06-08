@@ -1,0 +1,2 @@
+PL_Count_With_Safety_Stock,Forecastable_PLs,PL_Coverage_Pct_of_Forecastable,Forecast_Volume_Coverage_Pct,Critical_PLs,NonCritical_PLs,Total_Safety_Stock_Units,Critical_Safety_Stock_Units,NonCritical_Safety_Stock_Units,Uncovered_No_LeadTime,Uncovered_No_Criticality
+626,961,65.1,96.0,360,266,301558.5,264221.1,37337.3,335,0

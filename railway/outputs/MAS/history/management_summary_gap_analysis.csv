@@ -1,0 +1,11 @@
+Output,Currently_Consumed,Should_Be_Consumed,By_Module,Gap
+forecast_results.csv,No,Yes,executive_summary/management_reports,method mix + coverage missing
+lead_time_master.csv,No,Yes,executive_summary,LT coverage 97.8% + source mix missing
+safety_stock_results.csv,No,Yes,executive_summary,SS layer absent from exec view
+rop_results.csv,No,Yes,executive_summary,465 critical shortages not surfaced
+srss_results.csv,No,Yes,executive_summary,Total SRRS + top-10 concentration absent
+procurement_portfolio.csv,No,Yes,executive_summary,5-tier capital/risk segmentation absent
+platform_scorecard.csv,No,Yes,management_reports,platform readiness/test coverage absent
+railway_forecast.csv (STEP1-19),Yes,Keep,executive_summary,strategic forecast; not division planning
+page0_executive_dashboard.csv,Yes,Refresh,management_reports,STALE pre-STEP18A/19
+digital_twin_readiness.csv,Yes,Keep,management_reports,ok

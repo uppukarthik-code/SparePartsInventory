@@ -1,0 +1,6 @@
+Division,Deployment_Sequence,Required_Datasets,Missing_Datasets,Expected_Coverage,Estimated_Effort,Rationale,Risks_Dependencies
+TPJ,1,"DMTR registers, SUMMARY OF STOCK HELD, (NS_DM_CONS)",stock_history only,~90-96% if DMTR depth ~ MAS,"Low (~1-2 wk, pipeline reusable)",largest division (1355 ops) -> high value,"DMTR data quality, depot stock mapping"
+TVC,2,"DMTR, SUMMARY",stock_history only,~90-96%,Low (~1-2 wk),highest dead-stock value -> rationalization upside,same as above
+SA,3,"DMTR, SUMMARY",stock_history only,~90-96%,Low (~1-2 wk),smaller universe,data acquisition
+MDU,4,"DMTR, SUMMARY",stock_history only,~90-96%,Low (~1-2 wk),-,data acquisition
+PGT,5,"DMTR, SUMMARY",stock_history only,~90-96%,Low (~1-2 wk),Podanur strategic-stock gap (STEP19),data acquisition + criticality

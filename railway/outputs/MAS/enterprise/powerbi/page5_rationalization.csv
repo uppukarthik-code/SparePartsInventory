@@ -1,0 +1,960 @@
+PL_Code,Description,Inventory_Action,Normalized_Inventory_Value,Movement_Status,Source_Universe,Inventory_Value,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+301001320132,ELECTRONIC PUSH BUTTON TELEPHONE WITH CALLER ID AND SPEAKER,Dispose,31500.0,Dead Stock,Operational,31500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+396800140020,BATTERY 12V 42AH .,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+40070359,Wire coil 3/0 75 mm,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+409005470025,FIBER RACEWAY,Dispose,20000.0,Dead Stock,Operational,20000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+40981381,Wire coil PVC 16/0.2 mm,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+41095066,PVC Insulation TAPE (Mtrs),Retain,4902.55,Active,Operational,4902.55,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430800071030,CASE INNER METAL 20T,Monitor,200000.0,Unknown,Operational,200000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430800071042,CASE INNER METAL 5T JOINT,Monitor,179200.0,Unknown,Operational,179200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+45174404/45174416,Hydro meter complete set,Monitor,74690.72,,Strategic,74690.72,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+47200054/47200250,Transformer 230/110V  - 1 KVA,Monitor,13095.64,,Strategic,13095.64,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500101070025,"5.25 Full Range, Wooden Wall Mount Compact Cost effective Speaker; JBL Model #CS-IWS05W",Retain,72000.0,Active,Operational,72000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500101140210,TV 55 INCH High Resolution Large Video Display units suitable for 24X7 working along with ....,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500103311305,Sch B-25 cable tray (300mm width x50mm depth x1.6mm thick sizeperforated Hot dipped Galva....,Retain,1435000.0,Active,Operational,1435000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500103311482,Sch B-46 cable tray (150mm width x 60mm depth x 1.6mm thick size) perforated Hot dipped Ga....,Retain,382500.0,Active,Operational,382500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500500340048,VIDEO HANDHELD CAMCORDER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500501490650,"SCH B-20 Standard Rack 19 size, 9URACK (LEGRAND) size height wall mounting type front glas....",Retain,203526.4,Active,Operational,203526.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500502510050,POWER BANK,Retain,13995.0,Active,Operational,13995.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500600111902,"DLP U PVC trunking of size 80 mmx50mm base, 1x 65 mm top flexible cover",Retain,343000.0,Active,Operational,343000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500600571445,6 PIN EMERGENCY SOCKET,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500601240060,TRANSMITTER INSET,Retain,15000.0,Active,Operational,15000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000013450,CONTROL EQUIPMENT HQ,Dispose,17995.0,Dead Stock,Operational,17995.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000014155,True color Indoor Video Display (IVD) with its mechanical structure of Pixel Resolution (W....,Retain,4600000.0,Active,Operational,4600000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000103553,WEBFIL MUX 64 KBPS G703 DATA CARD,Monitor,65342.0,Unknown,Operational,65342.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000264214,GI PIPE 50MM DIAMETER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000264226,GI PIPE 100 MM DIAMETER,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000267963,GI PIPE 40 MM DIAMETER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000424023,UTP CAT6 CABLE FOR IMPROVEMENT WORK TO NGO OFFICE COMPLEX,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501000425167,STP (Shielded Twisted Pair) CAT6 cable (4 pair) compliant with EIA/TIA568-B.2- 1 standard,Retain,183048.44,Active,Operational,183048.44,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501024510020,WEBFIL 2W/4W E&M INTERFACE CARD (4 CIRCUITS PER CARD),Retain,181360.1,Active,Operational,181360.1,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501024520024,WEBFIL NIM CARDS,Retain,381715.84,Active,Operational,381715.84,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501025160027,WEBFIL POWER SUPPLY UNIT-PSU CARD,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501025180026,WEBFIL TRIBUTARY INTERFACE-TRIB CARD,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027170097,NEC WHITE 24 BUTTON DT 530 PHONE DTK-24D-1P(WH) TEL # BE118999,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027170127,OPEN STAGE 15T DIGITAL PHONE (DKT) SUITABLE FOR SIEMENS HiPath 4000 EXCHANGEMAKE: UNIFY,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027710020,PUNCOM POWER SUPPLY - PSU CARD,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027730029,PUNCOM LPC CARD,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027960084,VMS-Video Management server/VAS-Video Analytics Server/ FRS-Video Face Recognition ServerF....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027960102,Video Management System  (VMS )and Video Recording software (per camera basis) for the ser....,Rationalize,2422944.0,Slow Moving,Operational,2422944.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501027960230,Servers to work as IP-PBX from 48 to 500 subscribers for RBMS work,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501300041644,OFC PATCH CHORD LC-SC/SC-SC 5 MTRS LENGTH,Retain,264500.0,Active,Operational,264500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501300043185,SCH B-23 Single Mode duplex OFC Patch Cord (length-5m) (LC-SC/SC-SC/LC-LC) for CCTV Camer....,Retain,89208.0,Active,Operational,89208.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501300520510,CONTROL TELEPHONE 8 WAY LINE CORD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50132453,Telephone card 3 Way 1.5m long,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50132600,Telephone card 3 Way 1.5m long,Retain,34295.5,Active,Operational,34295.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501500320073,50 pair DP Box,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800084620,Column speaker with line matching transformer Ahuja ASC 320T,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800084632,"Microphone with cord, connector and stand and all other accessaries Ahuja PRO+3200",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800084863,Weather-resistant hemispherical boundary layer microphone AKG#2815Z00050,Dispose,315000.0,Dead Stock,Operational,315000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800085636,Weather-resistant hemispherical boundary layer microphone AKG#2815Z00050 FOR SURYA ELECTRO....,Rationalize,168182.52,Slow Moving,Operational,168182.52,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800085650,Weather-resistant hemispherical boundary layer microphone AKG#2815Z00050 for  R RAMA CHAND....,Rationalize,252273.78,Slow Moving,Operational,252273.78,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800092290,MICROPHONE AHUJA AUD 100XLR,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800242845,30 Watt Paging Horn Speaker Model no JBL CCS- H30,Dispose,288000.0,Dead Stock,Operational,288000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800242869,30 Watt Paging Horn Speaker Model no JBL CCS- H30,Rationalize,1000000.0,Slow Moving,Operational,1000000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800242936,30 Watt Paging Horn Speaker Model no JBL CCS- H30 FOR SS RAIL WORK AT JTJ STN,Rationalize,477548.4,Slow Moving,Operational,477548.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800242997,30 Watt Paging Horn Speaker Model no JBL CCS- H30 for SURYA ELECTRONICS IPIS WORK AT GI ....,Rationalize,397957.0,Slow Moving,Operational,397957.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800243000,30 Watt Paging Horn Speaker Model no JBL CCS- H30 for for  R RAMA CHANDRA REDDY-KADAPA I....,Rationalize,437752.7,Slow Moving,Operational,437752.7,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800243291,"30 Watt Paging Horn Speaker Model no JBL CCS- H30 FOR SS RAIL WORK AT PER,ABU,TRL STN",Rationalize,891423.68,Slow Moving,Operational,891423.68,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800331830,ROSETTE SINGLE WAY,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800331842,ROSETTE 2 WAY,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501800472632,High power public address amplifier Ahuja APA 480,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501801000043,Paging microphone Ahuja ACM 96,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501801220031,AMPLIFIER 350W Public Address (PA)  AHUJA SSA 350,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501802180077,Counter communication system Ahuja CCS 2300,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501802180089,Counter communication system Ahuja CCS 2300,Dispose,48000.0,Dead Stock,Operational,48000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501802180107,SCH B-24 Counter Communication System Ahuja CCS 2300 for R RAMA CHANDRA REDDY-KADAPA IPIS ....,Retain,25000.0,Active,Operational,25000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501802580020,Counter Communication System Ahuja CCS 2300,Dispose,48000.0,Dead Stock,Operational,48000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501802840028,Special purpose speaker Ahuja OCX 666T,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501803720020,BOOSTER TV,Dispose,26000.0,Dead Stock,Operational,26000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501805440141,Wall speaker Ahuja PS 300 TM,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501806660197,GPS double faced platform clock with GPS synchronization as per RDSO Specification.,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501806990069,5.25 two way 10 W wall mount speaker JBL CONTROL 25AV,Rationalize,330000.0,Slow Moving,Operational,330000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501900030062,WALKIE TALKIE CHARGER FOR KENWOOD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50210014,Emergency Socket Box,Retain,208046.0,Active,Operational,208046.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502200010089,MDCH/PDCH CONTROL CARD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502200280020,AUTO EXCHANGE INTERFACE EQUIPMENT,Monitor,18558.0,Unknown,Operational,18558.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502200620700,SCH B5-11 Single line Double face Train Arrival/Departure display board (SLDB) as per RDSO....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502200630160,True color Indoor Video Display (IVD) with its mechanical structure of Pixel Resolution (W....,Dispose,8800000.0,Dead Stock,Operational,8800000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231832/50231881,Telephone Electronic Push Button,Monitor,540504.9,,Strategic,540504.9,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231881,ELECTRONIC PUSH BUTTON TELEPHONE (EPBT) CONFIRMING TO TEC SPECN G.R NO: GR/TEL-02/04 SEP02....,Retain,34983.0,Active,Operational,34983.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231959,Telephone Electronic Push Button   main - Extn .1+1,Retain,36305.1,Active,Operational,36305.1,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50232319,MAGNETIC TELEPHONE WITH ELECTRO DYNAMIC TRANDUCERS CONFIRMING TO RDSO SPECN.NO.IRS-TC-36/9....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502323201614,MAIN AND EXTENSION  TELEPHONE (1+1 PHONE),Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50232356/50232319,Magneto telephone,Procure Immediately,598135.2,,Strategic,598135.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355280027,MANAGEABLE AGGREGATION  SWITCHES 24 PORT NETWORK SWITCH,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355280052,Manageable Aggregation switches consisting minimum 24 x GE SFP based ports and minimum 4 n....,Retain,497616.0,Active,Operational,497616.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355280088,SCH-B- 11 manageable Aggregation switches (RL TECH RGS5300-28XF) consisting minimum 24 x G....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355360989,VOICE LOGGER SLAVE TELEPHONE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355360990,VOICE LOGGER POWER SUPPLY UNIT 24V DC,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355441175,ELECTRONIC PUSH BUTTON TELEPHONE WITH CALLER ID AND SPEAKER,Dispose,36000.0,Dead Stock,Operational,36000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355990020,20 pair Krone modules housed inMS Box Powder coated with lock and Key for Utility shifting....,Retain,74100.0,Active,Operational,74100.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502356170035,SCH B-36 PIJF armoured underground 100pair telephone cable having 0.63 mm dia of each copp....,Retain,397600.0,Active,Operational,397600.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502357760028,TELEPHONE CALLER IDENTIFICATION -CID,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502358450035,50 pair Krone modules housed inMS Box Powder coated with lock and Key for Utility shifting....,Retain,2546.25,Active,Operational,2546.25,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+503523190684,"Auto Dialling System from Emergency Socket consisting of (1) Base unit, (2) Way sideTeleph....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+503524320022,Line Card 4 way,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+503524530030,4 WIRE DTMF WAY STATION  EQUIPMENTS WITH CONTROL TELEPHONE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+503525160026,CONTROL TELEPHONE 2 WIRE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+503526680029,Cord 8 way,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50353603,Portable 4 wire Emergency Control Telephone with six pin flat type socket,Retain,43819.83,Active,Operational,43819.83,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50360693/50370110,4 wire way station control telephone RDSO/SPN IRS.TC.38/97 with latest amendment,Monitor,817338.8,,Strategic,817338.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50370080,4 Wire DTMP Way Station Equipment,Retain,8525.36,Active,Operational,8525.36,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50370110,4 WIRE WAY STATION CONTROL TELEPHONE SPECN.NO.IRS:TC-38/97.(Amendment No.1),Retain,73005.95,Active,Operational,73005.95,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505200020031,BELL PUSH,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,Procure Immediately,14847078.4,,Strategic,14847078.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,Procure Immediately,1592263.68,,Strategic,1592263.68,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,Procure Immediately,9755776.0,,Strategic,9755776.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505600050154,TRANSMISSION MEASURING SET / TMS Kit,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505600260124,DIGITAL EARTH TESTER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508102260044,SCH A-09 multipin power socket with switch 5A/15A (6 nos) wired with 2.5 Sq.mm copper mult....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508310190031,BATTERY BANK VRLA 48V/120AH,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508311040065,BATTERY CHARGER WALKIE TALKIE TID V-30,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508311720090,"SCH B-17 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",Retain,1276700.0,Active,Operational,1276700.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508312590024,BATTERY M/F 24V/7AH CHARGER,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508313220095,SMPS BASED BATTERY CHARGER 48V/ 50AMP with 03 nos of 25 AMP SMR modules,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508313320053,SMPS Battery CHARGER 48V/25AMP(1+1),Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508313550058,SCH B-13 UPS 1 KVA online (minimum 1600 VAH battery) (single phase) with 1 hrs Backup time....,Retain,515424.0,Active,Operational,515424.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508500260020,DIGITAL EARTH TESTER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+508501360022,DIGITAL EARTH TESTER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000146221,PUNCOM SUBSCRIBER INTERFACE CARD / FXS Card,Retain,372161.02,Active,Operational,372161.02,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000146233,PUNCOM EXCHANGE INTERFACE/ FXO Card,Retain,550470.0,Active,Operational,550470.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000150169,Status card with suitable connectors for GPS Clock as per RDSO Specification RDSO/SPN/TC/6....,Retain,131988.29,Active,Operational,131988.29,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000166232,PUNCOM E&M INTERFACE Card,Rationalize,1078191.54,Slow Moving,Operational,1078191.54,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000218050,SCH B5-62 Normal joint using Thermo shrink jointing kit for 4/6 quad cable normal joint (R....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000229606,Sch B-13 normal joint using heat shrinkable jointing kit complete for 6 quad cable normal....,Retain,132300.0,Active,Operational,132300.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000286237,MEGAPHONE AHUJA MAKE AM 21SD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000349855,BATTERY MAINTENANCE FREE SEALED 12V/ 65Ah,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000355880,"POWER CABLE ARMOURED 3CORE X 2.5 SQ MM MULTI STRAND COPPER CONDUCTOR, PVC INSULATED",Retain,568700.0,Active,Operational,568700.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000355909,"Power cable 3 core, 2.5 sq mm, multistrand",Retain,2878015.0,Active,Operational,2878015.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000355910,SURVIVAL CABLE 2 X 1.5 SQMM ARMOURED,Dispose,2250.0,Dead Stock,Operational,2250.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000404337,OFC JOINTING ENCLOSURE KIT 24 FIBRE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000404404,OFC Jointing Kit,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000422789,Two Way Counter Communication System AHUJA MAKE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000506870,WIFI ROUTER,Retain,7334.88,Active,Operational,7334.88,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509006510032,PVC conduit pipe 25 mm (ISI mark) conforming to IS:9537 medium,Retain,31388.0,Active,Operational,31388.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509009700026,PVC conduit pipe 32 mm (ISI mark) conforming to IS:9537 medium,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509009700038,PVC conduit pipe 32 mm (ISI mark) conforming to IS:9537 medium,Retain,1313482.8,Active,Operational,1313482.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509010050044,"PC Workstation for Viewing,Monitoring and System management of above IP cameras, including....",Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509010050056,"PC Workstation for Viewing,Monitoring and System management of above IP cameras, including....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50901126,Lead Acid Batteries  - 4V/12 AH,Procure Immediately,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509040374230,BATTERY MAINTENANCE FREE  12V/7AH,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509040475288,POWER SUPPLY UNIT 2 AMPS WITH 12V/7AH BATTERY FOR WAY STATION CONTROL PHONE,Retain,87331.8,Active,Operational,87331.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509040546672,Wall mountable powerdistribution panel with 8Nosx16 Amp MCBsmounted and also with oneearth....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509041036045,ADOPTER FC 0 DB (0 DB CONNECTOR),Dispose,60.0,Dead Stock,Operational,60.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509041067327,Beach/Garden Umbrella with stand 48 inch/8 feet big size outdoor heavy duty,Retain,9828.0,Active,Operational,9828.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509041390412,5 line single face Indoor display boards with its mechanical structure and software,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509041760069,PTZ Video Conferencing Camera,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509042120027,FULL HD FIXED BULLET TYPE IP COLOUR CAMERA WITH 128 GB MEMORY CARD,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509042120039,FULL HD FIXED BULLET TYPE IP COLOUR CAMERA WITH 128 GB MEMORY CARD,Retain,3230363.45,Active,Operational,3230363.45,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509042510220,"Maintenance portable terminal with Backpack- LAPLOP  for 2nd and 4th floor of NGO,PRS at M....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509044610034,100 pair krone DP with module,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509048210051,FULL HD PTZ TYPE IP COLOUR CAMERA,Rationalize,5366351.34,Slow Moving,Operational,5366351.34,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509051570101,SCH B-27 10G SFP(MROTEK MK-P3633DC) + supports minimum of 40Km with dual fibre connectivit....,Retain,75000.0,Active,Operational,75000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520500401633,Motorola Charger for Motorola walki takie GP328/338,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520500451223,BATTERY FOR WALKIE TALKIE GP68,Monitor,83780.0,Unknown,Operational,83780.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520500451430,INTERCONNECTING CHORD FOR MOTOROLA 25W VHF EQUIPMENT MODEL GM 300,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520500451508,BATTERY FOR WALKIE TALKIE ALINCO,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520501510910,MICROPHONE WIRELESS CARDIOID,Rationalize,153000.0,Slow Moving,Operational,153000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520502200035,SMART PHONE SAMSUNG GALAXY M12,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520502281606,SCH B-15 VMS-Video Management server/VAS-Video Analytics Server/FRS-Video Face Recognition....,Retain,13906824.0,Active,Operational,13906824.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520504030030,VOLTE ENABLED GSM WLL FCT PHONE,Retain,117683.39,Active,Operational,117683.39,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508390028,MOTOROLA Spare Battery for model GP 328 / 338 Walkie talkie,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508390065,MOTOROLA Spare Battery for Model XIRP 6600i Walkie Talkie,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600060,All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82,Retain,2320000.0,Active,Operational,2320000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600072,All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82,Rationalize,7840000.0,Slow Moving,Operational,7840000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600096,All-Weather Compact 2-Way Coaxial Loudspeaker  JBL#AWC62 FOR SURYA ELECTRONICS IPIS WORK A....,Rationalize,300637.32,Slow Moving,Operational,300637.32,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600102,All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82 FOR SURYA ELECTRONICS IP....,Rationalize,3658955.44,Slow Moving,Operational,3658955.44,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600114,All-Weather Compact 2-Way Coaxial Loudspeaker with 6.5 LF JBL AWC62 for  R RAMA CHANDRA RE....,Rationalize,601274.64,Slow Moving,Operational,601274.64,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600126,All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82 for  R RAMA CHANDRA REDD....,Retain,1698800.74,Active,Operational,1698800.74,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600140,All-Weather Compact 2-Way Coaxial Loudspeaker JBL#AWC62 for FOB work by SRI SRINIVASA,Rationalize,801696.0,Slow Moving,Operational,801696.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600163,All-Weather Compact 2-Way Coaxial Loudspeaker with 6.5 LF JBL AWC62 FOR SS RAIL WORK AT PE....,Rationalize,801699.52,Slow Moving,Operational,801699.52,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520508600175,"All-Weather Compact 2-Way Coaxial Loudspeaker with 8 LF JBL#AWC82 FOR SS RAIL WORK AT PER,....",Rationalize,6795202.96,Slow Moving,Operational,6795202.96,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520512200020,Industrial 5G wiﬁ Router TELTONIKA RUTX50,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520800260150,"RJ 45 Jacks or connectors  for 2nd and 4th floor of NGO,PRS at MMC building by FLY ENTERPR....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521000590026,SCH B-26 10G SFP(MROTEK MK-P3313DI) + supports minimum of 10Km with dual fibre connectivit....,Retain,1434454.8,Active,Operational,1434454.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100030158,MANAGEABLE LAYER-2 NON-POE 24 PORT SWITCHES WITH 24 X10/100/1000 MB & 4 X 10G SFP PORTS,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100030390,SCH B-02 manageable Field Switches of 8 nos PoE and 2 nos of SFP for CCTV Cameras at RPF p....,Retain,875560.0,Active,Operational,875560.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100040050,SWITCH  8 Ports Web Managed Non PoE Layer 2 Access (L2 SWITCH),Retain,126000.0,Active,Operational,126000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100050194,"Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x 10G SFP+ ....",Rationalize,127971.0,Slow Moving,Operational,127971.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100050200,"Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T Non-PoE ports, 4 x 10G S....",Rationalize,853140.0,Slow Moving,Operational,853140.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100050224,"Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T Non-PoE ports, 4 x 10G S....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100050236,SCH-B- 13 manageable Layer-2 Switches(RL TECH RGS5200-28XT) consisting of 24 x 10/100/1000....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100080484,"24 port giga bit layer 2 switch 24 x 10/100/1000 BASE-TPorts. 4 X 1G Minimum, SFP + Ports ....",Rationalize,144000.0,Slow Moving,Operational,144000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100120135,LAN Extender,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521100530027,Media converter single mode Ethernet to Fiber,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+52156576/56500452,Battery charger 230V AC 110V DC 30A,Procure Immediately,417130.0,,Strategic,417130.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+52156618/56509935,Battery charger 230V  AC/24V DC-20A,Procure Immediately,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566280429,DUAL PORT PC-MDCH LINKER UNIT,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566280430,MDCH/PDCH 8 PORT SERIAL COMMUNICATION CARD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566280739,Dual port E1 to Single Serial Converter for electronic based Train signal register (e-TSR)....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566390193,Video Management server/Video Analytics Server/ Video FRS server in 1:1 redundancy with al....,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566390223,VMS-Video Management server/VAS-Video Analytics Server/FRS-Video Face Recognition Server i....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566390247,Video Analytic server software (VAS)(per camera basis) as per RDSO Specification No. RDSO/....,Rationalize,774080.0,Slow Moving,Operational,774080.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566390272,VMS-Video Management server/VAS-Video Analytics Server/FRS-Video Face Recognition Server i....,Retain,6323400.0,Active,Operational,6323400.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566390284,"Supply, Installation, Testing and Commissioning of Video Analytic server software (per cam....",Rationalize,401200.0,Slow Moving,Operational,401200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566390387,"SCH B-48 Server Hardware for Face recognition-FRS, 17 4K UHD LED Monitor, KEYBOARD,MOUSE, ....",Retain,624000.0,Active,Operational,624000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700101899,"24 port Giga bit layer 2 switch 24 x 10/100/1000 BASE -T Ports 4 X 1G minimum, SFP + Ports....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700102340,SCH A-12 manageable Field Switches of 8 PORT1000 BASE-T PoE and 2 nos of SFP 1000 Mbps upl....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700102363,SCH-B- 10 manageable Field Switches (RL TECH RGS3200-10HP) consisting of 8 nos. of 10/100 ....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700102600,SCH B-22 manageable Field Switches(MROTEK CORNUS-82P)consisting of 8 nos. of 10/100 BASE-T....,Retain,760725.0,Active,Operational,760725.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700102715,SCH B-45 Manageable Field Switches(MROTEK CORNUS-82P) consisting of 8 nos. of 10/100 BASE-....,Retain,66000.0,Active,Operational,66000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700102995,SCH B-26 Field Layer-2 Switch (min 8+2 port manageable) with 8nos.10/100/1000 Mbps Etherne....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700130127,CORE SWITCH WITH 20 X 10G SFP & 4 X 10G SFP COMBO PORT,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700270090,20x10G SFP+ port and Additional 4x10G (minimum) BASE-T/SFP+ combo ports Core Switch along ....,Rationalize,1298000.0,Slow Moving,Operational,1298000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700270120,SCH-B- 14 Core Switch 20x10G SFP+ port and Additional 4x10G (minimum) BASE-T/SFP+ combo po....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700270156,SCH B-24 Core Switch(MROTEK LAVENDER-MRO-LS-3600-24XF2X-40GC) (20x10GSFP+ ports and additi....,Retain,728096.15,Active,Operational,728096.15,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521700350127,SCH B-23 Aggregate Switch(MROTEK LAVENDER-24F4X) (24xGESFP ports and 4x10GE SFP+ ports) fo....,Retain,922181.0,Active,Operational,922181.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522005910022,HAND HELD RECHARGEABLE LED TORCH,Rationalize,24000.0,Slow Moving,Operational,24000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522500060207,TV DISPLAY UNIT 32 INCH,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522500060268,TV LED 43 inch LG,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000460025,NVR 64 CHANNEL FOR CCTV,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000470511,SCH B-37 Full HD P/T/Z/ (Pan/Tilt/Zoom) (CP-PLUS CP-UNP-F4521L30-DPQ) IP Colour Camera for....,Retain,383200.0,Active,Operational,383200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000590061,NVR 32 CHANNEL FOR CCTV,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000600066,"Digital Voice Recorder Model ICD-UX570F, Make - SONY",Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000710121,SCH B-34 Full HD Resolution Fixed Dome (CP-PLUS CP-UNC-VE21ZL4C-VMDS-Q) type IP Colour Cam....,Retain,197000.0,Active,Operational,197000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830047,12x8 Signal Processor with BLU link (EU) BSS Model #BLU100,Retain,400000.0,Active,Operational,400000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830059,Digital Signal Processor - I/O Expander BSS#BSSBLU-BIB-EU,Retain,90000.0,Active,Operational,90000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830060,12x8 Signal Processor with BLU link (EU) BSS Model #BLU100,Rationalize,680000.0,Slow Moving,Operational,680000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830072,Digital Signal Processor - I/O Expander BSS#BSSBLU-BIB-EU,Dispose,90000.0,Dead Stock,Operational,90000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830084,12x8 Signal Processor with BLU link (EU) BSS BLU100 FOR SURYA ELECTRONICS IPIS WORK AT GI ....,Rationalize,159698.12,Slow Moving,Operational,159698.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830096,Digital Signal Processor - I/O Expander Should be supplied with DSP  BSS#BSSBLU-BIB-EU FOR....,Rationalize,80876.61,Slow Moving,Operational,80876.61,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830102,12x8 Signal Processor with BLU link (EU) BSS Model #BLU100 for  R RAMA CHANDRA REDDY-KADAP....,Rationalize,159698.12,Slow Moving,Operational,159698.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830126,"12x8 Signal Processor with BLU link (EU) BSS Model #BLU100 FOR SS RAIL WORK AT PER,ABU,TRL....",Rationalize,479094.36,Slow Moving,Operational,479094.36,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830138,"Digital Signal Processor - I/O Expander BSS#BSSBLU-BIB-EU FOR SS RAIL WORK AT PER,ABU,TRL ....",Rationalize,161754.0,Slow Moving,Operational,161754.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830140,12x8 Signal Processor with BLU link (EU) BSS Model #BLU100 FOR SS RAIL WORK AT JTJ STN,Rationalize,319396.24,Slow Moving,Operational,319396.24,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+523000830151,Digital Signal Processor - I/O Expander BSS#BSSBLU-BIB-EU FOR SS RAIL WORK AT JTJ STN,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900042963,AMPLIFIER 500W AHUJA SSA 5000 EM,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900045101,High public address amplifier Ahuja APA 240,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900045113,Mixer Ahuja RMX 1700,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900045265,"Four Channel Digital Power Amplifier, 1200W@ 4 Ohms  Crown#NCDI4X12BL-U-EU",Dispose,2200000.0,Dead Stock,Operational,2200000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900045289,"Four Channel Digital Power Amplifier, 1200W@ 4 Ohms  Crown#NCDI4X12BL-U-EU",Rationalize,2860000.0,Slow Moving,Operational,2860000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900045903,"Four Channel Digital Power Amplifier, 1200W@ 4 Ohms Crown#NCDI4X12BL-U-EU FOR SURYA ELECTR....",Rationalize,982059.0,Slow Moving,Operational,982059.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900045915,"Four Channel Digital Power Amplifier, 1200W@ 4 Ohms  Crown#NCDI4X12BL-U-EU for  R RAMA CHA....",Rationalize,1227573.75,Slow Moving,Operational,1227573.75,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900046506,"Four Channel Digital Power Amplifier, 1200W@ 4 Ohms  Crown#NCDI4X12BL-U-EU FOR SS RAIL WOR....",Rationalize,1964118.0,Slow Moving,Operational,1964118.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900062767,INVERTER 1 KVA,Monitor,69600.0,Unknown,Operational,69600.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900082614,ALPHA Charger for MOTOROLA Walkie Talkie Set,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900312176,4 MP IP Bullet Camera HI FOCUS,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900313326,SCH B-03 Full HD Bullet (CP-PLUS CP-UNCTE21ZL6C-VMDS-Q)Type IP Colour Camera for VSS 5 STN....,Retain,2817056.38,Active,Operational,2817056.38,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900430653,SWITCH 24 Ports Managed Non PoE Layer 2 Access (L2 Switch),Retain,174798.0,Active,Operational,174798.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900442771,PUNCOM 2MB ETHERNET TME CARD,Retain,39884.0,Active,Operational,39884.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900443040,GENERATOR RINGING PUNCOM,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900510650,Single line Double face Train Arrival/Departure display board as per RDSO Specification N....,Rationalize,848824.0,Slow Moving,Operational,848824.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900510727,Single line Double face Train Arrival/Departure display board (TADDB),Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900510739,Platform Display Boards (PDB) (Double Line) (Single Face) (Colour of LED: White),Retain,6532917.09,Active,Operational,6532917.09,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900510740,Single line Double face Train Arrival/Departure display board (TADDB),Rationalize,5040000.0,Slow Moving,Operational,5040000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900510752,Single line Double face Train Arrival/Departure display board (TADDB),Retain,2880000.0,Active,Operational,2880000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527900510788,Single line Double face Train Arrival/Departure display board (TADDB) FOR SS RAIL WORK AT ....,Dispose,2758688.4,Dead Stock,Operational,2758688.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527901140087,PA MIXER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527901140130,PA MIXER AMPLIFIERS 2 ZONE AHUJA TZA-2000DP,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527901460094,MATRIX CARD RED LED TO SUIT CGDB,Dispose,131747.0,Dead Stock,Operational,131747.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527902350041,BATTERY BANK MF VRLA 48V / 200AH,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527902350065,BATTERY BANK SMF VRLA 48V / 300AH,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527903380041,Call station Ahuja APM 201 RM,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527903920072,"ST63E1, Small form factor Trib with 63 E1 / DS1 ports for TJ1400, E1 cables for ST63E1 car....",Retain,269953.32,Active,Operational,269953.32,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800227,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,Dispose,6700000.0,Dead Stock,Operational,6700000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800240,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,Dispose,3400000.0,Dead Stock,Operational,3400000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800290,Supply of True color Indoor Video Display (IVD) of Pixel Resolution (WxH) 432x128 (6-line....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800318,"True color Indoor Video Display (IVD) FOR SS RAIL WORK AT PER,ABU,TRL STN",Rationalize,1840309.63,Slow Moving,Operational,1840309.63,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800320,"True color Outdoor Video Display (OVD) FOR SS RAIL WORK AT PER,ABU,TRL STN",Rationalize,4861466.66,Slow Moving,Operational,4861466.66,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800343,True color Indoor Video Display (IVD) with its mechanical structure of Pixel Resolution (W....,Rationalize,1840309.63,Slow Moving,Operational,1840309.63,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800355,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,Rationalize,2430733.33,Slow Moving,Operational,2430733.33,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800379,True color Indoor Video Display (IVD) FOR SURYA ELECTRONICS IPIS WORK AT GI & CGL STN,Rationalize,1840309.63,Slow Moving,Operational,1840309.63,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800380,True color Outdoor Video Display (OVD) of Pixel Resolution (WxH) 432x128 (6-line single fa....,Rationalize,2430733.33,Slow Moving,Operational,2430733.33,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527905800422,True color Indoor Video Display (IVD) with its mechanical structure FOR R RAMA CHANDRA RED....,Rationalize,1840309.63,Slow Moving,Operational,1840309.63,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527907360024,SCH B-01 Full HD Resolution Fixed Dome (CP-PLUS CP-UNCVE21ZL4C-VMDS-Q) type IP Colour Came....,Retain,425497.2,Active,Operational,425497.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+527907360036,SCH B-01 Full HD Resolution Fixed Dome (CP-PLUS CP-UNCVE21ZL4C-VMDS-Q) type IP Colour Came....,Retain,721593.6,Active,Operational,721593.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+528700080244,WIRE 3.028,Monitor,27720.0,Unknown,Operational,27720.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+528700380033,All-Weather Compact 2-Way Coaxial Loudspeaker with 6.5 LF JBL AWC62,Retain,390000.0,Active,Operational,390000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+528700380045,All-Weather Compact 2-Way Coaxial Loudspeaker with 6.5 LF JBL AWC62,Dispose,1800000.0,Dead Stock,Operational,1800000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001730054,NETWORK BRANCHING HYBRID 4WIRE-6WAY.,Monitor,82187.0,Unknown,Operational,82187.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001880441,SCH B-30 150mm width x 60mm depth x 1.6mm thick size perforated Hot dipped Galvanized cabl....,Retain,2427480.0,Active,Operational,2427480.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001880453,SCH B-32 Stainless steel (SS POLE) pipe(JSL-JINDAL RISHI SS304 grade) with suitable SS cou....,Retain,16740.0,Active,Operational,16740.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529002070025,CABLE 3 CORE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529002520079,Double Faced Coach Guidance Display Boards ( CGDB ),Retain,621000.0,Active,Operational,621000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529002520109,Double Faced Coach Guidance Display Boards (CGDB),Dispose,2236000.0,Dead Stock,Operational,2236000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529003560279,5 watt VHF Digital Walkie Talkie Set without Keypad and without Display to Specn.No.RDSO....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529004840030,Supply of Intelligent E 1 to Ethernet convertor (EthernetPort to G-703). Unit tohave one E....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529006340035,"FTU20, FTU & OAM for TJ1400 7 slot chassis for TEJAS T1400 STM16 equipment",Retain,199877.84,Active,Operational,199877.84,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529006590027,BATTERY FOR KENWOOD WALKIE TALKIE KNB-57L,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529008670087,SCH B-60 WiFi access points controller (INDIO NETWORKS WIFI 6 ACCESS POINT UM-325AX ) mana....,Retain,311200.0,Active,Operational,311200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529008670099,SCH B-61 WiFi access points controller (INDIO NETWORKS WIFI 6 ACCESS POINT UM-325AX ) mana....,Retain,200000.0,Active,Operational,200000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529009640030,OFC Patch cards LC-SC connector 10 mtr length,Dispose,170000.0,Dead Stock,Operational,170000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529009640042,OFC Patch cards LC-SC connector 10 mtr length for  R RAMA CHANDRA REDDY-KADAPA IPIS WORK A....,Rationalize,17788.2,Slow Moving,Operational,17788.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529012410027,Platform display controller (PDC),Retain,84000.0,Active,Operational,84000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529012410039,Platform display controller (PDC),Retain,350000.0,Active,Operational,350000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529012890025,Full HD P/T/Z type IP colour camera along with all accessories as per. RDSO/SPN/TC/65/2021....,Retain,2970369.59,Active,Operational,2970369.59,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529012920091,SCH B-41 Fully functional multipurpose Digital key board (Joy stick CP-PLUS CP-UNK-331) fo....,Retain,27200.0,Active,Operational,27200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529013630023,GI pipes ( 50mm dia- 3.65mm thick ) FOR VSS REACH2 WORK,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529013630035,GI pipes ( 50mm dia- 3.65mm thick ) FOR VSS REACH 3 WORK,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529014480033,"1U cable manager for 19 rack for 2nd and 4th floor of NGO,PRS at MMC building by FLY ENTER....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529018700027,STP (Shielded Twisted Pair) CAT6 cable 23 AWG (4 pair) compliant with EIA/TIA568-B.2-1 sta....,Retain,230813.81,Active,Operational,230813.81,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529021160036,TJ1400 R2 Packet Optical Transport System: 7 slot Base chassis (ET) with R2 Backplane and ....,Retain,254398.56,Active,Operational,254398.56,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529900070051,HP 803 BLACK CARTRIDGE,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529900350047,32 WAY ULINK PANELS (WRAPPING TYPE) FOR RC SCADA WORK MAS-AJJ-RU SECTION,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800055337,CABLE 100 PAIR U/G PIJF,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800111080,SURVIVAL CABLE 2 X 1.5 SQMM UNARMOURED,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800448128,"4 Inch , Rimless Ceiling Speaker JBL Model No CS-ICS04MR",Retain,25000.0,Active,Operational,25000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800448130,"4 Inch , Rimless Ceiling Speaker JBL Model No CS-ICS04MR",Dispose,56250.0,Dead Stock,Operational,56250.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800448189,"4 Inch , Rimless Ceiling Speaker JBL Model No CS-ICS04MR FOR SURYA ELECTRONICS IPIS WORK A....",Rationalize,11546.1,Slow Moving,Operational,11546.1,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800448190,"4 Inch , Rimless Ceiling Speaker JBL Model No CS-ICS04MR for  R RAMA CHANDRA REDDY-KADAPA ....",Rationalize,6927.66,Slow Moving,Operational,6927.66,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800448281,"4 Inch , Rimless Ceiling Speaker JBL Model No CS-ICS04MR FOR SS RAIL WORK AT JTJ STN",Rationalize,11546.1,Slow Moving,Operational,11546.1,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800469648,PORTABLE TWO WAY PA SPEAKER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800493572,"MS sheet box of 3mm thick to accommodate 55 inch LED TV, 12F FMS, 5/15A power socket termi....",Rationalize,6238514.64,Slow Moving,Operational,6238514.64,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800819635,42U RACK,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800829501,24U RACK / NETWORKING RACK,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801039390,SCH A-14 CAT6 UTP 23 AWG patchchord (RJ45) 3 Mtrslength factory crimped for e-TSR WORK BY ....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801361018,WEBFIL Exchange Interface card,Rationalize,728284.2,Slow Moving,Operational,728284.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801361468,GPS interface Card with suitable connectors for GPS Clock as per RDSO Specification RDSO/S....,Retain,70101.44,Active,Operational,70101.44,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801395296,TV SMART LED 49 INCH SONY MAKE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801396203,TV 55 LED UHD smart SONY FW-55BZ40L,Retain,4725000.0,Active,Operational,4725000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801396525,TV 55 Inch (24x7) Industrial grade Commercial Large format display Samsung LH55QHCEGCXXL F....,Rationalize,3000000.0,Slow Moving,Operational,3000000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801431227,5.25 two way 10 W wall mount speaker JBL CONTROL 25AV FOR SURYA ELECTRONICS IPIS WORK AT ....,Rationalize,136212.9,Slow Moving,Operational,136212.9,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801431239,5.25 two way 10 W wall mount speaker JBL CONTROL 25AV for  R RAMA CHANDRA REDDY-KADAPA IPI....,Rationalize,136212.9,Slow Moving,Operational,136212.9,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801431276,"5.25 two way 10 W wall mount speaker JBL CONTROL 25AV FOR SS RAIL WORK AT PER,ABU,TRL STN....",Rationalize,204319.35,Slow Moving,Operational,204319.35,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801431288,5.25 two way 10 W wall mount speaker JBL CONTROL 25AV FOR SS RAIL WORK AT JTJ STN,Rationalize,204319.35,Slow Moving,Operational,204319.35,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801448823,`TRIPOD SPEAKER STAND,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801538514,DIGITAL MULTIMETER RISHI MULTI 18S,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801591796,9U RAck,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801592053,9U RAck,Retain,1189440.0,Active,Operational,1189440.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801657679,"Wall speaker 6W WS 664T for A20 CONSTRUCTION FOB WORK at  KOK, TNP,GPD,WCN,KAVM,TNPM STN",Rationalize,4500.0,Slow Moving,Operational,4500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801669852,5.25 two way 10 W wall mount speaker JBL CONTROL 25AV,Retain,300000.0,Active,Operational,300000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801778410,Single Fibre bidirectional Module (SFP) CISCO GLX-BX-D for Utility shifting work by SRI SR....,Rationalize,144000.0,Slow Moving,Operational,144000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801778483,"Single Fibre bidirectional Module-SFP for 2nd and 4th floor of NGO,PRS at MMC building by....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801778495,"Single Fibre bidirectional Module-SFP for 2nd and 4th floor of NGO,PRS at MMC building by ....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801779256,SFP-BX -D andSFP-BX-U (pair) supportsminimum 10Kms. SingleFibre Transceiver FibreModule to....,Retain,496780.0,Active,Operational,496780.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801779517,SCH B-25 Single mode single fibre 1G SFP(MROTEK MK-P2413DI & MK-P2513DI )+ module & supp....,Retain,353240.4,Active,Operational,353240.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801779700,SCH B-47 SFP (MROTEK) 10G + supports minimum of 10Km with dual fibre connectivity to suit ....,Retain,71200.0,Active,Operational,71200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801779724,SCH-B- 26 SFP 10G + supports minimum of 40Km with dual fibre connectivity to suit the swit....,Retain,175600.0,Active,Operational,175600.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801784410,POWER CABLE ARMOURED  3CORE 4 SQMM MULTI STRAND COPPER CONDUCTOR,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801784744,POWER CABLE ARMOURED 3 CORE 4 SQ.MM MULTI STRAND COPPER,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801849015,MODEM G703 2 MBPS,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801849027,MODEM V35 2 MBPS,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801901815,SCH-B- 25 UPS 05 KVA at least 1 hour battery back up in full load condition complete with ....,Retain,2239380.0,Active,Operational,2239380.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801916260,WEBFIL 2W/4W SUBSCRIBER INTERFACE/ FXS CARD,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539801992328,SCH B-10 HDMI cable (ADNet AD-4K-64) 10 meter for CCTV Cameras at RPF posts/Out-post in Ch....,Retain,18608.0,Active,Operational,18608.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802239981,PVC CONDUIT PIPE 32 MM,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802259074,4K UHD Bullet type IP colour camera (TYPE A) WITH 128 GB MEMORY CARD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802259141,4K UHD bullet type IP colour camera (TYPE A),Dispose,2719366.0,Dead Stock,Operational,2719366.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802259438,4KUHD bullet type IP colourcamera (TYPE A),Retain,531278.0,Active,Operational,531278.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802295820,POE SWITCH 8 PORT,Retain,163560.0,Active,Operational,163560.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802297245,MANAGEABLE FIELD SWITCHES 8 PORT POE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802298778,8 port POE smart manageable switch with two fibre ports (1G SFP loaded) for 2nd and 4th fl....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802299242,Manageable Field Switches consisting of 8 nos. of 10/100/1000 BASE-T PoE and 2 nos of SFP ....,Retain,1183312.77,Active,Operational,1183312.77,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802299618,Manageable Field Switches of 8 nos. of 10/100/1000 BASE-T PoE and 2 nos of SFP 1000 Mbps u....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802318560,MEDIA CONVERTER SINGLE MODE SINGLE FIBER,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319137,Media converter single mode ethernet to Fiber MROTEK HOSTA-UG/SA/SM15/SC/CAD FOR SS RAIL W....,Rationalize,308750.0,Slow Moving,Operational,308750.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319162,Media converter single mode Ethernet to Fiber  FOR SURYA ELECTRONICS IPIS WORK AT GI & CGL....,Rationalize,432250.0,Slow Moving,Operational,432250.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319174,Media converter single mode ethernet to Fiber for ANNAIE 69 STN,Retain,853335.0,Active,Operational,853335.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319253,Media converter single mode ethernet to Fiber MROTEK HOSTA-UG/SA/SM15/SC/CAD FOR SS RAIL W....,Rationalize,703950.0,Slow Moving,Operational,703950.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319320,SCH- 23 Media converter single mode ethernet to Fiber  for MEA 9 STN WORK BY ANNAIE INFORM....,Retain,18525.0,Active,Operational,18525.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319356,SCH B-19 Media converter single mode ethernet to Fiber media converter for transmission an....,Retain,1120000.0,Active,Operational,1120000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802319368,SCH B-19 Media converter single mode ethernet to Fiber media converter for transmission an....,Retain,1116000.0,Active,Operational,1116000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802398608,Controller Ahuja APM 202 CU,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802398633,"Platform display contrlloer (PDC) as per RDSO Specification No.RDSO/SPN/TC /108/2019, Ver-....",Rationalize,252000.0,Slow Moving,Operational,252000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802398682,PLATFORM DATA CONTROLLER (PDC),Retain,122286.86,Active,Operational,122286.86,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802398700,"Platform display controller (PDC) FOR SS RAIL WORK AT PER,ABU,TRL STN",Dispose,445359.64,Dead Stock,Operational,445359.64,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802398724,Platform display controller (PDC) FOR SS RAIL WORK AT JTJ STN,Dispose,242923.44,Dead Stock,Operational,242923.44,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802399390,SCH B5-8 Platform display controller (PDC) as per RDSO Spec.RDSO/SPN/TC/108/2019 Ver.1.0....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802401190,"24 Port Giga Bit Layer 2 switch for 2nd and 4th floor of NGO,PRS at MMC building by FLY EN....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802545800,JUMPER WIRE,Retain,23370.0,Active,Operational,23370.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802601335,NVR 8 CHANNEL,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802615050,12 U RACK,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802648698,HARD DISK DRIVE INTERNAL 1 TB,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802648730,INTERNAL HARD DISK DRIVE 6 TB,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802649320,HARD DISK DRIVE INTERNAL 10 TB,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802674340,42U SERVER RACK,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802674570,19 inch 42U Racks of size 2200mm x 600mm x 600mm,Retain,411370.19,Active,Operational,411370.19,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802685427,BATTERY 1.5V SIZE D20 NIPPO MAKE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802804179,HDPE PIPE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802805135,"HDPE pipe for 24F/48F 33 mm inner dia, 40 mm outer dia for Utility shifting  work by SRI S....",Retain,135339.38,Active,Operational,135339.38,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802896049,"Rigid 32mm dia PVC conduits confirming to IS 9537 /P3/1983 for 2nd and 4th floor of NGO,PR....",Rationalize,2769.6,Slow Moving,Operational,2769.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802982203,DIGITAL MULTIMETER RISHABH 14S,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802996380,DIGITAL INSULATION TESTER,Rationalize,12840.0,Slow Moving,Operational,12840.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802996457,DIGITAL INSULATION TESTER,Dispose,5200.0,Dead Stock,Operational,5200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803344280,SCH-B- 15 SFP-BX -D and SFP-BX-U (pair) 1G supports minimum 10Km Single Fibre Transceiver ....,Retain,557991.0,Active,Operational,557991.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803505494,GPS clock as per RDSO specification RDSO/SPN/TC 62/ 2008 Rev 3.0 or latest.,Rationalize,270000.0,Slow Moving,Operational,270000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803505500,GPS clock as per RDSO specification RDSO/SPN/TC 62/ 2008 Rev 3.0 or latest.,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803505512,"GPS Clock as per RDSO SPN. RDSO/SPN/TC 62/2008 Rev 3.0 or latest FOR SS RAIL WORK AT PER,A....",Retain,277551.12,Active,Operational,277551.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803505688,GPS clock (Doule sided) as per RDSO specification RDSO/SPN/TC 62/ 2008 Rev 3.0 or latest. ....,Rationalize,370068.16,Slow Moving,Operational,370068.16,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803680036,"5.25 Full Range, Wooden Wall Mount Compact Cost effective Speaker; 6W multi-tap transforme....",Rationalize,12463.65,Slow Moving,Operational,12463.65,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803680048,"5.25 Full Range, Wooden Wall Mount Compact Cost effective Speaker; JBL Model #CS-IWS05W FO....",Rationalize,37390.95,Slow Moving,Operational,37390.95,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803716997,SCH-B- 12 manageable Layer-2 Switches(RL TECH RGS5200-28XP) consisting of 24 x 10/100/100....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803717000,SCH B-20 Manageable Layer-2 Switches(MROTEK LAVENDER-244XP) consisting of 24 x 10/100/100....,Retain,1301265.0,Active,Operational,1301265.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803717059,SSCH B-21 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T Non-PoE ports....,Retain,678180.0,Active,Operational,678180.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803717102,SCH B-46 Manageable Layer-2 Switches(LAVENDER-244XP) consisting of 24 x 10/100/1000 BASE-T....,Retain,472000.0,Active,Operational,472000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804054789,"Power cable 3 core, 2.5 sq mm, multistrand cable as per IS694:1990 reaffirmed 1995 for ele....",Retain,38000.0,Active,Operational,38000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804082608,CT BOX 4 PAIR / 5 PAIR,Monitor,18000.0,Unknown,Operational,18000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804082610,CT BOX 20 PAIR,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804140372,"SCH B-25 HDPE pipe (33 mm inner dia, 40 mm outer dia) as per Specification No.RDSO/SPN/TC/....",Retain,199897.5,Active,Operational,199897.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804447143,PVC 32 MM CONDUIT PIPE ( 3 Mtr. long),Retain,2171125.0,Active,Operational,2171125.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804447179,PVC PIPE OF 25 MM SIZE,Rationalize,5073.6,Slow Moving,Operational,5073.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804447234,PVC conduit pipe 32 mm(ISI mark) conforming to IS:9537 medium for Utility shifting work by....,Retain,13475.0,Active,Operational,13475.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804447416,SCH A-01 PVC conduit pipe 25 mm (ISI mark) conforming to IS: 9537 medium for e-TSR over Ch....,Retain,190900.0,Active,Operational,190900.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804450166,FULL HD FIXED BULLET TYPE IP COLOUR CAMERA,Rationalize,10499238.98,Slow Moving,Operational,10499238.98,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804450269,SCH B-35 Full HD Bullet (CP-PLUS CP-UNC-TE21ZL6C-VMDS-Q) Type IP Colour Camera for R RAMA ....,Retain,145000.0,Active,Operational,145000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804468353,NVR 4 CHANNEL,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804489952,SCH B-61 manageable Field Switches consisting of 8 nos. of 10/100/1000 BASE-T PoE and 2 no....,Retain,238000.0,Active,Operational,238000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804531166,CABLE 20 PAIR UG PIJF,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804531324,20 PAIR SB CABLE FOR SCADA WORK IN AJJ-JTJ SECTION,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804531403,Cable 20 pair PIJF UG cable with poly-al moisture barrier 20 pair x 0.63mm as per RDSO Spe....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804575674,VIDEO MANAGEMENT SYSTEM & VIDEO RECORDING SOFTWARE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804575704,Central Data Controller Unit (CDC) along with CDS conforming to system requirement as per ....,Rationalize,525000.0,Slow Moving,Operational,525000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804575807,Video Management System and Video Recording software FOR VSS REACH2 ELDORADO WORK,Rationalize,1387608.0,Slow Moving,Operational,1387608.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804581248,Double Faced Coach Guidance Display Boards,Retain,2125056.98,Active,Operational,2125056.98,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804721137,"SUPPLY OF WIRELESS ROUTER with minimum 4 Number of 1 G SFP Port, minimum 1800 MPPSPacket ....",Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804751828,CABLE OFC 12 CORE UNARMOURED OPTIC FIBRE CABLE,Retain,204000.0,Active,Operational,204000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804752201,CABLE OFC 12 CORE UNARMOURED OPTIC FIBRE CABLE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804752225,CABLE OFC 6 FIBER ARMOURED OPTIC FIBRE CABLE SM FOR ANNAIE 69 STN,Retain,342674.31,Active,Operational,342674.31,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804753072,CABLE OFC 6 FIBER ARMOURED OPTIC FIBRE CABLE SM for FOB work by SRI SRINIVASA,Rationalize,31295.0,Slow Moving,Operational,31295.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804753989,SCH B-47 OFC 12 core Unarmoured Optical fibre cable for indoor for VSS 5 STN WORK BY KS SM....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804754143,Sch B-26 OFC cable 24 fibre armoured as per RDSO specification No.IRS:TC:55/2006 Rev.l fo....,Retain,625000.0,Active,Operational,625000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804754222,SCH B-29 OFC 12 core single mode armoured optic fibre cable ITU-G 652D for CCTV Cameras a....,Retain,116297.5,Active,Operational,116297.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804776369,CABLE 12C X 1.5 SQMM,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804830637,LIU 24 Port Rock Mounted Fibre Patch Panel,Retain,30400.0,Active,Operational,30400.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804978320,TV SMART LED 55 INCH LG MAKE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804978872,TV 55 Inch (24x7) Industrial grade Commercial Large format display,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804978914,TV 55 LED UHD smart  SAMSUNG  QH55C,Retain,9685217.64,Active,Operational,9685217.64,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804999371,19 inch 9U size height wall mounting type,Retain,764640.0,Active,Operational,764640.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805021391,SC TYPE RACK/WALL MOUNTABLE 24F FIBER MANAGEMENT SYSTEM-FMS,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805021810,SC TYPE RACK/WALL MOUNTABLE 24F FIBER MANAGEMENT SYSTEM-FMS FOR VSS REACH2 WORK,Retain,142810.0,Active,Operational,142810.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805021962,SC TYPE RACK/WALL MOUNTABLE 24F FIBER MANAGEMENT SYSTEM-FMS,Retain,928265.0,Active,Operational,928265.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805021974,SC TYPE RACK/WALL MOUNTABLE 12F FIBER MANAGEMENT SYSTEM-FMS FOR VSS REACH2 WORK,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805022140,FMS Rack mounting type 19size for 12F with FC/SC-PC connector loaded with pigtails and ter....,Retain,96824.0,Active,Operational,96824.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805022309,SC TYPE rack/Wall mountable24F Fibre management system (FMS) for Utility shifting work b....,Retain,8200.0,Active,Operational,8200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805022450,"24 port loaded patch panel /jack panel with cable manager for 2nd and 4th floor of NGO,PRS....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805022772,SC TYPE rack/Wall mountable24F Fibre management system (FMS) for FOB work by SRI SRINIVASA,Rationalize,31360.0,Slow Moving,Operational,31360.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805022784,FMS Rack mounting type 19size for 12F with FC/SC-PC connector loaded with pigtails and ter....,Rationalize,41160.0,Slow Moving,Operational,41160.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805022942,LIU 12 Port Rock Mounted Fibre Patch Panel,Retain,77000.0,Active,Operational,77000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805023351,FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails for electr....,Retain,49500.0,Active,Operational,49500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805023648,SCH A-11 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails ....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805023673,SCH NO 17 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails ....,Retain,19440.0,Active,Operational,19440.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805023685,SCH NO 18 SC TYPE Rack/Wall mountable 24F Fibre management system (FMS)suitable for splici....,Rationalize,125440.0,Slow Moving,Operational,125440.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805023971,SCH B-79 OFC cable 24 fibre armoured  as per RDSO specification NO.IRS:TC:55/2006 Rev.1for....,Retain,240000.0,Active,Operational,240000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024100,SCH B-22 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails a....,Retain,285465.6,Active,Operational,285465.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024112,SCH B-55 SC TYPE Rack mountable 24F Fibre management system (FMS) suitable for splicing an....,Retain,257212.31,Active,Operational,257212.31,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024124,SCH B-56 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails a....,Retain,324500.0,Active,Operational,324500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024136,SCH B-25 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtails f....,Retain,23800.0,Active,Operational,23800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024148,SCH B-26 SC TYPE Rack mountable 24F FMS suitable for splicing and front patching of 24F ca....,Retain,44500.0,Active,Operational,44500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024690,"SCH B5-29 Rack mountable 48 Fibre management system (FMS) for TUNGSTEN-NAGPUR at WJ,TKO,AJ....",Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024707,SCH B5-30 SC TYPE Rack/Wall mountable 24F Fibre management system (FMS) for TUNGSTEN-NAGPU....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805024719,SCH B5-31 FMS Rack mounting type 19size for 12F with SC-PC connector loaded with pigtail....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805069326,OFC cable 24 fibre armoured as per RDSOspecification No.IRS:TC:55/2006 for Utility shiftin....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805069480,CABLE UNARMOURED SINGLE MODE 12F OFC CABLE for FOB work by SRI SRINIVASA,Rationalize,12800.0,Slow Moving,Operational,12800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805069521,12 Fiber Single mode Armoured OFC Telecommunication cable. confirm to ITU-G 652D for elect....,Retain,41283.34,Active,Operational,41283.34,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805069661,SCH A-07 12 Fiber Single mode Armoured OFC Telecommunication cable. confirm to ITU-G 652D.....,Retain,329282.0,Active,Operational,329282.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805107303,SWITCH BOARD 10 PAIR CABLE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805124118,AIR CONDITIONER SPLIT 2 TON WITH IN-DOOR & OUT-DOOR UNIT,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805124167,AIR CONDITIONER SPLIT 2 TON WITH IN-DOOR & OUT-DOOR UNIT FOR VSS REACH 2 ELDORADO WORK,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805290020,CHARGER VRLA 230V / 24V,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805559238,BOX 5T 20021 FOR (IRON)CABLE TERMINATION,Monitor,10400.0,Unknown,Operational,10400.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805826125,Krone tool for AQUINT INFRATELE  with various Engineering Works in MAS-GDR Sections,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805870126,"HDPE pipes permanently solid lubricated (33mm inner dia, 40mm outer dia)",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539808521015,WIRED CARDIOID MICROPHONE AHUJA AUD 100XLR,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539808540228,CABLE 6 CORE (6 FIBRE) SINGLE MODE FLEXIBLE FOR OUTDOOR,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539808558671,perforated Hot dipped Galvanized cable tray with suitable cover,Retain,430100.0,Active,Operational,430100.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539808558920,Perforated Hot dipped Galvanized cable tray with suitable cover for ANNAIE 69 STN,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539808559225,Perforated Hot dipped Galvanized cable tray of minimum 2m length for Utility shifting work....,Retain,412500.0,Active,Operational,412500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539808559547,SCH B-21 perforated Hot dipped Galvanized cable tray (RV ELECTRICALS) with suitable cover ....,Retain,109032.0,Active,Operational,109032.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539809531132,BATTERY MAINTENANCE FREE SEALED 12V/ 100Ah,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539809580039,"Standard rack 19size, 6U size height wall mounting type front glass door with lock and ke....",Retain,55000.0,Active,Operational,55000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539809946125,SCH B-40 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for speaker l....,Retain,305500.0,Active,Operational,305500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539809946174,SCH B-40 Cable 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for sp....,Retain,600000.0,Active,Operational,600000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539809946186,SCH B-41 Cable 2 core x 1.5 sq.mm Screened/Shielded multistrand PVC insulated wire for sp....,Retain,325000.0,Active,Operational,325000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539810410420,PLASTIC CHAIR,Monitor,10800.0,Unknown,Operational,10800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811569866,DWC PIPE 120 mm Dia,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811931397,UPS 1 KVA ONLINE WITH EXTERNAL 12V 26 AH BATTERY 3 NOS EACH WITH STAND,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811950367,Central Data Controller Unit (CDC) along with CDS conforming to system requirement,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811950379,Central Data Controller Unit (CDC) along with CDS conforming to system requirement,Dispose,3750000.0,Dead Stock,Operational,3750000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811950380,Central Data Controller Unit (CDC) along with CDS conforming to system requirement,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811950410,Central Data Controller Unit (CDC) along with CDS conforming to system requirement FOR SS....,Rationalize,947000.72,Slow Moving,Operational,947000.72,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811950422,Central Data Controller Unit (CDC) along with CDS conforming to system requirement FOR SS ....,Dispose,473500.36,Dead Stock,Operational,473500.36,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811950460,Central Data Controller Unit (CDC) along with CDS conforming to system requirement as per....,Rationalize,5214630.23,Slow Moving,Operational,5214630.23,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811951050,SCH B5-6 Central Data Controller Unit (CDC) along with CDS conforming to system requireme....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811990195,At a Glance Display Board Double faced (AGDB) with all accessories,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539811990201,At a Glance Display Board Double faced (AGDB) with all accessories,Retain,3250000.0,Active,Operational,3250000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812020037,Horn Speaker 25XT,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812072098,STP CAT6 Cable with should be compliant with latest EIA/TIA-568-B. 2-1 standard or latest ....,Retain,132055.0,Active,Operational,132055.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812072116,Single I/O box with SMBand connector with shutter facility and terminating theUTP cable fo....,Retain,18560.0,Active,Operational,18560.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812072232,"I/O box with RJ -45 socket dual information outlet with Surface Mount Box(SMB), and RJ45 s....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812072244,"Face Plate for 2nd and 4th floor of NGO,PRS at MMC building by FLY ENTERPRISES DIGISOL",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812072578,"I/O box with RJ -45 socket dual information outlet with Surface Mount Box (SMB), and RJ45 ....",Rationalize,41975.0,Slow Moving,Operational,41975.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812072608,"I/O box with RJ -45 socket dual information outlet with Surface Mount Box (SMB), and RJ45 ....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812073005,"SCH A- 15 I/O box with RJ -45 socket dualinformation outlet with SurfaceMount Box (SMB), a....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812073637,SCH B-04 UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard for CCTV cameras in all ....,Retain,50605.0,Active,Operational,50605.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812211074,MATRIX CARD WHITE LED TO SUIT CGDB,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812211293,Double Faced Coach Guidance Display Boards as per RDSO Specification No. RDSO/SPN/TC/108/2....,Dispose,6084000.0,Dead Stock,Operational,6084000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812211300,Double Faced Coach Guidance Display Boards (CGDB),Retain,8448000.0,Active,Operational,8448000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812211311,"Double Faced Coach Guidance Display Boards (CGDB) FOR SS RAIL WORK AT PER,ABU,TRL STN",Dispose,6299289.98,Dead Stock,Operational,6299289.98,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812211323,Double Faced Coach Guidance Display Boards (CGDB) FOR SS RAIL WORK AT JTJ STN,Dispose,5426496.79,Dead Stock,Operational,5426496.79,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812220087,CONTROL CARD TO SUIT CGDB,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630034,TSF KIT 4/6 Quad CABLE,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630046,TSF 1 KIT FOR 10 PAIR / 20 PAIR PIJF UG CABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630058,TSF 2 KIT FOR 50 PAIR PAIJF UG CABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630060,TSF 3 KIT FOR 100 PAIR PIJF UG CABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630423,TSF 4 KIT for 6 quad cable normal joint conforming to RDSO spec. No.77/2012 (Rev.3) with l....,Rationalize,71910.6,Slow Moving,Operational,71910.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630447,TSF 4 for 6 quad cable normal joint conforming to RDSO spec. No.77/2012 (Rev.3) with lates....,Rationalize,23970.2,Slow Moving,Operational,23970.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630459,Thermo  shrinkable jointing TSF-3 kit 100 Pair 0.6 mm dia Conductor UG PIJF cable  for Uti....,Rationalize,5700.0,Slow Moving,Operational,5700.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630460,Thermo  shrinkable jointing TSF-1 kit 10/20 Pair 0.6 mm dia Conductor UG PIJF cable  for U....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630502,Sch B-24 Thermo shrink jointing TSF-3 for 100 pair 0.6 mm DIA Conductor as per RDSO spec/T....,Retain,9600.0,Active,Operational,9600.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630514,Sch B-43 Thermoshrink joint Kit TSF-1 for 10/20 pair 0.6mm dia conductor ug pijf cable asp....,Retain,1900.0,Active,Operational,1900.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812630538,SCH B-32 TSF 4/6 KIT normal joint using heat shrinkable jointing kit complete for 6 quad c....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813300108,TENT  4M EXTENDABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330216,RMS SERVER WITH RMS SOFTWARE,Rationalize,229089.0,Slow Moving,Operational,229089.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330228,RMS Server with RMS software,Dispose,436000.0,Dead Stock,Operational,436000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330230,RMS SERVER WITH RMS SOFTWARE,Dispose,1100000.0,Dead Stock,Operational,1100000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330241,RMS SERVER WITH RMS SOFTWARE,Retain,220000.0,Active,Operational,220000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330253,"RMS Server with RMS software FOR SS RAIL WORK AT PER,ABU,TRL STN",Dispose,687267.96,Dead Stock,Operational,687267.96,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330289,RMS Server with RMS software FOR SS RAIL WORK AT JTJ STN,Dispose,229089.32,Dead Stock,Operational,229089.32,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330290,RMS SERVER WITH RMS SOFTWARE for IPIS MEA 9 STATION AB WJR MLMR VN TMV PUTGYM SHU NYP,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813330502,SCH B5-22 RMS Server with RMS software as per RDSO Spec.RDSO/SPN/TC/108/2019 Ver.1.0 for T....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813370160,Telephone cable PIJF UG 100 pair 0.63mm as per TEC specification. GR/CUG- 01/03 AUG 2003 ....,Rationalize,926772.0,Slow Moving,Operational,926772.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813440708,Cable fault locator ANDIG 5379 FOR AQUINT INFRATELE INDIA AT MAS-GDR STN,Rationalize,129800.0,Slow Moving,Operational,129800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813442079,CABLE FAULT LOCATOR,Retain,140000.0,Active,Operational,140000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539813610020,KRONE TOOL,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814740050,UPS 1KVA BPE -BP1200,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814840056,TEJAS TJ100 STM1 TRIBUTARY INTERFACE CARD,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814880108,FMS 12 FIBRE WALL MOUNTING,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539815641067,SMPS BATTERY CHARGER 48 V 50 AMP (2+1) FOR VRLA BATTERY,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539815670020,MONITOR 24 INCH FOR CCTV AT RBBMHS SCHOOL,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539816341183,Single Mode Single Fibre 1G SFP Module,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539816341250,SCH-B- 16 SFP 10G + supports minimum of 10Km with dual fibre connectivity to suit the swit....,Retain,371582.0,Active,Operational,371582.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539816930024,Bitumen compound SPL,Monitor,30840.0,Unknown,Operational,30840.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539817170037,External Storage System for 30 days recording at station/RPF/GRP Thana/Post along with all....,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539817170050,"Supply, Installation, Testing and Commissioning of External Storage System for 30 days rec....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539817170062,External Storage System for 30 days recording at station/RPF/GRP Thana/Post along with all....,Retain,3473920.0,Active,Operational,3473920.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539817170141,SCH B-19 External Storage System (CP-PLUS CP-UVS-G24R-J) for 30 days recording at station/....,Rationalize,4554000.0,Slow Moving,Operational,4554000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818290040,STEEL RACK WITH PIGEON HOLE LARGE 6.4 X 8.4 X 2,Monitor,120000.0,Unknown,Operational,120000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818290051,STEEL RACK WITH PIGEON HOLE SMALL 30 X 5 X 6.5,Monitor,40000.0,Unknown,Operational,40000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818290063,STEEL RACK WITH SHELVES 6.4 X 5.1 X 1.6,Monitor,100000.0,Unknown,Operational,100000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818290075,STEEL RACK 3 SHELVES 3 X 1.5 X 4,Monitor,50000.0,Unknown,Operational,50000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818290087,STEEL RACK 8 X 3,Monitor,15000.0,Unknown,Operational,15000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818290099,STEEL RACK 5 X 3,Monitor,2000.0,Unknown,Operational,2000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818951080,PVC 32 MM CONDUIT PIPE,Retain,934500.0,Active,Operational,934500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539819970021,chair,Rationalize,2566.18,Slow Moving,Operational,2566.18,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539820871055,DWC PIPE,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539820980129,NYLON RAIN COAT,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491321,Daisy chain junction box for running on OFC and Ethernet copper,Dispose,456000.0,Dead Stock,Operational,456000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491357,Daisy chain junction box for running on OFC and Ethernet copper,Retain,1456000.0,Active,Operational,1456000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491369,Daisy chain junction box for running on OFC and Ethernet copper (DCJB) FOR SS RAIL WORK AT....,Dispose,1277967.6,Dead Stock,Operational,1277967.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491382,Daisy chain junction box for running on OFC and Ethernet copper,Retain,69288.55,Active,Operational,69288.55,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491412,Daisy chain junction box for running on OFC and Ethernet copper FOR SS RAIL WORK AT JTJ S....,Rationalize,1100899.8,Slow Moving,Operational,1100899.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491473,Daisy chain junction box for running on OFC and Ethernet copper FOR SURYA ELECTRONICS IPIS....,Rationalize,1324159.2,Slow Moving,Operational,1324159.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821491576,Daisy chain junction box-DCJB for running on OFC and Ethernet copper FOR R RAMA CHANDRA RE....,Retain,800654.4,Active,Operational,800654.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821770076,CLAMP METER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539821770090,CLAMP METER HAND HELD TRUE RMS,Retain,21708.0,Active,Operational,21708.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539822520055,20 pair Krone module housed in MS Box Powder coated with lock and Key and termination of c....,Rationalize,7800.0,Slow Moving,Operational,7800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539822520067,100 pair Krone module housed in MS Box Powder coated with lock and Key and termination of ....,Rationalize,11183.88,Slow Moving,Operational,11183.88,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539825241189,"GI pipe (50 mm dia 3.65 mm thick, IS 1239 part 1 grade) for FOB work by SRI SRINIVASA",Rationalize,57195.0,Slow Moving,Operational,57195.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539825960182,"CABLE 6 QUAD Jelly filled underground telecom, 0.9mm dia Railway signal and telecom coppe....",Rationalize,327403.09,Slow Moving,Operational,327403.09,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539830271851,Sch-A-03 Dual port E1 to Serial/  Ethernet Converter for e-TSR WORK BY TLN ENTERPRISES-EAS....,Rationalize,1786000.0,Slow Moving,Operational,1786000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539831871187,Gigabit WI-FI access router confined to 802.11ax (WI-FI.6) standard connectors  for 2nd a....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539832140024,HARD DISK DRIVE INTERNAL 2 TB TOSHIBA,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539832680122,SCH B-54 Special Earth and Bonding System as Per RDSO Specification RDSO/SPN/197/2008 for ....,Retain,264000.0,Active,Operational,264000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539833270020,SMPS POWER SUPPLY ADAPTOR 12V 8 CHANNEL  FOR DVR-ANALOG CAMERA,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539833280061,OFC PATCH CORD SC-ST CONNECTOR 3 MTR LENGTH),Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539833280103,OFC PATCH CHORD LC-SC 6 MTRS LENGTH,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539833280279,OFC PATCH CHORD LC - SC 5M LENGTH VSS REACH 1 WORK,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539833280449,OFC PATCH CHORD LC-SC/SC-SC/LC-LC 5 MTRS LENGTH FOR VSS REACH 3 WORK by I T I LIMITED-CHEN....,Retain,151600.0,Active,Operational,151600.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539833280620,"SCH B-38 OFC 5meters length, Single Mode, Simplex OFC Patch Cord (LC-SC/SC-SC/LC-LC) for V....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539835440821,Fiber Optic Tester tool Optical Power Meter and Optical Light Source with various Enginee....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539835441497,OPTICAL POWER METER FOR TESTING OF OFC  CABLE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539838030034,POWER MONITOR 230V AC ANNAIE MAKE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539838030060,230v AC/230V AC power monitor with suitable connectors to suit the displays for GPS clock ....,Retain,97980.12,Active,Operational,97980.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539844700029,DP BOX 50PAIR KRONE MODULE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539845311045,E1 TO ETHERNET CONVERTER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539845760022,TELEPHONE CORDLESS BEETEL X70 IN ROS 113 TRANSIT FLAT WORK,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539846342086,SWITCH 24 Port Managed POE Web Managed Layer 2 Access,Retain,112000.0,Active,Operational,112000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539846380026,Equipment Mounting Tray,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539846560454,VOLTE ENABLED GSM FIXED WLL FCT PHONE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847400045,CABLE OFC 24 FIBER ARMOURED,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847800035,CABLE STP CAT6 D-LINK,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847820022,GI PIPE 50 MM DIAMETER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847880020,6U Rack ENCLOSURES NETWORKING/SERVER RACK  Wall Mounting MAKE WQ INDIA,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847930198,"1 inch PVC pipe for 2nd and 4th floor of NGO,PRS at MMC building by FLY ENTERPRISES MODI P....",Rationalize,68000.0,Slow Moving,Operational,68000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847930230,25 mm PVC conduit pipe (ISI mark) conforming to IS: 9537 medium or latest with all accesso....,Retain,33288.0,Active,Operational,33288.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847930290,SCH A-04 PVC conduit 1/ 25mm FOR Video Surveillance System (VSS) at 441 D & E Category Sta....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539848730107,SMS ALERT SYSTEMS IN FAILURE TIME,Monitor,1023000.0,Unknown,Operational,1023000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539856231340,"SCH B-06 Power cable 3 core, 2.5 sq mm, multistrand cable as per IS694:1990 reaffirmed 199....",Retain,114460.0,Active,Operational,114460.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539858920033,TDR BASED CABLE FAULT LOCATOR,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539858970048,STEEL CUPBOARD WITH FOUR COMPARTMENT,Rationalize,20000.0,Slow Moving,Operational,20000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539859090070,Heat and Smoke Sensor,Dispose,52000.0,Dead Stock,Operational,52000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539862540041,Single Fibre bidirectional Module (SFP) CISCO GLX-BX-U for Utility shifting work by SRI SR....,Rationalize,26700.0,Slow Moving,Operational,26700.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539863350041,SPECIAL EARTHING AND BONDING SYSTEM WITH ACCESSORIES,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539865740314,VOICE LOGGER MASTER TELEPHONE for  ELECTRONIC L.C. GATE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539865760039,V.F SIGNALLING TRANSFORMER 1:2,Rationalize,16342.82,Slow Moving,Operational,16342.82,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539865880021,SPECIAL EARTHING AND BONDING SYSTEM FOR RC SCADA WORK MAS-AJJ-RU SECTION,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539866280037,Dynamic Paging microphone with desktop stand AKG Model 6000H51030,Dispose,60000.0,Dead Stock,Operational,60000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539866280049,Dynamic Paging microphone with desktop stand AKG Model 6000H51030,Dispose,50000.0,Dead Stock,Operational,50000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539866280050,Dynamic Paging microphone with desktop stand and cardioid polar pattern for general publi....,Rationalize,16383.16,Slow Moving,Operational,16383.16,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539866280062,Dynamic Paging microphone with desktop stand AKG Model 6000H51030 for  R RAMA CHANDRA REDD....,Rationalize,16383.16,Slow Moving,Operational,16383.16,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539869900026,"25 mm dia PVC conduits confirming to IS 9537 /P3/1983 for 2nd and 4th floor of NGO,PRS at ....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539871420085,OFC 48F (armoured) as per RDSO/SPN/TC/110/2020 rev.0.0 or latest for Utility shifting wor....,Retain,257692.8,Active,Operational,257692.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539873040024,CORAL TELECOM TDM Extension (FXS) CARD for PABX system,Retain,23000.0,Active,Operational,23000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539874680021,DIGITAL EARTH RESISTANCE METER,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539874750023,SCH A-01 Earthing as per RDSO Specification RDSO/SPN/197/2008 or latest FOR Video Surveill....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539877980027,LOCAL CRAFT TERMINAL,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539882430034,PORTABLE EXTERNAL HARD DISK DRIVE 4 TB,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539883270038,12 FIBRE UNARMOURED AERIAL CABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539883270040,CABLE OFC 12 CORE UNARMOURED OPTIC FIBRE CABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539883310036,SCH B-16 PVC conduit pipe 25 mm (POLYCARE) (ISI mark) conforming to IS:9537 medium for CCT....,Retain,141183.4,Active,Operational,141183.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539884450048,BATTERY WALKIE TALKIE TID V-30,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539890390169,TV SMART LED 65 INCH 4K ULTRA HD  SONY MAKE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539891680143,"SCH B-37 OFC 3meters length, Single Mode, Simplex OFC Patch Cord (LC-SC/SC-SC/LC-LC) for V....",Retain,156960.0,Active,Operational,156960.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539891700026,"Single Mode OFC Patch Cord, duplex (length- 2.5 m) (LC-SC/SC-SC/LC-LC/FC-LC) for MEA 69 ST....",Rationalize,343680.0,Slow Moving,Operational,343680.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539893870208,Horn speaker 30W Ahuja AMH 402T,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539894880234,Office executive table Size 150X90X67 cm Right side - 03 Drawers & Left side one drawer,Rationalize,30000.0,Slow Moving,Operational,30000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539896771795,CABLE ROUTE TRACER,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539897070703,HDPE PIPE 33MM INNER & 40MM OUTER DIA,Rationalize,90000.0,Slow Moving,Operational,90000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539897100161,"PA horn speaker Ahuja make model 30XT with LMT for A20 CONSTRUCTION FOB WORK at  KOK, TNP,....",Rationalize,48300.0,Slow Moving,Operational,48300.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539897230214,"POWER CABLE 3 core, 2.5 sq mm, multi-strand",Retain,59185.0,Active,Operational,59185.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898330277,joint enclosure for optic fiber cable 24 F for LUS work at 16 LC gates CGL-VM OF TRANSPRO,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898330289,OFC joint closure for optic fiber cable 48 F for LUS work at 16 LC gates CGL-VM OF TRANSPR....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898330368,Optical fiber cable joint closure for 24 F FOR VSS REACH 3 WORK by I T I LIMITED-CHENNAI,Retain,30400.0,Active,Operational,30400.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898331038,SCH B5-60 Optical fibre Cable joint closure (24 fibres) conforming to TEC Spec No.TEC GR/....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898331040,SCH B5-61 Optical fibre Cable joint closure (48 fibres) conforming to TEC Spec No.TEC GR....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898460290,GPS Antenna with suitable connectors for GPS Clock as per RDSO Specification RDSO/SPN/TC/6....,Retain,93911.81,Active,Operational,93911.81,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539898550022,"NMS system to monitor & manage the networking system for VSS REACH-I MSB TO VLCY, MS TO VM....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+540100250020,HOT DIP GALVANISED PERFORATED CABLE TROUGH,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+540100250032,HOT DIP GALVANISED PERFORATED CABLE TROUGH,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100600029,PVC trough 50x50mm with cover of 2mm thick (ISI mark) and length 2m for VSS REACH/1/WORK,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100600030,PVC trough of 75 mm x 75 mm x 1 .8 mm thickness with cover onwall/Roof/Partition etc as pe....,Rationalize,28520.0,Slow Moving,Operational,28520.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100600042,PVC trough of 100 mm x 50 mm x1.8 mm thickness with cover onwall/Roof/Partition etc as per....,Retain,768000.0,Active,Operational,768000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100600054,PVC trough 50x50mm with cover of 1.5mm thick (ISI mark) and length 2m each for VSS REACH 3....,Retain,944328.0,Active,Operational,944328.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54252222,E-TYPE LOCK,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,Hand Plungerlock with key,Monitor,13924.0,,Strategic,13924.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543500021456,"Covered 19(42U) Racks of size 2200mm x 600mm x 600mm for 2nd and 4th floor of NGO,PRS at M....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543600011473,"Standard Rack 19 size width, 6U size for Utility shifting work by SRI SRINIVASA",Rationalize,93500.0,Slow Moving,Operational,93500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545400980587,PVC Flexible (Green) pipe of 32mm for VSS REACH 3 by I T I LIMITED-CHENNAI,Rationalize,3840.0,Slow Moving,Operational,3840.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549003040041,GI pipes ( 50mm dia- 3.65mm thick ),Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549005791384,WIPING SOLDER,Monitor,94800.0,Unknown,Operational,94800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549005791396,SOLDER SOFT  A-GRADE,Monitor,16800.0,Unknown,Operational,16800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549006531011,SURGE PROTECTION DEVICE CLASS B & C,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008660082,EARTHING (SPL) AND INSTALLATION FOR 3 NOS PIT PER SITE,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008670040,EARTHING (SPL) AND INSTALLATION FOR 3 PIT PER SITE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549900290300,Train information At a Glance Display Board (Double faced) with all accessories as per RDS....,Dispose,2149440.0,Dead Stock,Operational,2149440.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549900290312,At a Glance Display Board (Double faced) with all accessories,Dispose,940000.0,Dead Stock,Operational,940000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549900290336,At a Glance Display Board Double faced (AGDB) with all accessories,Dispose,325000.0,Dead Stock,Operational,325000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549900290348,At a Glance Display Board Double faced (AGDB) with all accessories FOR SS RAIL WORK AT PER....,Rationalize,1612085.7,Slow Moving,Operational,1612085.7,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549900290350,At a Glance Display Board Double faced (AGDB) with all accessories FOR SS RAIL WORK AT JTJ....,Dispose,806042.85,Dead Stock,Operational,806042.85,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549900740020,CABLE UG PIJF 50 PAIR,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+553000022927,Optical Time Domain Reflectometer (OTDR),Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400490020,MULTIREX CHANNEL 2434P PVC DUCT WITH COVER AND LOCK (1 NO ~ 1 MTR),Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559000820114,ELECTRONIC (PUSH BUTTON) PB TELEPHONE,Retain,19612.5,Active,Operational,19612.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559005960030,"GI pipe 50 mm dia 3.65 mm thick, IS 1239 part 1",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559005960054,"GI pipe 50 mm dia 3.65 mm thick, IS 1239 part 1 for MEA 69 STN WORK BY ANNAIE INFORMATIONS....",Retain,62811.45,Active,Operational,62811.45,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559006210050,PVC trough of 50 mmx50 mmx1 .5mm thickness with cover onwall/Roof/Partition etc as per IS ....,Retain,29960.0,Active,Operational,29960.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559006510160,GI pipes - 50mm dia -3.65mm thick as per  IS 1239 Part 1  for Utility shifting work by SR....,Retain,98841.6,Active,Operational,98841.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560402730129,Control Card with suitable connectors for GPS clockas per RDSO Specification RDSO/SPN/TC/6....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560403461229,Platform display controller (PDC),Rationalize,800000.0,Slow Moving,Operational,800000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560403681886,CORAL TELECOM DHVANI IP4LP IP Phone,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560403681989,CORAL TELECOM CPU CARD for PABX system,Retain,96000.0,Active,Operational,96000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600018677,High Resolution Large Video Display units (55 or Higher) suitable for 24X7 working along w....,Rationalize,774384.0,Slow Moving,Operational,774384.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060002,RAIL JOINT INSULATION 52kg. nylon comp.,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560603390036,"Standard Rack 19 size width, 9U size for Utility shifting work by SRI SRINIVASA",Retain,8730.0,Active,Operational,8730.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560603477403,SCH B-03 PVC conduit pipe 25 mm (ISI mark) conforming to IS:9537 medium for CCTV cameras i....,Retain,199120.0,Active,Operational,199120.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604545763,DRILLING MACHINE 1323 MM B8D,Dispose,63543.0,Dead Stock,Operational,63543.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560605006124,HANDHELD BRUSH CUTTER / LINE TRIMMER,Dispose,32000.0,Dead Stock,Operational,32000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606270066,SCH B-28 UPS 3 KVA at least 1 hour battery backup min(4680 VAH) with battery stand for CCT....,Retain,1350000.0,Active,Operational,1350000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608650073,Buffer Card with suitable connectors for GPS Clock. as per RDSO Specification RDSO/SPN/TC/....,Retain,94445.83,Active,Operational,94445.83,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610640026,"PVC Flexible pipe (Green)of 32mm for VSS REACH 2 WORK AT TVT,ENR,PON RLY STN",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560612520073,NAVATOL LOCKS 8 LEVERS WITH KEYS,Monitor,6000.0,Unknown,Operational,6000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560614200069,SURGE PROTECTION DEVICE SPD FOR RC SCADA WORK MAS-AJJ-RU SECTION,Rationalize,350000.0,Slow Moving,Operational,350000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560614200161,SURGE PROTECTION DEVICE SPD with Potential Free contacts as per RDSO Spec. No.RSDO/SPN/165....,Rationalize,462560.0,Slow Moving,Operational,462560.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560629240029,USB to Opto converter for electronic based Train signal register (e-TSR) by MAZENET SOLUTI....,Rationalize,4000.0,Slow Moving,Operational,4000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560800310566,DIGITIAL MULTIMETER METRAVI PRO 587,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561100193357,Heat shrinkable jointing kit complete for 6 quad cable  for Utility shifting work by SR....,Retain,126000.0,Active,Operational,126000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561100196700,"SCH B-38 Cable Jelly filled under ground telecom 6 quad, 0.9mm dia Railway signal and te....",Retain,244500.0,Active,Operational,244500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561100196711,SCH B-33 normal joint using heat shrinkable jointing kit complete for 6 quad cable RDSO s....,Retain,64000.0,Active,Operational,64000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561100610254,Telecom Cable 10 pair polythene insulated polythene sheathed jellyfilled telephone under ....,Rationalize,123280.5,Slow Moving,Operational,123280.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561100610631,SCH B-37 PIJF armoured Telecom Cable 10 pair polythene insulated polythene sheathed jelly ....,Retain,312000.0,Active,Operational,312000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561100820029,FIELD SERVICE CABLE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561101410169,CABLE OFC 24 fibre armoured as per RDSO specification NO.IRS:TC:55/2006 Rev.1 with amendm....,Rationalize,95222.8,Slow Moving,Operational,95222.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,Cable 19 C x 1.5 sq.mm,Procure Immediately,80522.49,,Strategic,80522.49,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,Cable 2 C x 2.5 sq.mm,Procure Immediately,4207173.57,,Strategic,4207173.57,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195541320,CABLE 10 PAIR UG PIJF,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195541757,CABLE 10 PAIR UG PIJF,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195901105,CABLE 6 QUAD UG PIJF,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195931365,CABLE 19C X 1.5 sqmm,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195950165,Cable 50 pair PIJF UG cable with poly-al moisture barrier 50 pair x 0.63mm as per RDSO Spe....,Rationalize,320270.88,Slow Moving,Operational,320270.88,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195950189,Telephone cable PIJF UG 50 pair 0.63mm as per TEC specification. GR/CUG- 01/03 AUG 2003 f....,Rationalize,208193.3,Slow Moving,Operational,208193.3,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196111850,Telephone cable PIJF UG 20 pair 0.63mm as per TEC specification. GR/CUG- 01/03 AUG 2003 f....,Retain,853335.88,Active,Operational,853335.88,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196700041,STP (Shielded Twisted Pair) CAT6 cable (4 pair) compliant with EIA/TIA568-B.2- 1 standard....,Retain,148185.0,Active,Operational,148185.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196700053,STP (Shielded Twisted Pair) CAT6 cable (4 pair) compliant with EIA/TIA568-B.2- 1 standard....,Retain,187275.0,Active,Operational,187275.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196700077,"UTP CAT 6 (23AWG) Cable confirming to TIA/EIA- 568.C.2 for 2nd and 4th floor of NGO,PRS at....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196840379,POWER CABLE 2 corex1.5 sq.mm Screened/Shielded multi-strand PVC insulated wire for speake....,Retain,150498.0,Active,Operational,150498.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196840628,POWER CABLE 2 corex1.5 sq.mm Screened/Shielded multi strand PVC insulated wire for speake....,Rationalize,98259.0,Slow Moving,Operational,98259.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196841141,"SCH A-08 Power cable 3 core, 2.5 sq mm, multistrand cable as per IS694:1990.  for e-TSR ov....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196960051,Thermo shrinkable jointing TSF kit for 6 quad cable for AQUINT INFRATELE  with various Eng....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197050091,SC TYPE RACK/WALL MOUNTABLE 12F FIBER MANAGEMENT SYSTEM-FMS,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197050170,SC TYPE RACK/WALL MOUNTABLE 12F FIBER MANAGEMENT SYSTEM-FMS,Retain,2312870.0,Active,Operational,2312870.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197150292,"OFC Patch Cord 3 meters length, Single Mode, Simplex for electronic based Train signal reg....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197230263,48F Optical fibre Cable joint Closure for Utility shifting work by SRI SRINIVASA,Rationalize,112252.36,Slow Moving,Operational,112252.36,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197230299,"12 core un-armoured Optical fiber cable for indoor for 2nd and 4th floor of NGO,PRS at MMC....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197230354,48F Optical fibre Cable joint closure conforming to TEC Spec No.TEC GR/TX/OJC/002/03 April....,Rationalize,20410.0,Slow Moving,Operational,20410.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197240050,24F Optical fibre Cable joint Closure for Utility shifting  work by SRI SRINIVASA,Retain,29775.0,Active,Operational,29775.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197240086,24F Optical fibre Cable joint closure conforming to TEC Spec No.TEC GR/TX/OJC/002/03 April....,Rationalize,248125.0,Slow Moving,Operational,248125.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197390023,"SCH A-13 OFC Patch Cord 3meters length, SingleMode, Simplex (LC-SC/SC-SC/LC-LC) for e-TSR ....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197450238,SCH B-79 OFC cable 24 fibre armoured FOR SURYA ELECTRONICS IPIS WORK AT GI & CGL STN,Retain,155420.0,Active,Operational,155420.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197530131,OFC Patch cards LC-SC connector 2.5 mtr length for ANNAIE MEA 9 STN,Retain,279680.0,Active,Operational,279680.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197530143,"SCH B-39 OFC 10 meters length, Single Mode, Simplex OFC patch cords SC/LC-PC to SC/LC-PC f....",Retain,230880.0,Active,Operational,230880.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197890093,OFC 48F (armoured) as per RDSO/SPN/TC/110/2020 rev.0.0 or latest for ROB  SHU TUG  JTJ SEC....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197900098,Rack mountable 24F nos Fiber management System FMS for LUS work at 16 LC gates CGL-VM OF T....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197980288,RJ 45 CONNECTOR FOR UTP CAT6 CABLE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561197990166,FMS Rack mounting type 19size for 12 F with SC-PC connector loaded with pigtails for ANNAI....,Retain,382200.0,Active,Operational,382200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198090023,"Single I/O with SMB and connector with shutter facility for 2nd and 4th floor of NGO,PRS a....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198280055,RJ 45 Jack or connectors (Each Box contains 100 Nos),Retain,490.0,Active,Operational,490.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198320168,"6 Fiber Armoured Optical Fiber Cable, Single Mode",Retain,295311.0,Active,Operational,295311.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198350264,UTP CAT 6 cable 23 AWG,Dispose,10800.0,Dead Stock,Operational,10800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198350732,UTP CAT 6 cable 23 AWG as per EIA/TIA-568-C.2 standard for Utility shifting work by SRI ....,Retain,33559.12,Active,Operational,33559.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198350768,UTP CAT 6 (23 AWG) cable as per EIA/TIA-568-C.2 standard for electronic based Train signal....,Retain,7244.16,Active,Operational,7244.16,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198420096,RJ 45 Jack or connectors for Utility shifting work by SRI SRINIVASA,Retain,4160.0,Active,Operational,4160.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561198730097,Muliticore PVC insulated Nylan tape ATC briebed sheilded cable 4 coreX1.5 Sq mm FOR A20 CO....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561199220029,CABLE UTP CAT 6,Retain,15756.3,Active,Operational,15756.3,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561199260027,"SCH B-49 power cable 3 core 4 sq mm, multi strand copper conductor, PVC insulated armoured....",Retain,363216.0,Active,Operational,363216.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561199380148,CABLE UTP CAT6,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561199820045,6 PAIR SB CABLE FOR IMPROVEMENT WORK TO NGO OFFICE COMPLEX,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561300090655,WOODEN RACK 6 X 3,Monitor,9000.0,Unknown,Operational,9000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561300672991,"Standard rack 19size, 6U size height wall mounting type front glass door with lock and ke....",Retain,44000.0,Active,Operational,44000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160100,Battery Charger 230V/24V 40 AMPS,Procure Immediately,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160112,BATTERY CHARGER 230V/24V/50AMPS,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56163034,Voltage stabilizer 3 KVA-230V.,Monitor,659472.5,,Strategic,659472.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+562300060110,DESK TYPE ELECTRONIC MAGNETO TELEPHONE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563001040068,20 pair CT box for termination ofCable for Utility shifting work by SRI SRINIVASA,Retain,88400.0,Active,Operational,88400.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,Ground Connection for IRS Point Machine,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,Relay AC Immune Plug in type style-QSPA1,Monitor,1552200.32,,Strategic,1552200.32,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,Relay AC Immune Plug in type style-QTA2,Monitor,367607.76,,Strategic,367607.76,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,Relay AC  Immune Plug in  type style-QBCA1,Monitor,154917.42,,Strategic,154917.42,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56462050,AC Shunt Signal LED with in built current regulator,Procure Immediately,2484372.0,,Strategic,2484372.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468027,Route LED Signal lightning unit 100 V AC,Procure Immediately,1903536.8,,Strategic,1903536.8,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED Red aspect with accessories,Procure Immediately,8390059.6,,Strategic,8390059.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED Green Aspect with accessories,Procure Immediately,4798767.36,,Strategic,4798767.36,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED Yellow aspect with accessories,Procure Immediately,5628996.48,,Strategic,5628996.48,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468064,Calling on LED Signal lightning unit 100 V AC,Procure Immediately,1026954.0,,Strategic,1026954.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564682260023,Rechargeable LED Search Light,Rationalize,10444.0,Slow Moving,Operational,10444.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500350,Battery charger 110V AC 24V DC 30A,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,Cable 24 C x 1.5 Sq.mm,Procure Immediately,3120984.36,,Strategic,3120984.36,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Cable 30 C x 1.5 Sq.mm,Procure Immediately,8223868.72,,Strategic,8223868.72,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,Fuse ND type  RDSO spn 78/92 6 Amps,Retain,284011.75,,Strategic,284011.75,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502576,Fuse ND type RDSO spn 78/92 16 Amps,Retain,295081.92,,Strategic,295081.92,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502606,Fuse ND type RDSO spn 78/92 10 Amps,Procure Immediately,251043.0,,Strategic,251043.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56505959,RKT single various wards,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,Channel Bond Pin,Monitor,216710.64,,Strategic,216710.64,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,A.R.A Terminal Block 25mm PBT small,Retain,534684.0,,Strategic,534684.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,A.R.A Terminal Block 60mm PBT,Retain,208152.0,,Strategic,208152.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565094353300,SCH B-52 Hose pipe 25mm flexible green hose pipe on platforms/Shelters/wall etc with suita....,Retain,5947.5,Active,Operational,5947.5,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565094815835,Single RJ 11 I/O with SMB connector with shutter facility for Utility shifting work by SRI....,Retain,10240.0,Active,Operational,10240.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509686,Transformer 230/110V  -  3 KVA,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,Cable 12 C x 1.5 Sq.mm,Procure Immediately,9145084.48,,Strategic,9145084.48,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,Cable 2 C x 25 sq.mm,Procure Immediately,10637.35,,Strategic,10637.35,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56511516,Railjoint Insulation 60Kg.,Procure Immediately,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565172848234,"SCH B-62 Manageable Layer-2 Switches consisting of 24 x 10/100/1000 BASE-T PoE ports, 4 x ....",Retain,855000.0,Active,Operational,855000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565172848313,"SCH B-03 server (NETBYTES SRS5) as per clause no.10.1.1.3,10.1.2,10.1.3 Hardware to suppor....",Retain,6290816.0,Active,Operational,6290816.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565198350028,STABILIZER 1KVA,Monitor,3026.0,Unknown,Operational,3026.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565199410203,VIDEO ANALYTIC SERVER  SOFTWARE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565199410379,Sch-A-06 eTSR SOFTWARE AT CENTRAL PLACE UP TO 20 STATIONS for by Automated Train signal re....,Retain,12351732.0,Active,Operational,12351732.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901067633,PVC insulated flexible 3 core x 2.5 sq mm multi strand power cable for 2nd and 4th floor o....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567902700064,"SCH NEW NS-13 Stainless Grade Steel Square of (304 pipe (50mm Dia, 3 mm thickness with +/-....",Retain,440000.0,Active,Operational,440000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567903810023,SCH NEW NS-12 Stainless Grade) Steel Square of (304 pipe 40mmx40mm/ circular pipe 40mm dia....,Retain,180000.0,Active,Operational,180000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567907850052,STEEL TABLE OVAL WITH DECOLON TOP BIG,Monitor,150000.0,Unknown,Operational,150000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567907930023,WOODEN FOOT REST,Monitor,1700.0,Unknown,Operational,1700.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567911279128,SMPS (Power Supply Unit ? PSU ) 12 VOLT DC (Model LRS-75/12V & LRS-35/5V) suitable for GPS....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567916080028,Special earth and bonding system,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569001120112,Special earth and bonding system as per RDSO specification RDSO/SPN/197/2008 or latest.,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569001120124,Special earth and bonding system as per RDSO specification RDSO/SPN/197/2008 or latest.  ....,Retain,717948.0,Active,Operational,717948.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569001120136,Special earth and bonding system for SURYA ELECTRONICS IPIS WORK AT GI & CGL STN,Rationalize,500000.0,Slow Moving,Operational,500000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569001120203,SCH B-18 Special earth (TRUE POWER LTD) and bonding system as per RDSO specification RDSO....,Retain,264320.0,Active,Operational,264320.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569002650042,WIRELESS ROUTER DLINK DIR 615,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003010693,FAULT ISOLATOR DETECTOR BASE,Dispose,44000.0,Dead Stock,Operational,44000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569004200027,Wall mountable power distribution panel with 8 Nosx16 Amp MCB?s mounted for VSS/REACH/1/Wo....,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569005130057,SCH B-35 OFC Jointing Kit Joint enclosure for armoured optical fibre cable for IDDS WORK a....,Monitor,0.0,Unknown,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569005130082,SCH B-27 24F Optical fibre Cable joint closure conforming to TEC/GR/TX/OJC-002/03/APR-2010....,Retain,9912.0,Active,Operational,9912.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569005150044,Multipin Power Socket with Switch 5A/15A (6 nos) wired with 2.5 Sq.mm copper multistrand w....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569005150056,Multi pin power socket with switch 5A/15A (6 nos.) wired with 2.5 Sq.mm copper multistrand....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569005400048,2T VF TRANSFORMER OF RATION 470:600 AND 470:1120 OHMS (CYLINDER TYPE),Retain,77880.0,Active,Operational,77880.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569006490045,TW (TEAK WOOD) TABLE WITH TWO DRAWERS 120 X 75 X 70,Monitor,16000.0,Unknown,Operational,16000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569006500361,CORAL TELECOM Power Supply (PSU) CARD for PABX system,Retain,120000.0,Active,Operational,120000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569016060035,"Adjustable Torque Wrench 5-35Nm, 1/4 inch Sq. Drive, Rachet Type",Retain,83997.12,Active,Operational,83997.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569016380560,HIGH VISIBILITY WARNING GARMENT-SAFETY JACKET,Retain,21000.0,Active,Operational,21000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569019730477,"HDPE pipes permanently solid lubricated (33mm inner dia, 40mm outer dia)",Retain,67870.0,Active,Operational,67870.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569019731240,"permanently solid lubricated HDPE pipes 33mm inner dia, 40mm outer dia for LUS work at 16 ....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569019732036,Double Walled Corrugated (DWC) Pipe for Utility shifting  work by SRI SRINIVASA,Rationalize,169200.0,Slow Moving,Operational,169200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569019732760,Double Walled Corrugated (DWC) Pipe for FOB work by SRI SRINIVASA,Rationalize,43200.0,Slow Moving,Operational,43200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569019732772,"HDPE pipe for 24F/48F 33 mm inner dia, 40 mm outer dia for FOB work by SRI SRINIVASA",Rationalize,427500.0,Slow Moving,Operational,427500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569024460092,"Polyolefin cable channel of size width 240/340 mm, height 155/230 mm for Redevelopment of ....",Rationalize,1185110.0,Slow Moving,Operational,1185110.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569024460109,"Polyolefin cable channel of size width 240/340 mm, height 155/230 mm for Redevelopment of ....",Rationalize,1921800.0,Slow Moving,Operational,1921800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569025510029,STEEL TABLE WITH THREE DRAWERS & ONE CUPBOARD WITH DECOLON TOP,Monitor,40000.0,Unknown,Operational,40000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569027360023,HANDHELD DIGITAL INFRARED THERMOMETER FLUKE 59 MAX,Dispose,41370.0,Dead Stock,Operational,41370.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569034160032,Flash Display Card with Awago with suitable connectors LED for GPS clock as per RDSO Speci....,Retain,150634.08,Active,Operational,150634.08,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569037200028,"TSF 4 KIT for 6 quad cable FOR IDDS WORK AT MSB,MPK,MBM,GDY,STM STN",Rationalize,83895.7,Slow Moving,Operational,83895.7,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569047300020,JUNGLE HAT,Retain,234.0,Active,Operational,234.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569050170164,SCH NS-09 25mm PVC conduit pipe(INDIAN TUBE)(ISI mark) conforming to IS 9537 medium  FOR S....,Retain,88896.0,Active,Operational,88896.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569066000022,"Safety Shoes with Electrical, Oil, Acid and Slip Resistance  As per BIS specification IS 1....",Retain,5292.3,Active,Operational,5292.3,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569800330051,"HDPE pipes permanently solid lubricated (33mm inner dia, 40mm outer dia) for AQUINT INFRAT....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985526,Fuse ND Type RDSO Spn 78/92 4A Maps,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56986210,FS CABLE,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56987122/56110029,Cable 3 C x 10 sq.mm,Procure Immediately,496466.12,,Strategic,496466.12,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569902770052,"SCH B-33 HDPE pipe (33 mm inner dia, 40 mm outer dia) for VSS 5 STN WORK BY KS SMART SOLUT....",Retain,106875.0,Active,Operational,106875.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569903730037,UTP CAT6 CABLE FOR FIRE DETECTION & ALARM SYSTEM WORK,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569903730050,SCH A-06 UTP CAT 6 (23 AWG) cable as per EIA/TIA-568-C.2 standard for e-TSR over Chennai ....,Retain,17385.0,Active,Operational,17385.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569905400028,SCH B-35¿OFC Jointing Kit Joint enclosure for armoured optical fibre cable for IDDS WORK a....,Retain,175000.0,Active,Operational,175000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569911750029,32 mm PVC conduit pipe (ISI mark) conforming to IS:9537 medium or latest for FOB work by S....,Rationalize,41650.0,Slow Moving,Operational,41650.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569911750030,25 mm PVC conduit pipe (ISI mark) conforming to IS:9537 medium or latest for FOB work by S....,Rationalize,3800.0,Slow Moving,Operational,3800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100289260,Data Entry Terminal for entry of Train Details by ASM & communicating the information to C....,Retain,228259.2,Active,Operational,228259.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100320241,1 kVA on-line UPS with 2 hours backup/Minimum 3200 VAHbattery requirement for E-TSR centra....,Retain,169920.0,Active,Operational,169920.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100421616,13 Segment Display Card with Awago LED with suitable connectors for GPS clock as per RDSO ....,Retain,25384.16,Active,Operational,25384.16,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100471358,SCH B-13 fully functional multipurpose Digital key board (Joy stick CP-PLUS CP-UNK-331)  ....,Rationalize,117610.0,Slow Moving,Operational,117610.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100499988,DVR 16 CHANNEL  TVT MAKE TD-2116TS-CL,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100543023,Digital Key-Board(joystick) along with allaccessories compatible withP/T/Z cameras,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100543035,Digital Key-Board (joystick) along with all accessories compatible with P/T/Z cameras,Retain,95388.0,Active,Operational,95388.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100543084,Digital Key-Board(joystick) along with allaccessories compatible withP/T/Z cameras,Rationalize,180000.0,Slow Moving,Operational,180000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100899220,"UPS 05 KVA OF 1 HOUR BACK UP ,SMF BATTERY 12 V 34 Ah , Battery Stand",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100899334,SCH B-23 UPS 10KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time ....,Retain,4000000.0,Active,Operational,4000000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100899346,SCH B-23 UPS 10KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time ....,Retain,900000.0,Active,Operational,900000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101148725,"Standard Rack 19 size, 6U size for 19"" rack for 2nd and 4th floor of NGO,PRS at MMC buildi....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101148877,"Standard Rack 19 size, 6U size for 19 rack for FOB work by SRI SRINIVASA",Rationalize,49500.0,Slow Moving,Operational,49500.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101149080,"Standard rack 19 size, 6URACK size height type front glass door back cover with lock and k....",Retain,11000.0,Active,Operational,11000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101149146,Single Fibre Media Convertor (MC) Pair supporting 10/100/1000 Ethernet Port for VSS REACH ....,Rationalize,100890.0,Slow Moving,Operational,100890.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101149419,SCH B- 18 Single Fibre Media Convertor Pair supporting 10/100/1000 Ethernet Port for VSS R....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101149481,"Sch-A-10 Standard rack 19 size, 6U size for e-TSR WORK BY TLN ENTERPRISES-EAST GODAVARI",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101149638,"SCH B-53 Standard Rack 19 size, 9U size height front glass door with lock and back cover a....",Retain,174600.0,Active,Operational,174600.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101227881,"UPS 05 KVA ,SMF BATTERY 12 V 42 Ah , Battery Stand",Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101228060,Online UPS of Rating 5.0 KVA With Battery Of Backup Time 60 Minutes,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101228228,"UPS 5KVA min 8000 VAH on line UPS (Singlephase) 1 HOUR BACK UP ,SMF BATTERY 12 V 42 Ah , B....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101228265,"UPS 15KVA on-line  Single phase FOR SS RAIL WORK AT PER,ABU,TRL STN",Retain,1527875.0,Active,Operational,1527875.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101228277,UPS 15KVA NUMERIC PREMIUS  on-line  Single phase FOR SS RAIL WORK AT JTJ STN,Rationalize,1527878.9,Slow Moving,Operational,1527878.9,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101228332,10KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time along with su....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101228630,SCH B-24 UPS 15KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time ....,Retain,24751638.18,Active,Operational,24751638.18,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101362632,CONTROL  CARD TO SUIT FIVE LINE DISPLAY BOARDS,Dispose,139924.4,Dead Stock,Operational,139924.4,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101362644,CONTROL CARD TO SUIT SINGLE LINE DISPLAY BOARDS,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101417554,MONITOR 21 INCH LG,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101439513,FURNITURE FOR EACH WORKSTATION COMPUTER TABLE- 1 NO (1200 X 600 X 750 MM) & REVOLVING CHAI....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101439860,SCH-B- 09 furniture for each Workstation i.e. onecomputer table of size 1200mm x600mmx750....,Retain,119250.0,Active,Operational,119250.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101449178,PC WORKSTATION FOR VSS REACH2 WORK,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101449221,PC WORKSTATION FOR VSS REACH 3 WORK by I T I LIMITED-CHENNAI,Rationalize,1692000.0,Slow Moving,Operational,1692000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101647559,INFORMATION KIOSK MAKE ADD SOFT TECHNALOGY WITH ACCESERIESE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101875039,External Modem for T-Port networking to Test room for COA for electronic based Train signa....,Rationalize,15000.0,Slow Moving,Operational,15000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101948080,TELEVISION  42 INCH SAMSUNG VDU,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101949450,Smart Television LG LAEC015 136-inch All-In-One LED Display TV,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570102008534,HOT SPOT 4G DONGLE (DIFFERENT SERVICE PROVIDER),Dispose,8024.0,Dead Stock,Operational,8024.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570102028582,FULL HD FIXED DOME TYPE IP COLOUR CAMERA,Dispose,1707588.04,Dead Stock,Operational,1707588.04,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570102210062,TABLE LIGHT WEIGHT FOLDING RECTANGULAR,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570102480223,INDUSTRIAL LOCKER WITH 8 CUPBOARD LOCKER,Monitor,25000.0,Unknown,Operational,25000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570102815889,Scanner Epson V39,Rationalize,5789.0,Slow Moving,Operational,5789.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570102927321,ALL IN ONE PC DESKTOP COMPUTER,Rationalize,106000.0,Slow Moving,Operational,106000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570103150048,"Central server (Rack Model) with Intel Xeon Silver 4309Y processor , 32 GB RAM, 1-TB SSD,....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570104010039,LASER PROJECTOR,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570104060134,"TV 55 LED UHD smart Samsung FOR SS RAIL WORK AT PER,ABU,TRL STN",Rationalize,6625000.0,Slow Moving,Operational,6625000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570104300182,Web Camera for Tele-Consultancy work at Central Railway Hospital & Divisional HQ Hospitals,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570104480640,SCH-B- 26 UPS 2X10 KVA at least 1 hour battery back up in full load condition complete wit....,Retain,2250580.0,Active,Operational,2250580.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570104790252,UPS Online 2KVA NUMAX DOU2K Online WITH 60 MIN BATTERY BACKUPfor Tele-Consultancy work at ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570104890040,Supply of hp Laser Colour Computer Printers for A4 paper size Brand: hp (Detailed Descript....,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570106480059,TV 55 LED UHD smart Samsung FOR SS RAIL WORK AT JTJ STN,Rationalize,3125000.0,Slow Moving,Operational,3125000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570107590080,"SCH B-43 PC Workstation 24 4K UHD LED Monitor, licensed software (OS, MS Office, Anti viru....",Retain,534000.0,Active,Operational,534000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570108230022,UPS 1 KVA BPE MAKE,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570108360513,All in One PC with Intel Core i7 ACER VERITON Z4694G for Tele-Consultancy work at Centra....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570108520036,SCH B-51 PVC conduit pipe 32 mm (ISI mark) conforming to IS:9537 Part-3 medium for VSS 5 S....,Retain,379348.2,Active,Operational,379348.2,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570109140030,"UPS 3 KVA (On line) at least 1 hour battery back up in full load condition with 70 Ah, 6 n....",Rationalize,1274000.0,Slow Moving,Operational,1274000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570109350060,ALL IN ONE PC HP MAKE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570109490714,"Embedded PC ¿ECX-3100 Intel i5 industrial grade, dual monitors  22 inch TFT LED , 32 inch....",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570109730026,TV SMART LED 65 INCH LG MAKE,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570110000024,CAMERA PTZ FOR CCTV,Rationalize,35990.0,Slow Moving,Operational,35990.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570110000036,FULL HD PTZ TYPE IP COLOUR CAMERA WITH 128 GB MEMORY CARD,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570110180051,SCH B-09 23 inch Full HD (1920 X 1080) LED display monitor (SAMSUNG LS24D304GAWXXL) with I....,Retain,158592.0,Active,Operational,158592.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570110310025,CAMERA 2 MP BULLET FOR CCTV,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570110870468,Sch-A-04 eTSR SOFTWARE FOR EACH STATIONS for by Automated Train signal register (e-TSR) So....,Retain,52823383.0,Active,Operational,52823383.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570113330035,SCH B-44 10KVA on-line UPS(NUMERIC LEGRAND PREMIUS 3P-1P) (Single phase) with 1 hr back up....,Retain,1527000.0,Active,Operational,1527000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570113730025,LAN EXTENDER FOR FIRE DETECTION & ALARM SYSTEM WORK,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570113910027,UPS 3KVA,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570116980028,THERMAL TRANSFER BAR CODE PRINTER,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570121440132,SCH B-09 PC Workstation for VSS 5 STN WORK BY KS SMART SOLUTIONS PRIVATE LIMITED-CHENNAI,Retain,4920656.0,Active,Operational,4920656.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570121460076,CISCO WEBEX MIDDLEWARE PLATFORM SYSTEM  with Subscription Licence.,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570121460210,Renewal of EMS license for TEJAS STM NMS Server with three Year validity,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570122050039,UPS 2 X 10 KVA WITH 12V  42AH BATTERY WITH ACCESSORIES,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570122050131,UPS 2 X 10 KVA WITH 16000VAH capacity BATTERY WITH ACCESSORIES,Rationalize,424682.0,Slow Moving,Operational,424682.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570126210025,LAPTOP,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570132251169,Supply of HP Intel Core i7 All in One PC with 23.8 Inch Display/ Windows 11 Professional....,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570136210241,Embedded network Gateway for connecting eTSR embedded PCs to central server for electronic....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570136210289,Sch-A-04 Embedded network Gateway for connecting eTSR embedded PCs to central server for e....,Rationalize,162000.0,Slow Moving,Operational,162000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570146570047,15KVA on-line UPS (Single phase) floor mountable type with 1 hr back up time (min 24000VAH....,Rationalize,1833454.68,Slow Moving,Operational,1833454.68,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570149350034,VIDEO FACE RECOGNITION SOFTWARE FOR VIDEO FRS SERVER,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570149350046,VIDEO FACE RECOGNITION SOFTWARE FOR VIDEO FRS SERVER FOR VSS REACH2 WORK,Dispose,10630644.0,Dead Stock,Operational,10630644.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570149350083,Video Face Recognition Software (VFRS)(per camera basis) for Video FRS server as per RDSO ....,Rationalize,12980000.0,Slow Moving,Operational,12980000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570150100029,CAMERA 4MP BULLET FOR CCTV,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570150950256,"8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU",Dispose,162000.0,Dead Stock,Operational,162000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570150950270,"8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU",Dispose,250000.0,Dead Stock,Operational,250000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570150950530,"8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU FOR SURYA ELECTRON....",Rationalize,86652.82,Slow Moving,Operational,86652.82,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570150950542,"8 Buttons Ethernet Controller and Volume Control, BSS#BSSEC8BV-BLK-MEU for  R RAMA CHANDR....",Rationalize,43326.41,Slow Moving,Operational,43326.41,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570152660014,CHAIR TUBULAR WITH ARM,Monitor,4000.0,Unknown,Operational,4000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153210454,TV 55 LED UHD smart SONY FW-55BZ40L,Rationalize,9180000.0,Slow Moving,Operational,9180000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153210466,TV- High Resolution Large Video Display units (55 or Higher) suitable for 24X7 working al....,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153210582,TV 55 LED UHD smart Samsung  QH55C for  R RAMA CHANDRA REDDY-KADAPA IPIS WORKAT GPD & S....,Retain,875000.0,Active,Operational,875000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153210788,TV 55 LED 4K UHD smart SAMSUNG QA55Q60DAULXL for Tele-Consultancy work at Central Railway ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153211197,Smart Television LG 98UM5K 98-inch TV 4K UHD Signage Display with ADS display panel,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153211239,Sch B-29 55 LED UHD smart TV industrial grade for (24X7)Working for FOB work by SRI SRINIV....,Rationalize,2016000.0,Slow Moving,Operational,2016000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153211276,"SCH B-11 Large Format LED Display Unit, 55 (inches) TV(SAMSUNG QM55C LH55QMC) Including w....",Retain,1680798.56,Active,Operational,1680798.56,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570153211409,"SCH B-31 TV Large Format LED Display Unit, 55 (inches) Including wall mount kit for CCTV ....",Retain,900000.0,Active,Operational,900000.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570164540070,Dual Fibre (SFP) Transceiver Fibre Module with 10G SFP SUPPORTS MIN 10KM,Retain,40824.0,Active,Operational,40824.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570164540082,Dual Fibre (SFP) Transceiver Fibre Module with 10G SFP SUPPORTS MIN 40KM,Rationalize,68040.0,Slow Moving,Operational,68040.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570400020032,PTZ CAMERA POLE  of 5Mtr length 100mm GI pipe of medium quality IS No.1239 (Part- 1)1990,Retain,424200.0,Active,Operational,424200.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570400020044,"CAMERA POLE  of 5Mtr length 100mm GI pipe for VSS REACH1 MSB TO VLCY, MS TO VM",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570400020070,SCH B-05 Full HD P/T/Z/ (Pan/Tilt/Zoom) (CP-PLUS CP-UNP-F4521L30-DPQ) IP Colour Camera for....,Retain,2206795.78,Active,Operational,2206795.78,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570400020081,SCH-B- 49 PTZ CAMERA POLE of 5Mtr length 100mm GI pipe of medium quality IS No.1239 (Part ....,Retain,567528.0,Active,Operational,567528.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570500260144,LG 43UM5N-H 43 inch Standard Signage TV,Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+572000020026,Single Fibre (SFP) Transceiver Fibre Module with SFP-BX-D & SFP-BX-U (PAIR) SUPPORTS MIN 1....,Retain,65610.0,Active,Operational,65610.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+572000030020,FULL HD FIXED DOME TYPE IP COLOUR CAMERA WITH 128 GB MEMORY CARD,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+572000030044,FULL HD FIXED DOME TYPE IP COLOUR CAMERA WITH 128 GB MEMORY CARD,Retain,332891.31,Active,Operational,332891.31,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+572000220039,SCH B-48 STP CAT6 (23 AWG) cable compliant with latest EIA/TIA-568-B.2-1 standard for VSS ....,Retain,10800.0,Active,Operational,10800.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+572100640040,SCH B-14 STP CAT6 (23 AWG) cable (DIGISOL DGC-SC6SF4F-3GW) compliant with latest EIA/TIA-5....,Retain,133266.7,Active,Operational,133266.7,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+572100640051,SCH B-05 STP CAT6 (23 AWG) cable compliant with latest EIA/TIA-568-B.2-1 standard for CCTV....,Retain,288585.0,Active,Operational,288585.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900185,Auto Battery 12V/75AH,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900203,Auto Battery  12V X130 AH 19 plate,Monitor,0.0,,Strategic,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71010336,"BRUSHES, PAINTS & VARNISHES, FLAT, SIZE 25mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71010348,"BRUSHES, PAINTS & VARNISHES, FLAT SIZE 38mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS:....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71010350,"BRUSHES, PAINTS & VARNISHES, FLAT SIZE 50mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS:....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71010373,"BRUSHES, PAINTS & VARNISHES, FLAT SIZE 75mm OF VULCANIZED RUBBER SETTING TYPE TO SPECN.IS:....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71010816,"BRUSHES, PAINTS & VARNISHES SASH TOOL SIZE NO:10 TO SPEC.IS:486/2012, AND BRISTLES TO IS:1....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71080326,BROOMS COCOA WELL CLEANED & DRIED FROM THE STEMS OF COCONUT LEAVES 20cms CIRCUMFERENCE AT ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+72081181/72207413,Drill Twist 7.2 mm,Monitor,178097.6,,Strategic,178097.6,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+750500051065,GREEN HOSE Pipe,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+750500051375,FIEXIBLE GREEN HOSE 1 INCH DIA,Dispose,0.0,Dead Stock,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+75544453,TWINE COUNTRY JUTE 3PLY TO IS.SPECN.NO.1912/84 VARIETY NO.6.,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+759098204516,"HDPE PIPE 33 MM INNER, 40 MM OUTER DIA",Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+78010512,"GLASS TUMBLER 260 ML CAPACITY WITH IR"" TOTEM OF RDSO SKETCH 68060 ALT.2.",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+78210057,30 CMS SQUARE QUARTZ WALL CLOCK BATTERY OPERATED.,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783002169970,CHAIR LIGHT WEIGHT FOLDING WITHOUT ARM,Dispose,3220.0,Dead Stock,Operational,3220.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+78900785,MUGS POLYTHENE 11-1/2 cm depth X 11-1/4 CM dia.,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79010805,"DUNGRI CLOTH, COTTON KHADI, BLUE 91 CM WIDE TO SPEC.NO.IS:3778 / 1993 WITH AMENDMENT No.1,....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79010866,"DUNGRY CLOTH COTTON KHADI BLEACHED TO IS: 3778-1993,AMENDMENT-1 IN A PIECE LENGTH OF 10 TO....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79011640,CLOTH KHADI LOOSELY WOVEN ORDINERY QUALITY WHITE 91 CMS WIDE FOR CLEANING PURPOSE TO IS.37....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79333485,DUSTERS  COTTON KHADI  61 cms  x 61cms  SPECN: DUSTERS CLOTH COTTON KHADI BLEACHED  TO IS.....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79338677,HONEY COMB TOWELS WHITE BLEACHED IS.854/91 VARIETY NO 3 OR IS.859/79 VARIETY NO 2 IN SIZE ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79339013,FACE TOWELS TO SIZE 60X40 CMS IN TURKISH COTTON HANDLOOM/KHADI SUPERIOR QUALITY TO IS: 854....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79339293,COTTON TURKISH TOWEL HANDLOOM WHITE SIZE 122X61 CMS TO IS:854/1991 OR LATEST. VARIETY NO.4....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81033515,NAPTHALENE WHITE BALLS PACKED IN POLYTHENE BAGS TO CONTAIN 250 GRAMS TO SPECN.539/1965 OR ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81050264,DETERGENT BAR 250 GMS TO BRAND  RIN/HENKO/TIDE  AS IN ORIGINAL PACKING,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81050525,LIQUID HAND WASH OF BRAND MEDIMIX(OR) HOMOCOL (OR) DETTOL (OR) LIFEBUOY WITH A PERFUME OF ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81050999,TOILET SOAP-TO BE SUPPLIED IN THE FORM OF SMOOTH CAKES OF MINIMUM 100 GRAMS EACH SECURELY ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81052110,CLEANING POWDER PACKED IN 600 GMS CONTAINERS TO SPEC:-1.SODA ASH TECHINICAL LIGHT GRADE TO....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81070317,LIQUID ANTISEPTIC DETTOL IN PHIALS OF 50 ML.,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83041849,PAPER CARBON PENCIL 20.5 X 33 CM BLUE COLOUR SIMILAR TO KORES SAPPHIRE BRAND IS. 3450/1976....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049400,PLAIN COPIER PAPER GSM 80+/-4% IN SIZE OF 210 X 297 MM (A4 SIZE) CONFORMING TO IS:14490/20....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049502,PLAIN COPIER PAPER GSM 80+/-4% IN SIZE OF 420 X 297 MM (A3 SIZE) CONFORMING TO IS:14490/19....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049526,TNPL 80 GSM XEROX SHEET SIZE A3 (297 X 420 MM) CONFORMING TO IS:14490/2018 WITH AMDT. NO. ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049540,PLAIN COPIER PAPER GSM 80 IN SIZE OF 210 X 297 MM (A4 SIZE) CONFORMING TOIS:14490/2018 WIT....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049861,"11 X 12"" TWO PLY CONTINUOUS COMPUTER STATIONERY FAN FOLDED WITH SPROCKET HOLES ON BOTH SID....",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83051661,G-49  (ATTENDANCE REGISTER) (P.L.NO.83051661)SIZE 28.5CMS X 26 CMS (FINISHED) (PLUS/MINUS ....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83054080,ENVELOPES FOR D.O.LETTERS-PRINT ON FACE ONLY.CUT AND MAKE SHAPE TO PATTERN (OPENING SHOULD....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83055551,1)DESCRIPTION:BOOK RULED 4 QUIRE2)SIZE : 21CMS X 29.7 CMS (TRIMMED) (200 LEAVES PER BOOK)3....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83055563,(1)DESCRIPTION :BOOK RULED 3 QUIRE(2)SIZE  : 21CMS X 29.7 CMS (TRIMMED) (150 LEAVES PER BO....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83055575,BOOK RULED 2 QUIRE  SIZE :21CMS X 29.7 CMS (TRIMMED ) (100 LEAVES PER BOOK)  NUMBERING : N....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83055587,BOOK RULED 1 QUIRE SIZE: 21CMS X 29.7CMS (TRIMMED) (50 LEAVES PER BOOK) PRINTING (1) ON CO....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83057213,FILE BOOKS FILE COVERS WITH 1.3cm WIDE TAPE AND TWO TAGS 50cm COVER THICK 250mm x 370mm TO....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83057225,FILE BOOKS FILE COVER (300 GSM) WITH 1.3 cm WIDETAPE & 2 TAGS 50 cmOR OVER THIN 250 mm X 3....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83058620,PAD DRAFT QUARTO IN 100 SHEETS OF SIZE 21.5 X 15.3 CMS PRINTING ONE SIDE ONLY IN 60 GSM WH....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83902314,"SYNTHETIC GLUE STICK 15GMS BRAND;KORES,CAMEL OR FABRE CASTELL%u201D OR SIMILAR.",Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83903112,PIN OFFICE [T TYPE]. NICKEL PLATED NEEDLE POINT. LENGTH : 26MM. HEAD LENGTH [T- HORIZONTAL....,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83904827,TAG COTTON WHITE 60 CM LONG IN BUNDLES OF 100 EACH (SHOE LACE PATTERN ).,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83904839,TAG COTTON WHITE 30 CMS LONG IN BUNDLES OF 100 NOS. EACH (SHOE LACE PATTERN) CSO/M.077).,Rationalize,0.0,Slow Moving,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+869019820032,PVC COUPLING 2 INCH,Monitor,3375.0,Unknown,Operational,3375.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+91150401,SOLDER CORE RESIN FILLED (Kgs.),Retain,0.0,Active,Operational,0.0,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

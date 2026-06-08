@@ -1,0 +1,36 @@
+{
+  "row_counts": {
+    "sku_master": 59,
+    "forecast": 59,
+    "policy": 59
+  },
+  "ABC_Class": {
+    "A": 9,
+    "B1": 4,
+    "B2": 6,
+    "C": 40
+  },
+  "Criticality": {
+    "S1": 13,
+    "S2": 14,
+    "S3": 17,
+    "S4": 15
+  },
+  "Demand_Class": {
+    "Dead": 14,
+    "Erratic": 7,
+    "Intermittent": 7,
+    "Lumpy": 1,
+    "Smooth": 30
+  },
+  "Forecast_Confidence": {
+    "High": 22,
+    "Low": 8,
+    "Medium": 15,
+    "Very Low": 14
+  },
+  "Inventory_Status": {
+    "Procurement Required": 50,
+    "Sufficient": 9
+  }
+}

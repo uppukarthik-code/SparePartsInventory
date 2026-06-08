@@ -1,0 +1,27 @@
+Level,KPI,Value,Source
+L1,Forecast Coverage %,88.7,forecast_results.csv
+L1,Lead-Time Coverage %,97.8,lead_time_master.csv
+L1,Criticality Coverage %,100.0,rop_results.csv
+L1,Safety-Stock Coverage %,100.0,safety_stock_results.csv
+L1,ROP Coverage %,100.0,rop_results.csv
+L1,SRRS Coverage %,100.0,srss_results.csv
+L1,Current Stock Value (Rs),913635687,srss_results.csv
+L1,Reorder Gap Value (Rs),3367367459,srss_results.csv
+L1,Total SRRS,8217896.6,srss_results.csv
+L1,Top-10 Risk Concentration %,84.5,srss_results.csv
+L1,Tier 1 Count,6,procurement_portfolio.csv
+L1,Tier 2 Count,80,procurement_portfolio.csv
+L1,Platform Readiness,43.9 -> 76.7 (target),platform_scorecard.csv
+L1,TPJ Readiness,NO-GO (data-blocked); config-ready,tpj_onboarding_readiness.csv
+L2,Critical Shortages,465,rop_results.csv
+L2,Shortages,45,rop_results.csv
+L2,Healthy,43,rop_results.csv
+L2,Excess Inventory,60,rop_results.csv
+L2,No Demand,13,rop_results.csv
+L2,Open Procurement Exposure (Rs),3367367459,procurement_portfolio.csv
+L2,Service Level Split,Critical(0.95): 360 | Non-Critical(0.85): 266,rop_results.csv
+L3,Forecast Method Mix,"{'SBA': 654, 'TSB': 276, 'Croston': 26, 'SES/Holt': 5}",forecast_results.csv
+L3,Demand Class Mix,"{'Intermittent': 654, 'Lumpy': 276, 'Dead': 122, 'Erratic': 26, 'Smooth': 5}",demand_classification.csv
+L3,Criticality Distribution,"{'Critical': 360, 'Non-Critical': 266}",rop_results.csv
+L3,Lead-Time Source Mix,"{'PO_Date': 518, 'Requisition_Date': 184}",lead_time_master.csv
+L3,Planning Universe Funnel,1083 classified -> 961 forecast -> 702 lead-time -> 626 planned,STEP21A-26

@@ -1,0 +1,16 @@
+Asset,Action,Destination
+railway/ (all),RETAIN,railway/
+"railway/tests, outputs",RETAIN,as-is
+"raw_data/Railway_Operations, railway*.xlsx",RETAIN,raw_data/
+UPDATED_NOTEBOOK7.ipynb,RENAME,notebooks/notebook_railway.ipynb
+NOTEBOOK7_EXECUTIVE_VERSION.ipynb,RENAME,notebooks/notebook_railway_executive.ipynb
+NOTEBOOK7_TECHNICAL_VERSION.ipynb,RENAME,notebooks/notebook_railway_technical.ipynb
+notebooks 01-07,ARCHIVE,archive/walmart|historical/
+root *.md reports,MOVE,docs/ + docs/reports/
+notebooks/*.csv dumps (1.9G),DELETE,(removed)
+raw_data M5 CSVs (431M),DELETE,(removed; verify refs)
+data/Sales_merged.csv,DELETE,(removed)
+**/.ipynb_checkpoints,DELETE,(removed; add to .gitignore)
+scikit-learn/prophet/plotly/seaborn,REMOVE,requirements (notebook extras only)
+pyproject.toml,CREATE,repo root
+Power-BI Dashboards/Railway.pbix,RETAIN,as-is

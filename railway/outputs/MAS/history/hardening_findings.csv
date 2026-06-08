@@ -1,0 +1,24 @@
+ID,RAG,Finding,Evidence,Impact,Likelihood,Recommendation
+F01,AMBER,SS=z*sigma*sqrt(LT) normal-approx on 86% intermittent/lumpy demand (lit: Syntetos/Babai limited for intermittent),railway_safety_stock.py + literature,potential SS bias; MAGNITUDE NOT QUANTIFIED by this audit,Medium,Empirically compare vs bootstrap/Croston-variance; upgrade before unsupervised automation (RED for automation)
+F02,AMBER,"SRRS gap-dominated: Spearman(SRRS,gap)=0.884 (~78% rank-variance); criticality reorders ~22%",recompute,"interpretation/labeling, NOT a math error; service-risk role overstated",Medium,Relabel as risk-weighted gap; report criticality contribution explicitly
+F03,RED,ROP-vs-stock flags 465/626 Critical Shortage at depot 027534; CAUSE (issuing-depot vs genuine under-stock) UNCONFIRMED from data,rop_results + assumption,over-procurement risk if acted on literally; depot role is an audit ASSUMPTION,High,Confirm depot operating model; net open POs; advisory-only until then
+F04,AMBER,Forecastability accuracy term uses sMAPE (lit: minimized by zero-forecast for intermittent; Hyndman MASE preferred),forecast_accuracy + literature,accuracy/forecastability possibly unreliable; NOT recomputed via MASE in this audit,Medium,Add MASE; recompute forecastability accuracy term before scale
+F05,AMBER,Enterprise rollout: 5/6 divisions lack DMTR/SUMMARY (RED for ENTERPRISE claims; scope-limit for MAS pilot),division folders,system validated on 1 division only,High,Acquire per-division data before any zone-level claim
+F06,AMBER,"Criticality = binary stores-proxy; validation INDICATIVE ONLY (n=32 common PLs, precision 0.74); not RAMS/VED",criticality_signal_validation,mis-tiering; small validation base used consistently as indicative-not-conclusive,Medium,Engineer-led VED for top items; expand validated set
+F07,AMBER,Lead-time mixes PO(vendor) & Reqn(internal) semantics via hierarchy+median,lead_time_master,SS/ROP LT inconsistent across PLs,Medium,Prefer PO; flag Reqn-only
+F08,AMBER,Config drift: constants hardcoded in modules; cfg.SERVICE_LEVEL_TABLE/STOCKOUT_WEIGHT unused,config vs modules,maintainability; silent divergence,Medium,Centralise config; remove dead config
+F09,AMBER,No automated test suite; orchestration via one-off drivers,repo,regression/reproducibility risk at scale,Medium,pytest + pipeline runner
+F10,AMBER,Fragile regex + silent except->0.0 + empty-median edge + silent non-027534 drop,modules,silent data loss / latent crash,Low-Med,schema validation + guards + logging
+F11,AMBER,"Closing_Stock reconstructed, weakly reconciled (20-PL overlap)",data_foundation_audit,misuse risk if treated as actual,Low,label derived; exclude from planning
+F12,AMBER,LT/SS/ROP/SRRS tail: 35% PL (4% vol) uncovered,funnel,tail items unplanned,Low,accrue receipts / PO master
+F13,AMBER,"SRRS max(gap,0): excess stock cannot be prioritised for reduction",srrs_mas.py,one-directional,Low,separate excess lens
+F14,GREEN,"Formulas (SS,ROP,SRRS) dimensionally correct & recompute to <=0.005",verification driver,-,-,Maintain
+F15,GREEN,"Strict backward compatibility (0 prior outputs changed, all steps)",SHA-256 per step,-,-,Maintain
+F16,GREEN,"SBC cutoffs (1.32/0.49) & assignment (Erratic->Croston,Intermittent->SBA) match Syntetos-Boylan 2005",forecast_audit + lit,-,-,Maintain
+F17,GREEN,No synthetic demand/LT/criticality/stock/savings; honest coverage flagging,all steps,-,-,Maintain
+F18,GREEN,Pipeline funnel consistent & dependency-integral; reproducible,pipeline_consistency_audit,-,-,Maintain
+SC1,AUDIT-LIMITATION,Audit did NOT empirically quantify SS error (no bootstrap baseline run),self-critique,"F01 severity is inferred, not measured",-,quantify in follow-up
+SC2,AUDIT-LIMITATION,Audit did NOT recompute MASE to prove forecastability/ranking changes,self-critique,F04 magnitude inferred from literature only,-,recompute MASE in follow-up
+SC3,AUDIT-LIMITATION,"Depot-027534 operating model (issuing vs consignee) assumed, not confirmed",self-critique,F03 cause attribution rests on assumption,-,confirm with stores org
+SC4,AUDIT-LIMITATION,"Readiness scores are ordinal auditor judgment, NOT a calibrated rubric",self-critique,0-100 precision is illustrative; use bands,-,treat as Low/Med/High bands
+SC5,AUDIT-LIMITATION,Criticality validation base n=32 is small; treated as indicative only,self-critique,no conclusion should rest solely on it,-,expand validation set

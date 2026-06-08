@@ -1,0 +1,25 @@
+Section,Current_Purpose,Current_Data_Source,Obsolete,Needs_Update,Recommended_Action
+1. Title/Intro,platform intro + Walmart-untouched disclaimer,(markdown),No,Yes,Reframe as railway platform; keep lineage note; add STEP1-28 scope
+2. Architecture Overview,core module map,(markdown),No,Yes,Add ingestion/ + governance/config + MAS extension + layered target
+3. Strategic Pipeline,railways.xlsx strategic load,railway_demand_history,No,Yes,Refresh outputs (stale); keep
+4. Operational Pipeline,stock summary operational load,railway_operational_inventory,No,Yes,Refresh stale outputs
+5. Forecasting Results,STEP1-19 strategic forecast,railway_forecast.csv,No,Yes,Clarify this is strategic; ADD STEP23 division forecast_results (SBA/TSB/Croston mix)
+6. Inventory Optimization Results,STEP15 optimizer (zone),railway_inventory_policy,No,Yes,ADD STEP24-26 division SS/ROP/SRRS (the real planning layer)
+7. Rationalization Results,dead/slow stock,railway_rationalization_summary,No,Yes,Refresh stale outputs
+8. Executive Dashboard Results,core KPI summary,executive_kpi_summary.csv,No,Yes,STALE + STEP1-19 only; rebuild from STEP20-28 KPI framework
+9. Power BI Outputs,page0 dashboard preview,page0_executive_dashboard.csv,No,Yes,STALE (pre-STEP18A/19); refresh
+10. AnyLogistix Outputs,digital twin readiness,digital_twin_readiness.csv,No,Maybe,Keep; low priority
+11. Production Readiness,readiness narrative,(markdown),Partial,Yes,"Replace with hardening-program results (541 tests, reproducible baseline)"
+12. Key Limitations,caveats,(markdown),Partial,Yes,"Update to post-hardening caveats (seed determinism, TPJ data)"
+13. Recommended Next Steps,roadmap,(markdown),Yes,Yes,Replace with current roadmap (Phase D + TPJ)
+MISSING: Demand Reconstruction,-,monthly_demand_history.csv,-,ADD,"New section (STEP21A, 54-month history)"
+MISSING: Lead-Time Analytics,-,lead_time_master.csv,-,ADD,"New section (PO/Reqn derivation, 97.8% coverage)"
+MISSING: Criticality Analytics,-,demand_classification + criticality,-,ADD,New section (SBC + Safety/Vital/NA)
+MISSING: Safety Stock,-,safety_stock_results.csv,-,ADD,New section (z-sigma-sqrt LT)
+MISSING: Reorder Point,-,rop_results.csv,-,ADD,New section (465 critical shortages)
+MISSING: SRRS Prioritization,-,srss_results.csv,-,ADD,"New section (Total SRRS 8.2M, top-10=84.5%)"
+MISSING: Capital Exposure,-,srss/value linkage,-,ADD,"New section (Stock Rs 914M, Gap Rs 3.37B)"
+MISSING: Procurement Portfolio,-,procurement_portfolio.csv,-,ADD,New section (5-tier: Tier1=6 PLs/57.6% SRRS)
+MISSING: Division Readiness,-,multi_division_readiness.csv,-,ADD,New section (6-div core ready)
+MISSING: Platform Modernization,-,platform_scorecard.csv,-,ADD,"New section (A/B hardening, scorecard)"
+MISSING: TPJ Readiness,-,tpj_onboarding_readiness.csv,-,ADD,New section (6 READY/4 MINOR/2 MAJOR)

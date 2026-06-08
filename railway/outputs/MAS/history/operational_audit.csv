@@ -1,0 +1,8 @@
+Check,Status,Evidence,Risk,Recommendation
+SRRS operational validity,AMBER,Top-50 all High/Med importance; but volume-dominated (see SRRS audit),priorities sensible but volume-led,pair with criticality + open-PO
+Deployment readiness,AMBER,pilot-ready (human-in-loop); not unsupervised automation,"method-correct, data caveats",supervised pilot only
+Dashboard,AMBER,"designed (7 views), not built",no live tool yet,build on BI tool
+Rollout assumptions,RED(data),5 divisions have only stock_history; no DMTR/SUMMARY -> STEP21A blocked,enterprise rollout blocked on data acquisition,acquire per-division DMTR+SUMMARY
+Org feasibility,AMBER,owners 'illustrative'; depends on stores org adoption,change-management risk,"confirm roles, train, pilot"
+PO netting,AMBER,feasible but covers 29/626 (1 open-PO overlap),cannot net most priorities yet,full open-PO feed
+Missing data,AMBER,"lead-time tail, S1-S4 criticality, full PO feed, depot role confirmation",known gaps,roadmap

@@ -1,0 +1,9 @@
+Dimension,STEP20,STEP23_5,STEP23_6B,STEP23_8,STEP24,STEP25,STEP26,STEP27
+Demand visibility (monthly),"0% (zone, 5 annual pts)","100% (1083 PLs, 54 mo)",100%,100%,100%,100%,100%,100%
+Forecast coverage,0% (zone-shared),-,-,88.7% (961/1083),88.7%,88.7%,88.7%,88.7%
+Lead-time coverage (PL),0%,0%,64.8% (96% vol),64.8%,64.8%,64.8%,64.8%,64.8%
+Current-stock visibility,1.8% (depot 027029),1.8%,1.8%,1.8%,99.6% (depot 027534),99.6%,99.6%,99.6%
+Criticality coverage,3% (59 strategic),3%,3%,99.6% (binary),99.6%,99.6%,99.6%,99.6%
+Safety-stock coverage,0%,0%,0%,0%,65.1% (96% vol),65.1%,65.1%,65.1%
+ROP coverage,0%,0%,0%,0%,0%,65.1% (96% vol),65.1%,65.1%
+SRRS prioritization,0% (zone-shared),0%,0%,0%,0%,0%,65.1% (96% vol),65.1%

@@ -1,0 +1,4 @@
+Metric,Total,Top10_Pct,Top20_Pct,Top50_Pct,Catalogue_PLs
+Service_Risk_SRRS,8217897.0,84.5,94.6,97.8,626
+Reorder_Gap_Units,502668.0,71.7,86.8,95.6,626
+Reorder_Gap_Value_Rs,3367367459.0,74.1,79.6,88.4,626

@@ -1,0 +1,7 @@
+Logic,Evidence,Recommendation
+raw-XLSX reader,"3 impls: data_preparation._xlsx_rows_via_xml, demand_reconstruction._sheet_rows, _build_stock_summary.read_rows (+inline in audit scripts)",centralize -> railway/ingestion/xlsx_reader.py
+PL normalization,"2 impls: data_preparation._norm_pl, pl_master.normalize_pl",centralize -> railway/ingestion/pl_codes.py
+CSV load helper rd()/_read,repeated in 8+ drivers and modules (dtype PL_Code str + keep_default_na),centralize -> io.read_pl_csv()
+date/qty regex parsing,"_TXN/_PO/_REQN/_DATE_RE/_QTY_RE duplicated across demand_reconstruction, lead_time_derivation, drivers",centralize -> ingestion/dmtr_parser.py
+SHA-256 backward-compat tree(),reimplemented in EVERY driver (_step*_run.py),centralize -> testing/backward_compat.py
+service_factor / SS / ROP,"reused correctly (imported), NOT duplicated",OK - keep

@@ -1,0 +1,11 @@
+Area,Current_Coverage_Pct_est,Gap_Severity,Note
+ingestion (readers/parsers),0,HIGH,fragile parsing untested
+demand_reconstruction,0,HIGH,conservation/gap-fill untested
+demand_classification,0,HIGH,SBC cutoffs untested
+forecast_generation,0,HIGH,method routing untested (engine has legacy tests)
+lead_time_derivation,0,HIGH,winsor/median/empty-edge untested
+criticality (embedded),0,HIGH,Type parsing untested
+safety_stock,0,CRITICAL,SS formula untested
+rop,0,CRITICAL,ROP formula untested
+srrs_mas,0,CRITICAL,SRRS formula untested
+STEP1-17 core,60,MED,10 legacy test files exist

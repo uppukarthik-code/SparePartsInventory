@@ -1,0 +1,101 @@
+{
+  "run_id": "5adf9832-c38b-43d9-b3a5-044b4a2e1a78",
+  "timestamp_utc": "2026-06-08T02:57:00.867127+00:00",
+  "platform_version": "0.1.0",
+  "pipeline_version": "12.5.0",
+  "config": {
+    "procurement_budget": 10000000.0,
+    "service_factor_slope": 20.0,
+    "service_factor_baseline_sl": 0.9,
+    "safety_reserve_enabled": true,
+    "safety_reserve_budget_pct": 0.2,
+    "safety_reserve_criticalities": [
+      "S1",
+      "S2"
+    ],
+    "criticality_weights": {
+      "S1": 10,
+      "S2": 5,
+      "S3": 2,
+      "S4": 1
+    }
+  },
+  "input_row_counts": {
+    "railway_demand_history.csv": 59,
+    "railway_sku_master.csv": 59,
+    "railway_forecast.csv": 59,
+    "railway_operational_inventory.csv": 542
+  },
+  "output_artifacts": {
+    "railway_inventory_policy.csv": {
+      "rows": 59,
+      "sha256": "9e70891890f3420d7e243c25e333d632389386e9bbad4f73b773d337e6290994"
+    },
+    "railway_procurement_plan.csv": {
+      "rows": 27,
+      "sha256": "27dea4aba27af147e1b6be44426dad356feb9c5aee3da03fd33a9a0b6a5a72d4"
+    },
+    "railway_abc_criticality_matrix.csv": {
+      "rows": 16,
+      "sha256": "1704670a69eb7fe6177b6cdfbd3faa922066a9f4873aef8c0af354ba55ae7845"
+    },
+    "railway_inventory_rationalization.csv": {
+      "rows": 567,
+      "sha256": "4861cacd344bb977fafd8dc813537fd8091e6fdeb33872b00248501b4fc993a9"
+    },
+    "railway_rationalization_summary.csv": {
+      "rows": 5,
+      "sha256": "a50c94cecf93db5940155a5277f10278c1412dc22f4ffbda90ba5d5023dae0e5"
+    },
+    "railway_data_quality.csv": {
+      "rows": 59,
+      "sha256": "168e7e4f23b43fa3d2df5003f1c3ab8bb264320066eb402ad6a2d4faa045d0f0"
+    },
+    "executive_kpi_summary.csv": {
+      "rows": 42,
+      "sha256": "64e5efd86084b06bd67d79a4ee689568288b738b6653e2fae82e44531a07ffe1"
+    }
+  },
+  "powerbi_pages": {
+    "page0_executive_dashboard": {
+      "rows": 10,
+      "sha256": "6aba10cc2447538d860aec4b9f0b6562754341397892e02bbdca1fb3289d4ebd"
+    },
+    "page1_procurement": {
+      "rows": 59,
+      "sha256": "d64318a8534e2c2c84641bc3593e6ba7a0e711308bd49710288e96c07e122df9"
+    },
+    "page2_forecasting": {
+      "rows": 59,
+      "sha256": "0947825a5b4a186c4a098330a94400971f675bbde94cf596ea7d5cde4a26c878"
+    },
+    "page3_criticality": {
+      "rows": 59,
+      "sha256": "fb74d8c587913a2cb9a771f629b170a026e3dd880e5903794a8f255baabdba61"
+    },
+    "page4_operational_health": {
+      "rows": 648,
+      "sha256": "e0d8084759bba829e592ba2fd8215948595ed92bb1c0b48eb59b40d05b0debef"
+    },
+    "page5_rationalization": {
+      "rows": 567,
+      "sha256": "ef598256150465ef097afe56931070b9d5d7ef7d3504ddbe6854acfe0a29965b"
+    },
+    "page6_data_quality": {
+      "rows": 5,
+      "sha256": "e854d3d62f23be5918ad817c73074738504becce25517a89bd063698bc99e43e"
+    },
+    "page7_abc_criticality_matrix": {
+      "rows": 16,
+      "sha256": "1261248c68640927cb280bfb3a62068c90c84d13f24110ded2ae4623dc552e2a"
+    },
+    "page8_budget_scenarios": {
+      "rows": 4,
+      "sha256": "77c0a510404218a20d29b2d64b88e0a3b66c3a5f05774586277a49911319579d"
+    },
+    "page9_management_actions": {
+      "rows": 5,
+      "sha256": "57b609113e6cc27d2431a2e77bbff4ff1a46bc7131e46c56329a4234a6195a57"
+    }
+  }
+}

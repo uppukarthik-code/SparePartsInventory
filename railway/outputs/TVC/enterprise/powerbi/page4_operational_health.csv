@@ -1,0 +1,1155 @@
+PL_Code,Description,Movement_Status,Inventory_Aging_Class,Inventory_Value,Operational_ABC,Source_Universe,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+721801050012,CUTTING PLIER 8,Dead Stock,Dead Stock,250.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+72207413,DRILL TWIST 7.2 MM .,Active,Active,235948.83,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900774137,WIRE BOND  1.5  METER,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900774137,WIRE BOND  1.5  METER,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+91110191,SEALING LEAD,Slow Moving,Slow Moving,814.37,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,CHANNEL BOND PIN,Active,Active,87075.54,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,CHANNEL BOND PIN,Active,Active,87075.54,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565198791367,EKT/RKT,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569000130018,RKT DRUM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569070440021,Three point safety Nut with bolt and socket for ground connection 220mm stroke,Active,Active,396025.13,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56300013,COVER ASSEMBLY FOR ELECTRIC  POINT MACHINE,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563000670019,SPRING TENSION ADJUSTOR FOR DLBI,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563000680013,SPECIAL SPANNER FOR ELECTRIC POINT MACHINE (LOCK ROD),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563002010011,SPRING TENSION ADJUSTOR FOR DLBI,Slow Moving,Slow Moving,882.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563002020016,SPECIAL SPANNER FOR ELECTRIC POINT MACHINE (LOCK ROD),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563002850013,GROUND CONNECTION FOR 220MM POINT MACHINE,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563002850013,GROUND CONNECTION FOR 220MM POINT MACHINE,Active,Monitor,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563003650019,TWS COVER FOR SWITCH EXTENSION BRACKET WITH COMPLETE SET,Slow Moving,Slow Moving,7820.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,POINT MACHINE ROD (GROUND CONNECTION),Slow Moving,Very Slow Moving,1741304.82,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,POINT MACHINE ROD (GROUND CONNECTION),Slow Moving,Very Slow Moving,1741304.82,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563047460017,GALVANIZED GROUND CONNECTION  FOR POINT MACHINE,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563047620010,WARD PLATE FOR CRANK HANDLE ( IRS POINT MACHINE),Slow Moving,Very Slow Moving,720.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563048130013,POINT TEST GAUGE,Slow Moving,Slow Moving,53300.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564681410013,CIRCUIT CONTROLLER-4 WAY,Dead Stock,Dead Stock,1300.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604184353,EMERGENCY SLIDING BOOM COMPLETE SET,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604184353,EMERGENCY SLIDING BOOM COMPLETE SET,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610430019,TLD BOX FRP,Dead Stock,Dead Stock,21120.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610430019,TLD BOX FRP,Dead Stock,Dead Stock,21120.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195910015,CABLE LINKS (TAG ALUMINIUM).,Dead Stock,Dead Stock,525.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542400340012,EWS LOCK WITH KEY,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,HAND PLUNGER LOCK,Active,Monitor,31669.58,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,HAND PLUNGER LOCK,Active,Monitor,31669.58,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543100010017,A type foundation,Dead Stock,Dead Stock,137275.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401080018,WIRE BOND 3 Mtrs,Active,Active,394.19,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401100017,WIRE LEAD 3 MTRS,Active,Active,443.66,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401170019,WIRE LEAD 3.1 Mtrs,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401170019,WIRE LEAD 3.1 Mtrs,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401180013,WIRE BOND 2 Mtrs,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401180013,WIRE BOND 2 Mtrs,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007160016,BOLT ANCHOR 900X 25mm,Dead Stock,Dead Stock,6355.8,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007180015,BOLT U 3/4,Dead Stock,Dead Stock,120.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007230018,GROUND LEVER 1 WAY,Dead Stock,Dead Stock,924000.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007240012,SCREW JOINT 1  1/4,Slow Moving,Slow Moving,1200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008140013,SPRING WARD FOR E TYPE LOCK.,Active,Active,5670.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008160012,WIRE LEAD 5 MTRS,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+551200010250,E Type LOCKS.VARIOUS WARDS,Active,Active,3770.1,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+552000450010,ONE WAY GUIDE ROLLER ASSEMBLY SET,Active,Active,77644.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+552000450010,ONE WAY GUIDE ROLLER ASSEMBLY SET,Active,Active,77644.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400100010,APPARATUS CASE HALF TOP SHEET,Dead Stock,Dead Stock,14850.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500060010,MS  BACKING PLATE 52 KG,Dead Stock,Dead Stock,117800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500090014,SCREW COUPLING DOUBLE END,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500100019,SCREW COUPLING SINGLE END,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500120018,SWITCH EXTENTION PIECE,Dead Stock,Dead Stock,1000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+556200010280,Trestle 2 way,Slow Moving,Slow Moving,2000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559000640010,WIRE LEAD 2 MTRS,Active,Active,4841.17,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559000640010,WIRE LEAD 2 MTRS,Active,Active,4841.17,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559001420016,WIRE LEAD 2.1 MTRS,Active,Active,2750.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559001430010,WIRE LEAD 4.1 MTRS,Slow Moving,Very Slow Moving,2750.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802164075,CABLE MARKERS IRON TYPE(SIGNAL),Dead Stock,Dead Stock,649775.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802164075,CABLE MARKERS IRON TYPE(SIGNAL),Dead Stock,Dead Stock,649775.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802852307,FENCING FARME FOR GRS APPARATUS CASE,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805041006,Crank Handle FOR POINT MACHINE,Dead Stock,Dead Stock,61200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539810200188,WIRE LEAD  4 MTRS,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539810200188,WIRE LEAD  4 MTRS,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814540012,spring tumbler for E type lock.,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539853650015,LAMP FOR POINT INDICATOR,Slow Moving,Very Slow Moving,10525.48,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541000020015,Solid Joint 1 1/4.,Dead Stock,Dead Stock,17216.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541002470012,CRANK VERTICAL 12   X 12,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541002470012,CRANK VERTICAL 12   X 12,Active,Active,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100110014,GROUND LEVER 2 WAY,Dead Stock,Dead Stock,96000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100120019,POINT  INDICATOR   STAND,Dead Stock,Dead Stock,26000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100400016,RELAY RACK -3 WAY ( SIEMENS),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120140011,CRANKS STRAIGHT ARM ADJUSTABLE.,Active,Active,54028.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120140011,CRANKS STRAIGHT ARM ADJUSTABLE.,Active,Active,54028.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120280015,CRANK NORMAL  OR HORIZONTAL,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542300120014,SPRING IN SET FOR E TYPE LOCK,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542300120014,SPRING IN SET FOR E TYPE LOCK,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542400130250,SPLIT STRUCTURE BAR,Dead Stock,Dead Stock,500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727902100014,SOLDERING IRON,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565000360016,TRACK FEED RESISTANCE 15 OHMS,Slow Moving,Very Slow Moving,18549.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099690019,Track feed Resistance 30 ohms,Active,Active,78701.06,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099690019,Track feed Resistance 30 ohms,Active,Active,78701.06,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901940018,DIGITAL VOICE ANNOUNCING SYSTEM,Active,Active,37321.34,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901940018,DIGITAL VOICE ANNOUNCING SYSTEM,Active,Active,37321.34,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901960017,FILTER UNIT FOR BLOCK INSTRUMENT,Slow Moving,Slow Moving,789608.98,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567911510010,DIGITAL VOICE ANNOUNCING SYSTEM WITH ACCESSORIES,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569008850016,RESISTANCE  10 W 100 OHMS ( CERAMIC TYPE),Active,Active,1482.24,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561800380014,CHANGE OVER SWITCH ( ROTARY TYPE),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563000960010,POINT MOTOR (IP67),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563001550010,IRS Point Machine 143 mm stroke with IP 67 motor,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563003520010,IRS Point machine 143 mm Stroke (IP 65),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563003520010,IRS Point machine 143 mm Stroke (IP 65),Slow Moving,Slow Moving,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE110V,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE110V,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE110V,Slow Moving,Slow Moving,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563045831119,IRS Point machine 220 mm,Active,Active,201934.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563045831119,IRS Point machine 220 mm,Active,Active,201934.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060026,Choke B Type,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060026,Choke B Type,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607020010,SPD D TYPE 110V AC/DC,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610760019,ELECTROLYTIC CONDENSER 5000 MFD 50 V DC,Active,Active,330514.47,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611570019,SPD D TYPE 24 V AC/DC,Dead Stock,Dead Stock,6018.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560614190015,SPD CLASS C TYPE 110V,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560614200010,SPD CLASS C TYPE 24V,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560621570016,ELECTROLYTIC CONDENSER 1000 MFD 50 V DC,Active,Active,30350.24,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559001380018,EARTH SENSORING UNIT,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56010011,BLOCK INSTT DOUBLE LINE (SGE).,Active,Active,753293.52,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469030130949,LED BASED TRI COLOUR TORCH,Dead Stock,Dead Stock,6000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502323190434,Signal post Telephone,Slow Moving,Slow Moving,204201.19,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502323190434,Signal post Telephone,Slow Moving,Slow Moving,204201.19,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803844586,BLOCK BELL EQUIPMENT 24V,Slow Moving,Slow Moving,62313.7,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812641007,ANNOUNCIATOR various type.,Slow Moving,Very Slow Moving,18546.67,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812641093,ANNOUNCIATOR 10 way,Active,Monitor,30879.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812641100,ANNOUNCIATOR 8 way,Active,Active,18700.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814510019,SM'S CONTROL CONTACT(BUTTERFLY CONTACT),Dead Stock,Dead Stock,57.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814520013,SMS ALERT SYSTEM (CHARGER MONITORING),Dead Stock,Dead Stock,70715.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539860970019,Maintainers Head Lamp,Slow Moving,Very Slow Moving,74910.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500350,BATTERY CHARGER 110V AC 24V DC 30 AMPS,Active,Active,264456.28,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500452,BATTERY CHARGER 230V AC 110V DC 30 AMPS .,Active,Monitor,421330.31,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509935,BATTERY CHARGER 230V AC / 24V DC 20 AMPS .,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567900990014,BATTERY CHARGER 230 V/110 V/40 A,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160010,Battery Charger 230V/24V 30 amps.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160100,Battery Charger 230V  AC /24V DC 40 amps.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607190017,TJ  230/24/2A,Slow Moving,Slow Moving,21600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608680016,TRACK TJ WITH POTENTIAL FREE,Active,Active,122857.16,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008690013,TJ 110/24/2A,Slow Moving,Very Slow Moving,10600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522000650514,BATTERY CHARGER 110/24V/15A.,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522000650514,BATTERY CHARGER 110/24V/15A.,Active,Active,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539862920019,Battery Charger 110/24V/20 Amps,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X  1.5 sqmm.,Active,Monitor,1075190.41,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X  1.5 sqmm.,Active,Monitor,1075190.41,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X  1.5 sqmm.,Active,Monitor,1075190.41,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X  1.5 sqmm.,Active,Monitor,1075190.41,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C x 1.5 sqmm,Active,Monitor,1981131.94,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C x 1.5 sqmm,Active,Monitor,1981131.94,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C x 1.5 sqmm,Active,Monitor,1981131.94,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C x 1.5 sqmm,Active,Monitor,1981131.94,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,CABLE  12 CX 1.5 SQMM,Active,Monitor,670202.57,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,CABLE  12 CX 1.5 SQMM,Active,Monitor,670202.57,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,CABLE  12 CX 1.5 SQMM,Active,Monitor,670202.57,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE 2 CX 25 SQMM,Active,Monitor,579900.29,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE 2 CX 25 SQMM,Active,Monitor,579900.29,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE 2 CX 25 SQMM,Active,Monitor,579900.29,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569007580017,CABLE UNDER GROUND JELLY FILLED 20 PAIR OF 0.5 MM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569007580017,CABLE UNDER GROUND JELLY FILLED 20 PAIR OF 0.5 MM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56110029,CABLE PVC 3 CX 10 SQMM,Active,Monitor,206190.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56110029,CABLE PVC 3 CX 10 SQMM,Active,Monitor,206190.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,CABLE PVC 19 C X 1.5 SQMM,Active,Monitor,54499.41,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,CABLE PVC 19 C X 1.5 SQMM,Active,Monitor,54499.41,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,CABLE 2 C X  2.5 SQMM,Active,Monitor,729254.75,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,CABLE 2 C X  2.5 SQMM,Active,Monitor,729254.75,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195890016,CABLE 10 PAIR TRIBUTARY,Dead Stock,Dead Stock,25900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Slow Moving,Very Slow Moving,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Slow Moving,Very Slow Moving,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559001390012,CABLE COPPER 35  SQMM,Dead Stock,Dead Stock,5880.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559001400017,CABLE COPPER 10 SQMM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900185,AUTO BATTERY 12 V/ 75 AH,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561500180019,VRLA BATTERY 2V/200AH (60 NOS AS A SET ),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561500180019,VRLA BATTERY 2V/200AH (60 NOS AS A SET ),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561500220017,12V/42 AH VRLA batteries,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561548620019,CELL 12 V/42 AH MFB,Slow Moving,Very Slow Moving,19514.7,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50540324,CELL SECONDARY  2V/80AH,Active,Active,1130537.12,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50541523,LOW MAINTENANCE LEAD ACID STATIONARY SECONDARY CELLS 2V /120 AH,Active,Active,1470272.41,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50550081,LOW MAINTENANCE LEAD ACID STATIONARY SECONDARY CELLS 2V/ 200AH CAPACITY,Active,Active,864346.3,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565199970014,CANCELLATION COUNTER FOR PANEL (ELECTROMAGNETIC).,Active,Monitor,3680.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567911480016,COLLARS FOR PANEL MAGNETIC TYPE.,Slow Moving,Slow Moving,250.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564682040011,LED STRIP FOR PANEL INDICATION,Slow Moving,Very Slow Moving,2665.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600520012,PANEL PUSH SWITCH WHITE/RED (WITH CONTACT),Active,Active,621180.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606960010,Panel Knob black.,Active,Active,28213.91,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606970015,Panel Knob Green.,Active,Active,416.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606980010,Panel Knob Red,Active,Active,15406.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606990014,Panel Knob Yellow,Active,Active,34577.38,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607040019,THUMB SWITCH 3 POSITION.,Slow Moving,Very Slow Moving,1006720.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607060018,THUMB SWITCH 3 POSITION WITH BLACK KNOB.,Dead Stock,Dead Stock,24640.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610870019,PANEL KNOB RED WITH YELLOW,Active,Active,896.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560613950014,THUMB SWITCH 2 POSITION,Slow Moving,Very Slow Moving,641756.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539812930017,Panel push switch White /Red( WITHOUT CONTACT),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707820012,PIPE GI 50 MM DIA,Active,Active,55598.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707820012,PIPE GI 50 MM DIA,Active,Active,55598.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707830017,PIPE GI 100 MM DIA,Slow Moving,Slow Moving,8388.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707830017,PIPE GI 100 MM DIA,Slow Moving,Slow Moving,8388.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620400040019,PIPE DWC 103.5 MM INNER DIA & 120 MM OUTER DIA,Dead Stock,Dead Stock,1579.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620703180016,Pipe G.I 15 mm.,Dead Stock,Dead Stock,3852.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1  8F/8B,Slow Moving,Very Slow Moving,174349.35,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1  8F/8B,Slow Moving,Very Slow Moving,174349.35,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1  8F/8B,Slow Moving,Very Slow Moving,174349.35,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+473300850014,RELAY QTA2  2F/1 B ( NS),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B WITH ACCESSORIES.,Active,Active,2151882.07,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B WITH ACCESSORIES.,Active,Active,2151882.07,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B WITH ACCESSORIES.,Active,Active,2151882.07,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567900074514,Relay QN1K with Acc,Active,Active,41800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567900419256,Relay QNN1 6F/2B,Active,Active,132096.89,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567900440014,Relay QBA1,Active,Active,148556.8,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901204399,Relay QL1  11F/4B.,Slow Moving,Slow Moving,24766.36,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901204399,Relay QL1  11F/4B.,Slow Moving,Slow Moving,24766.36,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567907020018,Relay QNA1K,Active,Active,2095014.38,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567907020018,Relay QNA1K,Active,Active,2095014.38,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567922320017,RELAY QNNA1 6F /2B,Slow Moving,Very Slow Moving,149518.98,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985800,RELAY ELECTRONIC TIMER 60 SECOND,Active,Active,370144.49,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985800,RELAY ELECTRONIC TIMER 60 SECOND,Active,Active,370144.49,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56986130,RELAY  QBAT,Active,Active,67577.04,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569895280019,RELAY QBAT 2F/2B ( NS),Active,Active,176410.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56220509,RELAY ELECTRONIC TIMER 120 SECOND,Active,Active,171727.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,RELAYS QSPA1 with Acc,Active,Active,1209301.73,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,RELAYS QSPA1 with Acc,Active,Active,1209301.73,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,RELAY  QTA2 2F/ 1 B,Active,Active,1113925.4,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,RELAY  QTA2 2F/ 1 B,Active,Active,1113925.4,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Active,Active,15918.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Active,Active,15918.2,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Active,Active,15918.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56452032,RELAY QN1 12F/4B PLUG IN TYPE,Active,Active,117673.96,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560602542667,Relay QBCA1,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560602860010,RELAY QN1 12F/4B.,Dead Stock,Dead Stock,12900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606760010,Relay QNA1 12F/4B,Active,Active,40000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+473300820010,RELAY LED ECR ( QECX-61),Active,Active,9790.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500415,RELAY POLARISED 3 POSITION,Active,Active,1513709.1,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+47200250,TRANSFORMERS 230/110V 1 KVA,Active,Active,23599.68,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560603310016,TRANSFORMER ISOLATION 110/110 /50 VA,Active,Active,10080.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56163034,VOLTAGE  STABILIZERS 230 V / 3 KVA,Slow Moving,Slow Moving,181057.75,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800100014,VOLTAGE STABILIZER 1 KVA,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+409002560015,WIRE COIL  3/20 (3 /0.75 mm)(PVC),Active,Active,139327.09,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+409002550010,WIRE  COIL  16/0.2 MM.(PVC),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+400785680012,PVC COPPER CABLE SINGLE CORE UNSHEATHED CABLE ( ONE COIL 100 MTRS),Dead Stock,Dead Stock,9204.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565001440019,Remote Terminal Unit Efftronics,Slow Moving,Very Slow Moving,540000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565001450013,Battery charger 230V AC/24V DC/ 10A for datalogger/RTU (Efftronics),Active,Active,25285.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001320010,RTU T NETWORKING MODEM,Dead Stock,Dead Stock,28000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001320010,RTU T NETWORKING MODEM,Dead Stock,Dead Stock,28000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601260017,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,235410.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601260017,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,235410.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567921850011,DISPLAY CARD SUITABLE  FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,144550.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913130010,STATION IPS  SIX ROAD WITH ALL ACCESSARIES.,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913130010,STATION IPS  SIX ROAD WITH ALL ACCESSARIES.,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502576,FUSE 16 AMPS (ND TYPE ),Active,Active,305001.22,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500140017,FUSE PPTC 24 V 2 A.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565010000010,FUSE 20 Amps (ND Type),Active,Active,9776.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502606,FUSE 10 AMPS (ND TYPE),Active,Active,247439.91,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099841733,Fuse 4 Amps (ND TYPE ).,Active,Active,31230.11,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560603560010,FUSE P.P.T.C 3 AMPS,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,FUSE 6 AMPS (ND TYPE ),Active,Active,383400.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,FUSE 6 AMPS (ND TYPE ),Active,Active,383400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099760800,Fuse 2 AMPS (ND TYPE).,Active,Active,19665.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560628780016,Point Insulation Complete Set,Active,Active,166400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560633810015,INSULATION COMPLETE SET FOR IRS POINT MACHINE 220 MM,Active,Active,9344.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560633810015,INSULATION COMPLETE SET FOR IRS POINT MACHINE 220 MM,Active,Active,9344.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608620019,INSULATION FOR ROD JOINT (T JOINT).,Active,Active,2200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608610014,INSULATION END POST FOR  52 KG.,Dead Stock,Dead Stock,2990.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608600010,INSULATION END POST FOR 90R.,Dead Stock,Dead Stock,1425.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608590015,INSULATION BACKING PLATE NYLON 90R.,Dead Stock,Dead Stock,184100.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560608580010,INSULATION BACKING PLATE NYLON -52 KG.,Dead Stock,Dead Stock,70750.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607010015,INSULATION D BRACKET.,Active,Monitor,88949.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607010015,INSULATION D BRACKET.,Active,Monitor,88949.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560602380011,INSULATION FOR  L BRACKET.,Active,Active,65386.34,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560601740019,INSULATION FOR STRETCHER SET,Active,Active,11384.28,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539809991003,Rail joint insulation 60Kg,Slow Moving,Slow Moving,78694.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563045840911,INSULATION FOR GAUGE TIE PLATE  .,Active,Active,32928.94,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814440017,INSUATION  CHANNEL PLATE 90 R.,Dead Stock,Dead Stock,9520.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569004640015,INSULATION JOINT 52 KG SET,Slow Moving,Slow Moving,1559.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507069,LAMPS 110 V/25W/2 PIN.,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54360031,LAMP 110V/75W/2 PIN,Slow Moving,Very Slow Moving,1162.35,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231881,ELECTRONIC PUSH BUTTON TELEPHONE (EPBT) (AUTO TYPE),Active,Active,53709.84,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500500850014,TELEPHONE PUSH BUTTON TYPE( AUTO),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50370110,4 WIRE WAY STATION CONTROL TELEPHONE SPECN.NO.IRS:TC-38/97.(Amendment No.1),Active,Active,35888.22,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50353603,LIGHT WEIGHT PORTABLE CONTROL TELEPHONE,Active,Active,14875.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502355640019,TRANSMITTER/RECEIVER INSET,Dead Stock,Dead Stock,400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50232319,TELEPHONE MAGNETIC,Active,Active,387469.05,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231959,ELECTRONIC PUSH BUTTON TELEPHONE(1+1),Active,Active,45660.38,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+782500110201,WATER PURIFIER,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565094341898,MS Box for LC Gate Switch,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539814560011,TERMINAL BOARD 72 WAY.,Dead Stock,Dead Stock,55920.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008680019,TERMINAL BOARD 50 WAY,Dead Stock,Dead Stock,259420.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469030127719,PORTABLE EMERGENCY LIGHTING SYSTEM WITH  INFLATABLE BALLON AND ACCESSORIES,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900929637,Fire Extinguisher CO2 type,Active,Active,14400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900929637,Fire Extinguisher CO2 type,Active,Active,14400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610450018,RELAY REMOVEABLE CONNECTING CLIP,Dead Stock,Dead Stock,695.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+77091310,PAINT REDOXIDE,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+77034454,PAINT ENAMEL BLACK,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+771904040040,Paint Epoxy,Slow Moving,Slow Moving,9345.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+771904040040,Paint Epoxy,Slow Moving,Slow Moving,9345.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569008210015,"DC DC  CONVERTER   INPUT  24 V DC  OUTPUT  75-150 V , 12-24 V, 4-6 V",Slow Moving,Very Slow Moving,85538.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569002490014,DC DC CONVERTER 24 V / 24-32 V /5 A,Slow Moving,Very Slow Moving,252000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,33150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,33150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,33150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,33150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA  PBT TERMINAL 60 MM,Active,Active,238633.59,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA  PBT TERMINAL 60 MM,Active,Active,238633.59,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA  PBT TERMINAL 60 MM,Active,Active,238633.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA  PBT TERMINAL 60 MM,Active,Active,238633.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA  PBT TERMINAL 60 MM,Active,Active,238633.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25 MM,Active,Active,120331.97,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25 MM,Active,Active,120331.97,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25 MM,Active,Active,120331.97,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25 MM,Active,Active,120331.97,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25 MM,Active,Active,120331.97,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604917885,Signal maintainers tool bag with tools,Active,Monitor,131688.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569043280014,HASSDAC TOOL KIT,Slow Moving,Slow Moving,90000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+729099420014,RELAY TEST KIT,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539839801009,TRACK SHUNT METER,Slow Moving,Very Slow Moving,37418.19,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505600260112,DIGITAL EARTH TESTER,Active,Active,39482.8,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505600260112,DIGITAL EARTH TESTER,Active,Active,39482.8,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+45174416,HYDROMETER ASSEMBLY COMPLETE AS PER SEL DRG 126 CONSISTING OF (1) HYDROMETER GRADUATED FRO....,Active,Active,18123.92,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+45174404,HYDROMETER COMPLETE SET,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430512780011,DIGITAL CLAMP ON EARTH TESTER,Dead Stock,Dead Stock,63720.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430512780011,DIGITAL CLAMP ON EARTH TESTER,Dead Stock,Dead Stock,63720.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430100570013,DIGITAL CLAMP METER (mA Range),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430100570013,DIGITAL CLAMP METER (mA Range),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+553000021649,(OTDR) Optical Time Domain Reflectometer,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800650014,AVR 1.5 KVA (AMARA RAJA IPS),Dead Stock,Dead Stock,247800.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800310010,DC DC CONVERTER 12-28 V/1 A ( STATCON IPS),Dead Stock,Dead Stock,11850.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800320014,DC DC CONVERTER 12V-40 V/1 A ( STATCON IPS),Dead Stock,Dead Stock,11485.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800330019,DC DC CONVERTER 3-6 V/.1 V ( STATCON IPS),Slow Moving,Very Slow Moving,5525.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800340013,STEP DOWN TRANSFORMER 230/110 VAC/1 KVA ( AMARARAJA IPS),Dead Stock,Dead Stock,25612.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800530010,DC DC CONVERTER 24-32 V/10A (AMARA RAJA IPS),Slow Moving,Very Slow Moving,169330.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800540014,INVERTER 1.5 KVA (AMARA RAJA IPS),Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800570018,INVERTER 2 KVA (AMARA RAJA IPS),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800580012,DC DC CONVERTER 100-150 V/ 1 A (AMARA RAJA IPS),Dead Stock,Dead Stock,126850.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800590017,DC DC CONVERTER 12-28 V/ 5A (AMARA RAJA IPS),Dead Stock,Dead Stock,118000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800600011,DC DC CONVERTER 2-12 V/ 5A (AMARA RAJA IPS),Dead Stock,Dead Stock,100300.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800620010,DC DC CONVERTER 24-32 V/5A (AMARA RAJA IPS),Slow Moving,Very Slow Moving,80240.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800630015,AVR 2 KVA (AMARA RAJA IPS),Dead Stock,Dead Stock,265500.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800640010,TRANSFORMER MODULE  1 KVA (AMARA RAJA IPS),Dead Stock,Dead Stock,106200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606820017,CVT 1.5 KVA STATCON IPS.,Dead Stock,Dead Stock,45165.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611160012,STATIC SWITCH (AUTO/C/o  INV/CVT) STATCON  MAKE IPS,Dead Stock,Dead Stock,36595.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Active,Active,333704.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Active,Active,333704.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Active,Active,333704.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406410014,AXLE COUNTER  RESET BOX  GG  MAKE,Dead Stock,Dead Stock,196470.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406420019,AXLE COUNTER PD 1 CARD ( GG TRONICS),Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406390015,AXLE COUNTER MICRO LOGIC CARD 1 CEL MAKE ( MLB -1),Dead Stock,Dead Stock,111000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406380010,AXLE COUNTER RELAY BOX WITH Q TYPE RELAY CEL MAKE,Dead Stock,Dead Stock,15000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406370016,AXLE COUNTER RELAY DRIVE CARD CEL MAKE,Dead Stock,Dead Stock,104000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406360011,AXLE COUNTER EVENT LOGGER CARD CEL MAKE,Dead Stock,Dead Stock,52000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406350017,AXLE COUNTER MOTHER BOARD CEL MAKE,Dead Stock,Dead Stock,12000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406340012,AXLE COUNTER DC DC CONVERTER CARD CEL MAKE,Dead Stock,Dead Stock,16000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406330018,AXLECONTER SPD CEL MAKE,Dead Stock,Dead Stock,26000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406320013,AXLE COUNTER MODEM CARD CEL MAKE,Dead Stock,Dead Stock,130000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560409850013,LCD DISPLAY FOR GG TRONICS MAKE SSDAC/HASSDAC,Dead Stock,Dead Stock,36049.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406450012,AXLE COUNTER TX AND RX COIL CEL MAKE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406440018,AXLE COUNTER DEFLECTOR PLATE ( GG TRONICS),Dead Stock,Dead Stock,8600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406430013,AXLE COUNTER PD 2 CARD ( GG TRONICS),Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406400010,AXLE COUNTER MICRO LOGICAL CARD 2 CEL MAKE ( MLB -2),Dead Stock,Dead Stock,148000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007210019,CLS SHOE (SURFACE BASE),Active,Monitor,176748.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007210019,CLS SHOE (SURFACE BASE),Active,Monitor,176748.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007220013,CLS HOOD FOR CALLING ON SIGNAL (FRP),Dead Stock,Dead Stock,6975.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007451357,Hood for main signal,Slow Moving,Very Slow Moving,6903.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008630016,CLS LADDER 3.6 MTRS WITH PLATFORM,Active,Monitor,12000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549004210010,Hood for main signal (Route),Dead Stock,Dead Stock,3988.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544300050010,Offset Bracket for Main Signal (140 mm),Active,Active,105248.39,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100210017,OFFSET BRACKET  SMALL FOR SHUNT SIGNAL,Slow Moving,Very Slow Moving,14870.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100210017,OFFSET BRACKET  SMALL FOR SHUNT SIGNAL,Slow Moving,Very Slow Moving,14870.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100200012,CLS POST 4.5/4.6 MTRS,Active,Active,72666.21,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100190018,CLS POST 2.5 Mtrs,Dead Stock,Dead Stock,151092.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543500020075,CLS LADDER SHOE,Slow Moving,Slow Moving,2550.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543500020075,CLS LADDER SHOE,Slow Moving,Slow Moving,2550.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564680690014,CLS unit 4 Aspect,Dead Stock,Dead Stock,50336.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564680670015,CLS Unit 2 Aspect,Active,Monitor,8580.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564680670015,CLS Unit 2 Aspect,Active,Monitor,8580.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600470016,CALLING ON UNIT FRP,Slow Moving,Very Slow Moving,9880.53,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600470016,CALLING ON UNIT FRP,Slow Moving,Very Slow Moving,9880.53,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561801220031,Multi Lamp Route Indicator (LED Single Digit).,Slow Moving,Slow Moving,73160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561801220020,Multi Lamp Route Indicator (LED Double Digit).,Slow Moving,Slow Moving,162250.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565000077320,FRP 3 aspect signal unit for road warning,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500130012,SHUNT SIGNAL UNIT (W/O BASE),Slow Moving,Very Slow Moving,1000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008640010,CLS UNIT 3 ASPECT FRP,Slow Moving,Very Slow Moving,5200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400140019,CLS POST 3.5/3.6 MTRS,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400140019,CLS POST 3.5/3.6 MTRS,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400340010,CLS  UNIT 3 ASPECT,Active,Monitor,483912.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400340010,CLS  UNIT 3 ASPECT,Active,Monitor,483912.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469064280014,GOODS WARNING FRP SIGHTING BOARD WITH ANGLE,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469064280014,GOODS WARNING FRP SIGHTING BOARD WITH ANGLE,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539825720018,MARKER BOARD P,Dead Stock,Dead Stock,270.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555500150011,GOODS WARNING BOARD ORDINARY TYPE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007320019,STOP BOARD.,Active,Active,73934.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007190010,BLOCK LIMIT BOARD,Dead Stock,Dead Stock,2650.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561303510011,Bell Relay PCB for SGE,Slow Moving,Slow Moving,140.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561303520016,Galvo for FM,Dead Stock,Dead Stock,12500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561303680019,M LOCK COIL FOR FM BLOCK INSTRUMENT,Slow Moving,Very Slow Moving,1800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561304210011,Galvo for SGE Block Instrument,Dead Stock,Dead Stock,2999.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560100320010,DYNAMIC HANDSET FOR SGE BLOCK INSTRUMENT,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56020790,DYNAMIC HANDSET FOR SGE BLOCK INSTRUMENT,Active,Active,9012.51,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561301650012,FM TX 1800 HZ.,Active,Active,125291.84,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561301210012,FM TX 2700 HZ.,Active,Active,338396.86,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560100600018,"PLUNGER TERMINAL ASSEMBLY WITH  B, L, V CONTACTS.",Slow Moving,Slow Moving,2500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561301200018,FM RX 2700 HZ.,Active,Active,231757.37,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561301190013,FM RX 1800 HZ,Active,Active,239700.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564700060020,LED SIGNAL FOR ROAD WARNING RED,Active,Active,96462.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564682050016,LED SIGNAL FOR ROAD WARNING YELLOW,Active,Active,96462.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED MAIN SIGNAL YELLOW ( INBUILT),Active,Active,508662.33,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED MAIN SIGNAL YELLOW ( INBUILT),Active,Active,508662.33,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED MAIN SIGNAL YELLOW ( INBUILT),Active,Active,508662.33,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED MAIN SIGNAL GREEN (INBUILT),Active,Active,971935.08,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED MAIN SIGNAL GREEN (INBUILT),Active,Active,971935.08,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED MAIN SIGNAL GREEN (INBUILT),Active,Active,971935.08,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED MAINSIGNAL RED (INBUILT),Active,Active,856197.14,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED MAINSIGNAL RED (INBUILT),Active,Active,856197.14,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED MAINSIGNAL RED (INBUILT),Active,Active,856197.14,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468027,LED SIGNAL FOR ROUTE INDICATOR,Active,Active,182802.47,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56462050,LED SIGNAL FOR SHUNT,Active,Active,346377.67,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468064,LED SIGNAL FOR CALLING ON,Active,Active,522724.58,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600610013,INVERTER 24 V/110 V/500 VA,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469064350016,INVERTER 110/110/3 KVA,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800350018,COPPER STRIP 300MMX25MMX6MM,Dead Stock,Dead Stock,10200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567912400016,COPPER TAPE 25 MMX 3MM DOWN CONDUCTOR,Dead Stock,Dead Stock,33123.72,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565100690014,"Maintenance free earthing consist of earthing rod 3 mtr-01 no, MEEB 30 cm-01 no, SEEB 15 c....",Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54900542,CABLE TERMINATION BOX FOR IRS POINT MACHINE,Slow Moving,Very Slow Moving,17165.28,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54900542,CABLE TERMINATION BOX FOR IRS POINT MACHINE,Slow Moving,Very Slow Moving,17165.28,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Slow Moving,Slow Moving,755804.85,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Slow Moving,Slow Moving,755804.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Slow Moving,Slow Moving,755804.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610490016,CTB FOR IRS POINT MACHINE,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520502630017,E1 CONVERTER,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Slow Moving,Very Slow Moving,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50370080,4 WIRE DTMF WAY STATION EQUIPMENT,Active,Active,46693.5,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50210014,Emergency Socket Box made of FRP material,Active,Monitor,680279.82,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500501150012,10 pair CT Box,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500501150012,10 pair CT Box,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569894960011,RELAY PLUG BOARD FOR QNI 8F/8 B,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569894970016,RELAY PLUG BOARD FOR QNAI  8F/8 B,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411020012,HASSDAC EQUIPMENT GG TRONICS MAKE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411020012,HASSDAC EQUIPMENT GG TRONICS MAKE,Dead Stock,Dead Stock,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411170010,Reset Card for Reset Box for GG Tronics Make HASSDAC,Dead Stock,Dead Stock,175436.5,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411170010,Reset Card for Reset Box for GG Tronics Make HASSDAC,Dead Stock,Dead Stock,175436.5,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407200015,TRANSMITTER COIL 720 P CEL MAKE HASSDAC,Slow Moving,Very Slow Moving,127440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406710010,LCD DISPLAY FOR RESET BOX FOR HASSDAC MOTHER BOARD  CEL MAKE 720 P,Dead Stock,Dead Stock,26963.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406700016,AUTO RESET CARD FOR CEL MAKE HASSDAC 720 P,Dead Stock,Dead Stock,51330.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406670012,DC DC CONVERTER FOR CEL MAKE HASSDAC 720 P,Slow Moving,Slow Moving,19470.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406660018,RESET CARD OF RESET BOX FOR CEL MAKE HASSDAC 720 P,Dead Stock,Dead Stock,68440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401920014,RESET BOX FOR CEL MAKE HASSDAC 720 P,Slow Moving,Very Slow Moving,197768.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401890010,SIGNAL CONDITIONER CARD No.1 (SCC-1) FOR CEL MAKE HASSDAC 720 P,Slow Moving,Slow Moving,115050.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570101147770,OFC Integrated Access Device for HASSDAC (Team Enginneer),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407680013,EVENT LOGGER CARD   CEL MAKE  HASSDAC 720 P,Dead Stock,Dead Stock,125080.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407560019,MODEM CARD FOR CEL MAKE HASSDAC 720 P,Slow Moving,Slow Moving,31270.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407440014,SIGNAL CONDITIONER CARD No.2 (SCC-2) FOR CEL MAKE HASSDAC 720 P,Slow Moving,Slow Moving,31270.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407440014,SIGNAL CONDITIONER CARD No.2 (SCC-2) FOR CEL MAKE HASSDAC 720 P,Slow Moving,Slow Moving,31270.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407230019,RELAY DRIVE CARD FOR CEL MAKE HASSDAC 720 P,Slow Moving,Slow Moving,156350.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407210010,RECEIVER COIL 720 P CEL MAKE HASSDAC,Slow Moving,Very Slow Moving,11800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407690018,INTERFACE CARD FOR RESET BOX  CEL MAKE HASSDAC 720 P,Dead Stock,Dead Stock,83190.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560409840019,RELAY DRIVE CARD FOR GG TRONICS MAKE HASSDAC,Dead Stock,Dead Stock,95792.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560409840019,RELAY DRIVE CARD FOR GG TRONICS MAKE HASSDAC,Dead Stock,Dead Stock,95792.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+520505320015,UHF DIGITAL WALKIE TALKIE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401040014,FRAUSCHER - OVER VOLTAGE PROTECTION BOARD,Active,Active,168000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401070018,FRAUSCHER - I/O EXB CARD,Dead Stock,Dead Stock,72000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401180018,FRAUSCHER -52 KG DP(GS-03) COMPLETE SET-5M,Slow Moving,Very Slow Moving,50000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401130015,FRAUSCHER - DEFLECTOR PLATE,Active,Active,105000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401120010,FRAUSCHER - BP POWER 0-8TE,Dead Stock,Dead Stock,50000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401110016,FRAUSCHER - BACK PLANE BP POWER 101-4.24TE,Active,Active,187500.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401100011,FRAUSCHER - BACK PLANE BP EXP.101-1.10TE,Dead Stock,Dead Stock,108000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401090017,FRAUSCHER - RESET BOX CARD,Active,Active,21000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401080012,FRAUSCHER - POWER SUPPLY CARD,Dead Stock,Dead Stock,8000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560408420448,RSR 180-001 (GS 05) Wheel Sensor with 15m Cable FRAUSCHER make MSDAC,Slow Moving,Slow Moving,175000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401060013,FRAUSCHER - AEB CARD,Dead Stock,Dead Stock,600000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401050019,FRAUSCHER -BOARD RACK,Dead Stock,Dead Stock,20000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401140010,FRAUSCHER - TLJB WITH CLAMP,Dead Stock,Dead Stock,6000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401150014,FRAUSCHER - 60 KG DP(GS-03) COMPLETE SET-5M,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401160019,FRAUSCHER - 52 KG DP(GS-02) COMPLETE SET-10M,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401170013,FRAUSCHER - 60 KG DP(GS-02) COMPLETE SET-10M,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600080073,Commercial grade VDU 55,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570109490246,Embedded PC,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539873250043,Portable data analyzer,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539873250043,Portable data analyzer,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570143670018,Desktop Computer with Monitor Keyboard and Mouse,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561300051261,UFSBI Deltron make,Dead Stock,Dead Stock,3150000.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420070016,MCPU PFM CARD FOR GG TRONICS MAKE MSDAC,Active,Active,62445.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420100010,MDP CARD WITH PFM CARD FOR GG TRONICS MAKE MSDAC,Active,Active,214099.2,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420110014,MDC CARD WITH PFM CARD FOR GG TRONICS MAKE MSDAC,Active,Active,244684.8,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420120019,FCPU CARD  FOR GG TRONICS MAKE MSDAC,Active,Active,737205.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420130013,FPD2 CARD  FOR GG TRONICS MAKE MSDAC,Active,Active,541620.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420140018,FCOM CARD  FOR GG TRONICS MAKE MSDAC,Active,Active,497488.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420150012,FDC CARD  FOR GG TRONICS MAKE MSDAC,Active,Active,499494.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420160017,FDP CHASSIS WITH MOTHER BOARD  FOR GG TRONICS MAKE MSDAC,Active,Active,606614.4,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420170011,RESET MODULE WITH AUTO RESET ARRANGEMENT FOR GG TRONICS MAKE MSDAC,Active,Active,198240.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420180016,SPD 24V FOR GG TRONICS MAKE MSDAC,Active,Active,54516.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420190010,SPD 48V FOR GG TRONICS MAKE MSDAC,Active,Active,109032.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420200015,SPD 110V FOR GG TRONICS MAKE MSDAC,Active,Active,128030.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420220014,M CAN PFM CARD FOR GG TRONICS MAKE MSDAC,Active,Active,70092.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420230019,RESET POWER MODULE FOR GG TRONICS MAKE MSDAC,Active,Active,107993.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420240013,RESET BOX FOR GG TRONICS MAKE MSDAC,Active,Active,127440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420250018,24-24V DC DC CONVERTER FOR GG TRONICS MAKE MSDAC,Active,Active,95580.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420260012,24-48V DC DC CONVERTER FOR GG TRONICS MAKE MSDAC,Active,Active,31860.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420270017,LV BOX FOR GG TRONICS MAKE MSDAC,Active,Active,30680.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420280011,USB-485 CONVERTER FOR VDU GG TRONICS MAKE MSDAC,Active,Active,16520.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420290016,MINIATURE RELAY FOR GG TRONICS MAKE MSDAC,Active,Active,89680.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420360018,WHEEL SENSOR BASE CLAMP TYPE (15 Mtrs) FOR GG TRONICS MAKE MSDAC,Active,Active,1705100.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420370012,MSC WITH PFM CARD FOR GG TRONICS MAKE MSADC,Active,Active,331344.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420380017,Vital and Non Vital Output PFM Card for GG Tronics make MSDAC,Active,Active,840750.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420400016,Central Evaluator with mother board and cards slot 12 I/O GG Tronics make MSDAC,Active,Active,301490.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420060011,MCPU CRAD FOR GG TRONICS MAKE MSDAC,Active,Active,1162252.8,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560643080010,FPD1 CARD  FOR GG TRONICS MAKE MSDAC,Active,Active,541620.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420480012,O RING DIODE FOR GG TRONICS MAKE MSDAC,Active,Active,99120.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420470018,DSL MODEM FOR GG TRONICS MAKE MSDAC,Active,Active,233640.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420460013,PDC MODULE (FDP) FOR GG TRONICS MAKE MSDAC,Active,Active,541620.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420450019,PDC MODULE (CE) FOR GG TRONICS MAKE MSDAC,Active,Active,573480.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420440014,EMI FILTER FOR GG TRONICS MAKE MSADAC,Active,Active,79650.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420430010,GALLANT POWER SUPPLY 110V DC 110V DC FOR GG TRONICS MAKE MSDAC,Active,Active,254880.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420420015,OFC CONVERTER FOR GG TRONICS MAKE MSDAC,Active,Active,168740.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420410010,Central Evaluator extended with mother board and cards slot 16 I/O GG Tronics make MSDAC,Active,Active,344088.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420080010,MCOM WITH PFM CARD FOR GG TRONICS MAKE MSDAC,Active,Active,71366.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560420090015,MCE CARD WITH PFM CARD FOR GG TRONICS MAKE MSDAC,Active,Active,71366.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+45170149,"12V, 7AH  sealed maintenance free lead acid battery",Dead Stock,Dead Stock,2461.44,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549006350016,GRAPHITE POWDER,Dead Stock,Dead Stock,7898.13,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569046640017,GRAPHITED GREASE GRADE-III,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+71010350,BRUSH FLAT 50 MM,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+753201520015,FLOOR MAT,Dead Stock,Dead Stock,3600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+753204070010,RUBBER GUM BOOTS,Slow Moving,Slow Moving,1797.6,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+759084540987,SAFETY HELMETS,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+77032251,PAINT ENAMEL BRILLIANT GREEN,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+77093306,PAINT ALUMINIUM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+78010512,GLASS TUMBLER 260 ML CAPACITY,Active,Active,130.08,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79010805,"DUNGRI CLOTH, COTTON KHADI, BLUE",Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79010866,DUNGRY CLOTH COTTON KHADI BLEACHED(WHITE),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+790500010117,FACE SHIELD,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+793199590015,SAFETY SHOE,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79333485,DUSTERS  COTTON KHADI  61 cms  x 61cms,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+794700011551,RAIN COAT,Slow Moving,Slow Moving,1392.3,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+794701030012,Weather proof rain protection cover 2 Aspect,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+79513645,TAPE COTTON WHITE 6 MM WIDE FOR SEALING WAGONS,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+799049900016,REFLECTIVE JACKET,Active,Active,661.97,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+80010714,AXLE OIL MEDIUM TO IS:1628/1986.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81033515,NAPTHALENE WHITE BALLS PACKED IN POLYTHENE BAGS TO CONTAIN 250 GRAMS TO SPECN.539/1965 OR ....,Slow Moving,Slow Moving,36.9,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81050264,DETERGENT BAR 250,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81050525,LIQUID HAND WASH OF BRAND MEDIMIX,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81050999,TOILET SOAP-TO BE SUPPLIED IN THE FORM OF SMOOTH CAKES OF MINIMUM 100 GRAMS EACH SECURELY ....,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+81070317,LIQUID ANTISEPTIC DETTOL   50 ML.,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83030542,CE-334/335[L] DAILY MATERIAL TRANSACTION REGISTER OF RECEIPTS A4 B/S BOOKS,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83041849,PAPER CARBON PENCIL BLUE COLOUR .,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83042428,"PAPER DUPLICATING WHITE A 4 SEMI-ABSORBENT 21cm x 29.7cm 75 GSM ,4.677 KGS.PER 1000 SHEETS....",Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049400,PLAIN COPIER PAPER  (A4 SIZE) with Logo,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83049540,TNPL 80 GSM XEROX SHEETS SIZE A4 (297 X 210 MM)(PLAIN ),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83051454,G-6 L  T.A JOURNAL  LARGE ; A4 B/S L,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83051661,ATTENDANCE REGISTER,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83052963,Emergent Duty Pass,Slow Moving,Very Slow Moving,201.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83054110,"ENVELOPES MADE OF BROWNSIZE 26 X 11 CM. (10 1/2 X 4 1/2"")",Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83054145,"SPECIAL COVER MADE OFBROWN WRAPPER, DOUBLEIMPERIAL TO SIZE 40 X 30CMS (16 X 12"") GSM 130PR....",Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83054376,G-60A MUSTER ROLL SHEET,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83055551,FOUR QUIRE NOTE BOOK EACH OF 400 PAGES,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83055575,TWO QUIRE NOTE BOOK EACH OF 200 PAGES,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83056828,"ENVELOPES BROWN, PLAIN, BLANK MEDIUM SIZE 35  X 14 CM (13- 1/4 X 5- 1/4"") GSM 175  PRINT O....",Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83057213,FILE BOOKS FILE COVERS WITH 1.3cm WIDE TAPE AND TWO TAGS 50cm COVER THICK 250mm x 370mm TO....,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83057225,FILE BOOKS FILE COVER WITH 1.3 CM WIDETAPE & 2 TAGS 50 CM OR OVER THIN 250 MM X 370 MM TO ....,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83058618,"PAD DRAFT (100 SHEETS EACH) OF WHITE PRINTING PAPER R A4 SIZE,60 GSM TO IS.1848",Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83060662,G-54Diary Work DoneA4(Diary sheet),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+831401940015,A4 SIZE MONOCHROME CARD (BLACK & WHITE),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83902314,"SYNTHETIC GLUE STICK 15GMS BRAND;KORES,CAMEL OR FABRE CASTELL%u201D.",Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83903112,"PINS IN PACKETS OF 25 GMS, PLATED 2.5 CM LONG IS.5653/88 TO CSO/VOC NO. M.046.",Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+83904827,TAG COTTON WHITE 60 CM LONG,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+91150401,ROSINE CORE SOLDER,Dead Stock,Dead Stock,738.17,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+439000014261,TABLE FOR COMPUTER USE.,Active,Monitor,19632.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+720599383892,Hammer SLEDGE W/O HANDLE & 3 LB,Dead Stock,Dead Stock,150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+839096490857,LOCK GI  65 mm,Dead Stock,Dead Stock,600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+833100490018,SEAL RUBBER FOR OFFICE,Dead Stock,Dead Stock,400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+789024450015,FELLING KNIFE,Dead Stock,Dead Stock,200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783001040010,"TABLE WOODEN 30 X47X31""",Dead Stock,Dead Stock,1200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783000721005,BENCH HAND WOOD LOCAL MADE,Dead Stock,Dead Stock,900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783000630796,TABLE WOODEN 164 X 91X 76 WITH 3 DRAWS,Dead Stock,Dead Stock,2500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783000550016,STOOL WOODEN,Dead Stock,Dead Stock,1500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783000330016,Board Wooden( NOTICE BAORD ),Dead Stock,Dead Stock,55.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+782500111503,WATER PURIFIER,Dead Stock,Dead Stock,800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+782000020235,Mug Plastic,Dead Stock,Dead Stock,5.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+781007070968,CHAIR TUBULAR WITH ARMS,Active,Active,28599.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+780800210010,Bucket Plastic ( 5 Litrs Capacity ),Dead Stock,Dead Stock,10.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469028758610,TELESCOPIC ALUMINIUM LADDER,Dead Stock,Dead Stock,12272.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469030611009,BIT DRILL TWIST 16 MM,Dead Stock,Dead Stock,730.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469031300012,GREASE GUN,Dead Stock,Dead Stock,4000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469034671001,CLOCK WALL TYPE,Dead Stock,Dead Stock,150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800030018,BIT DRILL TWIST 12 MM,Dead Stock,Dead Stock,900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802990017,DIGITAL INSULATION TESTER,Dead Stock,Dead Stock,2800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539837220010,Lock navtal  6&7 lever,Dead Stock,Dead Stock,1050.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100744843,PRINTER MODEL NO: 207 SAMSUNG MAKE,Dead Stock,Dead Stock,7500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100871002,UPS 600 VA,Dead Stock,Dead Stock,2500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+673200020071,TROLLY PLATFORM,Dead Stock,Dead Stock,3000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+720599041002,SPANNER DOUBLE END OF SIZES,Dead Stock,Dead Stock,1120.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+902500311841,Revolving Chair ( Executive ),Dead Stock,Dead Stock,2500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+721429180014,SPANNER SINGLE END 32 MM OR 1   1/2,Dead Stock,Dead Stock,1080.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+721506201278,CHISEL COLD 150 MM,Dead Stock,Dead Stock,150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+721800280010,SCREW DRIVER 150 MM OR 6,Dead Stock,Dead Stock,875.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+721801604352,PLIER WIRE CUTTING 6,Dead Stock,Dead Stock,135.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+725051380082,TAPE MEASURING 30 M,Dead Stock,Dead Stock,210.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+725073780019,RULLER STEEL 30 CM (12 ),Dead Stock,Dead Stock,390.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+725073790013,RULLER STEEL 15 CM ( 6  ),Dead Stock,Dead Stock,150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900929637,Fire Extinguisher CO2 type,Dead Stock,Dead Stock,6110.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900929637,Fire Extinguisher CO2 type,Dead Stock,Dead Stock,6110.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+729080160011,FIRSTAID BOX,Dead Stock,Dead Stock,375.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+729080200010,MAMATTY,Dead Stock,Dead Stock,175.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+738577910576,"ALMARAH  STEEL LOCAL  MADE  72 X 34""X20""",Dead Stock,Dead Stock,1500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+738577911234,"ALAMARAH  STEEL 50 X 30X 17"" ( MINI TYPE)",Dead Stock,Dead Stock,850.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+759099470017,TORPOLINE 21' X 15',Dead Stock,Dead Stock,170.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566242192,"DESKTOP COMPUTER  (Monitor, CPU, Mouse, Key board)",Active,Monitor,125097.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560616330011,LAPTOP,Slow Moving,Slow Moving,125714.29,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100170012,MOUSE FOR Computer,Dead Stock,Dead Stock,150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Active,Active,9010.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Active,Active,9010.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Active,Active,9010.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539800830011,KEYBOARD FOR DESKTOP COMPUTER,Dead Stock,Dead Stock,450.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100593282,COMPUTER  LED HP MONITOR,Dead Stock,Dead Stock,5000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100820018,CPU FOR COMPUTER ( HP),Dead Stock,Dead Stock,15000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564700100016,LED 2 ASPECT SMALL LED UNIT FOR REMOTE OPERATING,Dead Stock,Dead Stock,500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610510015,TRANSFORMER 230/110/500VA,Dead Stock,Dead Stock,800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469064370015,DP DT SWITCH,Dead Stock,Dead Stock,150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+464219450018,RF2 CHANNEL SET,Dead Stock,Dead Stock,500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559000780013,CEREMONIAL LEVER,Dead Stock,Dead Stock,500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610500010,SHUNT SIGNAL POST PVC WITH BASE,Dead Stock,Dead Stock,600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54900542,CABLE TERMINATION BOX FOR IRS POINT MACHINE,Slow Moving,Very Slow Moving,5721.76,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54900542,CABLE TERMINATION BOX FOR IRS POINT MACHINE,Slow Moving,Very Slow Moving,5721.76,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008610017,APPARATUS CASE  FOR RTU,Slow Moving,Slow Moving,282088.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008610017,APPARATUS CASE  FOR RTU,Slow Moving,Slow Moving,282088.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539863960013,CABLE TERMINATION BOX FRP TYPE,Active,Active,121330.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500464,APPARATUS CASE HALF GRS TYPE,Active,Monitor,713353.1,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Slow Moving,Slow Moving,139159.83,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Slow Moving,Slow Moving,139159.83,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Slow Moving,Slow Moving,139159.83,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA  PBT TERMINAL 25 MM,Active,Active,232517.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA  PBT TERMINAL 25 MM,Active,Active,232517.59,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA  PBT TERMINAL 25 MM,Active,Active,232517.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA  PBT TERMINAL 25 MM,Active,Active,232517.59,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA  PBT TERMINAL 25 MM,Active,Active,232517.59,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567908387232,ARA PBT FUSE BLOCK,Active,Active,132889.7,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Slow Moving,Slow Moving,467989.73,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Slow Moving,Slow Moving,467989.73,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Slow Moving,Slow Moving,467989.73,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Slow Moving,Slow Moving,467989.73,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Slow Moving,Slow Moving,467989.73,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000402638,24 OFC Cable Joint Enclosure,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539803389494,Emergency Socket Box,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Dead Stock,Dead Stock,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804990010,9 U Rack,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804990010,9 U Rack,Dead Stock,Dead Stock,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509041024249,Cable 10 Pair PIJF Cable,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+409001931903,20 PAIR CT BOX,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196610015,CABLE  24 FIBRE OPTICAL (OFC) 16.0 MM,Active,Active,1245234.17,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195950013,CABLE 50 PAIR JELLY FILLED.,Dead Stock,Dead Stock,321986.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE PVC 2 CX 25 SQMM,Active,Monitor,99131.65,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE PVC 2 CX 25 SQMM,Active,Monitor,99131.65,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE PVC 2 CX 25 SQMM,Active,Monitor,99131.65,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,CABLE PVC 12 CX 1.5 SQMM,Active,Monitor,7227797.53,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,CABLE PVC 12 CX 1.5 SQMM,Active,Monitor,7227797.53,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,CABLE PVC 12 CX 1.5 SQMM,Active,Monitor,7227797.53,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 CX 1.5 SQMM,Active,Active,12616195.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 CX 1.5 SQMM,Active,Active,12616195.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 CX 1.5 SQMM,Active,Active,12616195.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 CX 1.5 SQMM,Active,Active,12616195.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE PVC 30 CX 1.5 SQMM,Active,Monitor,4875630.7,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE PVC 30 CX 1.5 SQMM,Active,Monitor,4875630.7,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE PVC 30 CX 1.5 SQMM,Active,Monitor,4875630.7,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE PVC 30 CX 1.5 SQMM,Active,Monitor,4875630.7,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569007580017,CABLE UNDER GROUND JELLY FILLED 20 PAIR OF 0.5 MM,Slow Moving,Very Slow Moving,41141.88,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569007580017,CABLE UNDER GROUND JELLY FILLED 20 PAIR OF 0.5 MM,Slow Moving,Very Slow Moving,41141.88,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561196620010,CABLE PVC 19 C X 1.5  SQMM,Active,Monitor,4330238.48,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Active,Active,7163451.23,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Active,Active,7163451.23,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Active,Active,7163451.23,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,CABLE PVC 2C X2.5 SQMM,Active,Monitor,1028319.51,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,CABLE PVC 2C X2.5 SQMM,Active,Monitor,1028319.51,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56110029,CABLE PVC  3C X 10 SQ.MM,Active,Monitor,1449157.25,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56110029,CABLE PVC  3C X 10 SQ.MM,Active,Monitor,1449157.25,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610400015,SPD D TYPE 24 V AC/DC,Active,Monitor,41130.77,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560800530013,TRANSFORMER RECTIFIER 230/24/2 A,Dead Stock,Dead Stock,64800.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563003040199,Point machine 143mm stroke (IP 67),Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563003520010,IRS Point machine 143 mm Stroke (IP 65),Active,Active,314112.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563003520010,IRS Point machine 143 mm Stroke (IP 65),Active,Active,314112.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE 110V,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE 110V,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE 110V,Slow Moving,Slow Moving,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563045831119,IRS Point machine 220 mm,Active,Active,2532744.88,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563045831119,IRS Point machine 220 mm,Active,Active,2532744.88,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502323190434,Signal post Telephone,Dead Stock,Dead Stock,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+502323190434,Signal post Telephone,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600390013,TRACK TJ WITH POTENTIAL FREE,Active,Active,225464.26,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610410010,SPD  D TYPE 110 V AC /DC,Active,Monitor,78551.35,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099690019,Track feed Resistance 30 ohms,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099690019,Track feed Resistance 30 ohms,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901940018,DIGITAL VOICE ANNOUNCING SYSTEM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901940018,DIGITAL VOICE ANNOUNCING SYSTEM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060026,Choke B Type,Active,Active,176759.01,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060026,Choke B Type,Active,Active,176759.01,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560801050011,TRANSFORMER RECTIFIER 110/24/5A,Active,Active,120303.36,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539863970018,FUSE AUTO CHANGE OVER SWITCH,Dead Stock,Dead Stock,133000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542400100013,EWS LOCK  WITH KEY,Active,Active,1019.03,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,HAND PLUNGER LOCK,Dead Stock,Dead Stock,6869.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,HAND PLUNGER LOCK,Dead Stock,Dead Stock,6869.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401170019,WIRE LEAD 3.1 Mtrs,Active,Active,9900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401170019,WIRE LEAD 3.1 Mtrs,Active,Active,9900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401180013,WIRE BOND 2 Mtrs,Active,Active,41817.96,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+545401180013,WIRE BOND 2 Mtrs,Active,Active,41817.96,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+551200320018,E TYPE LOCK VARIOUS WARD,Active,Active,38329.34,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+552000450010,ONE WAY GUIDE ROLLER ASSEMBLY SET,Active,Active,37996.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+552000450010,ONE WAY GUIDE ROLLER ASSEMBLY SET,Active,Active,37996.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559000640010,WIRE LEAD 2 MTRS 4 MM,Active,Active,23780.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559000640010,WIRE LEAD 2 MTRS 4 MM,Active,Active,23780.85,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900774137,WIRE BOND 1.5 METER,Active,Monitor,10410.24,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+727900774137,WIRE BOND 1.5 METER,Active,Monitor,10410.24,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,CHANNEL BOND PIN,Slow Moving,Very Slow Moving,3590.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,CHANNEL BOND PIN,Slow Moving,Very Slow Moving,3590.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604184353,EMERGENCY SLIDING BOOM COMPLETE SET,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604184353,EMERGENCY SLIDING BOOM COMPLETE SET,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610430019,TLD BOX FRP,Active,Active,734249.01,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610430019,TLD BOX FRP,Active,Active,734249.01,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563002850013,GROUND CONNECTION FOR 220MM POINT MACHINE,Active,Active,869897.94,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563002850013,GROUND CONNECTION FOR 220MM POINT MACHINE,Active,Active,869897.94,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,POINT MACHINE ROD ( GROUND CONNECTION SET),Dead Stock,Dead Stock,136700.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,POINT MACHINE ROD ( GROUND CONNECTION SET),Dead Stock,Dead Stock,136700.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563045831879,GALVANIZED GROUND CONNECTION FOR 220MM POINT MACHINE,Active,Active,665685.6,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563047600010,GALVANISED GROUND CONNECTION FOR IRS POINT MACHINE.,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+331200520110,ROTARY KEY Transmission (RKT),Active,Active,484832.5,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802164075,CABLE MARKERS (SIGNAL),Dead Stock,Dead Stock,0.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539802164075,CABLE MARKERS (SIGNAL),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539810200188,WIRE LEAD  4 MTRS,Active,Active,11850.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539810200188,WIRE LEAD  4 MTRS,Active,Active,11850.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541002400010,POINT ROD SIZE 1  1/4 ''   X  18' LONG WITH  END COUPLING,Dead Stock,Dead Stock,519332.2,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541002470012,CRANK VERTICAL 12  ''   X   12 '',Active,Active,202812.69,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541002470012,CRANK VERTICAL 12  ''   X   12 '',Active,Active,202812.69,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100460013,RELAY RACK TO HOLD 168 RELAYS,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120140011,CRANKS STRAIGHT ARM ADJUSTABLE.,Slow Moving,Very Slow Moving,109150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120140011,CRANKS STRAIGHT ARM ADJUSTABLE.,Slow Moving,Very Slow Moving,109150.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120320013,CRANK NORMAL OR HORIZONTAL 12 ''   X   12 ''   ( 300 mmx 300 mm),Active,Active,152027.57,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542120330018,CRANK ADJUSTABLE 12 ''  X   18  '',Active,Active,108589.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542300120014,SPRING IN SET FOR E TYPE LOCK,Active,Active,13717.5,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+542300120014,SPRING IN SET FOR E TYPE LOCK,Active,Active,13717.5,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539841501046,Fuse PPTC 4 Amp,Slow Moving,Slow Moving,17713.8,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539817380019,ND FUSE 2 AMPS,Active,Active,32672.25,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,FUSE 6 AMPS ND TYPE,Slow Moving,Very Slow Moving,43855.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,FUSE 6 AMPS ND TYPE,Slow Moving,Very Slow Moving,43855.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539863980012,FUSE PPTC 24 V 2 A,Active,Active,600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560606810012,ILLUMINATION BOARD FOR LC GATE.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560633810015,INSULATION COMPLETE SET FOR IRS POINT MACHINE 220 MM,Active,Active,140160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560633810015,INSULATION COMPLETE SET FOR IRS POINT MACHINE 220 MM,Active,Active,140160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607010015,INSULATION D BRACKET.,Active,Active,676.27,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560607010015,INSULATION D BRACKET.,Active,Active,676.27,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610390010,INSULATION FOR L BRACKET,Dead Stock,Dead Stock,9789.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913130010,STATION IPS  SIX ROAD WITH ALL ACCESSORIES.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913130010,STATION IPS  SIX ROAD WITH ALL ACCESSORIES.,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913440010,SMPS BASED INTEGRATED POWER SUPPLY SYSTEM ( IPS) FOR 4 ROAD STATION,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567904138020,SMPS Based IPS for LC Gate,Dead Stock,Dead Stock,1082146.75,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567904138020,SMPS Based IPS for LC Gate,Dead Stock,Dead Stock,1082146.75,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610420014,INVERTER 24 V/110V/500 VA,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800950010,DC DC CONVERTER 24-32 V/5 Amps( STATCON IPS),Slow Moving,Slow Moving,22538.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800940016,DC DC CONVERTER 40-100 V/1 Amps( STATCON IPS),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627250019,SMR Module ( STATCON IPS),Active,Active,73160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Slow Moving,Very Slow Moving,234938.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Slow Moving,Very Slow Moving,234938.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Slow Moving,Very Slow Moving,234938.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800960015,DC DC CONVERTER 12-28 V/5 Amps( STATCON IPS),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800980014,DC DC CONVERTER 24-40 V/5A (AMARA RAJA IPS),Active,Monitor,47200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469064280014,GOODS WARNING FRP SIGHTING BOARD WITH ANGLE,Slow Moving,Very Slow Moving,18064.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469064280014,GOODS WARNING FRP SIGHTING BOARD WITH ANGLE,Slow Moving,Very Slow Moving,18064.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567906120017,LED Route Indicator,Active,Active,418072.33,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED SIGNAL YELLOW(INBUILT),Active,Active,369874.56,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED SIGNAL YELLOW(INBUILT),Active,Active,369874.56,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED SIGNAL YELLOW(INBUILT),Active,Active,369874.56,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED SIGNAL GREEN (INBUILT),Active,Active,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED SIGNAL GREEN (INBUILT),Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED SIGNAL GREEN (INBUILT),Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED SIGNAL RED (INBUILT),Active,Active,938507.58,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED SIGNAL RED (INBUILT),Active,Active,938507.58,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED SIGNAL RED (INBUILT),Active,Active,938507.58,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600180014,"MAIN LED SIGNAL FOR 2 ASPECT SET(RED-1, YELLOW-1)",Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600160015,"MAIN LED SIGNAL FOR 2 ASPECT SET(YELLOW-1, GREEN-1)",Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600170010,"MAIN LED SIGNAL FOR 2 ASPECT SET(RED-1, GREEN-1)",Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555300060014,LED SIGNAL FOR CALLING ON  110V,Slow Moving,Slow Moving,309095.46,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555300050010,LED SHUNT SIGNAL 110 V,Active,Active,626899.73,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560416180017,Tx and Rx coil for  GG Tronics make HASSDAC,Active,Active,914736.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406280015,AXLE COUNTER TRANSMITTER COIL ( GG MAKE),Dead Stock,Dead Stock,692000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560417950013,COM Card for GG Tronics make HASSDAC,Slow Moving,Slow Moving,59681.57,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406290010,AXLE COUNTER RECEIVER COIL (GG MAKE),Active,Monitor,553600.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707960016,PIPE GI 50 MM DIA,Active,Active,14414.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569002560016,Earth pipe GI 50mm,Dead Stock,Dead Stock,3240.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707970010,PIPE GI 100MM DIA,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+623500980023,Pipe DWC,Active,Active,157990.9,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+623500980023,Pipe DWC,Active,Active,157990.9,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+403300300014,WIRE COIL 3/ 0.75  SQMM,Slow Moving,Slow Moving,122833.87,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+403300300014,WIRE COIL 3/ 0.75  SQMM,Slow Moving,Slow Moving,122833.87,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+400900850016,WIRE COIL PVC 16/0.2 MM,Active,Active,21358.86,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+400900850016,WIRE COIL PVC 16/0.2 MM,Active,Active,21358.86,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600470016,CALLING ON UNIT FRP,Slow Moving,Very Slow Moving,2059.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564600470016,CALLING ON UNIT FRP,Slow Moving,Very Slow Moving,2059.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400340010,CLS  UNIT 3 ASPECT,Slow Moving,Slow Moving,74932.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400340010,CLS  UNIT 3 ASPECT,Slow Moving,Slow Moving,74932.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564201990016,CLS Ladder with platform 4.5/4.6 mtr Galvanized,Slow Moving,Slow Moving,11396.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400140019,CLS POST 3.6 MTRS,Active,Active,63923.08,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555400140019,CLS POST 3.6 MTRS,Active,Active,63923.08,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564680670015,CLS Unit 2 Aspect,Slow Moving,Very Slow Moving,42900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564680670015,CLS Unit 2 Aspect,Slow Moving,Very Slow Moving,42900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569043110017,CLS LADDER 4.6 MTRS WITH PLATFORM,Active,Monitor,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569043120011,CLS LADDER 3.6 MTRS WITH PLATFORM,Active,Monitor,28870.43,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+555200600011,Shunt signal Complete with Hood,Slow Moving,Slow Moving,10175.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007210019,CLS SHOE (SURFACE BASE),Slow Moving,Slow Moving,77960.39,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549007210019,CLS SHOE (SURFACE BASE),Slow Moving,Slow Moving,77960.39,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544400140010,CLS POST 4.5/4.6 MTRS,Slow Moving,Very Slow Moving,3616.91,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569043140010,Junction Type Route Indicator 2 Way,Dead Stock,Dead Stock,14300.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569043130016,Junction Type Route Indicator 1 Way,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539818891071,Calling on unit,Slow Moving,Slow Moving,7326.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543500020075,CLS LADDER SHOE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+543500020075,CLS LADDER SHOE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100210017,OFFSET BRACKET  SMALL FOR SHUNT SIGNAL,Slow Moving,Slow Moving,12726.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100210017,OFFSET BRACKET  SMALL FOR SHUNT SIGNAL,Slow Moving,Slow Moving,12726.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+544100840013,CLS POST 4.6 Mtrs GALVANIZED,Slow Moving,Slow Moving,11682.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1 8F/8B,Active,Active,638995.26,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1 8F/8B,Active,Active,638995.26,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1 8F/8B,Active,Active,638995.26,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901204399,Relay QL1 11F/4B.,Active,Active,36922.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567901204399,Relay QL1 11F/4B.,Active,Active,36922.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B,Active,Active,871907.7,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B,Active,Active,871907.7,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B,Active,Active,871907.7,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+473300810016,RELAY ECR LED(QECX-61),Active,Active,52624.46,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985800,RELAY ELECTRONIC TIMER 60 SECOND,Slow Moving,Very Slow Moving,75900.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985800,RELAY ELECTRONIC TIMER 60 SECOND,Slow Moving,Very Slow Moving,75900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Active,Active,190636.79,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Active,Active,190636.79,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Active,Active,190636.79,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,RELAY QTA2,Slow Moving,Very Slow Moving,612310.89,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,RELAY QTA2,Slow Moving,Very Slow Moving,612310.89,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,RELAYS QSPAI,Slow Moving,Very Slow Moving,1262029.99,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,RELAYS QSPAI,Slow Moving,Very Slow Moving,1262029.99,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560610610010,RELAY REMOVABLE CONNECTING CLIP,Slow Moving,Slow Moving,28848.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561548720014,SECONDARY CELL 2V/80 AH,Active,Monitor,450961.34,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561548700015,SECONDARY CELL 2V 120 AH,Slow Moving,Very Slow Moving,279043.78,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430100570013,DIGITAL CLAMP METER (mA Range),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430100570013,DIGITAL CLAMP METER (mA Range),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569007430019,DIGITAL INSULATION TESTER,Slow Moving,Very Slow Moving,12609.48,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569018730019,DIGITAL MULTIMETER,Slow Moving,Slow Moving,1855.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505600260112,DIGITAL EARTH TESTER,Slow Moving,Slow Moving,33927.36,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+505600260112,DIGITAL EARTH TESTER,Slow Moving,Slow Moving,33927.36,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430512780011,DIGITAL CLAMP ON EARTH TESTER,Slow Moving,Very Slow Moving,297360.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430512780011,DIGITAL CLAMP ON EARTH TESTER,Slow Moving,Very Slow Moving,297360.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+430503440016,EARTH TESTER ( ANALOG),Dead Stock,Dead Stock,9430.56,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560412720017,CEL MAKE AXLE COUNTER TX COIL 710 P (SSDAC),Dead Stock,Dead Stock,14160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560412920018,CEL MAKE AXLE COUNTER RX COIL  (SSDAC),Dead Stock,Dead Stock,14160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561302480011,FM RX 2700 HZ,Dead Stock,Dead Stock,101480.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561302490016,FM TX 1800 HZ,Dead Stock,Dead Stock,253700.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861601030018,FIRE SURVIVAL ARMOURED CABLE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861601050017,PVC PIPE 25 MM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+501026750021,Mother Board Card (Puncom),Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861601020013,FIRE SURVIVAL UNARMOURED CABLE,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861601010019,TCP/IP MODULE ETHERNET MODULE RE-517 ME,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861601000014,MONITOR MODULE ADDRESSABLE RE- 717 MM,Dead Stock,Dead Stock,3000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600990018,CONTROL MODULE ADDRESSABLE RE-717 MC,Dead Stock,Dead Stock,5000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600980013,VISUAL STROBE AUDIO VISUAL ALARM,Dead Stock,Dead Stock,26816.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600970019,RELAY MODULE ADDRESSABLE RE -717 MR,Dead Stock,Dead Stock,3700.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600960014,ADDRESSABLE MANUAL CALL POINT RE 717 M,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600950010,GSM MODULE FOR CONTROL PANEL,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600940015,FIRE ALARM CONTROL PANEL ADDRESSABLE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600930010,LINEAR HEAT SENSING INTERFACE MODULES WITH EOL,Dead Stock,Dead Stock,3600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600920016,LINEAR HEAT SENSING CABLE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600910011,ISOLATOR BASE DETECTOR BASE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600900017,HEAT AND SMOKE MULTI SENSOR ADDRESSABLE,Dead Stock,Dead Stock,49000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861601040012,BATTERY 12 V/7 AH FOR FIRE ALARM SYSTEM,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509043320012,SELECTIVE CALLING MASTER TELPHONE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+503526670012,SELECTIVE CALLING SLAVE  TELEPHONE,Slow Moving,Very Slow Moving,16323.12,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539873250043,Portable data analyzer,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539873250043,Portable data analyzer,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+521566950010,ALL IN ONE DESKTOP COMPUTER,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003560048,FIRE ALARM RELAY MODULE WITH BACK BOX AND ACESSORIES AS PER RDSO/SPN/217/2018-VER 2.0,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003570030,FIRE ALARM UV/IR FLAME DETECTOR AS PER RDSO/SPN/217/2018/Ver - 2,Dead Stock,Dead Stock,346500.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003580035,FIRE ALARM ZONE INTERFACE MODULE WITH IN BUILT ISOLATOR AS PER RDSO/SPN/217/2018-VER 2,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569005120027,FIRE ALARM FAULT ISOLATOR WITH BACK BOX AS PER RDSO/SPN/217/2018-VER 2.0,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569012510010,FIRE ALARM ANALOGUE CONTROLLER FOR LHS CABLE AS PER RDSO/SPN/217/2018 VER.2,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+623500140951,PVC Conduit Pipe 25mm dia (3 mtr long),Dead Stock,Dead Stock,4750.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+860130141200,CO2 Fire extinguisher 4.5Kg capacity with all fittings and accessories.,Dead Stock,Dead Stock,20070.76,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+861600960026,FIRE ALARM ANALOGUE ADDRESSABLE AND RESETTABLE MANUAL CALL POINT WITH BACK BOX  AS PER RDS....,Dead Stock,Dead Stock,11000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567912550075,FIRE ALARM RESETTABLE TYPE ANALOGUE LHS CABLE AS PER RDSO/SPN/217/2018-VER 2.0,Dead Stock,Dead Stock,168000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003010085,FIRE ALARM NETWORKABLE SINGLE LOOP ADDRESSABLE FIRE ALARM CONTROL PANEL AS PER RDSO/SPN/21....,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003030023,FIRE ALARM FIRE SURVIVAL INTEGRITY CABLE 2 X 1.5 SQMM UNARMOURED AS PER RDSO/SPN/217/2018....,Dead Stock,Dead Stock,9947.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003030035,FIRE ALARM FIRE SURVIVAL INTERGRITY CABLE 2CX1.5SQMM ARMORED AS PER RDSO/SPN/217/2018 VER ....,Dead Stock,Dead Stock,158592.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003510057,FIRE ALARM CONTROL MODULE WITH BACKBOX WITH IN BUILT ISOLATOR AS PER RDSO/SPN/217/2018-VER....,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003520038,FIRE ALARM EOL AS PER RDSO/SPN/217/2018/VER - 2,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003530032,FIRE ALARM AUDIO VISUAL ALARM (HOOTER AND STROBE) WITH BACK BOX AS PER RDSO/SPN/217/2018 V....,Dead Stock,Dead Stock,75000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003530044,FIRE ALARM GSM INTER FACE MODULE FOR INTERFACING CONTROL PANELAS PER RDSO/SPN/217/2018-VER....,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003540050,FIRE ALARM HEAT AND SMOKE MULTI SENSOR AS PER RDSO /SPN/217/2018,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569003550031,FIRE ALARM PROBE TYPE BIMETALIC FIXED TEMPERATURE HEAT DETECTOR AS PER RDSO/SPN/217/2018 V....,Dead Stock,Dead Stock,47500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+563000011899,FIRE ALARM ASPIRATING (AIR SAMPLING )TYPE SMOKE DETECTOR AS PER RDSO/SPN/217/2018/Ver - 2,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549009350015,Conduit PVC Pipe  for Aspirating Air Sampling system.,Dead Stock,Dead Stock,11555.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569895450016,EARTHING AND BONDING SYSTEM FOR SIGNALLING EQUIPMENTS.Supply of following items .(Copper b....,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567916080016,"SPECIAL EARTH COMPLETE SET ( Earth Electrode, Earth enhancing Compound with all accessorie....",Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+771904040040,Paint Epoxy,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+771904040040,Paint Epoxy,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565100240010,EARTH ENHANCEMENT COMPOUND SET (25 kg+10 kg),Dead Stock,Dead Stock,659200.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565100250014,GI PIPE FOR EARTHING 2.5 Mtrs LONG,Dead Stock,Dead Stock,250880.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565100260019,MS FLAT 35 X 6mm,Dead Stock,Dead Stock,109200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601310010,DUAL MODEM CARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,95580.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601390016,POWER SUPPLY CARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,32922.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601280016,ANALOG SCANNER CARD WITHOUT CONTROLLER SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,47200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601270011,ANALOG SCANNER CARD WITH CONTROLLER SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,59000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601260017,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,94400.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601260017,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,94400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601170016,MOTHER BOARD SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Dead Stock,Dead Stock,64900.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569002650017,DATALOGGER GSM/GPRS MODEM &ADAPTOR CARD 4G,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001320010,RTU T NETWORKING MODEM WITH CARD,Dead Stock,Dead Stock,68440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529001320010,RTU T NETWORKING MODEM WITH CARD,Dead Stock,Dead Stock,68440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601590017,DUAL E1 CONVERTER SUITABLE FOR EFFTRONICS MAKE DATALOGGERS,Slow Moving,Very Slow Moving,323782.56,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+559003870013,Earth Electrodes as per drawing no.SG/CN/02/13,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565101240016,EARTH ENHANCEMENT COMPUND (25 Kg + 10 Kg),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407440014,SIGNAL CONDITIONER CARD No.2 (SCC-2) FOR CEL MAKE HASSDAC 720 P,Slow Moving,Very Slow Moving,80240.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407440014,SIGNAL CONDITIONER CARD No.2 (SCC-2) FOR CEL MAKE HASSDAC 720 P,Slow Moving,Very Slow Moving,80240.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560416700013,PD 2 CARD FOR GG TRONICS MAKE HASSDAC,Slow Moving,Very Slow Moving,89703.1,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560634480011,TRANSMITTER COIL CEL MAKE HASSDAC (CLAMP TYPE),Slow Moving,Slow Moving,68440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560633220017,PD 1 CARD FOR GG TRONICS MAKE HASSDAC,Slow Moving,Very Slow Moving,89703.1,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407230020,RELAY DRIVE CARD FOR CEL MAKE HASSDAC,Slow Moving,Very Slow Moving,191750.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560401890034,SIGNAL CONDITIONER CARD No.1 (SCC-1) FOR CEL MAKE HASSDAC,Slow Moving,Very Slow Moving,79060.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560407680037,EVENT LOGGER CARD   CEL MAKE  HASSDAC,Slow Moving,Very Slow Moving,197650.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560409840019,RELAY DRIVE CARD FOR GG TRONICS MAKE HASSDAC,Slow Moving,Very Slow Moving,25648.41,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560409840019,RELAY DRIVE CARD FOR GG TRONICS MAKE HASSDAC,Slow Moving,Very Slow Moving,25648.41,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411020012,HASSDAC EQUIPMENT GG TRONICS MAKE,Slow Moving,Very Slow Moving,4724890.34,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411020012,HASSDAC EQUIPMENT GG TRONICS MAKE,Slow Moving,Very Slow Moving,4724890.34,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411170010,Reset Card for Reset Box for GG Tronics Make HASSDAC,Slow Moving,Very Slow Moving,38709.58,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560411170010,Reset Card for Reset Box for GG Tronics Make HASSDAC,Slow Moving,Very Slow Moving,38709.58,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406670024,DC DC CONVERTER FOR CEL MAKE HASSDAC,Slow Moving,Very Slow Moving,96760.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560634490016,RECEIVER COIL CEL MAKE HASSDAC (CLAMP TYPE),Slow Moving,Slow Moving,68440.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560416420016,SM CPU Card for GG Tronics Make HASSDAC,Slow Moving,Very Slow Moving,138890.63,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560625830010,CPU 1 CARD FOR GG TRONICS MAKE HASSDAC,Dead Stock,Dead Stock,129977.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560418040016,PS (24V-48V) Card for GG Tronics make HASSDAC,Slow Moving,Slow Moving,26479.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560412880010,DUAL MLB CARD CARD  FOR CEL MAKE HASSDAC,Slow Moving,Slow Moving,95580.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601330019,CC CARD SUITABLE FOR DELTRON MAKE UFSBI,Dead Stock,Dead Stock,100300.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627100010,CPU CARD SUITABLE FOR DELTRON MAKE UFSBI,Dead Stock,Dead Stock,125080.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560417730013,RSR 180 (GS 05) Wheel Sensor with protection tube 10 mtr cable FRAUSCHER make MSDAC,Active,Active,1238056.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560417140015,(60 KG) SK 140-011 PLATE WITH BOLT SUITABLE FOR FRAUSCHER MAKE MSDAC,Active,Active,587814.64,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560412710012,SK 30H DOUBLE RAIL CONTACT WITH 4.0 MTRS CABLE FOR ELDYNE MAKE MSDAC,Active,Monitor,2492091.56,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560412490012,SK 30H DOUBLE RAIL CONTACT WITH 5.5 MTRS CABLE FOR ELDYNE MAKE MSDAC,Active,Monitor,4461728.68,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569800680037,Analog Card (AzLM) for Eldyne make Axle counter MSDAC,Slow Moving,Slow Moving,1683470.6,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560412630016,SPARE TRACK SIDE ELECTRONIC UNIT (EAK-AzLM) FOR ELDYNE MAKE MSDAC,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601730010,GDT CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601730010,GDT CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601540014,POWER SUPPLY CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601540014,POWER SUPPLY CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601550019,ANALOG SCANNER CARD WITHOUT CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601550019,ANALOG SCANNER CARD WITHOUT CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601520015,ANALOG SCANNER CARD WITH CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601520015,ANALOG SCANNER CARD WITH CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601530010,DUAL MODEM CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601530010,DUAL MODEM CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601580012,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601580012,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,18604.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,18604.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,18604.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,18604.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,18604.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,60211.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,60211.2,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,60211.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,60211.2,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,60211.2,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,5192.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,5192.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,5192.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,5192.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406740014,CEL MAKE AXLE COUNTER TX COIL 710 P,Dead Stock,Dead Stock,1000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406720015,CEL  MAKE  AXLE COUNTER WITH ALL CARDS 710 A,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406730010,CEL MAKE  DAC VITAL RELAY BOX 710 P,Dead Stock,Dead Stock,2000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406750019,CEL MAKE AXLE COUNTER WITH ALL CARDS 710 P,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406760013,CEL MAKE RESET BOX 710 P,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406790017,GG TRONICS MAKE AXLE COUNTER VITAL RELAY BOX,Dead Stock,Dead Stock,14000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406800011,GG TRONICS MAKE AXLE COUNTER RESET BOX,Dead Stock,Dead Stock,10000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406770018,GG TRONICS MAKE AXLE COUNTER WITH CARDS,Dead Stock,Dead Stock,6000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560406780012,GG TRONICS MAKE AXLE COUNTER  TX AND RX COIL,Dead Stock,Dead Stock,6000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+553000030018,HAND PLUNGER LOCK,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611390017,TAG BLOCK (ON RELAY RACK),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541002440019,RELAY RACK (WITH JACK),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+541100390011,CT RACK ( WITH TERMINALS),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+551200860013,Crank of various sizes,Slow Moving,Very Slow Moving,6760.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611370018,RELAY JACK (ON RELAY RACK),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611350019,60 MM TERMINALS (ON CT RACK),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611360013,FUSE BLOCK PBT (ON CT RACK),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560611380012,50 WAY TERMINAL ( ON RELAY RACK),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561302780018,FM TX 2700 HZ,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+470202020014,DIESEL GENERATOR 15 KVA,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469077270016,BLOCK INSTRUMENT FM TYPE,Active,Active,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+469077280010,BLOCK INSTRUMENT D/L SGE,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600260014,PANEL KNOB YELLOW,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600250010,PANEL KNOB GREEN,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600240015,PANEL KNOB BLACK,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600230010,PANEL KNOB RED,Dead Stock,Dead Stock,90.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600220016,THUMB SWITCH 3 POSITION,Dead Stock,Dead Stock,165.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600210011,THUMB SWITCH 2 POSITION,Dead Stock,Dead Stock,1250.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600200017,PANEL PUSH SWITCH WITHOUT CONTACT,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600190012,PANEL PUSH SWITCH  WHITE/RED (WITH CONTACT),Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560600180018,Cancellation Counter for panel (Electromagnetic),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+465508680036,Scrap Cu catenary wire 65 sq mm Released,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560601135847,EI PSU CARD ANSALDO MAKE (REALEASED),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560601140041,EI CPU CARD ANSALDO MAKE (RELEASED),Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561620291490,BATTERY CHARGER 110/24V/30 Amps,Dead Stock,Dead Stock,17422.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+783007173032,WOODEN RACK,Active,Monitor,500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500605750020,19 30U rack,Active,Monitor,500.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Dead Stock,Dead Stock,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500026,APPARATUS CASE GRS FULL,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008610017,APPARATUS CASE  FOR RTU,Slow Moving,Slow Moving,771506.67,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+549008610017,APPARATUS CASE  FOR RTU,Slow Moving,Slow Moving,771506.67,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509843670108,CABLE 48 FIBER OFC,Active,Monitor,197149.68,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE 2C x 25sqmm,Active,Monitor,581059.98,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE 2C x 25sqmm,Active,Monitor,581059.98,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,CABLE 2C x 25sqmm,Active,Monitor,581059.98,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,Cable 12 C  X  1.5 sqmm,Slow Moving,Slow Moving,2817710.08,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,Cable 12 C  X  1.5 sqmm,Slow Moving,Slow Moving,2817710.08,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,Cable 12 C  X  1.5 sqmm,Slow Moving,Slow Moving,2817710.08,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,CABLE  19C x 1.5sqmm,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,CABLE  19C x 1.5sqmm,Dead Stock,Dead Stock,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE  24C X 1.5 sqmm.,Slow Moving,Very Slow Moving,762960.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE  24C X 1.5 sqmm.,Slow Moving,Very Slow Moving,762960.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE  24C X 1.5 sqmm.,Slow Moving,Very Slow Moving,762960.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE  24C X 1.5 sqmm.,Slow Moving,Very Slow Moving,762960.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539847830064,Cable 12 Fibre OFC,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195651400,CABLE 60C x 1sqmm Unarmored Indore cable,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Active,Monitor,8176190.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Active,Monitor,8176190.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561195900010,CABLE 6 QUAD JELLY FILLED.,Active,Monitor,8176190.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Cable 30 C x  1.5  sqmm,Slow Moving,Slow Moving,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Cable 30 C x  1.5  sqmm,Slow Moving,Slow Moving,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Cable 30 C x  1.5  sqmm,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Cable 30 C x  1.5  sqmm,Slow Moving,Slow Moving,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED MAIN SIGNAL GREEN (INBUILT),Slow Moving,Very Slow Moving,0.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED MAIN SIGNAL GREEN (INBUILT),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED MAIN SIGNAL GREEN (INBUILT),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED MAINSIGNAL RED (INBUILT),Slow Moving,Slow Moving,237331.51,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED MAINSIGNAL RED (INBUILT),Slow Moving,Slow Moving,237331.51,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED MAINSIGNAL RED (INBUILT),Slow Moving,Slow Moving,237331.51,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED MAIN SIGNAL YELLOW ( INBUILT),Slow Moving,Very Slow Moving,8790.06,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED MAIN SIGNAL YELLOW ( INBUILT),Slow Moving,Very Slow Moving,8790.06,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED MAIN SIGNAL YELLOW ( INBUILT),Slow Moving,Very Slow Moving,8790.06,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Slow Moving,Slow Moving,101376.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Slow Moving,Slow Moving,101376.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,RELAY QBCA1,Slow Moving,Slow Moving,101376.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1 ACI 8F/8B,Active,Active,840720.48,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1 ACI 8F/8B,Active,Active,840720.48,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500142,RELAY QNA1 ACI 8F/8B,Active,Active,840720.48,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B,Active,Monitor,831451.61,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B,Active,Monitor,831451.61,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56508116,RELAY QN1 8F/8B,Active,Monitor,831451.61,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567907020018,Relay QNA1K,Slow Moving,Very Slow Moving,422940.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567907020018,Relay QNA1K,Slow Moving,Very Slow Moving,422940.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567904138020,SMPS Based IPS for LC Gate,Slow Moving,Slow Moving,1200000.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567904138020,SMPS Based IPS for LC Gate,Slow Moving,Slow Moving,1200000.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560634990013,SPD CLASS B&C 230V AC,Slow Moving,Very Slow Moving,739000.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560603070017,RELAY KLCR,Active,Active,355534.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Active,Active,128519.56,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Active,Active,128519.56,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560604290013,Earth leakage detector,Active,Active,128519.56,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE 110V,Slow Moving,Very Slow Moving,311008.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE 110V,Slow Moving,Very Slow Moving,311008.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301571,ROTARY TYPE  POINT MACHINE 110V,Slow Moving,Very Slow Moving,311008.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+569039470023,PMDC MOTOR 24V DC 90W,Dead Stock,Dead Stock,103864.08,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560628430017,"Maintenance free earthing consist of earthing rod 3 mtr-01 no, Copper Strip (300x25x6mm)-0....",Dead Stock,Dead Stock,49964.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560640260013,"Maintenance free earthing consist of earthing rod 3 mtr-01 no, Copper Strip (300x25x6mm)-0....",Active,Active,64000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560641420012,"Maintenance free earthing consist of earthing rod 3 mtr-01 no, Copper Strip (300x25x6mm)-0....",Active,Active,492000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Monitor,48176.31,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Monitor,48176.31,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Monitor,48176.31,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Monitor,48176.31,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,65863.35,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,65863.35,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,65863.35,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,65863.35,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,65863.35,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,200569.07,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,200569.07,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,200569.07,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,200569.07,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,200569.07,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539852970129,ELECTRICAL LIFTING BARRIER BOOM 9.76M,Dead Stock,Dead Stock,119600.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560631570037,EXTERNAL MEDIA CONVERTERS FOR RTU,Active,Monitor,551650.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560645070019,Optical Patch chord (10 mtrs long),Active,Active,22704.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560631570013,RS232 serial communication to optical fiber media converter,Slow Moving,Very Slow Moving,6256000.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560631560019,GSM Modem and Adapter card,Active,Active,132000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565099653515,64 digital / 16 analog input RTU for LC Gate,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+869055270061,Patch cords for media converter (20 mtrs long),Active,Monitor,90860.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+565001450025,Battery charger 230V AC/24V DC/ 10A with a pair of cells,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601730010,GDT CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,27258.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601730010,GDT CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,27258.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601580012,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE RTU,Active,Active,47200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601580012,PROCESSOR CARD SUITABLE FOR EFFTRONICS MAKE RTU,Active,Active,47200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601550019,ANALOG SCANNER CARD WITHOUT CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,47200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601550019,ANALOG SCANNER CARD WITHOUT CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,47200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601540014,POWER SUPPLY CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,43999.84,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601540014,POWER SUPPLY CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,43999.84,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601530010,DUAL MODEM CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,132160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601530010,DUAL MODEM CARD SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,132160.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601520015,ANALOG SCANNER CARD WITH CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,59000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564601520015,ANALOG SCANNER CARD WITH CONTROLLER SUITABLE FOR EFFTRONICS MAKE RTU,Slow Moving,Very Slow Moving,59000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+529019560018,T Networking of RTU with Existing datalogger,Slow Moving,Slow Moving,301000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561500180019,VRLA BATTERY 2V/200AH (60 NOS AS A SET ),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+561500180019,VRLA BATTERY 2V/200AH (60 NOS AS A SET ),Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+623500141475,PVC Conduit Pipe 25mm dia,Slow Moving,Slow Moving,58904.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+759098206963,Permanently Solid Lubricated HDPE Pipe,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707830017,PIPE GI 100 MM DIA,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707830017,PIPE GI 100 MM DIA,Slow Moving,Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707820012,PIPE GI 50 MM DIA,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+620707820012,PIPE GI 50 MM DIA,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+623500980023,Pipe DWC,Active,Monitor,464284.8,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+623500980023,Pipe DWC,Active,Monitor,464284.8,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Active,Active,267000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Active,Active,267000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000220019,Cable Jointing Kit for 6 Quad Cable,Active,Active,267000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+400909210012,cable 3 C x 2.5 sqmm,Slow Moving,Very Slow Moving,203000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+401107521160,CAT6 STP Cable,Slow Moving,Slow Moving,21350.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500501150012,10 pair CT Box,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+500501150012,10 pair CT Box,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804990010,9 U Rack,Slow Moving,Slow Moving,507400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539804990010,9 U Rack,Slow Moving,Slow Moving,507400.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+539805023016,12 FIBER FDMS,Active,Monitor,204000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+509000404441,OFC Joint Enclosure,Active,Monitor,40200.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+669080620057,Ferrule Printer,Slow Moving,Very Slow Moving,0.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522000650514,BATTERY CHARGER 110/24V/15A.,Slow Moving,Very Slow Moving,304210.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+522000650514,BATTERY CHARGER 110/24V/15A.,Slow Moving,Very Slow Moving,304210.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+403300300014,WIRE COIL 3/ 0.75  SQMM,Slow Moving,Very Slow Moving,39034.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+403300300014,WIRE COIL 3/ 0.75  SQMM,Slow Moving,Very Slow Moving,39034.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+400900850016,WIRE PVC 16/0.2 MM,Active,Active,16024.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+400900850016,WIRE PVC 16/0.2 MM,Active,Active,16024.4,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Active,Active,54000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Active,Active,54000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570100589801,UPS 1 KVA,Active,Active,54000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560641350010,DC DC CONVERTER 24-32 V/10A (HBL),Active,Monitor,216000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+564800530021,DC DC CONVERTER 24-32 V/10A (AMARA RAJA IPS),Slow Moving,Slow Moving,216000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Slow Moving,Slow Moving,360000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Slow Moving,Slow Moving,360000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+560627260013,DC DC Converter 24-32V/10A STATCON make,Slow Moving,Slow Moving,360000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570193670014,DUAL VDU 55 INCH WITH EMBEDDED PC AND POWER SUPPLY ARRANGEMENTS,Active,Active,1783007.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,70400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,70400.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,70400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,70400.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,ARA PBT TERMINAL 25MM,Active,Active,70400.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,820.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,820.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,820.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+567913580014,ARA PBT FUSE BLOCK,Active,Active,820.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,48000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,48000.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,48000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,48000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,ARA PBT TERMINAL 60MM,Active,Active,48000.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570193300016,Industrial Grade Embedded Fan less PC,Active,Monitor,598914.0,B,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C X 1.5 SQ.MM,Active,Active,8192052.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C X 1.5 SQ.MM,Active,Active,8192052.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C X 1.5 SQ.MM,Active,Active,8192052.0,C,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,CABLE 30 C X 1.5 SQ.MM,Active,Active,8192052.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570193490012,VDU 85 WITH EMBEDDED PC AND POWER SUPLY ARRANGEMENTS,Active,Monitor,4973988.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+570193480018,VDU 75 WITH EMBEDDED PC AND POWER SUPLY ARRANGEMENTS,Active,Monitor,2594170.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X 1.5 sqmm.,Active,Active,777728.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X 1.5 sqmm.,Active,Active,777728.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X 1.5 sqmm.,Active,Active,777728.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,CABLE 24 C X 1.5 sqmm.,Active,Active,777728.0,A,Operational,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

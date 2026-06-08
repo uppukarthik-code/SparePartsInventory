@@ -1,0 +1,51 @@
+PL_Code,Description,Criticality,Service_Risk_Reduction_Score,Criticality_Contribution,Service_Contribution,Gap_Contribution,Reserve_Allocation_Flag,Funding_Decision
+56509959,Cable 12 C x 1.5 Sq.mm,S1,3697861.72,15.2,6.8,78.0,False,Not Funded
+56119537,Cable 2 C x 2.5 sq.mm,S1,1652855.04,16.1,6.1,77.8,False,Funded
+56501018,Cable 30 C x 1.5 Sq.mm,S1,1636724.6,16.1,7.2,76.7,False,Not Funded
+56501006,Cable 24 C x 1.5 Sq.mm,S1,1489725.16,16.2,7.2,76.6,False,Not Funded
+56509960,Cable 2 C x 25 sq.mm,S1,390600.2,17.9,0.0,82.1,False,Not Funded
+41095066,PVC Insulation TAPE (Mtrs),S4,270940.54,0.0,0.0,100.0,False,Funded
+56507641,Channel Bond Pin,S3,215138.22,5.6,0.0,94.4,False,Funded
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,S2,189557.29,13.2,7.9,78.9,False,Not Funded
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,S2,188698.77,13.2,7.9,78.9,False,Not Funded
+56119033,Cable 19 C x 1.5 sq.mm,S1,154142.3,19.3,0.0,80.7,False,Not Funded
+56468039,LED Red aspect with accessories,S1,97368.88,20.0,9.0,71.0,False,Not Funded
+56468052,LED Yellow aspect with accessories,S1,87708.6,20.2,9.0,70.7,False,Not Funded
+50232356/50232319,Magneto telephone,S2,78079.3,14.3,8.5,77.2,False,Not Funded
+56987122/56110029,Cable 3 C x 10 sq.mm,S1,70694.8,20.6,0.0,79.4,False,Not Funded
+56468040,LED Green Aspect with accessories,S1,70601.72,20.6,9.2,70.2,False,Not Funded
+56468027,Route LED Signal lightning unit 100 V AC,S1,54262.08,21.1,8.0,70.8,False,Not Funded
+56462050,AC Shunt Signal LED with in built current regulator,S1,41454.24,21.7,8.2,70.1,False,Not Funded
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,S2,13910.3,16.9,7.3,75.9,False,Not Funded
+40981381,Wire coil PVC 16/0.2 mm,S3,12949.5,7.3,0.0,92.7,False,Funded
+56468064,Calling on LED Signal lightning unit 100 V AC,S1,6691.4,26.1,0.0,73.9,False,Not Funded
+56451027,Relay AC  Immune Plug in  type style-QBCA1,S3,6501.74,7.9,0.0,92.1,False,Not Funded
+72081181/72207413,Drill Twist 7.2 mm,S3,5118.46,8.1,0.0,91.9,False,Funded
+56450217,Relay AC Immune Plug in type style-QSPA1,S3,3682.78,8.4,0.0,91.6,False,Not Funded
+56450229,Relay AC Immune Plug in type style-QTA2,S3,2315.06,8.9,0.0,91.1,False,Not Funded
+50360693/50370110,4 wire way station control telephone RDSO/SPN IRS.TC.38/97 with latest amendment,S4,1426.24,0.0,0.0,100.0,False,Not Funded
+45174404/45174416,Hydro meter complete set,S3,1364.52,9.6,0.0,90.4,False,Funded
+56301704,Ground Connection for IRS Point Machine,S4,649.26,0.0,0.0,100.0,False,Funded
+40070359,Wire coil 3/0 75 mm,S4,500.0,0.0,0.0,100.0,False,Funded
+52156576/56500452,Battery charger 230V AC 110V DC 30A,S2,492.9,26.0,11.2,62.9,False,Not Funded
+50370080,4 Wire DTMP Way Station Equipment,S3,422.32,11.5,0.0,88.5,False,Funded
+50210014,Emergency Socket Box,S3,421.82,11.5,0.0,88.5,False,Funded
+56502606,Fuse ND type RDSO spn 78/92 10 Amps,S2,205.15,30.2,0.0,69.8,True,Funded
+50901126,Lead Acid Batteries  - 4V/12 AH,S2,190.0,30.7,0.0,69.3,True,Funded
+56985526,Fuse ND Type RDSO Spn 78/92 4A Maps,S4,150.0,0.0,0.0,100.0,False,Funded
+47200054/47200250,Transformer 230/110V  - 1 KVA,S3,136.96,14.1,0.0,85.9,False,Not Funded
+56160100,Battery Charger 230V/24V 40 AMPS,S2,105.3,34.6,0.0,65.4,True,Funded
+67900185,Auto Battery 12V/75AH,S4,66.03,0.0,0.0,100.0,False,Funded
+54252222,E-TYPE LOCK,S4,53.5,0.0,0.0,100.0,False,Funded
+56505959,RKT single various wards,S4,46.0,0.0,0.0,100.0,False,Not Funded
+52156618/56509935,Battery charger 230V  AC/24V DC-20A,S2,42.15,43.0,0.0,57.0,True,Funded
+56511516,Railjoint Insulation 60Kg.,S2,36.9,44.6,0.0,55.4,True,Funded
+56060002,RAIL JOINT INSULATION 52kg. nylon comp.,S4,36.0,0.0,0.0,100.0,False,Funded
+56986210,FS CABLE,S4,22.5,0.0,0.0,100.0,False,Funded
+54253561,Hand Plungerlock with key,S3,13.16,26.9,0.0,73.1,False,Funded
+67900203,Auto Battery  12V X130 AH 19 plate,S3,5.24,41.8,0.0,58.2,False,Funded
+50132453,Telephone card 3 Way 1.5m long,S3,3.76,52.3,0.0,47.7,False,Funded
+56500350,Battery charger 110V AC 24V DC 30A,S4,2.62,0.0,0.0,100.0,False,Funded
+50132600,Telephone card 3 Way 1.5m long,S4,2.5,0.0,0.0,100.0,False,Funded
+56509686,Transformer 230/110V  -  3 KVA,S4,1.9,0.0,0.0,100.0,False,Funded
+56160112,BATTERY CHARGER 230V/24V/50AMPS,S4,1.05,0.0,0.0,100.0,False,Funded

@@ -1,0 +1,2 @@
+Candidate_Signal,Compared_To,Common_PLs,TP,FP,FN,TN,Precision,Recall,Strength
+col4 Type (Safety/Vital vs NA),59 strategic S1-S4 items,32,20,7,1,4,0.741,0.952,Moderate

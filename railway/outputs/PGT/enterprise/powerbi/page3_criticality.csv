@@ -1,0 +1,60 @@
+PL_Code,Description,Criticality,Criticality_Name,ABC_Class,Normalized_Inventory_Value,Forecast_2026_27,Inventory_Status,Source_Universe,Inventory_Domain,Business_Unit,Division,Depot,Snapshot_Date,Pipeline_Version
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,S2,Operational Critical,A,14847078.4,7197.9,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501018,Cable 30 C x 1.5 Sq.mm,S1,Safety Critical,A,8223868.72,28364.23,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,S2,Operational Critical,A,9755776.0,4135.36,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509959,Cable 12 C x 1.5 Sq.mm,S1,Safety Critical,A,9145084.48,66258.84,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468039,LED Red aspect with accessories,S1,Safety Critical,A,8390059.6,1556.04,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468052,LED Yellow aspect with accessories,S1,Safety Critical,A,5628996.48,1500.82,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468040,LED Green Aspect with accessories,S1,Safety Critical,A,4798767.36,1287.44,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50232356/50232319,Magneto telephone,S2,Operational Critical,A,598135.2,1769.51,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56501006,Cable 24 C x 1.5 Sq.mm,S1,Safety Critical,A,3120984.36,38250.32,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119537,Cable 2 C x 2.5 sq.mm,S1,Safety Critical,B1,4207173.57,59866.54,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450217,Relay AC Immune Plug in type style-QSPA1,S3,Service Critical,B1,1552200.32,1138.35,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468027,Route LED Signal lightning unit 100 V AC,S1,Safety Critical,B1,1903536.8,1477.05,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56462050,AC Shunt Signal LED with in built current regulator,S1,Safety Critical,B1,2484372.0,1271.87,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,S2,Operational Critical,B2,1592263.68,970.46,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56450229,Relay AC Immune Plug in type style-QTA2,S3,Service Critical,B2,367607.76,1581.69,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+52156576/56500452,Battery charger 230V AC 110V DC 30A,S2,Operational Critical,B2,417130.0,45.37,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56468064,Calling on LED Signal lightning unit 100 V AC,S1,Safety Critical,B2,1026954.0,594.46,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50370080,4 Wire DTMP Way Station Equipment,S3,Service Critical,B2,624456.0,632.39,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56451027,Relay AC  Immune Plug in  type style-QBCA1,S3,Service Critical,B2,154917.42,2090.62,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50360693/50370110,4 wire way station control telephone RDSO/SPN IRS.TC.38/97 with latest amendment,S4,Non Critical,C,817338.8,748.1,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231832/50231881,Telephone Electronic Push Button,S3,Service Critical,C,540504.9,1084.0,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56163034,Voltage stabilizer 3 KVA-230V.,S3,Service Critical,C,659472.5,12.47,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509376,A.R.A Terminal Block 25mm PBT small,S2,Operational Critical,C,534684.0,14956.92,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50210014,Emergency Socket Box,S3,Service Critical,C,740695.44,175.63,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56987122/56110029,Cable 3 C x 10 sq.mm,S1,Safety Critical,C,496466.12,2277.56,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50353603,Portable 4 wire Emergency Control Telephone with six pin flat type socket,S3,Service Critical,C,470112.0,338.87,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+72081181/72207413,Drill Twist 7.2 mm,S3,Service Critical,C,178097.6,6878.08,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502540,Fuse ND type  RDSO spn 78/92 6 Amps,S2,Operational Critical,C,284011.75,6283.91,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56507641,Channel Bond Pin,S3,Service Critical,C,216710.64,272191.42,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509388,A.R.A Terminal Block 60mm PBT,S2,Operational Critical,C,208152.0,5315.06,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502576,Fuse ND type RDSO spn 78/92 16 Amps,S2,Operational Critical,C,295081.92,4379.46,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56502606,Fuse ND type RDSO spn 78/92 10 Amps,S2,Operational Critical,C,251043.0,4053.4,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+47200054/47200250,Transformer 230/110V  - 1 KVA,S3,Service Critical,C,13095.64,52.73,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+91150401,SOLDER CORE RESIN FILLED (Kgs.),S4,Non Critical,C,292282.5,80.15,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50231959,Telephone Electronic Push Button   main - Extn .1+1,S3,Service Critical,C,646750.0,91.6,Sufficient,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54253561,Hand Plungerlock with key,S3,Service Critical,C,13924.0,17.71,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+45174404/45174416,Hydro meter complete set,S3,Service Critical,C,74690.72,1352.95,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509960,Cable 2 C x 25 sq.mm,S1,Safety Critical,C,10637.35,21631.94,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900203,Auto Battery  12V X130 AH 19 plate,S3,Service Critical,C,0.0,10.5,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56500350,Battery charger 110V AC 24V DC 30A,S4,Non Critical,C,0.0,28.72,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+52156618/56509935,Battery charger 230V  AC/24V DC-20A,S2,Operational Critical,C,0.0,8.1,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50901126,Lead Acid Batteries  - 4V/12 AH,S2,Operational Critical,C,0.0,114.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+40981381,Wire coil PVC 16/0.2 mm,S3,Service Critical,C,0.0,25899.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160100,Battery Charger 230V/24V 40 AMPS,S2,Operational Critical,C,0.0,8.15,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56119033,Cable 19 C x 1.5 sq.mm,S1,Safety Critical,C,80522.49,10214.28,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56511516,Railjoint Insulation 60Kg.,S2,Operational Critical,C,0.0,88.5,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50132453,Telephone card 3 Way 1.5m long,S3,Service Critical,C,0.0,7.5,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+54252222,E-TYPE LOCK,S4,Non Critical,C,0.0,321.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56505959,RKT single various wards,S4,Non Critical,C,0.0,276.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+67900185,Auto Battery 12V/75AH,S4,Non Critical,C,0.0,43.92,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56509686,Transformer 230/110V  -  3 KVA,S4,Non Critical,C,0.0,11.4,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56301704,Ground Connection for IRS Point Machine,S4,Non Critical,C,0.0,149.52,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56986210,FS CABLE,S4,Non Critical,C,0.0,135.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56160112,BATTERY CHARGER 230V/24V/50AMPS,S4,Non Critical,C,0.0,6.3,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56060002,RAIL JOINT INSULATION 52kg. nylon comp.,S4,Non Critical,C,0.0,216.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+50132600,Telephone card 3 Way 1.5m long,S4,Non Critical,C,0.0,15.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+41095066,PVC Insulation TAPE (Mtrs),S4,Non Critical,C,0.0,261761.4,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+40070359,Wire coil 3/0 75 mm,S4,Non Critical,C,0.0,3000.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0
+56985526,Fuse ND Type RDSO Spn 78/92 4A Maps,S4,Non Critical,C,0.0,900.0,Procurement Required,Strategic,Railway_Operations,MAS,Chennai,,2026-03-31,12.5.0

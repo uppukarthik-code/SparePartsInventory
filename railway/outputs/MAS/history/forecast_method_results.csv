@@ -1,0 +1,962 @@
+PL_Code,Demand_Pattern,XYZ_Class,Forecast_Method,Forecastability_Class
+400600041170,Intermittent,Z,SBA,Very Low
+401107494209,Intermittent,Z,SBA,Very Low
+402500150037,Lumpy,Z,TSB,Very Low
+405000010983,Lumpy,Z,TSB,Low
+409002561998,Erratic,Z,Croston,Medium
+40981381,Intermittent,Z,SBA,Very Low
+421100070120,Lumpy,Z,TSB,Very Low
+423500060515,Intermittent,Z,SBA,Very Low
+429079389199,Lumpy,Z,TSB,Very Low
+430200021416,Intermittent,Z,SBA,Very Low
+430200021910,Intermittent,Z,SBA,Very Low
+430200028538,Lumpy,Z,TSB,Low
+430600150050,Intermittent,Z,SBA,Very Low
+430800141263,Intermittent,Z,SBA,Very Low
+431002240078,Intermittent,Z,SBA,Very Low
+431500022334,Lumpy,Z,TSB,Very Low
+432900164003,Intermittent,Z,SBA,Very Low
+45174416,Smooth,Y,SES/Holt,Medium
+460151414110,Intermittent,Z,SBA,Very Low
+461500560400,Intermittent,Z,SBA,Very Low
+462100771569,Lumpy,Z,TSB,Very Low
+464214132778,Intermittent,Z,SBA,Very Low
+469033852322,Intermittent,Z,SBA,Very Low
+469041991352,Intermittent,Z,SBA,Very Low
+469062580055,Intermittent,Z,SBA,Very Low
+469863050743,Lumpy,Z,TSB,Low
+470200493776,Intermittent,Z,SBA,Very Low
+47200250,Intermittent,Z,SBA,Very Low
+500500680030,Intermittent,Z,SBA,Very Low
+501000243442,Intermittent,Z,SBA,Very Low
+501000263740,Lumpy,Z,TSB,Very Low
+501000423936,Intermittent,Z,SBA,Very Low
+501300041401,Intermittent,Z,SBA,Very Low
+50232319,Intermittent,Z,SBA,Low
+502355361120,Lumpy,Z,TSB,Very Low
+502355561004,Lumpy,Z,TSB,Very Low
+502355770020,Lumpy,Z,TSB,Low
+503523410740,Lumpy,Z,TSB,Very Low
+503523410891,Lumpy,Z,TSB,Very Low
+50540324,Erratic,Z,Croston,Medium
+50541523,Lumpy,Z,TSB,Very Low
+50550081,Lumpy,Z,TSB,Medium
+508500010799,Intermittent,Z,SBA,Very Low
+508500690051,Intermittent,Z,SBA,Very Low
+508501090018,Intermittent,Z,SBA,Very Low
+508502470029,Intermittent,Z,SBA,Very Low
+508503310060,Intermittent,Z,SBA,Very Low
+508503570895,Intermittent,Z,SBA,Very Low
+509000396559,Lumpy,Z,TSB,Low
+509000405457,Intermittent,Z,SBA,Very Low
+509004730016,Intermittent,Z,SBA,Very Low
+509051280160,Intermittent,Z,SBA,Very Low
+520504660025,Lumpy,Z,TSB,Very Low
+521100810024,Intermittent,Z,SBA,Very Low
+521102480039,Intermittent,Z,SBA,Very Low
+521102480040,Intermittent,Z,SBA,Very Low
+521104340026,Lumpy,Z,TSB,Very Low
+521501630045,Intermittent,Z,SBA,Very Low
+522002010024,Lumpy,Z,TSB,Very Low
+522002180021,Intermittent,Z,SBA,Very Low
+522002180033,Intermittent,Z,SBA,Very Low
+522004290085,Intermittent,Z,SBA,Very Low
+522004290103,Intermittent,Z,SBA,Very Low
+522004290115,Intermittent,Z,SBA,Very Low
+522004290127,Intermittent,Z,SBA,Very Low
+522004290139,Intermittent,Z,SBA,Very Low
+528100010050,Lumpy,Z,TSB,Very Low
+528100010103,Intermittent,Z,SBA,Very Low
+528100030023,Lumpy,Z,TSB,Very Low
+539800218676,Intermittent,Z,SBA,Low
+539800218688,Intermittent,Z,SBA,Low
+539800218690,Intermittent,Z,SBA,Very Low
+539800456678,Intermittent,Z,SBA,Very Low
+539800639499,Intermittent,Z,SBA,Very Low
+539800699782,Intermittent,Z,SBA,Very Low
+539801491121,Lumpy,Z,TSB,Very Low
+539801491133,Intermittent,Z,SBA,Very Low
+539801491145,Intermittent,Z,SBA,Very Low
+539801491157,Intermittent,Z,SBA,Very Low
+539801491169,Intermittent,Z,SBA,Very Low
+539801568695,Intermittent,Z,SBA,Very Low
+539801568713,Intermittent,Z,SBA,Very Low
+539801568725,Intermittent,Z,SBA,Very Low
+539802239713,Lumpy,Z,TSB,Very Low
+539802616569,Intermittent,Z,SBA,Very Low
+539802616703,Intermittent,Z,SBA,Very Low
+539802804118,Lumpy,Z,TSB,Low
+539802804167,Lumpy,Z,TSB,Very Low
+539802831377,Intermittent,Z,SBA,Very Low
+539802852010,Intermittent,Z,SBA,Very Low
+539802862386,Lumpy,Z,TSB,Very Low
+539802900879,Intermittent,Z,SBA,Very Low
+539804752183,Lumpy,Z,TSB,Very Low
+539805021573,Intermittent,Z,SBA,Very Low
+539805046442,Lumpy,Z,TSB,Very Low
+539805046570,Lumpy,Z,TSB,Low
+539805350052,Lumpy,Z,TSB,Very Low
+539805423687,Lumpy,Z,TSB,Very Low
+539805423699,Intermittent,Z,SBA,Very Low
+539805423857,Intermittent,Z,SBA,Very Low
+539805423912,Intermittent,Z,SBA,Very Low
+539805423924,Intermittent,Z,SBA,Very Low
+539805714955,Intermittent,Z,SBA,Very Low
+539805721194,Intermittent,Z,SBA,Very Low
+539805734220,Intermittent,Z,SBA,Low
+539805736252,Intermittent,Z,SBA,Very Low
+539805771483,Intermittent,Y,SBA,Low
+539805825807,Intermittent,Z,SBA,Very Low
+539805880508,Intermittent,Z,SBA,Very Low
+539805880545,Intermittent,Z,SBA,Very Low
+539806099363,Lumpy,Z,TSB,Very Low
+539806099570,Intermittent,Z,SBA,Very Low
+539809127060,Intermittent,Z,SBA,Very Low
+539809943549,Intermittent,Z,SBA,Very Low
+539809943550,Intermittent,Z,SBA,Very Low
+539810160026,Lumpy,Z,TSB,Very Low
+539810160051,Lumpy,Z,TSB,Very Low
+539810200024,Lumpy,Z,TSB,Very Low
+539810200036,Lumpy,Z,TSB,Low
+539810200048,Lumpy,Z,TSB,Very Low
+539810200050,Lumpy,Z,TSB,Low
+539810200190,Lumpy,Z,TSB,Low
+539810221015,Lumpy,Z,TSB,Very Low
+539810611024,Intermittent,Z,SBA,Low
+539810830056,Lumpy,Z,TSB,Very Low
+539811049986,Intermittent,Z,SBA,Very Low
+539811050022,Intermittent,Z,SBA,Very Low
+539811050046,Intermittent,Z,SBA,Very Low
+539811130029,Lumpy,Z,TSB,Low
+539811150030,Lumpy,Z,TSB,Very Low
+539811180021,Intermittent,Z,SBA,Very Low
+539811180045,Intermittent,Z,SBA,Very Low
+539811180057,Intermittent,Z,SBA,Very Low
+539811180069,Intermittent,Z,SBA,Very Low
+539811180070,Intermittent,Z,SBA,Very Low
+539811180082,Intermittent,Z,SBA,Very Low
+539811180094,Intermittent,Z,SBA,Very Low
+539811180100,Intermittent,Z,SBA,Very Low
+539811190026,Intermittent,Z,SBA,Very Low
+539811200020,Intermittent,Z,SBA,Very Low
+539811210025,Intermittent,Z,SBA,Very Low
+539811281019,Lumpy,Z,TSB,Very Low
+539811550250,Intermittent,Z,SBA,Very Low
+539811600022,Intermittent,Z,SBA,Very Low
+539811710022,Lumpy,Z,TSB,Very Low
+539812250020,Intermittent,Z,SBA,Very Low
+539812290028,Intermittent,Z,SBA,Very Low
+539812480024,Intermittent,Z,SBA,Very Low
+539812480036,Intermittent,Z,SBA,Very Low
+539812480048,Intermittent,Z,SBA,Very Low
+539812601022,Lumpy,Z,TSB,Low
+539812641044,Intermittent,Z,SBA,Very Low
+539812690020,Lumpy,Z,TSB,Low
+539812721052,Lumpy,Z,TSB,Very Low
+539812840016,Lumpy,Z,TSB,Medium
+539812900049,Lumpy,Z,TSB,Very Low
+539812910020,Lumpy,Z,TSB,Very Low
+539813440022,Intermittent,Z,SBA,Very Low
+539813440710,Intermittent,Z,SBA,Very Low
+539813442018,Intermittent,Z,SBA,Very Low
+539813960030,Intermittent,Z,SBA,Very Low
+539813960169,Intermittent,Z,SBA,Very Low
+539814380288,Intermittent,Z,SBA,Very Low
+539814380586,Intermittent,Z,SBA,Very Low
+539814382170,Intermittent,Z,SBA,Low
+539814460065,Lumpy,Z,TSB,Very Low
+539814460843,Intermittent,Z,SBA,Very Low
+539816700018,Lumpy,Z,TSB,Low
+539816761032,Lumpy,Z,TSB,Very Low
+539817320023,Intermittent,Z,SBA,Very Low
+539817320060,Intermittent,Z,SBA,Very Low
+539817430072,Intermittent,Z,SBA,Very Low
+539818371075,Lumpy,Z,TSB,Very Low
+539818371191,Intermittent,Z,SBA,Very Low
+539819621026,Lumpy,Z,TSB,Very Low
+539820831033,Lumpy,Z,TSB,Low
+539820860021,Lumpy,Z,TSB,Very Low
+539820980087,Intermittent,Z,SBA,Very Low
+539820980099,Lumpy,Z,TSB,Very Low
+539821090016,Lumpy,Z,TSB,Very Low
+539821091100,Lumpy,Z,TSB,Low
+539821091215,Intermittent,Z,SBA,Very Low
+539821910020,Lumpy,Z,TSB,Low
+539823791010,Intermittent,Z,SBA,Very Low
+539825241013,Lumpy,Z,TSB,Medium
+539825611059,Intermittent,Z,SBA,Very Low
+539825640023,Lumpy,Z,TSB,Very Low
+539825640047,Intermittent,Z,SBA,Low
+539825701012,Lumpy,Z,TSB,Low
+539827130024,Intermittent,Z,SBA,Very Low
+539827750105,Intermittent,Z,SBA,Low
+539827750129,Intermittent,Z,SBA,Very Low
+539828400035,Lumpy,Z,TSB,Very Low
+539829480026,Lumpy,Z,TSB,Very Low
+539829480038,Lumpy,Z,TSB,Very Low
+539829580021,Lumpy,Z,TSB,Very Low
+539829590166,Intermittent,Z,SBA,Very Low
+539829590180,Intermittent,Z,SBA,Very Low
+539829900088,Intermittent,Z,SBA,Very Low
+539830680131,Smooth,X,SES/Holt,Low
+539830920026,Intermittent,Z,SBA,Very Low
+539830920038,Intermittent,Z,SBA,Very Low
+539830920040,Intermittent,Z,SBA,Very Low
+539830920051,Intermittent,Z,SBA,Very Low
+539830920063,Intermittent,Z,SBA,Very Low
+539830920075,Intermittent,Z,SBA,Very Low
+539830920087,Intermittent,Z,SBA,Very Low
+539830920117,Intermittent,Z,SBA,Very Low
+539831440097,Intermittent,Z,SBA,Very Low
+539831871011,Intermittent,Z,SBA,Very Low
+539834880023,Intermittent,Z,SBA,Very Low
+539834880035,Lumpy,Z,TSB,Very Low
+539834880047,Lumpy,Z,TSB,Very Low
+539834880059,Intermittent,Z,SBA,Very Low
+539834880084,Lumpy,Z,TSB,Very Low
+539834880096,Lumpy,Z,TSB,Very Low
+539834880102,Intermittent,Z,SBA,Low
+539834880114,Intermittent,Z,SBA,Very Low
+539834880138,Lumpy,Z,TSB,Very Low
+539835220092,Intermittent,Z,SBA,Very Low
+539835220262,Lumpy,Z,TSB,Low
+539835790029,Intermittent,Z,SBA,Very Low
+539836000026,Lumpy,Z,TSB,Very Low
+539836000038,Intermittent,Z,SBA,Very Low
+539836000040,Lumpy,Z,TSB,Very Low
+539836000051,Lumpy,Z,TSB,Very Low
+539836410034,Lumpy,Z,TSB,Low
+539836631014,Lumpy,Z,TSB,Very Low
+539836631099,Intermittent,Z,SBA,Low
+539837611023,Intermittent,Z,SBA,Very Low
+539838080025,Lumpy,Z,TSB,Very Low
+539838080062,Lumpy,Z,TSB,Very Low
+539839010020,Intermittent,Z,SBA,Very Low
+539841501071,Intermittent,Z,SBA,Very Low
+539841501083,Lumpy,Z,TSB,Very Low
+539843690030,Intermittent,Z,SBA,Very Low
+539844210026,Intermittent,Y,SBA,Medium
+539844530070,Lumpy,Z,TSB,Very Low
+539844530094,Intermittent,Z,SBA,Very Low
+539845930018,Intermittent,Z,SBA,Very Low
+539847770031,Lumpy,Z,TSB,Very Low
+539847770043,Intermittent,Z,SBA,Very Low
+539848730089,Lumpy,Z,TSB,Very Low
+539849150019,Lumpy,Z,TSB,Low
+539849380013,Lumpy,Z,TSB,Low
+539849380025,Lumpy,Z,TSB,Very Low
+539849560064,Intermittent,Z,SBA,Very Low
+539849560076,Intermittent,Z,SBA,Very Low
+539849580026,Intermittent,Z,SBA,Very Low
+539849980028,Intermittent,Z,SBA,Very Low
+539850100016,Lumpy,Z,TSB,Very Low
+539850510024,Lumpy,Z,TSB,Very Low
+539851050021,Intermittent,Z,SBA,Very Low
+539851110029,Lumpy,Z,TSB,Medium
+539851170051,Lumpy,Z,TSB,Very Low
+539851170063,Intermittent,Z,SBA,Very Low
+539851240030,Lumpy,Z,TSB,Very Low
+539851240041,Lumpy,Z,TSB,Very Low
+539851240053,Intermittent,Z,SBA,Very Low
+539852990062,Intermittent,Z,SBA,Very Low
+539853160036,Lumpy,Z,TSB,Very Low
+539859090172,Intermittent,Z,SBA,Very Low
+539859140047,Lumpy,Z,TSB,Very Low
+539860410051,Intermittent,Z,SBA,Very Low
+539861490030,Intermittent,Z,SBA,Very Low
+539863160010,Lumpy,Z,TSB,Very Low
+539863330029,Intermittent,Z,SBA,Very Low
+539863350028,Lumpy,Z,TSB,Very Low
+539864160028,Intermittent,Z,SBA,Very Low
+539867190019,Intermittent,Z,SBA,Very Low
+539868680020,Intermittent,Z,SBA,Very Low
+539868860021,Intermittent,Z,SBA,Very Low
+539869590130,Intermittent,Z,SBA,Very Low
+539873330026,Intermittent,Z,SBA,Very Low
+539874910026,Intermittent,Z,SBA,Very Low
+539875640092,Intermittent,Z,SBA,Very Low
+539880100195,Intermittent,Z,SBA,Very Low
+539880100201,Intermittent,Z,SBA,Very Low
+539880410093,Lumpy,Z,TSB,Low
+539881210026,Intermittent,Z,SBA,Very Low
+539882000027,Lumpy,Z,TSB,Very Low
+539882500050,Intermittent,Z,SBA,Very Low
+539883710233,Intermittent,Z,SBA,Very Low
+539883710245,Intermittent,Z,SBA,Very Low
+539883712230,Intermittent,Z,SBA,Very Low
+539883712242,Intermittent,Z,SBA,Very Low
+539884870153,Intermittent,Z,SBA,Very Low
+539885010196,Intermittent,Z,SBA,Very Low
+539885010214,Intermittent,Z,SBA,Very Low
+539885010354,Intermittent,Z,SBA,Very Low
+539889350020,Intermittent,Z,SBA,Very Low
+539892130229,Intermittent,Z,SBA,Very Low
+539894420030,Intermittent,Z,SBA,Very Low
+539896390039,Lumpy,Z,TSB,Very Low
+539896550020,Intermittent,Z,SBA,Very Low
+539896580138,Lumpy,Z,TSB,Low
+539896830106,Lumpy,Z,TSB,Very Low
+539897071045,Lumpy,Z,TSB,Low
+539897071501,Intermittent,Z,SBA,Very Low
+539897500850,Intermittent,Z,SBA,Very Low
+539898330307,Intermittent,Z,SBA,Low
+539898370044,Smooth,Y,SES/Holt,Low
+539898480056,Intermittent,Z,SBA,Very Low
+542120120050,Intermittent,Z,SBA,Very Low
+542218881207,Intermittent,Z,SBA,Very Low
+542223081118,Intermittent,Z,SBA,Very Low
+542223081167,Lumpy,Z,TSB,Very Low
+54253561,Intermittent,Z,SBA,Very Low
+542620470036,Lumpy,Z,TSB,Low
+542620470048,Lumpy,Z,TSB,Very Low
+542620470127,Lumpy,Z,TSB,Low
+543000010147,Lumpy,Z,TSB,Low
+543100020163,Erratic,Z,Croston,Medium
+543500010409,Lumpy,Z,TSB,Very Low
+543500010513,Intermittent,Z,SBA,Very Low
+543500011244,Intermittent,Y,SBA,Low
+543500020713,Lumpy,Z,TSB,Very Low
+543600010201,Intermittent,Z,SBA,Medium
+543600010754,Intermittent,Z,SBA,Very Low
+543600010766,Lumpy,Z,TSB,Very Low
+54360031,Intermittent,Z,SBA,Very Low
+544100020290,Lumpy,Z,TSB,Low
+544100020642,Intermittent,Z,SBA,Very Low
+544100020678,Intermittent,Z,SBA,Very Low
+544100420024,Intermittent,Z,SBA,Very Low
+545200100040,Intermittent,Z,SBA,Low
+545401070037,Lumpy,Z,TSB,Low
+545500010663,Intermittent,Z,SBA,Very Low
+549005510050,Intermittent,Z,SBA,Very Low
+549005641775,Intermittent,Z,SBA,Low
+549005791499,Intermittent,Z,SBA,Very Low
+549006091114,Intermittent,Z,SBA,Very Low
+549006110030,Lumpy,Z,TSB,Low
+549006470022,Intermittent,Z,SBA,Very Low
+549006530948,Lumpy,Z,TSB,Very Low
+549007060046,Intermittent,Z,SBA,Low
+549007201092,Lumpy,Z,TSB,Very Low
+549007661170,Intermittent,Z,SBA,Very Low
+549008310204,Intermittent,Z,SBA,Very Low
+549012320014,Intermittent,Z,SBA,Low
+549801610122,Erratic,Z,Croston,Medium
+549801610584,Intermittent,Z,SBA,Very Low
+549801620085,Intermittent,Z,SBA,Very Low
+551200010789,Lumpy,Z,TSB,Low
+551200011083,Lumpy,Z,TSB,Very Low
+551200012269,Intermittent,Z,SBA,Very Low
+553000050339,Intermittent,Z,SBA,Very Low
+555400100071,Intermittent,Z,SBA,Very Low
+555400100083,Intermittent,Z,SBA,Very Low
+555400100095,Lumpy,Z,TSB,Very Low
+555400100101,Intermittent,Z,SBA,Very Low
+555400100113,Intermittent,Z,SBA,Very Low
+555400100125,Intermittent,Z,SBA,Very Low
+555400100137,Intermittent,Z,SBA,Very Low
+555400100149,Intermittent,Z,SBA,Very Low
+555400100150,Intermittent,Z,SBA,Very Low
+555400100162,Intermittent,Z,SBA,Very Low
+555400100174,Intermittent,Z,SBA,Very Low
+555400100198,Intermittent,Z,SBA,Very Low
+555400100204,Intermittent,Z,SBA,Very Low
+555400100307,Intermittent,Z,SBA,Very Low
+555400150025,Intermittent,Z,SBA,Very Low
+555400960023,Intermittent,Z,SBA,Very Low
+555500020073,Intermittent,Z,SBA,Very Low
+556302870142,Intermittent,Z,SBA,Very Low
+556302890025,Lumpy,Z,TSB,Very Low
+559000990020,Intermittent,Z,SBA,Very Low
+559003640081,Intermittent,Z,SBA,Very Low
+559003640111,Intermittent,Z,SBA,Very Low
+559003640123,Intermittent,Z,SBA,Low
+559003640135,Intermittent,Z,SBA,Very Low
+559006210073,Intermittent,Z,SBA,Very Low
+560100580056,Intermittent,Z,SBA,Very Low
+560400022521,Intermittent,Z,SBA,Very Low
+560400023902,Intermittent,Z,SBA,Very Low
+560400024268,Intermittent,Z,SBA,Very Low
+560400024281,Intermittent,Z,SBA,Very Low
+560400026514,Intermittent,Z,SBA,Very Low
+560400032540,Lumpy,Z,TSB,Very Low
+560400160048,Intermittent,Z,SBA,Very Low
+560400170030,Intermittent,Z,SBA,Very Low
+560400182081,Intermittent,Z,SBA,Very Low
+560400182093,Intermittent,Z,SBA,Very Low
+560400200046,Intermittent,Z,SBA,Very Low
+560400211135,Intermittent,Z,SBA,Very Low
+560400211147,Intermittent,Z,SBA,Very Low
+560400211329,Intermittent,Z,SBA,Very Low
+560400220033,Intermittent,Z,SBA,Very Low
+560400240615,Intermittent,Z,SBA,Very Low
+560400252563,Intermittent,Z,SBA,Very Low
+560402724117,Intermittent,Z,SBA,Very Low
+560402822796,Intermittent,Z,SBA,Very Low
+560402860578,Intermittent,Z,SBA,Very Low
+560402860580,Intermittent,Z,SBA,Very Low
+560402860591,Intermittent,Z,SBA,Very Low
+560402860815,Intermittent,Z,SBA,Very Low
+560402860839,Lumpy,Z,TSB,Very Low
+560402890273,Intermittent,Z,SBA,Very Low
+560402890297,Intermittent,Z,SBA,Very Low
+560402890303,Lumpy,Z,TSB,Very Low
+560402890315,Intermittent,Z,SBA,Very Low
+560402890534,Lumpy,Z,TSB,Very Low
+560402900096,Intermittent,Z,SBA,Very Low
+560402900175,Lumpy,Z,TSB,Very Low
+560402911963,Lumpy,Z,TSB,Very Low
+560402912220,Lumpy,Z,TSB,Very Low
+560402912256,Intermittent,Z,SBA,Very Low
+560402912270,Intermittent,Z,SBA,Very Low
+560402912281,Intermittent,Z,SBA,Very Low
+560402912311,Lumpy,Z,TSB,Very Low
+560402912323,Intermittent,Z,SBA,Very Low
+560402912335,Intermittent,Z,SBA,Very Low
+560402912347,Intermittent,Z,SBA,Very Low
+560403020067,Intermittent,Z,SBA,Very Low
+560403020079,Intermittent,Z,SBA,Very Low
+560403020353,Intermittent,Z,SBA,Very Low
+560403020365,Intermittent,Z,SBA,Very Low
+560403020377,Intermittent,Z,SBA,Very Low
+560403020389,Intermittent,Z,SBA,Very Low
+560403082085,Intermittent,Z,SBA,Very Low
+560403082322,Intermittent,Z,SBA,Very Low
+560403161490,Intermittent,Z,SBA,Very Low
+560403161507,Intermittent,Z,SBA,Very Low
+560403161635,Lumpy,Z,TSB,Very Low
+560403161647,Lumpy,Z,TSB,Very Low
+560403161659,Lumpy,Z,TSB,Very Low
+560403161660,Lumpy,Z,TSB,Very Low
+560403161672,Intermittent,Z,SBA,Very Low
+560403320063,Intermittent,Z,SBA,Very Low
+560403500030,Intermittent,Z,SBA,Very Low
+560403610030,Intermittent,Z,SBA,Very Low
+560403610077,Intermittent,Z,SBA,Very Low
+560403610089,Intermittent,Z,SBA,Very Low
+560403680160,Intermittent,Z,SBA,Very Low
+560403820199,Intermittent,Z,SBA,Very Low
+560403820205,Intermittent,Z,SBA,Very Low
+560404002243,Intermittent,Z,SBA,Very Low
+560404050330,Intermittent,Z,SBA,Very Low
+560404260141,Intermittent,Z,SBA,Very Low
+560404820020,Intermittent,Z,SBA,Very Low
+560406180252,Intermittent,Z,SBA,Very Low
+560406180264,Intermittent,Z,SBA,Very Low
+560406180276,Intermittent,Z,SBA,Very Low
+560406200056,Intermittent,Z,SBA,Very Low
+560406420020,Lumpy,Z,TSB,Very Low
+560406430025,Lumpy,Z,TSB,Very Low
+560406470047,Intermittent,Z,SBA,Very Low
+560406490058,Intermittent,Z,SBA,Very Low
+560406520026,Intermittent,Z,SBA,Very Low
+560406900054,Intermittent,Z,SBA,Very Low
+560406910072,Intermittent,Z,SBA,Very Low
+560406910084,Intermittent,Z,SBA,Very Low
+560406910096,Intermittent,Z,SBA,Very Low
+560406920041,Intermittent,Z,SBA,Very Low
+560407090064,Intermittent,Z,SBA,Very Low
+560407690031,Intermittent,Z,SBA,Very Low
+560408420497,Intermittent,Z,SBA,Low
+560412050036,Intermittent,Z,SBA,Very Low
+560412070035,Intermittent,Z,SBA,Very Low
+56060002,Lumpy,Z,TSB,Very Low
+560600028397,Intermittent,Z,SBA,Very Low
+560600046685,Intermittent,Z,SBA,Very Low
+560600066325,Intermittent,Z,SBA,Very Low
+560600098247,Intermittent,Z,SBA,Very Low
+560600098594,Intermittent,Z,SBA,Very Low
+560600099124,Intermittent,Z,SBA,Very Low
+560601135847,Intermittent,Z,SBA,Very Low
+560601140041,Intermittent,Z,SBA,Very Low
+560601181638,Intermittent,Z,SBA,Very Low
+560601240023,Intermittent,Z,SBA,Very Low
+560601307440,Lumpy,Z,TSB,Very Low
+560601365117,Intermittent,Z,SBA,Very Low
+560601365210,Intermittent,Z,SBA,Very Low
+560601471320,Intermittent,Z,SBA,Very Low
+560601471446,Intermittent,Z,SBA,Very Low
+560601596188,Intermittent,Z,SBA,Very Low
+560601647378,Intermittent,Z,SBA,Very Low
+560601982623,Intermittent,Z,SBA,Very Low
+560602423289,Intermittent,Z,SBA,Very Low
+560602905521,Lumpy,Z,TSB,Very Low
+560602960015,Lumpy,Z,TSB,Very Low
+560603050043,Intermittent,Z,SBA,Very Low
+560603087327,Erratic,Z,Croston,Medium
+560603087492,Intermittent,Z,SBA,Very Low
+560603257841,Intermittent,Z,SBA,Very Low
+560603406263,Intermittent,Z,SBA,Very Low
+560603663314,Lumpy,Z,TSB,Very Low
+560603663326,Lumpy,Z,TSB,Very Low
+560603670057,Intermittent,Z,SBA,Very Low
+560604104140,Lumpy,Z,TSB,Very Low
+560604104229,Intermittent,Z,SBA,Very Low
+560604185620,Intermittent,Z,SBA,Very Low
+560604185631,Lumpy,Z,TSB,Very Low
+560604185874,Intermittent,Z,SBA,Very Low
+560604186131,Intermittent,Z,SBA,Very Low
+560604186143,Lumpy,Z,TSB,Very Low
+560604295813,Intermittent,Z,SBA,Very Low
+560604296362,Lumpy,Z,TSB,Very Low
+560604545830,Intermittent,Z,SBA,Very Low
+560604970024,Lumpy,Z,TSB,Very Low
+560604970097,Intermittent,Z,SBA,Very Low
+560605284574,Intermittent,Z,SBA,Low
+560605305127,Intermittent,Z,SBA,Low
+560605500088,Intermittent,Z,SBA,Very Low
+560605636491,Lumpy,Z,TSB,Very Low
+560605790029,Lumpy,Z,TSB,Low
+560605830027,Lumpy,Z,TSB,Very Low
+560606310027,Intermittent,Z,SBA,Very Low
+560606600029,Intermittent,Z,SBA,Very Low
+560606610254,Intermittent,Z,SBA,Very Low
+560607000034,Lumpy,Z,TSB,Very Low
+560607046599,Lumpy,Z,TSB,Very Low
+560607080029,Intermittent,Z,SBA,Very Low
+560607110101,Lumpy,Z,TSB,Very Low
+560609080021,Intermittent,Z,SBA,Very Low
+560609080033,Intermittent,Z,SBA,Very Low
+560609140066,Intermittent,Z,SBA,Very Low
+560609580030,Intermittent,Z,SBA,Low
+560609720149,Intermittent,Z,SBA,Very Low
+560610480321,Intermittent,Z,SBA,Very Low
+560610480333,Intermittent,Z,SBA,Very Low
+560610480345,Intermittent,Z,SBA,Very Low
+560610600065,Lumpy,Z,TSB,Very Low
+560610880130,Intermittent,Z,SBA,Very Low
+560611710036,Intermittent,Z,SBA,Very Low
+560612520681,Intermittent,Z,SBA,Low
+560613020047,Intermittent,Z,SBA,Very Low
+560613030028,Intermittent,Z,SBA,Very Low
+560613050027,Intermittent,Z,SBA,Very Low
+560613610045,Intermittent,Z,SBA,Very Low
+560613610057,Intermittent,Z,SBA,Very Low
+560613610069,Intermittent,Z,SBA,Very Low
+560613610070,Intermittent,Z,SBA,Very Low
+560613610082,Intermittent,Z,SBA,Very Low
+560623880422,Intermittent,Z,SBA,Very Low
+560623880434,Intermittent,Z,SBA,Very Low
+560629410026,Intermittent,Z,SBA,Very Low
+560800130618,Lumpy,Z,TSB,Very Low
+560800130709,Lumpy,Z,TSB,Very Low
+560800130801,Lumpy,Z,TSB,Very Low
+560800131118,Intermittent,Z,SBA,Very Low
+560800150253,Lumpy,Z,TSB,Very Low
+560800150400,Intermittent,Z,SBA,Very Low
+560800820064,Intermittent,Z,SBA,Very Low
+56110029,Intermittent,Z,SBA,Very Low
+561183521801,Erratic,Z,Croston,Medium
+56119033,Lumpy,Z,TSB,Low
+56119537,Lumpy,Z,TSB,Low
+561195810069,Intermittent,Z,SBA,Very Low
+561196180021,Erratic,Z,Croston,Medium
+561196730082,Intermittent,Z,SBA,Very Low
+561196730094,Intermittent,Z,SBA,Very Low
+561196730150,Intermittent,Z,SBA,Very Low
+561300651264,Intermittent,Z,SBA,Very Low
+561300652270,Intermittent,Z,SBA,Very Low
+561300652281,Intermittent,Z,SBA,Very Low
+561300652293,Intermittent,Z,SBA,Very Low
+561300652300,Intermittent,Z,SBA,Very Low
+561300652311,Intermittent,Z,SBA,Very Low
+561300672279,Intermittent,Z,SBA,Very Low
+561300850030,Intermittent,Z,SBA,Very Low
+561300961344,Lumpy,Z,TSB,Very Low
+561301300025,Intermittent,Z,SBA,Very Low
+561302440049,Intermittent,Z,SBA,Very Low
+561303240020,Intermittent,Z,SBA,Very Low
+561548500026,Intermittent,Z,SBA,Very Low
+56160010,Intermittent,Z,SBA,Very Low
+56160100,Lumpy,Z,TSB,Very Low
+561620290801,Lumpy,Z,TSB,Very Low
+561620291568,Erratic,Z,Croston,Low
+56163034,Intermittent,Z,SBA,Very Low
+561800840049,Intermittent,Z,SBA,Very Low
+561800850031,Intermittent,Z,SBA,Very Low
+561800850043,Intermittent,Z,SBA,Very Low
+562200010107,Lumpy,Z,TSB,Low
+562200010272,Intermittent,Z,SBA,Low
+562205030091,Intermittent,Z,SBA,Very Low
+56220509,Lumpy,Z,TSB,Very Low
+563000011681,Smooth,Y,SES/Holt,Medium
+563000011784,Intermittent,Z,SBA,Very Low
+563000011899,Lumpy,Z,TSB,Very Low
+563000014256,Lumpy,Z,TSB,Low
+563000014475,Lumpy,Z,TSB,Very Low
+563000041030,Intermittent,Z,SBA,Very Low
+563000041041,Intermittent,Z,SBA,Very Low
+563000200301,Intermittent,Z,SBA,Low
+563000220026,Lumpy,Z,TSB,Very Low
+563003040047,Intermittent,Z,SBA,Very Low
+563003040059,Lumpy,Z,TSB,Very Low
+56301571,Lumpy,Z,TSB,Low
+56301704,Lumpy,Z,TSB,Very Low
+563045770362,Lumpy,Z,TSB,Very Low
+563045770386,Lumpy,Z,TSB,Very Low
+563045770398,Lumpy,Z,TSB,Very Low
+563045831351,Lumpy,Z,TSB,Very Low
+563045831600,Intermittent,Z,SBA,Low
+563045831673,Lumpy,Z,TSB,Low
+563045831843,Intermittent,Y,SBA,Low
+563045832940,Lumpy,Z,TSB,Very Low
+563045833177,Intermittent,Z,SBA,Very Low
+563045841289,Erratic,Z,Croston,Medium
+563045881664,Lumpy,Z,TSB,Medium
+563046150136,Lumpy,Z,TSB,Medium
+563046150185,Lumpy,Z,TSB,Medium
+563046660023,Lumpy,Z,TSB,Very Low
+563047180021,Intermittent,Z,SBA,Medium
+563047180100,Intermittent,Z,SBA,Very Low
+564200100052,Lumpy,Z,TSB,Low
+564200100064,Lumpy,Z,TSB,Low
+564400020027,Lumpy,Z,TSB,Very Low
+56450217,Lumpy,Z,TSB,Medium
+56450229,Erratic,Y,Croston,High
+56451027,Erratic,Z,Croston,Medium
+56452032,Intermittent,Z,SBA,Very Low
+564601280028,Intermittent,Z,SBA,Very Low
+564601280041,Intermittent,Z,SBA,Very Low
+564601280053,Intermittent,Z,SBA,Very Low
+564601280065,Intermittent,Z,SBA,Very Low
+56462050,Erratic,Z,Croston,Medium
+56468027,Erratic,Z,Croston,Medium
+564680270025,Lumpy,Z,TSB,Low
+56468039,Erratic,Z,Croston,Medium
+56468040,Erratic,Z,Croston,Medium
+56468052,Erratic,Z,Croston,Medium
+56468064,Lumpy,Z,TSB,Low
+564680670957,Lumpy,Z,TSB,Low
+564680670969,Intermittent,Z,SBA,Very Low
+564680710025,Intermittent,Z,SBA,Very Low
+564681260258,Intermittent,Z,SBA,Very Low
+564681480600,Intermittent,Z,SBA,Very Low
+564681510184,Intermittent,Z,SBA,Very Low
+564682030017,Lumpy,Z,TSB,Very Low
+564700410030,Intermittent,Z,SBA,Very Low
+564800570031,Intermittent,Z,SBA,Very Low
+565000024089,Intermittent,Z,SBA,Very Low
+565000075590,Intermittent,Z,SBA,Very Low
+565000075991,Intermittent,Z,SBA,Very Low
+565000077252,Intermittent,Z,SBA,Very Low
+565000077264,Intermittent,Z,SBA,Very Low
+56500026,Lumpy,Z,TSB,Medium
+565001250050,Lumpy,Z,TSB,Very Low
+565001310082,Intermittent,Z,SBA,Very Low
+56500142,Erratic,Y,Croston,Medium
+565001664396,Lumpy,Z,TSB,Very Low
+56500350,Intermittent,Z,SBA,Very Low
+56500361,Intermittent,Z,SBA,Very Low
+56500452,Intermittent,Z,SBA,Very Low
+56500464,Lumpy,Z,TSB,Low
+56501006,Lumpy,Z,TSB,Medium
+56501018,Erratic,Z,Croston,Medium
+56502540,Lumpy,Z,TSB,Low
+56502576,Lumpy,Z,TSB,Very Low
+565025904930,Lumpy,Z,TSB,Very Low
+56502606,Lumpy,Z,TSB,Low
+56507069,Intermittent,Z,SBA,Very Low
+56507641,Smooth,Y,SES/Holt,High
+56508116,Erratic,Z,Croston,Medium
+56509376,Erratic,Z,Croston,Medium
+56509388,Lumpy,Z,TSB,Medium
+565094315966,Intermittent,Z,SBA,Very Low
+565094316200,Lumpy,Z,TSB,Very Low
+565094320354,Intermittent,Z,SBA,Very Low
+565094341825,Intermittent,Z,SBA,Very Low
+565094341898,Intermittent,Z,SBA,Very Low
+565094395007,Erratic,Z,Croston,Medium
+565094396486,Intermittent,Z,SBA,Very Low
+565094396498,Intermittent,Z,SBA,Very Low
+565094396504,Intermittent,Z,SBA,Very Low
+565094398458,Intermittent,Z,SBA,Very Low
+565094399165,Intermittent,Z,SBA,Very Low
+565094803572,Lumpy,Z,TSB,Very Low
+565094803584,Lumpy,Z,TSB,Very Low
+565094803845,Intermittent,Z,SBA,Very Low
+565094804369,Intermittent,Z,SBA,Very Low
+565094804370,Lumpy,Z,TSB,Very Low
+565094804382,Lumpy,Z,TSB,Very Low
+565094804400,Intermittent,Z,SBA,Very Low
+565094804412,Intermittent,Z,SBA,Very Low
+565094804424,Intermittent,Z,SBA,Very Low
+565094804436,Lumpy,Z,TSB,Very Low
+565094804448,Intermittent,Z,SBA,Very Low
+565094804450,Intermittent,Z,SBA,Very Low
+565094815203,Intermittent,Z,SBA,Very Low
+565094825567,Lumpy,Z,TSB,Medium
+565094825890,Intermittent,Z,SBA,Very Low
+565094826808,Intermittent,Z,SBA,Very Low
+565094828441,Intermittent,Z,SBA,Very Low
+565094828647,Lumpy,Z,TSB,Very Low
+56509935,Intermittent,Z,SBA,Very Low
+56509959,Erratic,Z,Croston,Medium
+56509960,Lumpy,Z,TSB,Low
+565099653138,Intermittent,Z,SBA,Very Low
+565099653266,Intermittent,Z,SBA,Very Low
+565099653278,Intermittent,Z,SBA,Very Low
+565099653321,Intermittent,Z,SBA,Very Low
+565099653461,Intermittent,Z,SBA,Very Low
+565099844813,Intermittent,Z,SBA,Very Low
+565099844825,Lumpy,Z,TSB,Very Low
+565099844849,Lumpy,Z,TSB,Low
+565099950054,Intermittent,Z,SBA,Very Low
+565100012838,Intermittent,Z,SBA,Very Low
+565100013193,Intermittent,Z,SBA,Very Low
+565100013200,Intermittent,Z,SBA,Very Low
+565100013211,Lumpy,Z,TSB,Very Low
+565100013223,Intermittent,Z,SBA,Very Low
+565100013235,Lumpy,Z,TSB,Very Low
+565100013259,Intermittent,Z,SBA,Very Low
+565100013685,Intermittent,Z,SBA,Very Low
+565100013697,Intermittent,Z,SBA,Very Low
+565100013703,Intermittent,Z,SBA,Very Low
+565100920603,Intermittent,Z,SBA,Very Low
+565100920627,Intermittent,Z,SBA,Very Low
+565172843959,Intermittent,Z,SBA,Very Low
+565172844319,Intermittent,Z,SBA,Very Low
+565172845385,Intermittent,Z,SBA,Very Low
+565172845397,Intermittent,Z,SBA,Very Low
+565172845439,Intermittent,Z,SBA,Very Low
+565172845440,Intermittent,Z,SBA,Very Low
+565172853060,Intermittent,Z,SBA,Very Low
+565197991932,Lumpy,Z,TSB,Very Low
+565198082125,Lumpy,Z,TSB,Very Low
+565198082137,Intermittent,Z,SBA,Very Low
+565198092921,Intermittent,Z,SBA,Very Low
+565198200031,Intermittent,Z,SBA,Very Low
+565198200043,Intermittent,Z,SBA,Very Low
+565198200055,Intermittent,Z,SBA,Very Low
+565198200067,Intermittent,Z,SBA,Very Low
+565198200079,Intermittent,Z,SBA,Very Low
+565198272730,Intermittent,Z,SBA,Very Low
+565198332774,Intermittent,Z,SBA,Very Low
+565198382364,Intermittent,Z,SBA,Low
+565198460028,Intermittent,Z,SBA,Very Low
+565198460030,Intermittent,Z,SBA,Very Low
+565198460089,Intermittent,Z,SBA,Very Low
+565198792645,Lumpy,Z,TSB,Medium
+565199032580,Intermittent,Z,SBA,Very Low
+565199280022,Lumpy,Z,TSB,Very Low
+565199410343,Intermittent,Z,SBA,Very Low
+565199470121,Intermittent,Z,SBA,Very Low
+567900058715,Lumpy,Z,TSB,Very Low
+567900117161,Intermittent,Z,SBA,Very Low
+567900117173,Intermittent,Z,SBA,Very Low
+567900117185,Intermittent,Z,SBA,Very Low
+567900117215,Intermittent,Z,SBA,Very Low
+567900388272,Lumpy,Z,TSB,Very Low
+567900418914,Intermittent,Z,SBA,Very Low
+567900444834,Intermittent,Z,SBA,Very Low
+567900616750,Intermittent,Z,SBA,Very Low
+567900698091,Intermittent,Z,SBA,Very Low
+567900698108,Intermittent,Z,SBA,Very Low
+567900698169,Intermittent,Z,SBA,Very Low
+567900698170,Intermittent,Z,SBA,Very Low
+567900698182,Intermittent,Z,SBA,Very Low
+567900698194,Intermittent,Z,SBA,Very Low
+567900778992,Intermittent,Z,SBA,Very Low
+567900779194,Lumpy,Z,TSB,Very Low
+567900808704,Lumpy,Z,TSB,Very Low
+567900808716,Intermittent,Z,SBA,Very Low
+567901800040,Intermittent,Z,SBA,Very Low
+567903070027,Intermittent,Z,SBA,Very Low
+567904138020,Intermittent,Z,SBA,Very Low
+567904397905,Lumpy,Z,TSB,Very Low
+567904517790,Lumpy,Z,TSB,Very Low
+567904517807,Lumpy,Z,TSB,Very Low
+567906940021,Intermittent,Z,SBA,Very Low
+567907000020,Intermittent,Z,SBA,Very Low
+567908369072,Intermittent,Z,SBA,Very Low
+567908486994,Lumpy,Z,TSB,Very Low
+567909490026,Lumpy,Z,TSB,Very Low
+567909900022,Intermittent,Z,SBA,Very Low
+567910410020,Intermittent,Z,SBA,Very Low
+567912100021,Intermittent,Z,SBA,Very Low
+567912210185,Intermittent,Z,SBA,Very Low
+567912410010,Intermittent,Z,SBA,Very Low
+567912420015,Intermittent,Z,SBA,Very Low
+567912550075,Lumpy,Z,TSB,Very Low
+567913080042,Intermittent,Z,SBA,Very Low
+567913080091,Intermittent,Z,SBA,Very Low
+567913080108,Lumpy,Z,TSB,Very Low
+567913080110,Intermittent,Z,SBA,Very Low
+567913210030,Intermittent,Z,SBA,Very Low
+567913440125,Intermittent,Z,SBA,Very Low
+567914940040,Lumpy,Z,TSB,Very Low
+567917930020,Intermittent,Z,SBA,Very Low
+567918190044,Lumpy,Z,TSB,Low
+567919200197,Intermittent,Z,SBA,Very Low
+567919520027,Intermittent,Z,SBA,Very Low
+567919640033,Intermittent,Z,SBA,Very Low
+567919890025,Intermittent,Z,SBA,Very Low
+567921160020,Intermittent,Z,SBA,Very Low
+567921890045,Intermittent,Z,SBA,Very Low
+567922200024,Lumpy,Z,TSB,Low
+567924600080,Intermittent,Z,SBA,Very Low
+569001120070,Lumpy,Z,TSB,Very Low
+569001220027,Intermittent,Z,SBA,Very Low
+569001230021,Intermittent,Z,SBA,Very Low
+569001230033,Intermittent,Z,SBA,Very Low
+569001240026,Intermittent,Z,SBA,Very Low
+569001250020,Intermittent,Z,SBA,Very Low
+569001340057,Intermittent,Z,SBA,Very Low
+569001340069,Intermittent,Z,SBA,Very Low
+569001340070,Intermittent,Z,SBA,Very Low
+569001340082,Intermittent,Z,SBA,Very Low
+569001340094,Intermittent,Z,SBA,Very Low
+569001370025,Intermittent,Z,SBA,Very Low
+569001370037,Intermittent,Z,SBA,Very Low
+569001370049,Intermittent,Z,SBA,Very Low
+569001370050,Intermittent,Z,SBA,Very Low
+569001370062,Intermittent,Z,SBA,Very Low
+569001370074,Intermittent,Z,SBA,Very Low
+569001370086,Intermittent,Z,SBA,Very Low
+569001520060,Intermittent,Z,SBA,Very Low
+569001520072,Intermittent,Z,SBA,Very Low
+569001520084,Intermittent,Z,SBA,Very Low
+569001570026,Intermittent,Z,SBA,Very Low
+569001570063,Intermittent,Z,SBA,Very Low
+569001580056,Intermittent,Z,SBA,Very Low
+569001620066,Lumpy,Z,TSB,Very Low
+569001620078,Lumpy,Z,TSB,Very Low
+569001890021,Intermittent,Z,SBA,Very Low
+569001890033,Intermittent,Z,SBA,Very Low
+569001890045,Intermittent,Z,SBA,Very Low
+569001890057,Intermittent,Z,SBA,Very Low
+569001930020,Intermittent,Z,SBA,Low
+569001970028,Lumpy,Z,TSB,Very Low
+569002040021,Intermittent,Z,SBA,Very Low
+569002491213,Intermittent,Z,SBA,Low
+569003010073,Lumpy,Z,TSB,Very Low
+569003010085,Lumpy,Z,TSB,Very Low
+569003010103,Intermittent,Z,SBA,Very Low
+569003011284,Intermittent,Z,SBA,Very Low
+569003011545,Intermittent,Z,SBA,Very Low
+569003030023,Lumpy,Z,TSB,Very Low
+569003030035,Intermittent,Z,SBA,Very Low
+569003031210,Intermittent,Z,SBA,Very Low
+569003510057,Lumpy,Z,TSB,Very Low
+569003520038,Lumpy,Z,TSB,Very Low
+569003530032,Lumpy,Z,TSB,Very Low
+569003530044,Lumpy,Z,TSB,Very Low
+569003540050,Lumpy,Z,TSB,Very Low
+569003550031,Lumpy,Z,TSB,Very Low
+569003560048,Lumpy,Z,TSB,Very Low
+569003570030,Lumpy,Z,TSB,Very Low
+569003580035,Lumpy,Z,TSB,Very Low
+569003780024,Intermittent,Z,SBA,Very Low
+569003800047,Intermittent,Z,SBA,Very Low
+569004570074,Lumpy,Z,TSB,Very Low
+569005120027,Lumpy,Z,TSB,Very Low
+569005440022,Intermittent,Z,SBA,Very Low
+569005530114,Intermittent,Z,SBA,Very Low
+569006940154,Intermittent,Z,SBA,Very Low
+569006970020,Intermittent,Z,SBA,Very Low
+569007720034,Intermittent,Z,SBA,Very Low
+569007730052,Intermittent,Z,SBA,Very Low
+569007730064,Lumpy,Z,TSB,Very Low
+569007780031,Intermittent,Z,SBA,Very Low
+569007780043,Intermittent,Z,SBA,Very Low
+569016620028,Intermittent,Z,SBA,Very Low
+569018890023,Intermittent,Z,SBA,Very Low
+569018900028,Intermittent,Z,SBA,Very Low
+569020420026,Intermittent,Z,SBA,Very Low
+569020690029,Intermittent,Z,SBA,Very Low
+569024350020,Intermittent,Z,SBA,Very Low
+569034910045,Intermittent,Z,SBA,Very Low
+569034910069,Intermittent,Z,SBA,Very Low
+569034910070,Lumpy,Z,TSB,Very Low
+569044770013,Intermittent,Z,SBA,Very Low
+569060390045,Intermittent,Z,SBA,Very Low
+569070440021,Lumpy,Z,TSB,Very Low
+569070440033,Erratic,Z,Croston,Low
+569804430131,Intermittent,Z,SBA,Very Low
+56982252,Lumpy,Z,TSB,Medium
+569839060113,Intermittent,Z,SBA,Very Low
+569839060125,Intermittent,Z,SBA,Very Low
+569839060332,Intermittent,Z,SBA,Very Low
+56985800,Lumpy,Z,TSB,Very Low
+56986130,Lumpy,Z,TSB,Low
+569894370025,Intermittent,Z,SBA,Very Low
+569894550039,Intermittent,Z,SBA,Very Low
+569894580184,Intermittent,Z,SBA,Very Low
+569900780080,Lumpy,Z,TSB,Very Low
+569901140024,Intermittent,Z,SBA,Very Low
+569901140036,Intermittent,Z,SBA,Very Low
+569903410020,Intermittent,Z,SBA,Very Low
+570100356570,Intermittent,Z,SBA,Very Low
+570104790136,Intermittent,Z,SBA,Very Low
+570109490283,Intermittent,Z,SBA,Very Low
+570109490386,Lumpy,Z,TSB,Very Low
+570109490520,Intermittent,Z,SBA,Very Low
+570131650240,Intermittent,Z,SBA,Very Low
+570131650305,Intermittent,Z,SBA,Very Low
+570140712828,Intermittent,Z,SBA,Very Low
+570140713948,Intermittent,Z,SBA,Very Low
+570143970026,Intermittent,Z,SBA,Very Low
+570150950426,Intermittent,Z,SBA,Very Low
+609004430022,Intermittent,Z,SBA,Very Low
+611600160147,Lumpy,Z,TSB,Low
+623500140951,Lumpy,Z,TSB,Very Low
+623500980059,Lumpy,Z,TSB,Low
+655701031889,Lumpy,Z,TSB,Very Low
+67900185,Lumpy,Z,TSB,Very Low
+71080326,Intermittent,Z,SBA,Very Low
+71080545,Intermittent,Z,SBA,Very Low
+72081181,Intermittent,Z,SBA,Very Low
+721339354568,Erratic,Z,Croston,Low
+721437670023,Erratic,Z,Croston,Low
+72207413,Erratic,Z,Croston,Medium
+722434810027,Intermittent,Z,SBA,Very Low
+725804740114,Intermittent,Z,SBA,Very Low
+725804740126,Intermittent,Z,SBA,Very Low
+725804740138,Intermittent,Z,SBA,Very Low
+726001400138,Intermittent,Z,SBA,Very Low
+726001400205,Lumpy,Z,TSB,Very Low
+727901719596,Intermittent,Z,SBA,Very Low
+727925380052,Intermittent,Z,SBA,Very Low
+752082580126,Intermittent,Z,SBA,Very Low
+77035136,Intermittent,Z,SBA,Very Low
+77091310,Intermittent,Z,SBA,Very Low
+77091607,Intermittent,Z,SBA,Very Low
+77093306,Lumpy,Z,TSB,Very Low
+77110304,Intermittent,Z,SBA,Very Low
+771600011349,Lumpy,Z,TSB,Very Low
+78010512,Intermittent,Z,SBA,Very Low
+781520833527,Intermittent,Z,SBA,Very Low
+783100870033,Lumpy,Z,TSB,Very Low
+787900195071,Intermittent,Z,SBA,Very Low
+787902055227,Lumpy,Z,TSB,Very Low
+789900328123,Intermittent,Z,SBA,Very Low
+79010805,Intermittent,Z,SBA,Very Low
+79010866,Intermittent,Z,SBA,Very Low
+790400130034,Intermittent,Z,SBA,Very Low
+79045558,Intermittent,Z,SBA,Very Low
+79046850,Lumpy,Z,TSB,Very Low
+79247957,Lumpy,Z,TSB,Very Low
+79315604,Lumpy,Z,TSB,Very Low
+79333485,Intermittent,Z,SBA,Very Low
+79338677,Intermittent,Z,SBA,Very Low
+795100540055,Lumpy,Z,TSB,Very Low
+795900190130,Lumpy,Z,TSB,Very Low
+80010714,Intermittent,Z,SBA,Very Low
+80090722,Intermittent,Z,SBA,Very Low
+81033515,Intermittent,Z,SBA,Very Low
+81050264,Intermittent,Z,SBA,Very Low
+81050999,Intermittent,Z,SBA,Very Low
+823000010357,Intermittent,Z,SBA,Very Low
+83041849,Intermittent,Z,SBA,Very Low
+83049400,Intermittent,Z,SBA,Very Low
+83049502,Intermittent,Z,SBA,Very Low
+83049540,Intermittent,Z,SBA,Very Low
+83057225,Intermittent,Z,SBA,Very Low
+831100020429,Intermittent,Z,SBA,Very Low
+83904104,Intermittent,Z,SBA,Very Low
+83904827,Intermittent,Z,SBA,Very Low
+83904839,Intermittent,Z,SBA,Very Low
+860130140864,Intermittent,Z,SBA,Very Low
+860130141200,Lumpy,Z,TSB,Very Low
+861600960026,Lumpy,Z,TSB,Very Low
+86900043,Intermittent,Z,SBA,Very Low
+869037530032,Lumpy,Z,TSB,Very Low
+910100820060,Intermittent,Z,SBA,Very Low
+98210191,Intermittent,Z,SBA,Very Low

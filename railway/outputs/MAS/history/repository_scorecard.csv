@@ -1,0 +1,11 @@
+Dimension,Score_0_100,Evidence,Confidence,Note
+Architecture,45,"flat 35-module pkg, leaky I/O dep, 1548-LOC god-module, no layering",Med,refactor needed
+Maintainability,45,"84 root reports, 17 drivers, no README, hardcoded constants",Med,Phase1-2
+Testing,25,0/9 new modules tested; legacy partial,High,Phase3 urgent
+Configuration,40,central cfg exists but bypassed; magic numbers/paths/depots in code,Med,Phase2
+Reliability,55,reproducible+backward-compatible; but silent failures/fragile parsing,Med,Phase4
+Reusability,50,"modules reusable but private-fn reuse, no shared utils pkg",Med,Phase2
+Documentation,50,"rich output reports, NO code/architecture docs",Med,Phase1
+Scalability,45,"single-division hardcoded, manual orchestration, re-reads",Med,Phase5
+Performance,60,small data/batch ok; repeated reads tolerable,Med-High,Phase5
+Production Readiness,40,"no packaging, no tests, no CI, driver-script orchestration",Med,Phase3-4

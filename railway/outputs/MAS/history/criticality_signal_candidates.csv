@@ -1,0 +1,11 @@
+Signal,Value,PL_Count,PL_Coverage_Pct,Forecast_Vol_Coverage_Pct,Stock_Value_Coverage_Pct,Stock_Value_Rs
+Type,NA,494,45.6,29.4,32.9,95403854.0
+Type,Safety Item,518,47.8,70.3,60.3,175022040.0
+Type,Vital Item,121,11.2,5.4,6.8,19653757.0
+Usage,Consumable,29,2.7,7.7,0.1,410530.0
+Usage,M&P,199,18.4,52.6,15.3,44480668.0
+Usage,M&P Spares,197,18.2,7.0,17.1,49561316.0
+Usage,Others,733,67.7,86.3,66.7,193458095.0
+Usage,T&P,36,3.3,0.1,0.7,2169041.0
+StockClass,Non- Stock,1021,94.3,76.6,98.0,284138683.0
+StockClass,Stock,92,8.5,48.9,2.0,5940968.0

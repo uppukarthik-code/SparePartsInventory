@@ -1,0 +1,9 @@
+Check,Status,Evidence,Risk,Recommendation
+Formula reuse,GREEN,SRRS=CritWeight*ServiceFactor*Positive_Gap; service_factor imported verbatim,no formula change,none
+Effective weights,GREEN,"backed out = {1,5,10} (NA/Vital/Safety) as intended",matches design,none
+Volume vs risk dominance,RED(interpretation),"Spearman(SRRS,Positive_Gap)=0.884; Top10 vs gap-rank overlap 8/10",SRRS is largely a (criticality-tilted) GAP/VOLUME ranking; 'service-risk' overstated,relabel as risk-weighted gap; report criticality contribution explicitly
+Sensitivity weight-ratio +/-20%,GREEN,"Top10 stability=1.00, Top20=0.95",ranking robust to weight error,none
+Sensitivity service-factor +/-20%,GREEN,Top10=1.00 Top20=1.00 spearman=0.9995,robust,none
+Concentration,GREEN(evidence),Top10=84.5% SRRS; compounded by issuing-depot gap inflation,focus valid but inflated by depot artifact,interpret with depot caveat
+Excess handling,AMBER,"max(gap,0): excess stock contributes 0; cannot prioritise reduction",one-directional,separate excess/rationalisation lens (exists in legacy)
+Rank ties,AMBER,method='first' (input-order tiebreak),reproducible given stable input; not value-based,tie-break by criticality then value

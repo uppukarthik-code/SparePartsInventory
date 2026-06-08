@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "railway-inventory-planning-platform"
+version = "1.0.0"
+description = "Southern Railway division-level spare-parts inventory planning platform (STEP1-33)."
+readme = "RAILWAY_PLATFORM_README.md"
+requires-python = ">=3.10"
+license = { text = "Proprietary" }
+authors = [{ name = "Karthik Uppu" }]
+keywords = ["railway", "inventory", "forecasting", "safety-stock", "reorder-point", "SRRS"]
+
+# RUNTIME ONLY — sklearn/prophet/plotly intentionally excluded (0 imports in railway/).
+dependencies = [
+    "pandas==3.0.3",
+    "numpy==2.4.6",
+    "scipy==1.17.1",
+    "statsmodels==0.14.6",
+    "pulp==3.3.2",
+]
+
+[project.optional-dependencies]
+notebooks = [
+    "matplotlib==3.10.9",
+    "seaborn==0.13.2",
+    "jupyter==1.1.1",
+    "jupyterlab==4.5.8",
+    "ipywidgets==8.1.8",
+    "nbconvert==7.17.1",
+    "openpyxl==3.1.5",
+]
+dev = [
+    "pytest==9.0.3",
+]
+
+[project.scripts]
+railway-summary = "railway.governance.division_summary:main"
+
+[tool.setuptools.packages.find]
+include = ["railway*"]
+
+[tool.pytest.ini_options]
+testpaths = ["railway/tests"]

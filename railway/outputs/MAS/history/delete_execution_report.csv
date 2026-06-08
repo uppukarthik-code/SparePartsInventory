@@ -1,0 +1,18 @@
+Path,Category,Result,Size_MB
+notebooks/FORECAST_BI.csv,notebook_walmart_dump,MOVED -> quarantine,360.4
+notebooks/Forecast.csv,notebook_walmart_dump,MOVED -> quarantine,340.2
+notebooks/SparePartsInventory!.csv,notebook_walmart_dump,MOVED -> quarantine,296.9
+notebooks/final_combined_SKUs.csv,notebook_walmart_dump,MOVED -> quarantine,183.9
+notebooks/final_forecast_output.csv,notebook_walmart_dump,MOVED -> quarantine,150.4
+notebooks/SparePartsInventory.csv,notebook_walmart_dump,MOVED -> quarantine,131.1
+raw_data/sales_train_evaluation.csv,m5_competition_data,MOVED -> quarantine,116.1
+raw_data/sales_train_validation.csv,m5_competition_data,MOVED -> quarantine,114.4
+raw_data/sell_prices.csv,m5_competition_data,MOVED -> quarantine,194.0
+raw_data/sample_submission.csv,m5_competition_data,MOVED -> quarantine,5.0
+raw_data/calendar.csv,m5_competition_data,MOVED -> quarantine,0.1
+data,walmart_data_dir,MOVED -> quarantine,71.9
+notebooks/.ipynb_checkpoints,ipynb_checkpoint,MOVED -> quarantine,474.9
+Anylogistix/01_Anylogistix Network Optimisation Result/.ipynb_checkpoints,ipynb_checkpoint,MOVED -> quarantine,0.8
+Anylogistix/03_Anylogistix Simulation Experiment Results/.ipynb_checkpoints,ipynb_checkpoint,MOVED -> quarantine,1.9
+Power-BI Dashboards/.ipynb_checkpoints,ipynb_checkpoint,MOVED -> quarantine,2.5
+TOTAL,,16 moved,2444.4

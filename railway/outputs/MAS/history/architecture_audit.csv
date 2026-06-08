@@ -1,0 +1,9 @@
+Aspect,Current,Recommended,Severity
+Package layering,"CURRENT: flat railway/ with 35 modules, no sub-packages",RECOMMENDED: layered (ingestion/validation/demand/forecasting/inventory/prioritization/reporting/governance),HIGH
+Separation of concerns,Planning modules (safety_stock/rop/srrs) import demand_reconstruction for its private _sheet_rows I/O,Move shared I/O to ingestion/; planning depends on ingestion not on demand,HIGH leaky/inverted dependency
+God-module,railway_management_reports.py = 1548 LOC,Split into reporting/ sub-modules,HIGH
+Legacy vs new mixing,STEP1-17 (zone/Walmart-era) + STEP18A-28 (MAS pipeline) share one flat namespace,separate legacy/ vs pipeline/ or clear layer boundaries,MEDIUM
+Walmart isolation,railway .py has NO Walmart code (only 3 comments); notebooks 01-06 + M5 data are the only Walmart footprint,archive Walmart assets; railway is clean,LOW (good)
+Orchestration,"17 one-off driver scripts, manual run order; no pipeline/DAG/CLI",add an orchestrator (CLI/Makefile/DAG) over the module run() fns,HIGH
+Config placement,cfg centralized but bypassed by modules' local constants,route all constants through config,MEDIUM
+Output namespace,planning CSVs + audit CSVs + reports co-mingled in outputs/MAS/history,separate outputs/ vs audit/ vs docs/,MEDIUM

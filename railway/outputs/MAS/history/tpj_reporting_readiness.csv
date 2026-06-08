@@ -1,0 +1,9 @@
+Reporting_Asset,Required_When_TPJ_Available,Type,Blocker,Action
+NB7 sections 4-12 (per-division),Yes,notebook,TPJ data,parametrize sections by division
+TPJ Demand/Forecast section,Yes,notebook,TPJ DMTR,add once data present
+Division comparison (MAS vs TPJ),Yes,notebook,TPJ outputs,new cross-division view
+Executive KPIs per division,Yes,mgmt summary,division-aware summary,gcfg.DIVISION param
+Enterprise rollup KPIs,Yes,mgmt summary,multi-division outputs,aggregate across divisions
+TPJ readiness gauge -> live,Yes,notebook,TPJ onboarding,flip NO-GO once data+config
+Per-division scorecard,Yes,mgmt summary,TPJ baseline,pin TPJ golden + score
+Capital exposure roll-up,Yes,both,TPJ value data,sum gap/stock across divisions

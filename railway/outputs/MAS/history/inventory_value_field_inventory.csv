@@ -1,0 +1,14 @@
+Column,Data_Type,Null_Count,Coverage_Pct,Example_Values
+#,numeric,0,100.0,1; 2; 3
+Consignee Depot,text,0,100.0,SSE027534-S AND T-SR
+Ledger No./Ledger Folio No.,text,0,100.0,001- ELECTRICAL I0001- SMPS Based LC Gate Mini IPS complete 
+PL-Code/Type/Usage,text,0,100.0,567904138020/      Safety Item/                             
+Stock or Non-Stock/Category,text,0,100.0,Non- Stock/10-ORDINARY NEW STORES; Stock/10-ORDINARY NEW STO
+Brief Description,text,0,100.0,SMPS Based IPS for LC Gate; Maintenance free VRLA type batte
+Last Receipt / Issue Dt.,text,0,100.0,16-10-2023 /  20-10-2023; 13-12-2023 /  15-12-2023; 17-02-20
+Stock,numeric,0,100.0,0.000; 5.000; 1.000
+Unit,text,0,100.0,Nos.; Set; MTR
+Threshold Limit,numeric,0,100.0,0.000
+Average Rate (Rs.),numeric,0,100.0,635541.00; 288000.00; 51.16
+Value (Rs.),numeric,0,100.0,0.00; 357.89; 31850.93
+Action,text,1260,0.0,

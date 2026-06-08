@@ -1,0 +1,14 @@
+Opportunity,Effort,Impact,Risk,Priority
+Archive M5 data (430MB) out of repo,Quick(<1d),High,Low,High
+Move 84 root .md to docs/reports/,Quick(<1d),High,Low,High
+Archive 17 one-off drivers to scripts/legacy/,Quick(<1d),Med,Low,High
+Pin + split requirements (runtime/notebook/dev),Quick(<1d),Med,Low,High
+Centralize raw-XLSX reader + PL normalize + CSV loader,Short(<1wk),High,Med,High
+Centralize all constants into config,Short(<1wk),Med,Low,High
+Add pyproject.toml + package install,Short(<1wk),Med,Low,High
+Unit + golden-file tests for SS/ROP/SRRS/lead-time/demand,Medium(<1mo),High,Med,TOP
+Layered package refactor (ingestion/.../prioritization),Medium(<1mo),High,Med-High,High
+Pipeline orchestrator (CLI/DAG) replacing drivers,Medium(<1mo),High,Med,High
+Split god-module management_reports (1548 LOC),Medium(<1mo),Med,Med,Med
+CI + logging + schema validation,Major(>1mo),High,Med,High
+Multi-division parametrization (remove hardcoded depot),Major(>1mo),High,Med-High,High

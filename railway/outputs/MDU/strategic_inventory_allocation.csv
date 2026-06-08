@@ -1,0 +1,9 @@
+PL_Code,Description,Business_Unit,Strategic_Stock,Allocation_Source,Source_Depot_Column
+50540324,Lead Acid Stationary Secondary Cells  - 2V/80 AH,MDU,497.0,Depot_Column_Allocation,LSD/MDU
+50541523,Lead Acid Stationary Secondary Cells  - 2V/120 AH,MDU,26.0,Depot_Column_Allocation,LSD/MDU
+50550081,Lead Acid Stationary Secondary Cells  - 2V/200 AH,MDU,525.0,Depot_Column_Allocation,LSD/MDU
+56507641,Channel Bond Pin,MDU,8990.0,Depot_Column_Allocation,LSD/MDU
+50353603,Portable 4 wire Emergency Control Telephone with six pin flat type socket,MDU,63.0,Depot_Column_Allocation,LSD/MDU
+50231832/50231881,Telephone Electronic Push Button,MDU,237.0,Depot_Column_Allocation,LSD/MDU
+50232356/50232319,Magneto telephone,MDU,148.0,Depot_Column_Allocation,LSD/MDU
+41095066,PVC Insulation TAPE (Mtrs),MDU,4960.0,Depot_Column_Allocation,LSD/MDU

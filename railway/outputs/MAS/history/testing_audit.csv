@@ -1,0 +1,7 @@
+Area,Coverage,Detail,Recommendation
+STEP18A-28 pipeline,0 / 9 modules tested,"NONE: demand_reconstruction,classification,forecast_generation,lead_time,pl_master,safety_stock,rop,srrs_mas,strategic_allocation",HIGH-PRIORITY: add unit tests
+Legacy STEP1-17,~10 test files,"classification,forecasting,data_preparation,inventory_optimization,operational_analysis,rationalization,anylogistix,powerbi,production_hardening,business_unit_runner",partial - maintain
+Regression / golden-file,none for new pipeline,backward-compat enforced only via one-off driver SHA-256,add golden-file regression on outputs
+Integration (end-to-end),none,funnel verified manually in audit,add e2e smoke test
+Formula unit tests (HIGH risk fns),none,SS z*sigma*sqrt(LT); ROP DDLT; SRRS weight*SF*gap; lead-time median/winsor; SBC class; gap-fill,TOP PRIORITY: pin numeric outputs on fixtures
+Parsing tests,none,"DMTR date/qty/type, PL normalize, depot codes",add with malformed fixtures

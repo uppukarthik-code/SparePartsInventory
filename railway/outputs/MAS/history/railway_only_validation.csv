@@ -1,0 +1,9 @@
+Action,Works_without_Walmart,Evidence
+1. Clone repo,Yes,railway/ self-contained
+2. Delete archive/ folder,Yes,0 railway imports of Walmart assets
+3. Install dependencies,Yes,pandas/numpy/scipy/statsmodels/pulp only
+4. Run tests,Yes,541 green; depends only on railway/ + outputs
+5. Run notebooks,Yes,railway notebooks read railway outputs only
+6. Run reporting,Yes,division_summary reads railway outputs only
+7. Run planning,Yes,STEP20-28 read raw_data/Railway_Operations only
+8. Run TPJ onboarding,Config-ready (data-blocked),gcfg registry; no Walmart dep

@@ -1,0 +1,9 @@
+Check,Result,Evidence
+Forecasting outputs changed,NO,not touched; regression green
+Demand/LT/criticality outputs changed,NO,not touched
+Safety-stock/ROP/SRRS outputs changed,NO,formula tests 3/3 green
+Legacy executive_* outputs changed,NO,executive_kpi_summary.csv byte-identical
+60 pinned reporting outputs changed,NO,regression 537/537 green
+Edits additive only,YES,imports + new functions; run()/build_kpis untouched
+Regression suite,GREEN,541 passed (PYTHONHASHSEED=0)
+Formula tests,GREEN,3/3

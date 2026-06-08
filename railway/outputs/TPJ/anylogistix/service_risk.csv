@@ -1,0 +1,60 @@
+PL_Code,Criticality,Inventory_Gap,Inventory_Status,Normalized_Procurement_Priority_Score,Procurement_Priority_Class,Forecast_Confidence
+56119033,S1,15414.23,Procurement Required,52592890.33,High,Medium
+56987122/56110029,S1,7069.48,Procurement Required,8800795.65,Medium,Medium
+50550081,S2,14581.33,Procurement Required,464269547.2,Immediate,Medium
+56509960,S1,39060.02,Procurement Required,458603694.82,Immediate,Low
+56501018,S1,58454.45,Procurement Required,339684654.4,Immediate,Medium
+56509959,S1,132066.49,Procurement Required,311663709.75,Immediate,Low
+56468039,S1,3477.46,Procurement Required,309396571.12,Immediate,High
+56468052,S1,3132.45,Procurement Required,278996044.68,Immediate,High
+56468040,S1,2521.49,Procurement Required,256356862.51,High,High
+50540324,S2,14515.29,Procurement Required,250359721.92,High,High
+56501006,S1,53204.47,Procurement Required,239196656.23,High,High
+50232356/50232319,S2,6006.1,Procurement Required,157564027.4,High,High
+56468027,S1,2260.92,Procurement Required,134913618.24,High,High
+56462050,S1,1727.26,Procurement Required,98647273.12,High,High
+56119537,S1,68868.96,Procurement Required,66548076.05,High,Low
+56468064,S1,669.14,Procurement Required,45811733.3,High,High
+50541523,S2,1391.03,Procurement Required,31283708.29,High,High
+56451027,S3,3250.87,Procurement Required,21896364.92,High,High
+56450217,S3,1841.39,Procurement Required,19312203.7,High,High
+52156576/56500452,S2,49.29,Procurement Required,14685955.5,Medium,Medium
+56160100,S2,21.06,Procurement Required,5839938.0,Medium,Low
+56450229,S3,1157.53,Procurement Required,5455346.29,Medium,High
+50360693/50370110,S4,1426.24,Procurement Required,1985896.58,Medium,High
+50210014,S3,210.91,Procurement Required,1531569.37,Medium,Low
+50370080,S3,211.16,Procurement Required,1220927.12,Medium,Medium
+47200054/47200250,S3,68.48,Procurement Required,896789.43,Medium,Low
+56505959,S4,46.0,Procurement Required,415426.0,Medium,Very Low
+72081181/72207413,S3,2559.23,Procurement Required,360595.51,Medium,High
+56507641,S3,107569.11,Procurement Required,348523.92,Medium,Medium
+50901126,S2,38.0,Procurement Required,176320.0,Medium,Very Low
+54252222,S4,53.5,Procurement Required,147553.0,Medium,Very Low
+54253561,S3,6.58,Procurement Required,91619.92,Medium,Low
+45174404/45174416,S3,682.26,Procurement Required,85500.82,Medium,Medium
+56511516,S2,7.38,Procurement Required,31959.83,Medium,Very Low
+56502606,S2,41.03,Procurement Required,16401.74,Medium,High
+67900203,S3,2.62,Procurement Required,0.0,Medium,Very Low
+56509376,S2,-2041.26,Sufficient,0.0,Low,High
+50353603,S3,-158.28,Sufficient,0.0,Low,High
+56502576,S2,-2393.91,Sufficient,0.0,Low,High
+56502540,S2,-1182.49,Sufficient,0.0,Low,High
+56509388,S2,-230.58,Sufficient,0.0,Low,High
+52156618/56509935,S2,8.43,Procurement Required,0.0,Low,Medium
+56500350,S4,2.62,Procurement Required,0.0,Low,Medium
+50231959,S3,-95.32,Sufficient,0.0,Low,Low
+50231832/50231881,S3,-328.67,Sufficient,0.0,Low,High
+56163034,S3,-8.4,Sufficient,0.0,Low,Medium
+40981381,S3,6474.75,Procurement Required,0.0,Low,Very Low
+50132453,S3,1.88,Procurement Required,0.0,Low,Very Low
+67900185,S4,66.03,Procurement Required,0.0,Low,Medium
+56509686,S4,1.9,Procurement Required,0.0,Low,Very Low
+56301704,S4,649.26,Procurement Required,0.0,Low,Medium
+56986210,S4,22.5,Procurement Required,0.0,Low,Very Low
+56160112,S4,1.05,Procurement Required,0.0,Low,Very Low
+91150401,S4,-50.29,Sufficient,0.0,Low,Medium
+56060002,S4,36.0,Procurement Required,0.0,Low,Very Low
+50132600,S4,2.5,Procurement Required,0.0,Low,Very Low
+41095066,S4,270940.54,Procurement Required,0.0,Low,Medium
+40070359,S4,500.0,Procurement Required,0.0,Low,Very Low
+56985526,S4,150.0,Procurement Required,0.0,Low,Very Low

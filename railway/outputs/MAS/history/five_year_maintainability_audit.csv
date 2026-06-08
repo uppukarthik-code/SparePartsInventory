@@ -1,0 +1,8 @@
+Dimension,Rating,Evidence,Mitigation
+Onboarding,Hard,84 root .md + 17 cryptic _step drivers + flat 35-module pkg + no README of new pipeline,add README/architecture doc
+Documentation,Mixed,rich output reports but NO code/architecture/onboarding docs,"add docs/architecture.md, module docstrings index"
+Architecture clarity,Low,"flat namespace, leaky I/O dep, god-module, legacy+new mixed",layered package
+Maintainability,Low-Med,no tests on new pipeline; hardcoded constants; one-off orchestration,tests + config + orchestrator
+Scalability,Low-Med,single division hardcoded; manual run order; re-reads,parametrize + DAG
+Reproducibility,High,"deterministic, backward-compatible",keep; CI
+Knowledge concentration,High-risk,pipeline built step-wise by one author; provenance in 84 reports not code,consolidate into docs + tests

@@ -1,0 +1,11 @@
+Check,Status,Evidence,Risk,Recommendation
+Modularity,GREEN,one module per step; clear single responsibility,good,none
+Reuse / no-duplication,GREEN,"service_factor, forecasting fns, raw-XML reader reused",DRY,none
+Configuration handling,AMBER,"DAYS_PER_MONTH, service levels, weights hardcoded in modules; cfg tables unused",drift/maintainability,centralise constants in config
+Validation coverage,AMBER,per-step driver checks + SHA-256; NO unit/integration test suite,regressions undetected,add pytest suite
+Reproducibility,GREEN,deterministic (fixed alpha/seedless); byte-identical re-runs,strong,none
+Traceability,GREEN,every output traces to source; drivers retained,auditable,none
+Error handling,AMBER,fragile regex; bare excepts->0.0; empty-median edge; silent depot drop,silent data loss / latent crash,explicit validation + logging
+Orchestration,AMBER,"one-off _step*_run.py drivers, not a pipeline/DAG","manual, order-dependent",wrap in a runner/Makefile/DAG
+Coupling,GREEN,CSV-contract coupling between steps (loose),acceptable,schema-validate CSVs
+Cybersecurity,GREEN,"offline batch, no network/PII/secrets/endpoints",minimal attack surface,sanitise if exposed via dashboard

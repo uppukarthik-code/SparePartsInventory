@@ -1,0 +1,15 @@
+Artifact,Source(Inputs),Consumer(Downstream),Output,Type
+railway_demand_reconstruction.py,DMTR_*.xlsx (54),STEP22/23,monthly_demand_history.csv +2,module
+railway_demand_classification.py,monthly_demand_history.csv,STEP23,"demand_classification.csv,xyz,forecast_method_assignment",module
+railway_forecast_generation.py,"monthly_demand_history,forecast_method_assignment",STEP24/25,"forecast_results.csv,forecast_accuracy +2",module
+railway_lead_time_derivation.py,DMTR_*.xlsx,STEP24,"lead_time_master.csv,pl_universe_reconciliation",module
+railway_pl_master.py,STEP22/23 csvs + sku_master + operational,audit,"enterprise_pl_master,planning_master_data_audit +1",module
+railway_safety_stock.py,"demand_classification,lead_time_master,SUMMARY,forecast_results",STEP25,"safety_stock_results.csv,safety_stock_summary",module
+railway_rop.py,"safety_stock_results,forecast_results,SUMMARY(027534)",STEP26,"rop_results.csv,rop_summary",module
+railway_srrs_mas.py,"rop_results,SUMMARY(Type,Rate),opt.service_factor",STEP27/28,"srss_results.csv,srss_summary",module
+railway_inventory_optimization.py,"(legacy) demand_history,sku_master,forecast",STEP24/25/26 reuse service_factor,railway_inventory_policy.csv,module(reused)
+railway_config.py,-,all modules,constants (some UNUSED by STEP20-28),config
+_step*_run.py / _step*_audit.py (drivers),modules,-,one-off; backward-compat guards,driver-scripts
+SUMMARY OF STOCK HELD*.xlsx,raw_data/.../MAS,STEP24/25/26/23.7/23.8/25.5,"current stock, Type, Avg Rate",raw-source
+NS_DM_CONS_REPORT*.xlsx (7),raw_data/.../MAS,"STEP23.6A,27",procurement/lead-time corroboration,raw-source
+outputs/MAS/history/*.csv (41+),modules+drivers,reports/dashboard,planning artifacts,outputs

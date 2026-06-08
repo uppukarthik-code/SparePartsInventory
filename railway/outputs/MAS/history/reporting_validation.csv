@@ -1,0 +1,8 @@
+Consumer,KPI_Source,Consistent_With_SoT,Evidence
+Notebook Railway (master),division_summary,YES,setup cell uses ds.compute_kpis()
+Executive Notebook,division_summary,YES,same loader
+Technical Notebook,division_summary,YES,same loader
+Management Reporting (modern),division_summary,YES,mr.modern_kpis()==ds.compute_kpis()
+Executive Reporting (modern),division_summary,YES,es.kpis()==ds.compute_kpis()
+Division Summary,division_summary,YES (self),source of truth
+ALL modern consumers identical,division_summary,YES,object equality across consumers

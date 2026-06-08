@@ -1,0 +1,8 @@
+Dimension,Rating,Evidence,Mitigation
+Onboarding,Hard,"88 root reports, 18 drivers, flat pkg, no README",docs+layering
+Architecture clarity,Low,"flat, leaky, god-module, core+ext mixed",layered package
+Testing maturity,Critical-low,0 tests on new pipeline,regression+unit suite
+Maintainability,Low-Med,"hardcoded constants/division, manual orchestration",config+orchestrator
+Scalability,Med (core) / Low (ext),core 6-div ready; ext MAS-hardcoded,parametrize ext
+Operational supportability,Low,no logging/CLI/runbook,ops guide+logging
+Reproducibility,High,"deterministic, backward-compatible, SHA-256 across 28 steps",preserve via CI

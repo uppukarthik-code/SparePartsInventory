@@ -1,0 +1,7 @@
+# Railway Platform v1.0 — preserve byte-exact content for the SHA-256-pinned
+# regression baseline. Disabling EOL normalization guarantees a fresh clone
+# reproduces the golden hashes (railway/tests/regression/golden_output_manifest.csv).
+* -text
+*.pbix binary
+*.xlsx binary
+*.ipynb -text

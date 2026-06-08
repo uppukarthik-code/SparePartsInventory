@@ -1,0 +1,11 @@
+KPI,Value,Universe
+Strategic Inventory Value (Normalized),85663635.52,Strategic
+Operational Inventory Value,81817770.4,Operational
+Annual Issue Value,161374751.65,Strategic
+Procurement Required Value,473115370.05,Strategic
+Dead Stock Value,3250954.8,Operational
+Slow Moving Value,8993252.29,Operational
+Inventory Turn Risk %,14.97,Operational
+Inventory Concentration Index,82.42,Strategic
+High Confidence Forecast %,37.29,Strategic
+Data Quality Impact,6133228353.09,Meta

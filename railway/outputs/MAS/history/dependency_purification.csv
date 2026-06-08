@@ -1,0 +1,14 @@
+Package,Imports_in_railway,v1.0_Required,Disposition
+pandas,>0,Yes,RETAIN (pin)
+numpy,>0,Yes,RETAIN (pin)
+scipy,2,Yes,RETAIN (pin)
+statsmodels,1,Yes,RETAIN (pin)
+pulp,1,Yes,RETAIN (pin)
+matplotlib,notebooks,Yes (notebooks),RETAIN (pin)
+seaborn,0 (railway); notebooks use it,notebooks only,MOVE to requirements-notebooks
+openpyxl,raw zip used instead,No (zip+xml reader),OPTIONAL
+scikit-learn,0,No,REMOVE (Walmart-era)
+prophet,0,No,REMOVE (Walmart-era)
+plotly,0,No,REMOVE (Walmart-era)
+jupyter/jupyterlab/ipywidgets,notebooks,dev only,MOVE to dev extras
+pyproject.toml,absent,Yes,ADD (pin + extras)

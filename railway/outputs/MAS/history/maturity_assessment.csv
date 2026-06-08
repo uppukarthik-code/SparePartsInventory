@@ -1,0 +1,11 @@
+Dimension,Before_STEP20,After_STEP27,Delta
+Demand Planning,1,4,3
+Forecasting,1,4,3
+Lead Time,0,3,3
+Inventory Visibility,1,4,3
+Criticality,1,3,2
+Safety Stock,0,4,4
+ROP,0,4,4
+Prioritization (SRRS),1,4,3
+Dashboard Readiness,0,3,3
+Enterprise Rollout Readiness,0,2,2

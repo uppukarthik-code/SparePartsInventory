@@ -1,0 +1,5 @@
+Scenario,Budget,Items_Funded,Procurement_Coverage_Pct,Remaining_Gap,Criticality_Coverage_Pct,Service_Risk_Coverage_Pct
+Rs 50 Lakh,5000000.0,11,1.03,468261544.38,0.47,2.91
+Rs 1 Crore,10000000.0,9,2.11,463152339.86,2.19,19.17
+Rs 2 Crore,20000000.0,13,4.22,453155224.9,4.22,20.7
+Rs 5 Crore,50000000.0,16,10.54,423247304.49,12.71,57.1

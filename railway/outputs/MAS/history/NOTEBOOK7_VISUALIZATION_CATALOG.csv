@@ -1,0 +1,24 @@
+Section,Chart_Type,Visualization,Business_Question,Dataset
+S2,diagram,architecture evolution core->extension->hardening,How is the platform built?,active_dependency_map
+S3,bar,source/PL/timeline coverage,What data powers the platform?,monthly_demand_history
+S4,line,54-month aggregate demand history,How does MAS consume inventory?,monthly_demand_history
+S4,hist,intermittency distribution,How intermittent is demand?,demand_classification
+S5,bar,forecast method mix SBA/TSB/Croston/Holt,Which methods fit?,forecast_results
+S5,scatter,ADI vs CV2 SBC quadrants,How forecastable is the universe?,demand_classification
+S5,bar,demand-class mix,What demand patterns dominate?,demand_classification
+S6,hist,lead-time distribution,What drives replenishment delay?,lead_time_master
+S6,bar,LT source mix PO vs Reqn,Where do lead times come from?,lead_time_master
+S7,bar,Critical vs Non-Critical split,How much is operationally critical?,rop_results
+S8,hist,safety-stock distribution,What drives buffers?,safety_stock_results
+S8,bar,SS critical vs non-critical mean,Does criticality drive SS?,safety_stock_results
+S9,pie,stock-status distribution 465 critical,What should be reordered?,rop_results
+S9,barh,top-15 reorder gaps,Which items are most short?,rop_results
+S10,line,SRRS Pareto/Lorenz top-10=84.5%,Where is service risk concentrated?,srss_results
+S10,barh,Top-20 SRRS items,Who are the priority items?,srss_results
+S11,barh,top capital exposure gap value,Where is capital at risk?,srss_results
+S12,bar,5-tier portfolio PL count + SRRS%,What to procure first?,procurement_portfolio
+S12,scatter,risk vs value quadrant,Risk-value segmentation?,srss_results
+S13,bar,readiness/maturity progression,What was achieved?,platform_scorecard
+S14,barh,scorecard current vs target,Can it be maintained?,platform_scorecard
+S15,scorecard,L1 KPI cards + risk heatmap,Executive decision support,executive_kpi_framework
+S16,barh,TPJ readiness matrix READY/MINOR/MAJOR,What blocks TPJ?,tpj_onboarding_readiness

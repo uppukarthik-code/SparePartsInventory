@@ -1,0 +1,4 @@
+Option,Maintainability,Duplication,Executive_use,Engineering_use,TPJ_support,GitHub_presentation,Verdict
+A: master+executive+technical,High,Low (one engine),Excellent,Excellent,Strong,Excellent,RECOMMENDED
+B: master+executive,High,Low,Excellent,Medium (no deep-dive),Medium,Good,second
+C: single notebook,Medium,None,Crowded,Crowded,Weak,Medium,no (mixes audiences)

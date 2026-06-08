@@ -1,0 +1,7 @@
+Method,Required_Fields,Coverage_Pct,Reliability_Pct,Feasible,Comments
+PO->Receipt,PO/Contract Date + Receipt Date,47.8,100.0,Yes,Vendor procurement LT. 1555 obs across 518 PLs; median 119d; 0 negatives. FEASIBLE.
+Reqn(Demand/Indent)->Receipt,Reqn Date + Receipt Date,22.5,100.0,Yes,Internal fulfilment LT. 1276 obs across 244 PLs; median 49.0d; 0 negatives. FEASIBLE.
+Combined (PO or Reqn)->Receipt,PO Date or Reqn Date + Receipt Date,64.8,100.0,Yes,Union of vendor + internal paths -> 702 PLs (64.8% of demand universe).
+Challan(Dispatch)->Receipt,Challan Date + Receipt Date,47.8,-,No,"Measures transit time only (dispatch->receipt), not full procurement lead time."
+DBR->Receipt,DBR Date + Receipt Date,~72.1,-,No,DBR date ~ receipt posting date -> ~0 interval; not a lead time.
+Demand(Issue)->Receipt,Issue date + next Receipt date,-,-,No,"Replenishment/inter-event interval, not a procurement lead time; demand does not equal an order."
