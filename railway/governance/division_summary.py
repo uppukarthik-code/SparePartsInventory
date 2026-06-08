@@ -26,6 +26,7 @@ import pandas as pd
 
 from railway import railway_config as cfg
 from railway.governance import config as gcfg
+from railway.governance import enterprise_allocation as _ea
 
 PLATFORM_VERSION = "Railway Inventory Planning Platform v1.0 (STEP1-28 + Hardening A/B)"
 PIPELINE_VERSION = "STEP1-19 core + STEP20-28 MAS extension"
@@ -253,6 +254,57 @@ def main(argv=None):
         print(f"[warn] division '{args.division}' has no planning outputs yet (data-blocked); nothing to report.")
         return None
     return run(args.division)
+
+
+# ---------------------------------------------------------------- STEP35-OPT Phase H: Enterprise Board KPIs
+
+def _budget_for_target(frontier, target_pct):
+    """Smallest budget (rupees) whose risk-reduction % >= target*100, by linear
+    interpolation between bracketing FINITE frontier levels. None if unreachable."""
+    fin = frontier[frontier["Budget_Label"] != "Unlimited"].reset_index(drop=True)
+    tgt = target_pct * 100.0
+    prev_b, prev_r = 0.0, 0.0
+    for _, row in fin.iterrows():
+        b = float(row["Budget_Rupees"]); r = float(row["Risk_Reduction_Pct"])
+        if r >= tgt:
+            if r == prev_r:
+                return round(b, 2)
+            frac = (tgt - prev_r) / (r - prev_r)
+            return round(prev_b + frac * (b - prev_b), 2)
+        prev_b, prev_r = b, r
+    return None
+
+
+def enterprise_kpis() -> dict:
+    """Board-level KPIs derived from the STEP35-OPT frontier/efficiency outputs."""
+    frontier = _ea.build_risk_reduction_frontier(write=False)
+    efficiency = _ea.build_budget_efficiency_analysis(frontier=frontier, write=False)
+    opt_df = _ea.load_enterprise_opt()
+    pr = opt_df[opt_df["Inventory_Status"] == "Procurement Required"]
+    tier1 = pr[pr["Criticality"].isin(cfg.SAFETY_RESERVE_CRITICALITIES)]
+    knee = efficiency[efficiency["Is_Knee_Point"]]
+    optimal = knee["Budget_Label"].iloc[0] if not knee.empty else "n/a"
+    unlim = frontier.iloc[-1]
+    ent_eff = (float(unlim["SRRS_Mitigated"]) / float(unlim["Budget_Utilized"])
+               if float(unlim["Budget_Utilized"]) > 1e-9 else 0.0)
+    return {
+        "Budget_For_50pct_Risk_Reduction": _budget_for_target(frontier, 0.50),
+        "Budget_For_75pct_Risk_Reduction": _budget_for_target(frontier, 0.75),
+        "Budget_For_90pct_Risk_Reduction": _budget_for_target(frontier, 0.90),
+        "Enterprise_Capital_Efficiency": round(ent_eff, 8),
+        "Optimal_Investment_Point": optimal,
+        "Tier1_Funding_Requirement": round(float(tier1["Inventory_Investment_Required"].sum()), 2),
+        "Max_Achievable_Risk_Reduction_Pct": round(float(unlim["Risk_Reduction_Pct"]), 4),
+    }
+
+
+def build_enterprise_decision_dashboard(write: bool = True):
+    kpis = enterprise_kpis()
+    dash = pd.DataFrame([{"KPI": k, "Value": v} for k, v in kpis.items()])
+    if write:
+        cfg.ensure_output_dirs()
+        dash.to_csv(cfg.OUTPUT_DIR / "enterprise_decision_dashboard.csv", index=False)
+    return dash
 
 
 if __name__ == "__main__":

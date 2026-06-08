@@ -146,6 +146,15 @@ def test_allocation_readiness_classifies_divisions():
             assert r["Status"] == "DATA_UNAVAILABLE"
 
 
+def test_enterprise_decision_dashboard_kpis():
+    from railway.governance import division_summary as ds
+    dash = ds.build_enterprise_decision_dashboard(write=False)
+    kpis = set(dash["KPI"])
+    assert {"Budget_For_50pct_Risk_Reduction", "Budget_For_75pct_Risk_Reduction",
+            "Budget_For_90pct_Risk_Reduction", "Enterprise_Capital_Efficiency",
+            "Optimal_Investment_Point", "Tier1_Funding_Requirement"} <= kpis
+
+
 def test_build_procurement_roadmap_from_live_outputs():
     rm = ea.build_procurement_roadmap(write=False)
     assert list(rm["Year"]) == cfg.ROADMAP_YEARS
