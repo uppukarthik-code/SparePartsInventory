@@ -1,0 +1,16 @@
+check,expected,actual,status
+tests_collected,648,648,PASS
+tests_passed,647,647,PASS
+tests_failed,0,0,PASS
+tests_skipped,1,1,PASS
+notebook_railway_loads,yes,"36 cells",PASS
+notebook_railway_executive_loads,yes,"20 cells",PASS
+notebook_railway_technical_loads,yes,"18 cells",PASS
+governance_modules_load,yes,"division_summary + enterprise_allocation + config.divisions import OK",PASS
+optimization_executes,yes,"frontier 9 rows; max risk reduction 100.0%",PASS
+reporting_executes,yes,"SoT == executive == management KPIs consistent",PASS
+manifest_integrity_gate,pass,"manifest integrity OK",PASS
+merge_type,--no-ff,"merge commit 396c523",PASS
+main_topology,linear (main->step35-opt->step36),"single chain, no divergence",PASS
+step35opt_contained_in_main,yes,yes,PASS
+step36_contained_in_main,yes,yes,PASS
