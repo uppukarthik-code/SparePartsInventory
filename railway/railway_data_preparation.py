@@ -7,7 +7,9 @@ Two independent business domains are loaded here but **never merged**:
 
   * Strategic  : raw_data/railways.xlsx
                  -> railway_demand_history.csv  (the Step-2 deliverable)
-  * Operational: raw_data/railway_stock_summary.xlsx
+  * Operational: raw_data/Railway_Operations/<DIV>/SUMMARY OF STOCK HELD*.xlsx
+                 (per-division current-stock snapshots; STEP37 source of truth,
+                  replacing the retired consolidated railway_stock_summary.xlsx)
                  -> in-memory frame consumed later by railway_operational_analysis.py
 
 Design notes
@@ -156,7 +158,7 @@ def build_demand_history(write: bool = True) -> pd.DataFrame:
 
 
 # ======================================================================
-# OPERATIONAL DOMAIN  (railway_stock_summary.xlsx -- corrupt stylesheet)
+# OPERATIONAL DOMAIN  (per-division SUMMARY OF STOCK HELD*.xlsx -- corrupt stylesheet)
 # ======================================================================
 def _xlsx_rows_via_xml(path, sheet_xml="xl/worksheets/sheet1.xml"):
     """Yield row dicts {col_index: value} from a single-sheet xlsx via raw OOXML.
@@ -167,15 +169,17 @@ def _xlsx_rows_via_xml(path, sheet_xml="xl/worksheets/sheet1.xml"):
     yield from excel_reader.iter_sheet_rows(path, sheet_xml)
 
 
-def load_operational_stock() -> pd.DataFrame:
-    """Load railway_stock_summary.xlsx (907 depot items) for the operational pipeline.
+def _operational_records_from_summary(path) -> list:
+    """Operational records from ONE per-division SUMMARY OF STOCK HELD workbook.
 
-    Composite columns are split: PL-Code from 'PL-Code/Type/Usage', and the
-    'Last Receipt/Issue Dt.' field into receipt / issue tokens (DD-MM-YYYY).
+    Native SUMMARY layout (0-based): Depot=2, PL/Type=4, Description=6,
+    Last Receipt/Issue Dt.=7, Stock=8, Unit=9, Average Rate=11, Value=12.
+    (The retired railway_stock_summary.xlsx carried rate/value at 12/13 because
+    its one-off builder remapped 11->12, 12->13; SUMMARY is read at its native
+    positions instead.)
     """
-    rows = list(_xlsx_rows_via_xml(cfg.OPERATIONAL_WORKBOOK))
     recs = []
-    for cells in rows[1:]:                          # skip header row
+    for cells in excel_reader.read_sheet_rows(path)[1:]:    # skip header row
         pl_raw = cells.get(4)
         if not pl_raw:
             continue
@@ -189,12 +193,29 @@ def load_operational_stock() -> pd.DataFrame:
             "Description": _clean_str(cells.get(6)),
             "Current_Stock": _to_num(cells.get(8)),
             "Unit": _clean_str(cells.get(9)),
-            "Unit_Cost": _to_num(cells.get(12)),
-            "Inventory_Value": _to_num(cells.get(13)),
+            "Unit_Cost": _to_num(cells.get(11)),           # SUMMARY native: Average Rate
+            "Inventory_Value": _to_num(cells.get(12)),     # SUMMARY native: Value
             "Last_Receipt_Date": receipt or None,
             "Last_Issue_Date": issue or None,
-            "Depot": _clean_str(cells.get(2)),          # Consignee Depot (operational lineage)
+            "Depot": _clean_str(cells.get(2)),             # Consignee Depot (operational lineage)
         })
+    return recs
+
+
+def load_operational_stock() -> pd.DataFrame:
+    """Operational stock frame from the per-division SUMMARY OF STOCK HELD files.
+
+    STEP37: the consolidated railway_stock_summary.xlsx is retired. The operational
+    universe is now the concatenation of every live division's current-stock
+    snapshot, read at SUMMARY's native column positions. Each row carries its
+    Consignee Depot, so the multi-Business-Unit runner still partitions by depot.
+    """
+    from railway.governance.config import divisions as _div
+    recs = []
+    for d in _div.live_divisions():
+        p = _div.summary_workbook(d)
+        if p.exists():
+            recs.extend(_operational_records_from_summary(p))
     return pd.DataFrame.from_records(recs)
 
 

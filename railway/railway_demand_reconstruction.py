@@ -25,7 +25,6 @@ Reconstruction rules (agreed STEP21A):
   * Receipts_Qty         = all 'Receipt-*' inflows.
   * Closing_Stock        = RECONSTRUCTED running balance (derived, NOT a source
     field): opening from 'Initial Stock' + cumulative (inflows - outflows).
-    Reconciled against stock_history.xlsx in validation.
   * Gap filling          = per PL, first-observed month -> 2026-06, missing months
     zero-filled (continuous monthly timeline).
 
@@ -217,25 +216,6 @@ def build_summary(hist):
             "CV": (round(cv, 4) if not np.isnan(cv) else np.nan),
         })
     return pd.DataFrame(rows)
-
-
-def _load_stock_history_snapshot():
-    """PL_Code -> Current_Stock from stock_history.xlsx (end snapshot anchor)."""
-    p = DMTR_DIR / "stock_history.xlsx"
-    if not p.exists():
-        return {}
-    out = {}
-    for row in _sheet_rows(p)[1:]:
-        plraw = row.get(4)          # 'PL-Code/Type/Usage'
-        if not plraw:
-            continue
-        pl = str(plraw).split("/")[0].strip()
-        q, _ = _parse_qty(str(row.get(8)) + "x")   # stock col; ensure regex match
-        try:
-            out[pl] = float(str(row.get(8)).replace(",", ""))
-        except Exception:
-            out[pl] = q
-    return out
 
 
 def build_quality(hist, recs, qa, global_end, mixed_uom):

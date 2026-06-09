@@ -4,7 +4,9 @@ railway_operational_analysis.py
 OPERATIONAL Inventory Pipeline -- answers "what is currently happening inside
 the stores?" (aging, dead stock, slow-moving, valuation, depot health).
 
-SOURCE: raw_data/railway_stock_summary.xlsx  ONLY.
+SOURCE: raw_data/Railway_Operations/<DIV>/SUMMARY OF STOCK HELD*.xlsx  ONLY
+  (STEP37: per-division current-stock snapshots; the consolidated
+   railway_stock_summary.xlsx is retired).
   * Loaded via the existing XML-based loader (railway_data_preparation.load_operational_stock).
   * NEVER joined with railways.xlsx -- strict source lineage preserved.
 
@@ -230,7 +232,7 @@ def run():
     write_powerbi_and_tops(df)
 
     print("=" * 80)
-    print("STEP 6 -- OPERATIONAL INVENTORY PIPELINE (railway_stock_summary.xlsx ONLY)")
+    print("STEP 6 -- OPERATIONAL INVENTORY PIPELINE (per-division SUMMARY OF STOCK HELD)")
     print("=" * 80)
     print(f"Rows: {len(df)}   Reference date: {REFERENCE_DATE}")
 

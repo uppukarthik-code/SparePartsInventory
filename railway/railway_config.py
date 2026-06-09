@@ -45,7 +45,10 @@ def ensure_output_dirs():
 # Strategic / planning domain
 STRATEGIC_WORKBOOK = RAW_DATA_DIR / "railways.xlsx"
 # Operational / visibility domain
-OPERATIONAL_WORKBOOK = RAW_DATA_DIR / "railway_stock_summary.xlsx"
+# STEP37: the consolidated railway_stock_summary.xlsx is RETIRED. The operational
+# source of truth is now the per-division SUMMARY OF STOCK HELD workbooks,
+# resolved via railway.governance.config.divisions and read by
+# railway_data_preparation.load_operational_stock().
 
 # ----- railways.xlsx sheet names (verbatim, incl. leading spaces) -----
 STRATEGIC_STOCK_SHEET = "  Stock as on 31.03.2026"      # primary modelling baseline

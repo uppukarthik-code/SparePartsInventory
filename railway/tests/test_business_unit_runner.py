@@ -70,16 +70,30 @@ def test_mas_strategic_rows(mas_run):
     assert len(p1) == 59
 
 
-def test_mas_operational_rows(mas_run):
+def test_mas_operational_page_structure(mas_run):
+    # STEP37: the operational source of truth is now the per-division SUMMARY OF
+    # STOCK HELD snapshot (the consolidated railway_stock_summary.xlsx is retired),
+    # so the operational row COUNT legitimately differs from the frozen v1.0
+    # canonical. The structural invariant must still hold: same schema, non-empty.
     p4 = pd.read_csv(mas_run / "MAS" / "powerbi" / "page4_operational_health.csv")
     canonical = pd.read_csv(CANON / "powerbi" / "page4_operational_health.csv")
-    assert len(p4) == len(canonical)   # MAS run reproduces canonical operational page (invariant, not a magic count)
+    assert list(p4.columns) == list(canonical.columns)
+    assert len(p4) > 0
 
 
-def test_mas_kpis_match_canonical(mas_run):
-    mas = pd.read_csv(mas_run / "MAS" / "powerbi" / "page0_executive_dashboard.csv").set_index("KPI")["Value"]
-    can = pd.read_csv(CANON / "powerbi" / "page0_executive_dashboard.csv").set_index("KPI")["Value"]
-    assert mas.to_dict() == can.to_dict()       # KPI values unchanged
+def test_mas_strategic_kpis_match_canonical(mas_run):
+    mas = pd.read_csv(mas_run / "MAS" / "powerbi" / "page0_executive_dashboard.csv")
+    can = pd.read_csv(CANON / "powerbi" / "page0_executive_dashboard.csv")
+    # Strategic KPIs read railways.xlsx (UNCHANGED by STEP37) -> must reproduce
+    # the canonical values exactly; this preserves the behaviour-preservation guard
+    # on the strategic pipeline.
+    strat_mas = mas[mas["Universe"] == "Strategic"].set_index("KPI")["Value"].to_dict()
+    strat_can = can[can["Universe"] == "Strategic"].set_index("KPI")["Value"].to_dict()
+    assert strat_mas == strat_can
+    # Operational KPIs now derive from the live SUMMARY source (recomputed, not
+    # frozen): assert they are produced and finite, not equal to the stale v1.0.
+    op_mas = mas[mas["Universe"] == "Operational"].set_index("KPI")["Value"].to_dict()
+    assert op_mas and all(pd.notna(v) for v in op_mas.values())
 
 
 def test_mas_enterprise_rollup_registry(mas_run):
